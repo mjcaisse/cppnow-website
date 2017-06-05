@@ -1,0 +1,52 @@
+.midpageBox {
+    margin: 0 auto;
+    width: 100%;
+    position: relative;
+    clear: both;
+}
+
+.contentBox {
+    padding: 16px;
+}
+
+@media (--mobileOnly) {
+    .contentBox {
+        padding: 8px;
+    }
+}
+
+@media (--midBreakpoint) {
+    .navBox {
+        margin-bottom: 0;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 200px;
+        height: 100%;
+    }
+    .contentBox {
+        margin-left: 200px;
+        margin-right: 0;
+        padding: 16px;
+    }
+}
+
+@media (--wideBreakpoint) {
+    .midpageBox {
+        width: 90%;
+        max-width: 1400px;
+    }
+    .navBox {
+        margin-bottom: 16px;
+        position: absolute;
+        top: 16px;
+        left: 0;
+        width: 250px;
+        height: auto;
+    }
+    .contentBox {
+        margin-left: 250px;
+        margin-right: 250px;
+        padding: 16px;
+    }
+}

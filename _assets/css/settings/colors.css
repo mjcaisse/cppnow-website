@@ -1,0 +1,15 @@
+:root {
+    --baseTextColor: #222;
+    --buttonTextColor: #fff;
+    --midGreyColor: #656565;
+
+    --primaryColor: #1abc9c;
+    --secondaryColor: #16a085;
+    --primaryTextColor: #16a085;
+
+    --lightColor: #ecf0f1;
+
+    --navBackgroundColor: #1abc9c;
+    --subnavBackgroundColor: #16a085;
+    --navTextColor: #fff;
+}

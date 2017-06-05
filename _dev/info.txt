@@ -1,0 +1,32 @@
+Files:
+https://ciere.app.box.com/files/0/f/22541149428/cppnow_drop
+
+Open Graph:
+http://ogp.me/
+
+Example site:
+https://pacificplusplus.com/
+
+Original site:
+http://cppnow.org/
+
+
+
+* Subdomain pages for each year, using DNS to redirect main page to current year
+* Single-page design with more detail in other pages
+* Homepage would show samples of more recent blog posts, providing a way to jump to a dedicated blog subpage for detailed posts.
+* Archives of slides and panel videos
+
+Photos in Clow.zip should be credited to Laurie Clow.
+2015.zip and 2016.zip are from Zoetica Ebb
+
+
+Box share:
+https://ciere.app.box.com/files/0/f/22541149428
+
+Videos:
+https://www.youtube.com/user/BoostCon
+
+https://cppnow2015.sched.com/
+http://cppnow.org/program-2016/
+http://cppnow.org/program-2017/

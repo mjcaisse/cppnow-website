@@ -1,0 +1,185 @@
+.navBox {
+    background-color: var(--subnavBackgroundColor);
+    font-size: 18px;
+}
+
+.nav {
+    display: block;
+}
+
+.navItem {
+    position: relative;
+}
+
+.navLink {
+    padding: 0 16px 0 24px;
+    border-top: 1px solid var(--subnavBackgroundColor);
+    display: block;
+    color: var(--navTextColor);
+    height: 40px;
+    line-height: 40px;
+    cursor: pointer;
+    position: relative;
+    background-color: var(--navBackgroundColor);
+
+    transition: background-color 0.2s ease-in-out;
+
+    &:before {
+        content: '';
+        display: block;
+        position: absolute;
+        top: 50%;
+        left: 8px;
+        width: 8px;
+        height: 8px;
+        margin-top: -4px;
+        border-radius: 1000px;
+        background: var(--navTextColor);
+
+        opacity: 0;
+        transform: translateX(-4px);
+        transition: opacity 0.1s ease-in-out, transform 0.1s ease-in-out;
+    }
+
+    &:focus:before {
+        opacity: 1;
+        transform: translateX(0);
+        transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+    }
+
+    &:hover {
+        background-color: color(var(--navBackgroundColor) lightness(+5%));
+    }
+
+    &:active {
+        background-color: color(var(--navBackgroundColor) lightness(-5%));
+    }
+}
+
+/* Don't put a border on the top of the first item */
+/* The border between subnav and nav items is added at the subnav level */
+.navItem:first-child .navLink {
+    border-top-width: 0;
+}
+
+.subnav {
+    border-top: 1px solid var(--subnavBackgroundColor);
+
+    & .navLink {
+        padding-left: 40px;
+        background-color: var(--subnavBackgroundColor);
+
+        &:hover {
+            background-color: color(var(--subnavBackgroundColor) lightness(+5%));
+        }
+
+        &:active {
+            background-color: color(var(--subnavBackgroundColor) lightness(-5%));
+        }
+    }
+}
+
+.navInput, .navDropdownArrow, .navDropdownOverlay {
+    display: none;
+}
+
+/* Mobile-focused hiding of submenus is available only if the browser supports media queries */
+@media (--mobileOnly) {
+    .subnav {
+        display: none;
+    }
+
+    .navDropdownArrow {
+        display: block;
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 40px;
+        height: 40px;
+        cursor: pointer;
+
+        &:before {
+            content: '';
+            display: block;
+            position: absolute;
+            top: 4px;
+            bottom: 4px;
+            left: 4px;
+            right: 4px;
+            background-color: var(--subnavBackgroundColor);
+            border-radius: 1000px;
+            background-image: url(/assets/img/theme/downarrow.svg);
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-size: 20px;
+
+            transition: background-color 0.2s ease-in-out;
+        }
+
+        &:hover:before {
+            background-color: color(var(--subnavBackgroundColor) lightness(+10%));
+        }
+    }
+
+    .navInput {
+        display: block;
+        position: absolute;
+        top: 0;
+        left: -9999px;
+        width: 1px;
+        height: 1px;
+        overflow: hidden;
+
+        &:focus ~ .navDropdownArrow:before {
+            background-color: color(var(--subnavBackgroundColor) lightness(+10%));
+        }
+    }
+
+    .navInput:checked {
+        & ~ .subnav {
+            display: block;
+        }
+
+        & ~ .navDropdownArrow {
+            background-color: var(--subnavBackgroundColor);
+
+            &:before {
+                background-color: color(var(--subnavBackgroundColor) lightness(+10%));
+                background-image: url(/assets/img/theme/closex.svg);
+            }
+        }
+    }
+}
+
+@media (--midBreakpoint) {
+    .navBox {
+        font-size: 14px;
+    }
+}
+
+@media (--wideBreakpoint) {
+    .navBox {
+        font-size: 18px;
+        background-color: transparent;
+    }
+
+    .navItem:first-child .navLink {
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+    }
+
+    .navItem:last-child .navLink {
+        border-bottom-left-radius: 8px;
+        border-bottom-right-radius: 8px;
+    }
+
+    .subnav .navItem:first-child .navLink {
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+    }
+
+    .subnav .navItem:last-child .navLink {
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
+    }
+}
