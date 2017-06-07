@@ -7,70 +7,79 @@ section: about
 
 ## About C++Now
 
-<blockquote class="quote">
-    <p class="quoteText">
+<blockquote class="quoteBox">
+    <span class="quoteBoxImage quoteBoxQuotes"></span>
+    <p class="quoteBoxText">
         If you want to hear the answer to a C++ questions, go to CppCon.<br>
         If you want to be part of finding the answer, go to C++Now.
     </p>
-    <span class="quoteAuthor">Jon Kalb</span>
-    <span class="quoteCredentials">Conference Chair CppCon, Conference Chair C++Now</span>
+    <strong class="quoteBoxAuthor">Jon Kalb</strong>
+    <span class="quoteBoxCredentials">Conference Chair CppCon, Conference Chair C++Now</span>
 </blockquote>
 
-<div class="tripReport">
-    <a href="https://mpark.github.io/trip-report/2017/05/20/cppnow-2017/">Trip Report by Michael Park</a>
-</div>
+<blockquote class="quoteBox">
+    <span class="quoteBoxImage quoteBoxAirplane"></span>
+    <a href="https://mpark.github.io/trip-report/2017/05/20/cppnow-2017/" class="quoteBoxMainLink">Trip Report by Michael Park</a>
+</blockquote>
 
-<blockquote class="quote replaceQuote">
-    <p class="quoteText">
+<blockquote class="quoteBox replaceQuote">
+    <span class="quoteBoxImage quoteBoxQuotes"></span>
+    <p class="quoteBoxText">
         Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.
     </p>
-    <span class="quoteAuthor">Aenean Donec</span>
-    <span class="quoteCredentials">Aliquam Tincidunt Mauris</span>
+    <span class="quoteBoxAuthor">Aenean Donec</span>
+    <span class="quoteBoxCredentials">Aliquam Tincidunt Mauris</span>
 </blockquote>
 
 <div class="yt"><iframe src="https://www.youtube.com/embed/QsYuEsZVy3I?color=white&rel=0" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups" allowfullscreen=""></iframe></div>
 
-<blockquote class="quote replaceQuote">
-    <p class="quoteText">
+<blockquote class="quoteBox replaceQuote">
+    <span class="quoteBoxImage quoteBoxQuotes"></span>
+    <p class="quoteBoxText">
         Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.
     </p>
-    <span class="quoteAuthor">Vulputate Pellentesque</span>
-    <span class="quoteCredentials">Aliquam Lectus</span>
+    <strong class="quoteBoxAuthor">Vulputate Pellentesque</strong>
+    <span class="quoteBoxCredentials">Aliquam Lectus</span>
 </blockquote>
 
-<div class="tripReport">
-    <a href="http://odinthenerd.blogspot.com/2017/05/cppnow-trip-report.html">Trip Report by Odin Holmes</a>
-</div>
+<blockquote class="quoteBox">
+    <span class="quoteBoxImage quoteBoxAirplane"></span>
+    <a href="http://odinthenerd.blogspot.com/2017/05/cppnow-trip-report.html" class="quoteBoxMainLink">Trip Report by Odin Holmes</a>
+</blockquote>
 
-<blockquote class="quote">
-    <p class="quoteText">
+<blockquote class="quoteBox">
+    <span class="quoteBoxImage quoteBoxQuotes"></span>
+    <p class="quoteBoxText">
         The program is the second-best part of C++Now.<br>
         If you want to know the best part, talk to an attendee.
     </p>
-    <span class="quoteAuthor">Jon Kalb</span>
-    <span class="quoteCredentials">Conference Chair CppCon, Conference Chair C++Now</span>
+    <strong class="quoteBoxAuthor">Jon Kalb</strong>
+    <span class="quoteBoxCredentials">Conference Chair CppCon, Conference Chair C++Now</span>
 </blockquote>
 
 <div class="yt"><iframe src="https://www.youtube.com/embed/kdbYLOBNguk?color=white&rel=0" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups" allowfullscreen=""></iframe></div>
 
-<blockquote class="quote replaceQuote">
-    <p class="quoteText">
+<blockquote class="quoteBox replaceQuote">
+    <span class="quoteBoxImage quoteBoxQuotes"></span>
+    <p class="quoteBoxText">
         Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.
     </p>
-    <span class="quoteAuthor">Donec Nam</span>
-    <span class="quoteCredentials">Sem Tristique Cursus</span>
+    <strong class="quoteBoxAuthor">Donec Nam</strong>
+    <span class="quoteBoxCredentials">Sem Tristique Cursus</span>
 </blockquote>
 
-<div class="tripReport">
-    <a href="http://www.elbeno.com/blog/?p=1443">Trip Report by Ben Deane</a>
-</div>
+<blockquote class="quoteBox">
+    <span class="quoteBoxImage quoteBoxAirplane"></span>
+    <a href="http://www.elbeno.com/blog/?p=1443" class="quoteBoxMainLink">Trip Report by Ben Deane</a>
+</blockquote>
 
-<blockquote class="quote replaceQuote">
-    <p class="quoteText">
+<blockquote class="quoteBox replaceQuote">
+    <span class="quoteBoxImage quoteBoxQuotes"></span>
+    <p class="quoteBoxText">
         Sed adipiscing ornare risus. Morbi est est, blandit sit amet, sagittis vel, euismod vel, velit. Pellentesque egestas sem. Suspendisse commodo ullamcorper magna.
     </p>
-    <span class="quoteAuthor">Ornare Risus</span>
-    <span class="quoteCredentials">Pellentesque Egestas Sem</span>
+    <strong class="quoteBoxAuthor">Ornare Risus</strong>
+    <span class="quoteBoxCredentials">Pellentesque Egestas Sem</span>
 </blockquote>
 
 <script>
@@ -94,5 +103,5 @@ if(document.querySelectorAll){var s=e(i),u=document.querySelectorAll(".replaceQu
 if(a>s)return
 var t
 for(t=0;a>t;t+=1){var r=s[t]
-u[t].querySelector(".quoteText").innerHTML=r[0],u[t].querySelector(".quoteAuthor").innerHTML=r[1],u[t].querySelector(".quoteCredentials").innerHTML=r[2]}}}();
+u[t].querySelector(".quoteBoxText").innerHTML=r[0],u[t].querySelector(".quoteBoxAuthor").innerHTML=r[1],u[t].querySelector(".quoteBoxCredentials").innerHTML=r[2]}}}();
 </script>

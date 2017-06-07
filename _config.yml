@@ -25,6 +25,8 @@ github_username:  jekyll
 # Build settings
 destination: ./_build/_temp/
 markdown: kramdown
+kramdown:
+    smart_quotes: ["apos", "apos", "quot", "quot"]
 gems:
   - jekyll-feed
 exclude:

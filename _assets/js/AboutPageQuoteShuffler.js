@@ -43,9 +43,9 @@
         var qE;
         for (qE = 0; qE < qECount; qE += 1) {
             var quote = shuffledQuotes[qE];
-            quoteElements[qE].querySelector('.quoteText').innerHTML = quote[0];
-            quoteElements[qE].querySelector('.quoteAuthor').innerHTML = quote[1];
-            quoteElements[qE].querySelector('.quoteCredentials').innerHTML = quote[2];
+            quoteElements[qE].querySelector('.quoteBoxText').innerHTML = quote[0];
+            quoteElements[qE].querySelector('.quoteBoxAuthor').innerHTML = quote[1];
+            quoteElements[qE].querySelector('.quoteBoxCredentials').innerHTML = quote[2];
         }
     }
 }());

@@ -1,0 +1,61 @@
+.quoteBox {
+    margin: 32px 0 16px 32px;
+    padding: 32px 32px 32px 48px;
+    background-color: var(--lightColor);
+    border-radius: 16px;
+    position: relative;
+}
+
+.quoteBoxImage {
+    position: absolute;
+    top: -16px;
+    left: -32px;
+    width: 64px;
+    height: 64px;
+    border-radius: 1000px;
+    display: block;
+    background-color: var(--secondaryColor);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.quoteBoxText {
+    margin-bottom: 8px;
+    font-family: serif;
+    font-size: 28px;
+}
+
+.quoteBoxMainLink {
+    font-size: 28px;
+}
+
+.quoteBoxAuthor {
+    display: block;
+    font-size: 18px;
+    text-align: right;
+    font-weight: bold;
+}
+
+.quoteBoxCredentials {
+    display: block;
+    font-size: 18px;
+    text-align: right;
+    color: var(--midGreyColor);
+}
+
+.quoteBoxRightLink {
+    display: block;
+    font-size: 18px;
+    text-align: right;
+}
+
+.quoteBoxQuotes {
+    background-image: url(/assets/img/theme/quote.svg);
+    background-size: 32px;
+}
+
+.quoteBoxAirplane {
+    background-image: url(/assets/img/theme/airplane.svg);
+    background-size: 32px;
+}

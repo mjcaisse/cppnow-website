@@ -44,21 +44,21 @@ No, please bring your own or arrange with the program committee to get access to
 
 Do I have to use PowerPoint?
 
-No. OpenOffice.org’s Impress and Apple’s Keynote are popular alternatives.
+No. OpenOffice.org's Impress and Apple's Keynote are popular alternatives.
 
 
 
 What are some of the elements of a good presentation?
 
-Take a look at Doug Gregor’s Google Tech Talk presentation at http://video.google.com/videoplay?docid=-1790714981047186825
+Take a look at Doug Gregor's Google Tech Talk presentation at http://video.google.com/videoplay?docid=-1790714981047186825
 Suggestions from experienced presenters include:
 
 * Think about who your audience is, and target your talk toward the middle of that audience. Boost users, for example, are C++-literate and can be assumed to know about Boost in general, so concentrate on the Boost library you are presenting.
-* Your audience can read, so don’t just stand there and read your slides to them. Explain the bullet points or code examples on your slides. Give the rationale behind the design. Relate new material to things they are already familiar with.
+* Your audience can read, so don't just stand there and read your slides to them. Explain the bullet points or code examples on your slides. Give the rationale behind the design. Relate new material to things they are already familiar with.
 * Do include code examples; C++ programmers often understand code examples better than prose descriptions.
 * Look at your audience. Make eye contact.
 * Repeat questions from the audience before answering, particularly with a larger audience where not everyone may be able to hear other audience members.
-* Don’t just tell your audience what something is, tell them how to use it themselves. Show them real code.
+* Don't just tell your audience what something is, tell them how to use it themselves. Show them real code.
 * Involve your audience; ask them questions.
 
 
@@ -85,7 +85,7 @@ It depends on the amount of detail on each slide, the amount of time allowed for
 
 Can I compile/run stuff, or must everything be on slides?
 
-Running compiles or demos can add interest, but be very sure the app will work! Live demos are notorious failure points. There is nothing sadder that attending a presentation designed around a live demo that the presenter can’t get working.
+Running compiles or demos can add interest, but be very sure the app will work! Live demos are notorious failure points. There is nothing sadder that attending a presentation designed around a live demo that the presenter can't get working.
 
 
 

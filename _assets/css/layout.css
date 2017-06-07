@@ -49,4 +49,8 @@
         margin-right: 250px;
         padding: 16px;
     }
+    .contentBoxSchedule {
+        margin-right: 0;
+        max-width: 970px;
+    }
 }
