@@ -1,11 +1,9 @@
 ---
 layout: page
-title: FAQ
+title: Frequently Asked Questions
 permalink: /about/faq/
 section: about
 ---
-
-## Frequently Asked Questions
 
 [Attendee FAQ](#attendee-faq) • [Submitter FAQ](#submitter-faq) • [Speaker FAQ](#speaker-faq)
 

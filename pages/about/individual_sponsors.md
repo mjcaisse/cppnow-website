@@ -5,8 +5,6 @@ permalink: /about/individual_sponsors/
 section: about
 ---
 
-## Individual Sponsors
-
 For individuals, C++Now offers the Boost Scholarship Sponsorship in support of the Boost Scholarship Fund. [Corporate Sponsorships](/about/corporatesponsors/) are also available.
 
 ### Gold Scholarship Sponsors

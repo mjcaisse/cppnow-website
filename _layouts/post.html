@@ -1,0 +1,36 @@
+{% include topMatter.html %}
+
+{% include topBanner.html %}
+
+{% include pageHeader.html %}
+
+<div class="midpageBox">
+
+    {% include nav.html %}
+
+    <div class="contentBox">
+        <div class="postHeader">
+            <h2 class="postTitle"><a href="{{ page.url }}" class="postTitleLink">{{ page.title }}</a></h2>
+            <div class="postDate">{{ page.date | date: "%B %-d, %Y" }}</div>
+        </div>
+
+        <div class="formattedTags">
+            {{ content | replace: '<!--break-->', '<a class="postReadMoreAnchor" id="read-more"></a>' }}
+        </div>
+
+        <div class="postAdjacentPosts">
+            <div class="postAdjacentPostsNext">
+                {% if page.next.url %}
+                    <div class="greyText">« Newer</div>
+                    <a href="{{ page.next.url }}" class="a">{{ page.next.title }}</a>
+                {% endif %}
+            </div>
+            <div class="postAdjacentPostsPrevious">
+                {% if page.previous.url %}
+                    <div class="greyText">Older »</div>
+                    <a href="{{ page.previous.url }}" class="a">{{ page.previous.title }}</a>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,12 +1,13 @@
-.quoteBox {
+.quoteBox.quoteBox {
     margin: 32px 0 16px 32px;
     padding: 32px 32px 32px 48px;
     background-color: var(--lightColor);
     border-radius: 16px;
+    font-family: sans-serif;
     position: relative;
 }
 
-.quoteBoxImage {
+.quoteBoxImage.quoteBoxImage {
     position: absolute;
     top: -16px;
     left: -32px;
@@ -20,42 +21,42 @@
     background-size: cover;
 }
 
-.quoteBoxText {
+.quoteBoxText.quoteBoxText {
     margin-bottom: 8px;
     font-family: serif;
     font-size: 28px;
 }
 
-.quoteBoxMainLink {
+.quoteBoxMainLink.quoteBoxMainLink {
     font-size: 28px;
 }
 
-.quoteBoxAuthor {
+.quoteBoxAuthor.quoteBoxAuthor {
     display: block;
     font-size: 18px;
     text-align: right;
     font-weight: bold;
 }
 
-.quoteBoxCredentials {
+.quoteBoxCredentials.quoteBoxCredentials {
     display: block;
     font-size: 18px;
     text-align: right;
     color: var(--midGreyColor);
 }
 
-.quoteBoxRightLink {
+.quoteBoxRightLink.quoteBoxRightLink {
     display: block;
     font-size: 18px;
     text-align: right;
 }
 
-.quoteBoxQuotes {
+.quoteBoxQuotes.quoteBoxQuotes {
     background-image: url(/assets/img/theme/quote.svg);
     background-size: 32px;
 }
 
-.quoteBoxAirplane {
+.quoteBoxAirplane.quoteBoxAirplane {
     background-image: url(/assets/img/theme/airplane.svg);
     background-size: 32px;
 }

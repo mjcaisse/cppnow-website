@@ -10,6 +10,7 @@
 @import 'components/topBanner';
 @import 'components/homeHeader';
 @import 'components/pageHeader';
+@import 'components/post';
 @import 'components/quoteBox';
 @import 'components/sponsors';
 

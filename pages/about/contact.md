@@ -5,8 +5,6 @@ permalink: /about/contact/
 section: about
 ---
 
-## Contact
-
 ### Conference Contact Emails
 
 * [organizers@cppnow.org](mailto:organizers@cppnow.org) - Conference Organizers

@@ -5,8 +5,6 @@ permalink: /location/dining/
 section: location
 ---
 
-## Dining
-
 ### Planned Conference Events
 
 There are several social events with food served during the conference, including:

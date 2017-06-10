@@ -5,8 +5,6 @@ permalink: /location/lodging/
 section: location
 ---
 
-## Lodging
-
 The conference hotel is the [Aspen Meadows Resort](https://www.aspenmeadows.com/). This Bauhaus-inspired resort lies on 40 acres overlooking the Roaring Fork River. Surrounded by bike paths, walking trails, and mountain views, the resort is home to the [Aspen Institute](https://www.aspeninstitute.org/), an international nonprofit organization dedicated to fostering dialogue on global concerns. Hotel amenities include a health club that offers a range of workout equipment, a half-court gym, steam rooms, and an outdoor pool and spa tub. Complimentary wireless internet access is provided throughout the resort. A business center provides complimentary services such as computer use, scanning, copying, and printing.
 
 The [Aspen Meadows Resort](https://www.aspenmeadows.com/) is approximately a block from the [Aspen Center for Physics](https://www.aspenphys.org/) and ten blocks from downtown Aspen. Many visitors find it a very pleasant walk, but the resort also runs a complimentary shuttle into town daily.

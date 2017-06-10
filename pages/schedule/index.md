@@ -5,8 +5,6 @@ permalink: /schedule/
 section: schedule
 ---
 
-## Schedule
-
 <div><a id="sched-embed" href="http://cppnow2017.sched.org/">View the C++Now 2017 mobile app</a></div>
 
 <script src="http://cppnow2017.sched.org/js/embed.js"></script>

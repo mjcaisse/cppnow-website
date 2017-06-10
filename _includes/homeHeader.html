@@ -1,6 +1,6 @@
 <div class="homeHeader">
     <div class="homeHeaderTopBox">
-        <h1 class="visuallyhide">C++ Now</h1>
+        <h1 class="visuallyhide">{% if page.title != null %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</h1>
         <img src="/assets/img/theme/CppNowLogo.svg" alt="C++Now Logo" class="homeHeaderLogo">
         <div class="homeHeaderDates">
             <span class="nowrap">May 15, 2017</span> - <span class="nowrap">May 20, 2017</span>

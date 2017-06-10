@@ -1,8 +1,14 @@
 ---
 layout: home
+title: C++Now
 section: home
 ---
 
+## Home
+### Home
+#### Home
+##### Home
+###### Home
 
 content!
 

@@ -3,7 +3,9 @@ body {
     font-family: system-ui;
 }
 
-.contentBox {
+.formattedTags {
+    font-size: 18px;
+
     h1 {
         margin-bottom: 16px;
         font-size: 48px;
@@ -14,10 +16,10 @@ body {
 
     h2 {
         margin-bottom: 8px;
-        font-size: 40px;
+        font-size: 38px;
         line-height: 1.4;
         font-weight: 200;
-        color: var(--primaryColor);
+        color: var(--secondaryColor);
     }
 
     h3 {
@@ -79,11 +81,32 @@ body {
         max-width: 100%;
     }
 
+    blockquote {
+        margin-bottom: 16px;
+        padding: 8px 16px;
+        background-color: var(--lightColor);
+        border-radius: 8px;
+        font-family: serif;
+        font-size: 24px;
+
+        & p {
+            margin-bottom: 0;
+        }
+    }
+
     hr {
         margin: 16px 0;
         height: 1;
         border-bottom: 1px solid var(--primaryColor);
     }
+}
+
+.pageTitle {
+    margin-bottom: 8px;
+    font-size: 42px;
+    line-height: 1.4;
+    font-weight: 200;
+    color: var(--primaryColor);
 }
 
 .a {

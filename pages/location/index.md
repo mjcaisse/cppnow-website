@@ -5,5 +5,4 @@ permalink: /location/
 section: location
 ---
 
-## Location
-
+TODO

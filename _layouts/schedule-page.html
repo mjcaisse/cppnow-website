@@ -1,6 +1,4 @@
----
-layout: default
----
+{% include topMatter.html %}
 
 {% include topBanner.html %}
 
@@ -11,6 +9,9 @@ layout: default
     {% include nav.html %}
 
     <div class="contentBox contentBoxSchedule">
-        {{ content }}
+        <h2 class="pageTitle">{{ page.title }}</h2>
+        <div class="formattedTags">
+            {{ content }}
+        </div>
     </div>
 </div>

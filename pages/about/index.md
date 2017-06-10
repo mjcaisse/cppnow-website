@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About
+title: About C++Now
 permalink: /about/
 section: about
 ---
-
-## About C++Now
 
 <blockquote class="quoteBox">
     <span class="quoteBoxImage quoteBoxQuotes"></span>
