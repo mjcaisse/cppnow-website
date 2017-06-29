@@ -1,6 +1,9 @@
 .asset-cache
 .jekyll-metadata
 .sass-cache
-_build/_temp
-_site
-node_modules
+_temp/
+_build/_temp/
+dist/
+_site/
+node_modules/
+*.DS_Store

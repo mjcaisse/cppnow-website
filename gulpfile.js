@@ -3,37 +3,49 @@
 const _ = require('lodash');
 const browserSync = require('browser-sync').create();
 const cp = require('child_process');
-const css = require('./_build/css');
+const css = require('./build/css');
 const del = require('del');
 const gulp = require('gulp');
 const gulpWatch = require('gulp-watch');
-const html = require('./_build/html');
+const html = require('./build/html');
+const img = require('./build/img');
+const js = require('./build/js');
 const runSequence = require('run-sequence');
+const uploads = require('./build/uploads');
 
 const paths = {
-    cssSrc: './_assets/css',
-    cssMain: './_assets/css/main.css',
-    cssBuild: './_build/_temp/assets/css',
-    build: './_build',
-    buildTemp: './_build/_temp',
-    serve: './_site',
+    src: './src',
+    imgSrc: './src/_assets/img',
+    imgBuild: './_temp/assets/assets/img',
+    uploadsSrc: './src/_assets/uploads',
+    uploadsBuild: './_temp/assets/assets/uploads',
+    cssSrc: './src/_assets/css',
+    cssMain: './src/_assets/css/main.css',
+    cssBuild: './_temp/assets/assets/css',
+    jsSrc: './src/_assets/js',
+    jsBuild: './_temp/assets/assets/js',
+    allTemp: './_temp',
+    jekyllTemp: './_temp/jekyll',
+    assetsTemp: './_temp/assets',
+    dist: './dist',
+    assetsDist: './dist/assets',
 };
 
 const jekyll = process.platform === 'win32' ? 'jekyll.bat' : 'jekyll';
 
 
 
-gulp.task('cleanBuildTemp', function() {
+gulp.task('cleanTemp', function() {
     return del([
-        paths.buildTemp,
+        paths.allTemp,
     ]);
 });
 
-gulp.task('cleanSite', function() {
+gulp.task('cleanDist', function() {
     return del([
-        `${paths.serve}/**/*.*`,
-        `${paths.serve}/*.*`,
-        `${paths.serve}/*`,
+        `${paths.dist}/**/*.*`,
+        `${paths.dist}/*.*`,
+        `${paths.dist}/*`,
     ]);
 });
 
@@ -46,21 +58,83 @@ gulp.task('jekyll', (end) => {
 
 
 
-gulp.task('cssDev', () => {
-    return css({
-        src: paths.cssMain,
-        dest: paths.cssBuild,
+gulp.task('imgDev', () => {
+    return img({
+        src: `${paths.imgSrc}/**/*.*`,
+        dest: paths.imgBuild,
         hash: false,
-        minify: false,
     });
 });
 
-gulp.task('cssProd', () => {
-    return css({
+gulp.task('imgProd', () => {
+    return img({
+        src: `${paths.imgSrc}/**/*.*`,
+        dest: paths.imgBuild,
+        hash: true,
+    });
+});
+
+
+
+gulp.task('uploadsDev', () => {
+    return uploads({
+        src: `${paths.uploadsSrc}/**/*.*`,
+        dest: paths.uploadsBuild,
+        hash: false,
+    });
+});
+
+gulp.task('uploadsProd', () => {
+    return uploads({
+        src: `${paths.uploadsSrc}/**/*.*`,
+        dest: paths.uploadsBuild,
+        hash: true,
+    });
+});
+
+
+
+gulp.task('cssDev', (end) => {
+    css({
         src: paths.cssMain,
         dest: paths.cssBuild,
+        manifestBasePath: paths.assetsTemp,
+        hash: false,
+        minify: false,
+        preferHashedAssets: false,
+        preferMinifiedAssets: false,
+    }, end);
+});
+
+gulp.task('cssProd', (end) => {
+    css({
+        src: paths.cssMain,
+        dest: paths.cssBuild,
+        manifestBasePath: paths.assetsTemp,
         hash: true,
         minify: true,
+        preferHashedAssets: true,
+        preferMinifiedAssets: true,
+    }, end);
+});
+
+
+
+gulp.task('jsDev', () => {
+    return js({
+        src: `${paths.jsSrc}/**/*.js`,
+        dest: paths.jsBuild,
+        minify: false,
+        hash: false,
+    });
+});
+
+gulp.task('jsProd', () => {
+    return js({
+        src: `${paths.jsSrc}/**/*.js`,
+        dest: paths.jsBuild,
+        minify: true,
+        hash: true,
     });
 });
 
@@ -68,9 +142,10 @@ gulp.task('cssProd', () => {
 
 gulp.task('htmlDev', (end) => {
     html({
-        src: paths.buildTemp,
-        dest: paths.serve,
-        minifyHtml: false,
+        src: `${paths.jekyllTemp}/**/*.html`,
+        dest: paths.dist,
+        manifestBasePath: paths.assetsTemp,
+        minify: false,
         preferHashedAssets: false,
         preferMinifiedAssets: false,
     }, end);
@@ -78,9 +153,10 @@ gulp.task('htmlDev', (end) => {
 
 gulp.task('htmlProd', (end) => {
     html({
-        src: paths.buildTemp,
-        dest: paths.serve,
-        minifyHtml: true,
+        src: `${paths.jekyllTemp}/**/*.html`,
+        dest: paths.dist,
+        manifestBasePath: paths.assetsTemp,
+        minify: true,
         preferHashedAssets: true,
         preferMinifiedAssets: true,
     }, end);
@@ -89,19 +165,30 @@ gulp.task('htmlProd', (end) => {
 
 
 gulp.task('nonHtmlMove', () => {
-    // Move everything except HTML files
-    return gulp.src([`${paths.buildTemp}/**/*.*`, `!${paths.buildTemp}/**/*.html`])
-        .pipe(gulp.dest(paths.serve));
+    return gulp.src([
+        `${paths.assetsTemp}/**/*.*`,
+        `${paths.jekyllTemp}/**/*.*`,
+        `!${paths.jekyllTemp}/**/*.html`
+    ])
+    .pipe(gulp.dest(paths.dist));
 });
 
 
 
 gulp.task('serve', () => {
     browserSync.init({
-        files: [`${paths.serve}/**/*.*`],
+        files: [
+            `${paths.dist}/**/*.*`,
+
+            // NOT dot folders/files
+            '!./.*',
+            '!./**/.*',
+        ],
+        ghostMode: false,
+        reloadDebounce: 600,
         port: 4000,
         server: {
-            baseDir: paths.serve,
+            baseDir: paths.dist,
         },
         snippetOptions: {
             rule: {
@@ -118,9 +205,10 @@ gulp.task('serve', () => {
 
 gulp.task('dev', (end) => {
     runSequence(
-        ['cleanBuildTemp', 'cleanSite'],
+        ['cleanTemp', 'cleanDist'],
         'jekyll',
-        'cssDev',
+        ['imgDev', 'uploadsDev'],
+        ['cssDev', 'jsDev'],
         ['htmlDev', 'nonHtmlMove'],
         end
     );
@@ -128,40 +216,55 @@ gulp.task('dev', (end) => {
 
 gulp.task('prod', (end) => {
     runSequence(
-        ['cleanBuildTemp', 'cleanSite'],
+        ['cleanTemp', 'cleanDist'],
         'jekyll',
-        'cssProd',
+        ['imgProd', 'uploadsProd'],
+        ['cssProd', 'jsProd'],
         ['htmlProd', 'nonHtmlMove'],
-        'cleanBuildTemp',
+        'cleanTemp',
         end
     );
 });
 
-
-
 gulp.task('jekyllWatch', () => {
     return gulpWatch([
         // All markdown and HTML
-        './**/*.md',
-        './**/*.markdown',
-        './**/*.html',
-        './**/*.htm',
+        `${paths.src}/**/*.md`,
+        `${paths.src}/**/*.markdown`,
+        `${paths.src}/**/*.html`,
+        `${paths.src}/**/*.htm`,
 
-        // Any asset file changes
-        './assets/**/*.*',
-
-        // Except...
-        // dot folders/files
-        '!./.*/**/*.*',
-
-        // The temp build location
-        `!${paths.buildTemp}/**/*.*`,
-
-        // The serve location
-        `!${paths.serve}/**/*.*`,
+        // NOT dot folders/files
+        '!./.*',
+        '!./**/.*',
     ], () => {
         runSequence(
             'jekyll',
+            'htmlDev',
+            () => {}
+        );
+    });
+});
+
+gulp.task('imgWatch', () => {
+    return gulpWatch([
+        `${paths.imgSrc}/**/*.*`,
+    ], () => {
+        runSequence(
+            'imgDev',
+            'cssDev',
+            'htmlDev',
+            () => {}
+        );
+    });
+});
+
+gulp.task('uploadsWatch', () => {
+    return gulpWatch([
+        `${paths.uploadsSrc}/**/*.*`,
+    ], () => {
+        runSequence(
+            'uploadsDev',
             'htmlDev',
             () => {}
         );
@@ -174,17 +277,49 @@ gulp.task('cssWatch', () => {
     ], () => {
         runSequence(
             'cssDev',
+            'htmlDev',
+            () => {}
+        );
+    });
+});
+
+gulp.task('jsWatch', () => {
+    return gulpWatch([
+        `${paths.jsSrc}/**/*.js`,
+    ], () => {
+        runSequence(
+            'jsDev',
+            'htmlDev',
+            () => {}
+        );
+    });
+});
+
+gulp.task('nonHtmlMoveWatch', () => {
+    return gulpWatch([
+        `${paths.assetsTemp}/**/*.*`,
+        `${paths.jekyllTemp}/**/*.*`,
+        `!${paths.jekyllTemp}/**/*.html`,
+
+        // NOT dot folders/files
+        '!./.*',
+        '!./**/.*',
+        '!./**/.DS_Store',
+    ], () => {
+        runSequence(
             'nonHtmlMove',
             () => {}
         );
     });
 });
 
+
+
 gulp.task('watch', (end) => {
     runSequence(
         'dev',
         'serve',
-        ['jekyllWatch', 'cssWatch'],
+        ['jekyllWatch', 'imgWatch', 'uploadsWatch', 'cssWatch', 'jsWatch', 'nonHtmlMoveWatch'],
         end
     );
 });
