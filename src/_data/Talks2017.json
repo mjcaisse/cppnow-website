@@ -1,0 +1,512 @@
+[
+    {
+        "title": "Rust: Hack Without Fear!",
+        "speakers": "Niko Matsakis",
+        "date": "May 16, 2017",
+        "time": "9:00AM - 10:30AM",
+        "room": "Paepcke Auditorium",
+        "slides": "",
+        "sched": "https://cppnow2017.sched.com/event/ANuD/rust-hack-without-fear",
+        "youtube": "lO1z-7cuRYI"
+    },
+    {
+        "title": "C++17 Features",
+        "speakers": "Bryce Adelstein Lelbach",
+        "date": "May 16, 2017",
+        "time": "11:00AM - 12:30PM",
+        "room": "Flug Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-16-2017_tuesday/cpp17_features__bryce_adelstein_lelbach__cppnow_05-16-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8IS/c17-features",
+        "youtube": "LvwXJjRQfHk"
+    },
+    {
+        "title": "Rethinking Strings",
+        "speakers": "Mark Zeren",
+        "date": "May 16, 2017",
+        "time": "11:00AM - 12:30PM",
+        "room": "Hudson Commons",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-16-2017_tuesday/rethinking_strings__mark_zeren__cppnow_05-16-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8Id/rethinking-strings",
+        "youtube": "OMbwbXZWtDM"
+    },
+    {
+        "title": "C++11's Quiet Little Gem: <system_error>",
+        "speakers": "Charles Bay",
+        "date": "May 16, 2017",
+        "time": "11:00AM - 12:30PM",
+        "room": "Bethe Hall",
+        "slides": "",
+        "sched": "https://cppnow2017.sched.com/event/A8IW/c11s-quiet-little-gem-ltsystemerrorgt",
+        "youtube": "w7ZVbw2X-tE"
+    },
+    {
+        "title": "Expression Templates Everywhere with C++14 and Yap",
+        "speakers": "Zach Laine",
+        "date": "May 16, 2017",
+        "time": "2:30PM - 4:00PM",
+        "room": "Flug Auditorium",
+        "slides": "",
+        "sched": "https://cppnow2017.sched.com/event/A8IV/expression-templates-everywhere-with-c14-and-yap",
+        "youtube": "VhIwDxkIsME"
+    },
+    {
+        "title": "Networking TS Workshop (part 1 of 2)",
+        "speakers": "Michael Caisse",
+        "date": "May 16, 2017",
+        "time": "2:30PM - 4:00PM",
+        "room": "Hudson Commons",
+        "slides": "",
+        "sched": "https://cppnow2017.sched.com/event/A8Ie/networking-ts-workshop-part-1-of-2",
+        "youtube": "dZdTOH9bFvs"
+    },
+    {
+        "title": "Local (\"Arena\") Memory Allocators",
+        "speakers": "John Lakos",
+        "date": "May 16, 2017",
+        "time": "2:30PM - 4:00PM",
+        "room": "Bethe Hall",
+        "slides": "",
+        "sched": "https://cppnow2017.sched.com/event/A8IZ/local-arena-memory-allocators",
+        "youtube": "CVbnjydW5M0"
+    },
+    {
+        "title": "constexpr ALL the things!",
+        "speakers": "Ben Deane and Jason Turner",
+        "date": "May 16, 2017",
+        "time": "4:30PM - 6:00PM",
+        "room": "Flug Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-16-2017_tuesday/constexpr_all_the_things__ben_deane_and_jason_turner__cppnow_05-16-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8IX/constexpr-all-the-things",
+        "youtube": "HMB9oXFobJc"
+    },
+    {
+        "title": "Networking TS Workshop (part 2 of 2)",
+        "speakers": "Michael Caisse",
+        "date": "May 16, 2017",
+        "time": "4:30PM - 6:00PM",
+        "room": "Hudson Commons",
+        "slides": "",
+        "sched": "https://cppnow2017.sched.com/event/A8If/networking-ts-workshop-part-2-of-2",
+        "youtube": "5H-hI98TYIE"
+    },
+    {
+        "title": "Containers & Strings: Why the Implementation Matters",
+        "speakers": "Barbara Geller and Ansel Sermersheim",
+        "date": "May 16, 2017",
+        "time": "4:30PM - 6:00PM",
+        "room": "Bethe Hall",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-16-2017_tuesday/containers_and_strings_why_the_implementation_matters__barbara_geller_and_ansel_sermersheim__cppnow_05-16-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8Ig/containers-strings-why-the-implementation-matters",
+        "youtube": ""
+    },
+    {
+        "title": "Haskell taketh away: limiting side effects for parallel programming",
+        "speakers": "Ryan Newton",
+        "date": "May 17, 2017",
+        "time": "9:00AM - 10:30AM",
+        "room": "Paepcke Auditorium",
+        "slides": "",
+        "sched": "https://cppnow2017.sched.com/event/AQ4h/haskell-taketh-away-limiting-side-effects-for-parallel-programming",
+        "youtube": "lC5UWG5N8oY"
+    },
+    {
+        "title": "(Ab)using C++17",
+        "speakers": "Jason Turner",
+        "date": "May 17, 2017",
+        "time": "11:00AM - 12:30PM",
+        "room": "Flug Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-17-2017_wednesday/abusing_cpp17__jason_turner__cppnow_05-17-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8IY/abusing-c17",
+        "youtube": "AqDsso3S5fg"
+    },
+    {
+        "title": "A vision for C++20 and std2 (part 1 of 3)",
+        "speakers": "Alisdair Meredith",
+        "date": "May 17, 2017",
+        "time": "11:00AM - 12:30PM",
+        "room": "Hudson Commons",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/std2_workshop/cpp20_language_features_for_std2__alisdair_meredith__cppnow_05-18-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8Ia/a-vision-for-c20-and-std2-part-1-of-3",
+        "youtube": "hizGxfDdc7M"
+    },
+    {
+        "title": "Mocking C++ (full-length version)",
+        "speakers": "Peter Bindels",
+        "date": "May 17, 2017",
+        "time": "11:00AM - 12:30PM",
+        "room": "Bethe Hall",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-17-2017_wednesday/mocking_cpp_full_length_version__peter_bindels__cppnow_05-17-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8IU/mocking-c-full-length-version",
+        "youtube": "t0wLm2iiEH0"
+    },
+    {
+        "title": "Good FIFOs Make Good Thread Neighbors",
+        "speakers": "Jonathan Beard",
+        "date": "May 17, 2017",
+        "time": "2:30PM - 4:00PM",
+        "room": "Flug Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-17-2017_wednesday/good_fifos_make_good_thread_neighbors__jonathan_beard__cppnow_05-17-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8Iz/good-fifos-make-good-thread-neighbors",
+        "youtube": "pvp-QQD0Xx0"
+    },
+    {
+        "title": "Fun with Boost.Hana",
+        "speakers": "Louis Dionne",
+        "date": "May 17, 2017",
+        "time": "2:30PM - 4:00PM",
+        "room": "Hudson Commons",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-17-2017_wednesday/fun_with_boost_hana__louis_dionne__cppnow_05-17-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8In/fun-with-boosthana",
+        "youtube": "emHnx_ZG0qc"
+    },
+    {
+        "title": "The Mathematical Underpinnings of Promises in C++",
+        "speakers": "David Sankel",
+        "date": "May 17, 2017",
+        "time": "2:30PM - 4:00PM",
+        "room": "Bethe Hall",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-17-2017_wednesday/the_mathematical_underpinnings_of_promises_in_cpp__david_sankel__cppnow_05-17-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8JA/the-mathematical-underpinnings-of-promises-in-c",
+        "youtube": "2OY0Zn3oBCE"
+    },
+    {
+        "title": "Postmodern Immutable Data Structures",
+        "speakers": "Juan Pedro Bolivar Puente",
+        "date": "May 17, 2017",
+        "time": "4:30PM - 5:15PM",
+        "room": "Flug Auditorium",
+        "slides": "",
+        "sched": "https://cppnow2017.sched.com/event/A8J0/postmodern-immutable-data-structures",
+        "youtube": "ZsryQp0UAC8"
+    },
+    {
+        "title": "Composite Arithmetic Types Are > the + of Their Parts",
+        "speakers": "John McFarlane",
+        "date": "May 17, 2017",
+        "time": "4:30PM - 5:15PM",
+        "room": "Hudson Commons",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-17-2017_wednesday/composite_arithmetic_types_are_greater_than_the_sum_of_their_parts__john_mcfarlane__cppnow_05-17-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8J2/composite-arithmetic-types-are-gt-the-of-their-parts",
+        "youtube": "1xSyUoYgSR4"
+    },
+    {
+        "title": "Multithreading Using Lockless Lists and RCU",
+        "speakers": "Ansel Sermersheim",
+        "date": "May 17, 2017",
+        "time": "4:30PM - 6:00PM",
+        "room": "Bethe Hall",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-17-2017_wednesday/multithreading_using_lockless_lists_and_rcu__ansel_sermersheim__cppnow_05-17-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8JD/multithreading-using-lockless-lists-and-rcu",
+        "youtube": "rNHLp44rMSs"
+    },
+    {
+        "title": "Type Based Template Metaprogramming is Not Dead",
+        "speakers": "Odin Holmes",
+        "date": "May 17, 2017",
+        "time": "5:20PM - 6:05PM",
+        "room": "Flug Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-17-2017_wednesday/type_based_template_metaprogramming_is_not_dead__odin_holmes__cppnow_05-17-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8Ix/type-based-template-metaprogramming-is-not-dead",
+        "youtube": "EtU4RDCCsiU"
+    },
+    {
+        "title": "An easy to use RPC framework implemented in C++11/14",
+        "speakers": "Yu Qi",
+        "date": "May 17, 2017",
+        "time": "5:20PM - 6:05PM",
+        "room": "Hudson Commons",
+        "slides": "",
+        "sched": "https://cppnow2017.sched.com/event/A8Il/an-easy-to-use-rpc-framework-implemented-in-c1114",
+        "youtube": "vh1BhlqF-fs"
+    },
+    {
+        "title": "A look at C++ through the glasses of a language tool",
+        "speakers": "Anastasia Kazakova",
+        "date": "May 18, 2017",
+        "time": "9:00AM - 9:45AM",
+        "room": "Hudson Commons",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-18-2017_thursday/a_look_at_cpp_through_the_glasses_of_a_language_tool__anastasia_kazakova__cppnow_05-18-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8Ii/a-look-at-c-through-the-glasses-of-a-language-tool",
+        "youtube": "sg3BEB6JP2c"
+    },
+    {
+        "title": "Call: A Library that Will Change the Way You Think about Function Invocations (part 1 of 2)",
+        "speakers": "Matt Calabrese",
+        "date": "May 18, 2017",
+        "time": "9:00AM - 10:30AM",
+        "room": "Flug Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-18-2017_thursday/call_a_library_that_will_change_the_way_you_think_about_function_invocations__matt_calabrese__cppnow_05-18-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/ARYz/call-a-library-that-will-change-the-way-you-think-about-function-invocations-part-1-of-2",
+        "youtube": "Fjw7NjndQ50"
+    },
+    {
+        "title": "Sorting in less than O(n log n): Generalizing and optimizing radix sort",
+        "speakers": "Malte Skarupke",
+        "date": "May 18, 2017",
+        "time": "9:00AM - 10:30AM",
+        "room": "Bethe Hall",
+        "slides": "",
+        "sched": "https://cppnow2017.sched.com/event/A8Ip/sorting-in-less-than-on-log-n-generalizing-and-optimizing-radix-sort",
+        "youtube": "zqs87a_7zxw"
+    },
+    {
+        "title": "Boost vs Qt: What Could They Learn From Each Other?",
+        "speakers": "Jens Weller",
+        "date": "May 18, 2017",
+        "time": "9:50AM - 10:35AM",
+        "room": "Hudson Commons",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-18-2017_thursday/boost_vs_qt_what_could_they_learn_from_each_other__jens_weller__cppnow_05-18-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8J5/boost-vs-qt-what-could-they-learn-from-each-other",
+        "youtube": "NcdlX3fIpc0"
+    },
+    {
+        "title": "Call: A Library that Will Change the Way You Think about Function Invocations (part 2 of 2)",
+        "speakers": "Matt Calabrese",
+        "date": "May 18, 2017",
+        "time": "11:00AM - 12:30PM",
+        "room": "Flug Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-18-2017_thursday/call_a_library_that_will_change_the_way_you_think_about_function_invocations__matt_calabrese__cppnow_05-18-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8It/call-a-library-that-will-change-the-way-you-think-about-function-invocations-part-2-of-2",
+        "youtube": "hwS0ZvkKuSQ"
+    },
+    {
+        "title": "A vision for C++20 and std2 (part 2 of 3)",
+        "speakers": "Alisdair Meredith",
+        "date": "May 18, 2017",
+        "time": "11:00AM - 12:30PM",
+        "room": "Hudson Commons",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/std2_workshop/a_vision_for_std2__alisdair_meredith__cppnow_05-17-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8Ib/a-vision-for-c20-and-std2-part-2-of-3",
+        "youtube": "fjtwfauk7a8"
+    },
+    {
+        "title": "Parallel Programming with RaftLib: streaming/data-flow concurrency via concise C++ iostream-like operators",
+        "speakers": "Jonathan Beard",
+        "date": "May 18, 2017",
+        "time": "11:00AM - 12:30PM",
+        "room": "Bethe Hall",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-18-2017_thursday/parallel_programming_with_raftlib_streaming_and_dataflow_concurrency_via_concise_cpp_iostream_like_operators__jonathan_beard__cppnow_05-18-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8Iy/parallel-programming-with-raftlib-streamingdata-flow-concurrency-via-concise-c-iostream-like-operators",
+        "youtube": "IiQ787fJgmU"
+    },
+    {
+        "title": "Postmodern C++",
+        "speakers": "Tony Van Eerd",
+        "date": "May 18, 2017",
+        "time": "2:30PM - 4:00PM",
+        "room": "Flug Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-18-2017_thursday/postmodern_cpp__tony_van_eerd__cppnow_05-18-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8Iq/postmodern-c",
+        "youtube": "GPP64opjy_Y"
+    },
+    {
+        "title": "Practical (?) Applications of Reflection",
+        "speakers": "Jackie Kay",
+        "date": "May 18, 2017",
+        "time": "2:30PM - 4:00PM",
+        "room": "Hudson Commons",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-18-2017_thursday/practical_applications_of_reflection__jackie_kay__cppnow_05-18-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8J1/practical-applications-of-reflection",
+        "youtube": "JrOJ012XxNg"
+    },
+    {
+        "title": "Implementing `variant` visitation using lambdas",
+        "speakers": "Vittorio Romeo",
+        "date": "May 18, 2017",
+        "time": "2:30PM - 4:00PM",
+        "room": "Bethe Hall",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-18-2017_thursday/implementing_variant_visition_using_lambdas__vittorio_romeo__cppnow_05-18-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8Io/implementing-variant-visitation-using-lambdas",
+        "youtube": "3KyW5Ve3LtI"
+    },
+    {
+        "title": "Promises in C++: The Universal Glue for Asynchronous Programs",
+        "speakers": "David Sankel",
+        "date": "May 18, 2017",
+        "time": "4:30PM - 6:00PM",
+        "room": "Flug Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-18-2017_thursday/promises_in_cpp_the_universal_glue_for_asynchronous_programs__david_sankel__cppnow_05-18-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8J9/promises-in-c-the-universal-glue-for-asynchronous-programs",
+        "youtube": "pKMZjd9CFnw"
+    },
+    {
+        "title": "Towards Painless Testing",
+        "speakers": "Kris Jusiak",
+        "date": "May 18, 2017",
+        "time": "4:30PM - 6:00PM",
+        "room": "Hudson Commons",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-18-2017_thursday/towards_painless_testing__kris_jusiak__cppnow_05-18-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8Ih/towards-painless-testing",
+        "youtube": "NVrZjT5lW5o"
+    },
+    {
+        "title": "Testing the Limits of Allocator Awareness",
+        "speakers": "Bob Steagall",
+        "date": "May 18, 2017",
+        "time": "4:30PM - 6:00PM",
+        "room": "Bethe Hall",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-18-2017_thursday/testing_the_limits_of_allocator_awareness__bob_steagall__cppnow_05-18-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8JB/testing-the-limits-of-allocator-awareness",
+        "youtube": "fmJfKm9ano8"
+    },
+    {
+        "title": "Competitive Advantage with D",
+        "speakers": "Ali Çehreli",
+        "date": "May 19, 2017",
+        "time": "9:00AM - 10:30AM",
+        "room": "Paepcke Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-19-2017_friday/competitive_advantage_with_d__ali_cehreli__cppnow_05-19-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/AODJ/competitive-advantage-with-d",
+        "youtube": "vYEKEIpM2zo"
+    },
+    {
+        "title": "Effective CMake",
+        "speakers": "Daniel Pfeifer",
+        "date": "May 19, 2017",
+        "time": "11:00AM - 12:30PM",
+        "room": "Flug Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-19-2017_friday/effective_cmake__daniel_pfeifer__cppnow_05-19-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8J6/effective-cmake",
+        "youtube": "bsXLMQ6WgIk"
+    },
+    {
+        "title": "Restoring Your Sanity: An Approach to Dealing with Reference Types in the Generic Programming Paradigm",
+        "speakers": "Matt Calabrese",
+        "date": "May 19, 2017",
+        "time": "11:00AM - 12:30PM",
+        "room": "Hudson Commons",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-19-2017_friday/restoring_your_sanity_an_approach_to_dealing_with_reference_types_in_the_generic_programming_paradigm__matt_calabrese__cppnow_05-19-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8Iv/restoring-your-sanity-an-approach-to-dealing-with-reference-types-in-the-generic-programming-paradigm",
+        "youtube": "hKIYbf1fsLw"
+    },
+    {
+        "title": "A vision for C++20 and std2 (part 3 of 3)",
+        "speakers": "Alisdair Meredith",
+        "date": "May 19, 2017",
+        "time": "11:00AM - 12:30PM",
+        "room": "Bethe Hall",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/std2_workshop/05-19-2017_minutes.md",
+        "sched": "https://cppnow2017.sched.com/event/A8Ic/a-vision-for-c20-and-std2-part-3-of-3",
+        "youtube": "iAAAYNKU5g0"
+    },
+    {
+        "title": "The 'Detection Idiom:' A Better Way to SFINAE",
+        "speakers": "Marshall Clow",
+        "date": "May 19, 2017",
+        "time": "2:30PM - 4:00PM",
+        "room": "Flug Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-19-2017_friday/the_detection_idiom_a_better_way_to_sfinae__marshall_clow__cppnow_05-19-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8JC/the-detection-idiom-a-better-way-to-sfinae",
+        "youtube": "U3jGdnRL3KI"
+    },
+    {
+        "title": "Locally Atomic Capabilities and How to Count Them",
+        "speakers": "Lisa Lippincott",
+        "date": "May 19, 2017",
+        "time": "2:30PM - 4:00PM",
+        "room": "Hudson Commons",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-19-2017_friday/locally_atomic_capabilities_and_how_to_count_them__lisa_lippincott__cppnow_05-19-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8Iu/locally-atomic-capabilities-and-how-to-count-them",
+        "youtube": "iNgXW09G7SQ"
+    },
+    {
+        "title": "No raw std::thread! - Live Tweet Analysis in C++",
+        "speakers": "Kirk Shoop",
+        "date": "May 19, 2017",
+        "time": "2:30PM - 4:00PM",
+        "room": "Bethe Hall",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-19-2017_friday/no_raw_std_thread_live_tweet_analysis_in_cpp__kirk_shoop__cppnow_05-19-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8Ik/no-raw-stdthread-live-tweet-analysis-in-c",
+        "youtube": "1-8gxwGN3S8"
+    },
+    {
+        "title": "C++ Core Guidelines - Modernize your C++ Code Base",
+        "speakers": "Peter Sommerlad",
+        "date": "May 19, 2017",
+        "time": "4:30PM - 6:00PM",
+        "room": "Flug Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-19-2017_friday/cpp_core_guidelines_modernize_your_cpp_code_base__peter_sommerlad__cppnow_05-19-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8Ir/c-core-guidelines-modernize-your-c-code-base",
+        "youtube": "q3WiZu8N7Tk"
+    },
+    {
+        "title": "The Holy Grail - A Hash Array Mapped Trie for C++",
+        "speakers": "Phil Nash",
+        "date": "May 19, 2017",
+        "time": "4:30PM - 6:00PM",
+        "room": "Hudson Commons",
+        "slides": "",
+        "sched": "https://cppnow2017.sched.com/event/A8Iw/the-holy-grail-a-hash-array-mapped-trie-for-c",
+        "youtube": "WT9kmIE3Uis"
+    },
+    {
+        "title": "Customization Points That Suck Less",
+        "speakers": "Michał Dominiak",
+        "date": "May 19, 2017",
+        "time": "4:30PM - 6:00PM",
+        "room": "Bethe Hall",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-19-2017_friday/customization_points_that_such_less__michal_dominiak__cppnow_05-19-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8J4/customization-points-that-suck-less",
+        "youtube": "LC7BuYeDezQ"
+    },
+    {
+        "title": "clang-useful: Building useful tools with LLVM and clang for fun and profit",
+        "speakers": "Peter Goldsborough",
+        "date": "May 19, 2017",
+        "time": "8:45AM - 10:15AM",
+        "room": "Flug Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-20-2017_saturday/clang_useful_building_useful_tools_with_llvm_and_clang_for_fun_and_profit__peter_goldsborough__cppnow_05-20-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8Ij/clang-useful-building-useful-tools-with-llvm-and-clang-for-fun-and-profit",
+        "youtube": "E6i8jmiy8MY"
+    },
+    {
+        "title": "Type-safe Programming",
+        "speakers": "Jonathan Müller",
+        "date": "May 19, 2017",
+        "time": "8:45AM - 10:15AM",
+        "room": "Hudson Commons",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-20-2017_saturday/type_safe_programming__jonathan_muller__cppnow_05-20-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8Is/type-safe-programming",
+        "youtube": "iihlo9A2Ezw"
+    },
+    {
+        "title": "CHAP: A memory analyzer for un-instrumented cores",
+        "speakers": "Tim Boddy",
+        "date": "May 19, 2017",
+        "time": "8:45AM - 10:15AM",
+        "room": "Bethe Hall",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-20-2017_saturday/chap_a_memory_analyzer_for_un_instrumented_cores__tim_boddy__cppnow_05-20-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8J3/chapa-memory-analyzer-for-un-instrumented-cores",
+        "youtube": "EZ2n3kGtVDk"
+    },
+    {
+        "title": "Performance analysis and optimization of C++ standard libraries",
+        "speakers": "Aditya Kumar and Sebastian Pop",
+        "date": "May 19, 2017",
+        "time": "10:45AM - 11:30AM",
+        "room": "Flug Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-20-2017_saturday/performance_analysis_and_optimization_of_cpp_standard_libraries__aditya_kumar_and_sebastian_pop__cppnow_05-20-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8J7/performance-analysis-and-optimization-of-c-standard-libraries",
+        "youtube": "OTCp_AkAyRQ"
+    },
+    {
+        "title": "The Lesser-Known Multicore Synchronization Primitives",
+        "speakers": "Samy Bahra",
+        "date": "May 19, 2017",
+        "time": "10:45AM - 11:30AM",
+        "room": "Hudson Commons",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-20-2017_saturday/the_lesser_known_multicore_synchronization_primitives__samy_bahra__cppnow_05-20-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8Im/the-lesser-known-multicore-synchronization-primitives",
+        "youtube": "OfTy3ymDwWE"
+    },
+    {
+        "title": "Nbdl: Generic Library for Managing State Seamlessly Across Network",
+        "speakers": "Jason Rice",
+        "date": "May 19, 2017",
+        "time": "10:45AM - 11:30AM",
+        "room": "Bethe Hall",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-20-2017_saturday/nbdl_generic_library_for_managing_state_seamlessly_across_network__jason_rice__cppnow_05-20-2017.pdf",
+        "sched": "https://cppnow2017.sched.com/event/A8J8/nbdl-generic-library-for-managing-state-seamlessly-across-network",
+        "youtube": "HgLPaHJV4Lo"
+    }
+]

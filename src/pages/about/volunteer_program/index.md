@@ -21,7 +21,7 @@ Applications will be accepted until March 20th, 2017. Application decisions will
     <p class="quoteBoxText">
         Attending has truly been one of the most inspirational moments of my life. I had the opportunity to learn, socialize and have a great time in general. I hope to attend this conference yearly now and make a lasting impact in the computer science community.
     </p>
-    <a href="/2013_volunteer_story_mercer/" class="quoteBoxRightLink">Read Grant's Story</a>
+    <a href="/about/volunteer_program/grant_mercers_volunteer_story/" class="quoteBoxRightLink">Read Grant's Story</a>
 </blockquote>
 
 <blockquote class="quoteBox">
@@ -29,7 +29,7 @@ Applications will be accepted until March 20th, 2017. Application decisions will
     <p class="quoteBoxText">
         All the talks were thought provoking, serving to further my understanding of the capabilities of C++ as well as to make me aware of how much there is to be learned.
     </p>
-    <a href="/2013_volunteer_story_lesane/" class="quoteBoxRightLink">Read Michael's Story</a>
+    <a href="/about/volunteer_program/michael_lesane_volunteer_story/" class="quoteBoxRightLink">Read Michael's Story</a>
 </blockquote>
 
 <blockquote class="quoteBox">
@@ -37,7 +37,7 @@ Applications will be accepted until March 20th, 2017. Application decisions will
     <p class="quoteBoxText">
         All of the attendees had knowledge to share. Although the talks can be seen online, nothing can compare to being surrounded by over a hundred C++ enthusiasts.
     </p>
-    <a href="/2013_volunteer_story_duchene/" class="quoteBoxRightLink">Read Alexander's Story</a>
+    <a href="/about/volunteer_program/alexander_duchene_volunteer_story/" class="quoteBoxRightLink">Read Alexander's Story</a>
 </blockquote>
 
 <blockquote class="quoteBox">
@@ -45,5 +45,5 @@ Applications will be accepted until March 20th, 2017. Application decisions will
     <p class="quoteBoxText">
         I learned a lot about C++ that I thought I already knew, met a lot of cool and knowledgeable people, and more than anything, returned with a new confidence and appreciation for the language.
     </p>
-    <a href="/2013_volunteer_story_goel/" class="quoteBoxRightLink">Read Aakash's Story</a>
+    <a href="/about/volunteer_program/aakash_goel_volunteer_story/" class="quoteBoxRightLink">Read Aakash's Story</a>
 </blockquote>

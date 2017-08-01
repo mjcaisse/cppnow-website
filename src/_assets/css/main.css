@@ -12,6 +12,8 @@
 @import 'components/pageHeader';
 @import 'components/post';
 @import 'components/quoteBox';
+@import 'components/asideImage';
+@import 'components/panelBox';
 @import 'components/sponsors';
 
 @import 'helpers';

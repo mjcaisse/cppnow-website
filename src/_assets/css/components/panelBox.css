@@ -1,0 +1,33 @@
+.panelBox {
+    margin-bottom: 16px;
+    padding: 16px;
+    border-radius: 8px;
+    background-color: var(--lightColor);
+
+    p {
+        margin-bottom: 0;
+    }
+
+    ul {
+        margin-top: 16px;
+        margin-bottom: 0;
+        overflow: hidden;
+        display: flex;
+        justify-content: space-between;
+
+        li {
+            margin: 0;
+            padding: 4px 8px;
+            float: left;
+            width: 30%;
+            text-align: center;
+            list-style: none;
+            flex: 1;
+        }
+    }
+
+    .ratioBox16x9 {
+        margin-top: 16px;
+        margin-bottom: 0;
+    }
+}

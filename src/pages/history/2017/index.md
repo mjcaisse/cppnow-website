@@ -1,13 +1,23 @@
 ---
 layout: page
-title: Corporate Sponsors
-permalink: /about/corporate_sponsors/
-section: about
+title: C++Now 2017
+permalink: /history/2017/
+section: history
 ---
 
-Email [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org) for a copy of the C++Now Corporate Sponsorship Prospectus. [Individual Sponsorships](/about/individual_sponsors/) are also available.
+TODO: summary of 2017's convention.
 
 
+* **[View the Schedule](/history/2017/schedule/)**
+* **[View the Talks](/history/2017/talks/)**
+* [Speakers](https://cppnow2017.sched.com/directory/speakers)
+* [Attendees](https://cppnow2017.sched.com/directory/attendees)
+* [Volunteers](https://cppnow2017.sched.com/directory/volunteers)
+* [Staff](https://cppnow2017.sched.com/directory/artists)
+
+
+
+## Corporate Sponsors
 
 ### Gold Sponsors
 
@@ -18,8 +28,6 @@ Email [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org) for a copy of the 
 <a href="http://scm-lp.com/" class="sLink" target="_blank" rel="noopener noreferrer">
     <img src="/assets/img/sponsors/scm.png" class="sImage" alt="Stevens Capital Management">
 </a>
-
-
 
 ### Bronze Sponsors
 
@@ -39,8 +47,6 @@ Email [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org) for a copy of the 
     <img src="/assets/img/sponsors/ciere.png" class="sImage" alt="Ciere Consulting">
 </a>
 
-
-
 ### Video Sponsorship
 
 <a href="http://www.jetbrains.com/" class="sLink" target="_blank" rel="noopener noreferrer">
@@ -49,17 +55,16 @@ Email [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org) for a copy of the 
 
 
 
-### Brought To You By
+## Individual Sponsors
 
-<a href="http://sfconservancy.org" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/sponsors/softwarefreedomconservancy.png" class="sImage" alt="Software Conservancy">
-</a>
+### Gold Scholarship Sponsors
 
-<a href="http://www.boost.org" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/sponsors/boost.png" class="sImage" alt="Boost">
-</a>
+* Jon Kalb
+* Kathleen Kalb
+* Jeff Trull
 
-<a href="http://www.acm.org" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/sponsors/acm.png" class="sImage" alt="ACM">
-</a>
+### Silver Scholarship Sponsors
 
+* Ali Çehreli
+* John Dubchak
+* Michele Hart

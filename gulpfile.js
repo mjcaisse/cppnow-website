@@ -15,6 +15,7 @@ const uploads = require('./build/uploads');
 
 const paths = {
     src: './src',
+    dataSrc: './src/_data',
     imgSrc: './src/_assets/img',
     imgBuild: './_temp/assets/assets/img',
     uploadsSrc: './src/_assets/uploads',
@@ -233,6 +234,7 @@ gulp.task('jekyllWatch', () => {
         `${paths.src}/**/*.markdown`,
         `${paths.src}/**/*.html`,
         `${paths.src}/**/*.htm`,
+        `${paths.dataSrc}/**/*.*`,
 
         // NOT dot folders/files
         '!./.*',

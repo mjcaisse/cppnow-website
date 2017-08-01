@@ -64,9 +64,11 @@
 
 .postAdjacentPostsNext {
     margin-top: 16px;
+    margin-right: 16px;
 }
 
 .postAdjacentPostsPrevious {
+    margin-left: auto;
     margin-top: 16px;
     text-align: right;
 }

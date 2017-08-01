@@ -1,6 +1,7 @@
 (function() {
     var quotes = [
-        ['Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.', 'Francisco Meyer', 'Lorem Ipsum Dolor'],
+        ['With a welcoming, collaborative, and ruthlessly technical atmosphere, C++Now caters to library designers, compiler nerds, mailing list junkies, and anyone interested in pushing the envelope of what is possible in modern C++. This is the coolest tech conference in the world.', 'Barrett Adair', 'May 20th, 2017'],
+
         ['Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.', 'Frances Weaver', 'Aliquam Tincidunt Mauris'],
         ['Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.', 'Carlton Love', 'Vestibulum Auctor Dapibus'],
         ['Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.', 'Hattie Clayton', 'Nunc Dignissim Risus'],

@@ -5,6 +5,6 @@ permalink: /schedule/
 section: schedule
 ---
 
-<div><a id="sched-embed" href="http://cppnow2017.sched.org/">View the C++Now 2017 mobile app</a></div>
+The schedule for C++Now 2018 is not yet confirmed. Please visit again or keep an eye on the [announcements page](/announcements/) for updated information.
 
-<script src="http://cppnow2017.sched.org/js/embed.js"></script>
+Previous Year's Schedule: [C++Now 2017 Schedule](/history/2017/schedule/)

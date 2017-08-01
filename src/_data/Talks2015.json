@@ -1,0 +1,462 @@
+[
+    {
+        "title": "Library in a Week: C++ Application Configuration",
+        "speakers": "Jeff Garland",
+        "date": "May 12, 2015",
+        "time": "8:15AM - 9:00AM",
+        "room": "Paepcke Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/liaw2015-day1-application_configuration.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2oud/library-in-a-week-c-application-configuration",
+        "youtube": ""
+    },
+    {
+        "title": "Generic Programming with Concepts",
+        "speakers": "Andrew Sutton",
+        "date": "May 12, 2015",
+        "time": "9:00AM - 10:30AM",
+        "room": "Paepcke Auditorium",
+        "slides": "",
+        "sched": "https://cppnow2015.sched.com/event/2qDk/generic-programming-with-concepts",
+        "youtube": "_rBhX-FJCdg"
+    },
+    {
+        "title": "Parallel Computing: Strategies and Implications",
+        "speakers": "Guy Shattah",
+        "date": "May 12, 2015",
+        "time": "11:00AM - 12:30PM",
+        "room": "Hudson Commons",
+        "slides": "",
+        "sched": "https://cppnow2015.sched.com/event/2npw/parallel-computing-strategies-and-implications",
+        "youtube": ""
+    },
+    {
+        "title": "Testing Battle.net (before deploying to millions of players)",
+        "speakers": "Ben Deane",
+        "date": "May 12, 2015",
+        "time": "11:00AM - 12:30PM",
+        "room": "Flug Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/testing-battlenet.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2pLJ/testing-battlenet-before-deploying-to-millions-of-players",
+        "youtube": "0RoJckoQf4I"
+    },
+    {
+        "title": "Your CPU Is Binary",
+        "speakers": "Charles Bay",
+        "date": "May 12, 2015",
+        "time": "11:00AM - 12:30PM",
+        "room": "Bethe Hall",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/Your_CPU_Is_Binary.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2oLg/your-cpu-is-binary",
+        "youtube": "gLJrOTFw6J0"
+    },
+    {
+        "title": "Functional Geometry: Producing Pure Spaces",
+        "speakers": "Pablo Colapinto",
+        "date": "May 12, 2015",
+        "time": "2:30PM - 4:00PM",
+        "room": "Bethe Hall",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/funcgeo_00.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2qXN/functional-geometry-producing-pure-spaces",
+        "youtube": "RY_YSYz7b8I"
+    },
+    {
+        "title": "Lessons Learned",
+        "speakers": "Tony Van Eerd",
+        "date": "May 12, 2015",
+        "time": "2:30PM - 4:00PM",
+        "room": "Hudson Commons",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/LessonsLearned.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2oLi/lessons-learned",
+        "youtube": "SF1arU6uQ9c"
+    },
+    {
+        "title": "Type Deduction in C++14",
+        "speakers": "David Stone",
+        "date": "May 12, 2015",
+        "time": "2:30PM - 4:00PM",
+        "room": "Flug Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/type_deduction_in_cpp14.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2rQB/type-deduction-in-c14",
+        "youtube": "_utkragEjRA"
+    },
+    {
+        "title": "Yomm11: Open Multi-Methods for C++11",
+        "speakers": "Jean-Louis Leroy",
+        "date": "May 12, 2015",
+        "time": "4:30PM - 6:00PM",
+        "room": "Hudson Commons",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/yomm11.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2pA6/yomm11-open-multi-methods-for-c11",
+        "youtube": "schApFY8YiA"
+    },
+    {
+        "title": "constexpr: C++ At Compile Time",
+        "speakers": "Scott Schurr",
+        "date": "May 12, 2015",
+        "time": "4:30PM - 6:00PM",
+        "room": "Flug Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/CppNow2015_ConstexprSlides.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2oLK/constexpr-c-at-compile-time",
+        "youtube": "BUnNA2dLRsU"
+    },
+    {
+        "title": "Biicode, a C/C++ dependency manager with a hosting service",
+        "speakers": "Diego Rodriguez-Losada Gonzalez",
+        "date": "May 12th, 2015",
+        "time": "4:30PM - 6:00PM",
+        "room": "Bethe Hall",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/dep_manager_workshop.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2qq6/biicode-a-cc-dependency-manager-with-a-hosting-service",
+        "youtube": "bX7gI6eA_AM"
+    },
+    {
+        "title": "Boost 2.0",
+        "speakers": "Robert Ramey",
+        "date": "May 12, 2015",
+        "time": "8:30PM - 10:00PM",
+        "room": "Flug Auditorium",
+        "slides": "http://www.blincubator.com/C++Now2015/",
+        "sched": "https://cppnow2015.sched.com/event/2n4Y/boost-20",
+        "youtube": ""
+    },
+    {
+        "title": "Numerical Weather Prediction: Facing the Future with C++",
+        "speakers": "Tiago Quintino",
+        "date": "May 13th, 2015",
+        "time": "9:00AM - 10:30AM",
+        "room": "Paepcke Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/NWP-Facing-the-Future-with-Cpp.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2pHS/numerical-weather-prediction-facing-the-future-with-c",
+        "youtube": "hLHxe9qpOf4"
+    },
+    {
+        "title": "On the design and Boost-based implementation of two new C++ libraries for atmospheric research",
+        "speakers": "Sylwester Arabas",
+        "date": "May 13th, 2015",
+        "time": "11:00AM - 11:45AM",
+        "room": "Hudson Commons",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/boost-atmospheric-research.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2pHH/on-the-design-and-boost-based-implementation-of-two-new-c-libraries-for-atmospheric-research",
+        "youtube": "bnbZQexvh00"
+    },
+    {
+        "title": "Thinking Portable: How and why to make your C++ cross platform",
+        "speakers": "Jason Turner",
+        "date": "May 13th, 2015",
+        "time": "11:00AM - 11:45AM",
+        "room": "Flug Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/ThinkingPortable-JasonTurner-v3.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2p73/thinking-portable-how-and-why-to-make-your-c-cross-platform",
+        "youtube": "cb3WIL96N-o"
+    },
+    {
+        "title": "Why in heaven there is no dependency management for C++?",
+        "speakers": "Diego Rodriguez-Losada Gonzalez",
+        "date": "May 13th, 2015",
+        "time": "11:45AM - 12:15PM",
+        "room": "Hudson Commons",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/why_no_dep_manager.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2npV/why-in-heaven-there-is-no-dependency-management-for-c",
+        "youtube": "67Am8Z6irjA"
+    },
+    {
+        "title": "Boost.Compute: A library for GPU/parallel-computing",
+        "speakers": "Kyle Lutz",
+        "date": "May 13th, 2015",
+        "time": "11:45AM - 12:30PM",
+        "room": "Flug Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/Boost.ComputeCxxNow2015.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2npW/boostcompute-a-library-for-gpuparallel-computing",
+        "youtube": "q7oCblCtTT8"
+    },
+    {
+        "title": "Developing EDSL's for Boost.Spirit",
+        "speakers": "Felipe Magno de Almeida",
+        "date": "May 13th, 2015",
+        "time": "11:45AM - 12:30PM",
+        "room": "Bethe Hall",
+        "slides": "",
+        "sched": "https://cppnow2015.sched.com/event/2npf/developing-edsls-for-boostspirit",
+        "youtube": "eLzpnSBJi30"
+    },
+    {
+        "title": "Back to the Future",
+        "speakers": "Agustin Berge, Thomas Heller, & Hartmut Kaiser",
+        "date": "May 13th, 2015",
+        "time": "2:30PM - 4:00PM",
+        "room": "Hudson Commons",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/back_to_the_future.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2n5V/back-to-the-future",
+        "youtube": "3RQPc4SRfGo"
+    },
+    {
+        "title": "Large-Scale C++: Advanced Levelization Techniques, Part I",
+        "speakers": "John Lakos",
+        "date": "May 13th, 2015",
+        "time": "2:30PM - 4:00PM",
+        "room": "Bethe Hall",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/accu2014.150513.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2pOQ/large-scale-c-advanced-levelization-techniques-part-i",
+        "youtube": "_LEomvWXOiI"
+    },
+    {
+        "title": "switchAny - A Practical Exercise in Template Metaprogramming",
+        "speakers": "Sebastian Redl",
+        "date": "May 13th, 2015",
+        "time": "2:30PM - 4:00PM",
+        "room": "Flug Auditorium",
+        "slides": "https://github.com/CornedBee/TemplateMetaprogramming",
+        "sched": "https://cppnow2015.sched.com/event/2pNN/switchany-a-practical-exercise-in-template-metaprogramming",
+        "youtube": "3JkXmWyUKsI"
+    },
+    {
+        "title": "New Build System for New C++",
+        "speakers": "Boris Kolpackov",
+        "date": "May 13th, 2015",
+        "time": "4:30PM - 6:00PM",
+        "room": "Flug Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/new-build-system-for-new-cxx.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2oLN/new-build-system-for-new-c",
+        "youtube": "HxYFSlDdl0c"
+    },
+    {
+        "title": "Large-Scale C++: Advanced Levelization Techniques, Part II",
+        "speakers": "John Lakos",
+        "date": "May 13th, 2015",
+        "time": "4:30PM - 6:00PM",
+        "room": "Bethe Hall",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/accu2014.150513.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2pOV/large-scale-c-advanced-levelization-techniques-part-ii",
+        "youtube": "MZUJsCh1wOY"
+    },
+    {
+        "title": "The Price of Shared Pointers or Why Passing them by-reference can be Useful",
+        "speakers": "Nicolai Josuttis",
+        "date": "May 13th, 2015",
+        "time": "4:30PM - 6:00PM",
+        "room": "Hudson Commons",
+        "slides": "",
+        "sched": "https://cppnow2015.sched.com/event/2qLR/the-price-of-shared-pointers-or-why-passing-them-by-reference-can-be-useful",
+        "youtube": "drhIIbmrjzg"
+    },
+    {
+        "title": "Ranges for the Standard Library",
+        "speakers": "Eric Niebler",
+        "date": "May 14th, 2015",
+        "time": "9:00AM - 10:30AM",
+        "room": "Paepcke Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/ranges-calendar-boostcon-2015-05.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2noM/ranges-for-the-standard-library",
+        "youtube": "zsSErwT1S80"
+    },
+    {
+        "title": "A review of C++ 11/14 only Boost libraries - Fiber, AFIO, DI and APIBind",
+        "speakers": "Niall Douglas",
+        "date": "May 14th, 2015",
+        "time": "11:00AM - 12:30PM",
+        "room": "Hudson Commons",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/A-review-of-Cxx-11-14-only-Boost-libraries-Fiber-AFIO-DI-and-APIBind.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2rWF/a-review-of-c-1114-only-boost-libraries-fiber-afio-di-and-apibind",
+        "youtube": "OwIxqWuHVeA"
+    },
+    {
+        "title": "Robustness and Security Techniques with Modern C++",
+        "speakers": "Jean Pierre LeJacq",
+        "date": "May 14th, 2015",
+        "time": "11:00AM - 12:30PM",
+        "room": "Flug Auditorium",
+        "slides": "",
+        "sched": "https://cppnow2015.sched.com/event/2qCM/robustness-and-security-techniques-with-modern-c",
+        "youtube": ""
+    },
+    {
+        "title": "Type-safe configuration library",
+        "speakers": "Michał Dominiak",
+        "date": "May 14th, 2015",
+        "time": "11:00AM - 12:30PM",
+        "room": "Bethe Hall",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/Type-safe-configuration-library.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2ouZ/type-safe-configuration-library",
+        "youtube": "skedXlGnLNE"
+    },
+    {
+        "title": "How we reason about procedural programs",
+        "speakers": "Lisa Lippincott",
+        "date": "May 14th, 2015",
+        "time": "2:30PM - 4:00PM",
+        "room": "Hudson Commons",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/Lippincott-Cppnow-2015-How-we-reason-about-procedural-programs.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2qVu/how-we-reason-about-procedural-programs",
+        "youtube": "7mJmTl-boaY"
+    },
+    {
+        "title": "Modern generic programming using the Tick and Fit libraries",
+        "speakers": "Paul Fultz II",
+        "date": "May 14th, 2015",
+        "time": "2:30PM - 4:00PM",
+        "room": "Bethe Hall",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/tick_and_fit.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2rFk/modern-generic-programming-using-the-tick-and-fit-libraries",
+        "youtube": "8OlQ0GVwBtw"
+    },
+    {
+        "title": "Functions Want To Be Free",
+        "speakers": "David Stone",
+        "date": "May 14th, 2015",
+        "time": "2:30PM - 4:00PM",
+        "room": "Flug Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/functions_want_to_be_free.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2rOe/functions-want-to-be-free",
+        "youtube": "_lVlC0xzXDc"
+    },
+    {
+        "title": "Boostache Exposed - the internals of Boost's template engine",
+        "speakers": "Michael Caisse",
+        "date": "May 14th, 2015",
+        "time": "4:30PM - 6:00PM",
+        "room": "Bethe Hall",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/boostache.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2rvs/boostache-exposed-the-internals-of-boosts-template-engine",
+        "youtube": "tJMmSNvZ3N8"
+    },
+    {
+        "title": "Lock-free by Example: Towards an Interesting Lock-free MPMC Queue",
+        "speakers": "Tony Van Eerd",
+        "date": "May 14th, 2015",
+        "time": "4:30PM - 6:00PM",
+        "room": "Flug Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/A-Complicated-Lockfree-Queue.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2p3D/lock-free-by-example-towards-an-interesting-lock-free-mpmc-queue",
+        "youtube": "kH59-vLMNys"
+    },
+    {
+        "title": "Big Projects, and CMake, and Git, Oh My!",
+        "speakers": "David Sankel",
+        "date": "May 14th, 2015",
+        "time": "4:30PM - 6:00PM",
+        "room": "Hudson Commons",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/Large-Projects-and-CMake-and-git-oh-my.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2rFj/big-projects-and-cmake-and-git-oh-my",
+        "youtube": "3eH4hMKl7XE"
+    },
+    {
+        "title": "Debugging using an exact recording of a program's execution.",
+        "speakers": "Julian Smith",
+        "date": "May 15th, 2015",
+        "time": "9:00AM - 10:30AM",
+        "room": "Bethe Hall",
+        "slides": "",
+        "sched": "https://cppnow2015.sched.com/event/2pfH/debugging-using-an-exact-recording-of-a-programs-execution",
+        "youtube": "NWWMogzgLS4"
+    },
+    {
+        "title": "Details Matter",
+        "speakers": "Alisdair Meredith",
+        "date": "May 15th, 2015",
+        "time": "9:00AM - 10:30AM",
+        "room": "Hudson Commons",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/Details-Matter-CppNow-2015.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2qSq/details-matter",
+        "youtube": "ymmKZRG4iv0"
+    },
+    {
+        "title": "The Rule of Seven (Plus or Minus Two): Modern C++ Boilerplate",
+        "speakers": "Arthur O'Dwyer",
+        "date": "May 15th, 2015",
+        "time": "9:00AM - 10:30AM",
+        "room": "Flug Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/ruleofseven.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2pAh/the-rule-of-seven-plus-or-minus-two-modern-c-boilerplate",
+        "youtube": "IzQk6IM74JE"
+    },
+    {
+        "title": "Parallelizing the Standard Template Library(STL)",
+        "speakers": "Grant Mercer",
+        "date": "May 15th, 2015",
+        "time": "11:00AM - 11:45AM",
+        "room": "Hudson Commons",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/Parallelizing-the-Cpp-Standard-Template-Library.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2pen/parallelizing-the-standard-template-librarystl",
+        "youtube": "4xNeOmUW9ic"
+    },
+    {
+        "title": "C++ metaprogramming: a paradigm shift",
+        "speakers": "Louis Dionne",
+        "date": "May 15th, 2015",
+        "time": "11:00AM - 12:30PM",
+        "room": "Flug Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/cxx_metaprogramming-a_paradigm_shift.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2pOc/c-metaprogramming-a-paradigm-shift",
+        "youtube": "Z2ABRaQiFHs"
+    },
+    {
+        "title": "Fun with C11 generic selection expression",
+        "speakers": "Zhihao Yuan",
+        "date": "May 15th, 2015",
+        "time": "11:00AM - 12:30PM",
+        "room": "Bethe Hall",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/Fun-with-C11-generic-selection-expression.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2rJ1/fun-with-c11-generic-selection-expression",
+        "youtube": "MQmhuC2dcgA"
+    },
+    {
+        "title": "IIFE In C++ For Performance and Safety",
+        "speakers": "Jason Turner",
+        "date": "May 15th, 2015",
+        "time": "11:45AM - 12:15PM",
+        "room": "Hudson Commons",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/IIFE-Cpp-Talk-Jason-Turner-cppnow.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2np7/iife-in-c-for-performance-and-safety",
+        "youtube": "9i2ZirXdrVA"
+    },
+    {
+        "title": "Better Code: Concurrency",
+        "speakers": "Sean Parent",
+        "date": "May 15th, 2015",
+        "time": "2:30PM - 4:00PM",
+        "room": "Flug Auditorium",
+        "slides": "http://sean-parent.stlab.cc/papers-and-presentations#title-better-code-concurrency",
+        "sched": "https://cppnow2015.sched.com/event/2pOe/better-code-concurrency",
+        "youtube": "32f6JrQPV8c"
+    },
+    {
+        "title": "Using Spirit X3, Part I",
+        "speakers": "Michael Caisse & Joel de Guzman",
+        "date": "May 15th, 2015",
+        "time": "2:30PM - 4:00PM",
+        "room": "Hudson Commons",
+        "slides": "http://ciere.com/cppnow15/",
+        "sched": "https://cppnow2015.sched.com/event/2qTL/using-spirit-x3-part-i",
+        "youtube": "ZeeR7pQ6Le4"
+    },
+    {
+        "title": "C++17 coroutines for app and library developers",
+        "speakers": "Gor Nishanov",
+        "date": "May 15th, 2015",
+        "time": "4:30PM - 6:00PM",
+        "room": "Flug Auditorium",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/CppNow2015_Coroutines_in_C++17.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2qI4/c17-coroutines-for-app-and-library-developers",
+        "youtube": "proxLbvHGEQ"
+    },
+    {
+        "title": "An Overview on Encryption in C++",
+        "speakers": "Jens Weller",
+        "date": "May 15th, 2015",
+        "time": "4:30PM - 6:00PM",
+        "room": "Bethe Hall",
+        "slides": "https://github.com/boostcon/cppnow_presentations_2015/blob/master/files/Cpp-Now-2015-Jens-Weller-An-overview-on-Encryption-in-Cpp.pdf",
+        "sched": "https://cppnow2015.sched.com/event/2qBQ/an-overview-on-encryption-in-c",
+        "youtube": "GwW2BZfQFrI"
+    },
+    {
+        "title": "Using Spirit X3, Part II",
+        "speakers": "Michael Caisse & Joel de Guzman",
+        "date": "May 15th, 2015",
+        "time": "4:30PM - 6:00PM",
+        "room": "Hudson Commons",
+        "slides": "http://ciere.com/cppnow15/",
+        "sched": "https://cppnow2015.sched.com/event/2oLW/using-spirit-x3-part-ii",
+        "youtube": "XcrGf0bTzRc"
+    }
+]
