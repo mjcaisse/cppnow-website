@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Home",
+        "link": "/"
+    },
+    {
+        "title": "Announcements",
+        "link": "/announcements/"
+    },
+    {
+        "title": "Schedule",
+        "link": "/schedule/"
+    },
+    {
+        "title": "About",
+        "link": "/about/",
+        "children": [
+            {
+                "title": "Corporate Sponsors",
+                "link": "/about/corporate_sponsors/"
+            },
+            {
+                "title": "Individual Sponsors",
+                "link": "/about/individual_sponsors/"
+            },
+            {
+                "title": "Volunteer Program",
+                "link": "/about/volunteer_program/"
+            },
+            {
+                "title": "FAQ",
+                "link": "/about/faq/"
+            },
+            {
+                "title": "Contact",
+                "link": "/about/contact/"
+            }
+        ]
+    },
+    {
+        "title": "Location",
+        "link": "/location/",
+        "children": [
+            {
+                "title": "Venue",
+                "link": "/location/venue/"
+            },
+            {
+                "title": "Lodging",
+                "link": "/location/lodging/"
+            },
+            {
+                "title": "Maps",
+                "link": "/location/maps/"
+            },
+            {
+                "title": "Dining",
+                "link": "/location/dining/"
+            },
+            {
+                "title": "Transportation",
+                "link": "/location/transportation/"
+            },
+            {
+                "title": "Nearby Attractions",
+                "link": "/location/nearby_attractions/"
+            }
+        ]
+    },
+    {
+        "title": "History",
+        "link": "/history/",
+        "children": [
+            {
+                "title": "2017",
+                "link": "/history/2017/"
+            },
+            {
+                "title": "2016",
+                "link": "/history/2016/"
+            },
+            {
+                "title": "2015",
+                "link": "/history/2015/"
+            }
+        ]
+    },
+    {
+        "title": "Get Tickets",
+        "link": "/tickets/"
+    }
+]

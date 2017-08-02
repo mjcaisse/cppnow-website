@@ -1,79 +1,20 @@
 <div class="navBox">
     <ul class="nav">
-        <li class="navItem">
-            <a href="/" class="navLink" tabindex="0">Home</a>
-        </li>
-        <li class="navItem">
-            <a href="/announcements/" class="navLink" tabindex="0">Announcements</a>
-        </li>
-        <li class="navItem">
-            <a href="/schedule/" class="navLink" tabindex="0">Schedule</a>
-        </li>
-        <li class="navItem">
-            <a href="/about/" class="navLink" tabindex="0">About</a>
-            <input id="nav-About" class="navInput" tabindex="0" type="checkbox" />
-            <label for="nav-About" class="navDropdownArrow"></label>
-            <ul class="subnav">
-                <li class="navItem">
-                    <a href="/about/corporate_sponsors/" class="navLink" tabindex="0">Corporate Sponsors</a>
-                </li>
-                <li class="navItem">
-                    <a href="/about/individual_sponsors/" class="navLink" tabindex="0">Individual Sponsors</a>
-                </li>
-                <li class="navItem">
-                    <a href="/about/volunteer_program/" class="navLink" tabindex="0">Volunteer Program</a>
-                </li>
-                <li class="navItem">
-                    <a href="/about/faq/" class="navLink" tabindex="0">FAQ</a>
-                </li>
-                <li class="navItem">
-                    <a href="/about/contact/" class="navLink" tabindex="0">Contact</a>
-                </li>
-            </ul>
-        </li>
-        <li class="navItem">
-            <a href="/location/" class="navLink" tabindex="0">Location</a>
-            <input id="nav-Location" class="navInput" tabindex="0" type="checkbox" />
-            <label for="nav-Location" class="navDropdownArrow"></label>
-            <ul class="subnav">
-                <li class="navItem">
-                    <a href="/location/venue/" class="navLink" tabindex="0">Venue</a>
-                </li>
-                <li class="navItem">
-                    <a href="/location/lodging/" class="navLink" tabindex="0">Lodging</a>
-                </li>
-                <li class="navItem">
-                    <a href="/location/maps/" class="navLink" tabindex="0">Maps</a>
-                </li>
-                <li class="navItem">
-                    <a href="/location/dining/" class="navLink" tabindex="0">Dining</a>
-                </li>
-                <li class="navItem">
-                    <a href="/location/transportation/" class="navLink" tabindex="0">Transportation</a>
-                </li>
-                <li class="navItem">
-                    <a href="/location/nearby_attractions/" class="navLink" tabindex="0">Nearby Attractions</a>
-                </li>
-            </ul>
-        </li>
-        <li class="navItem">
-            <a href="/history/" class="navLink" tabindex="0">History</a>
-            <input id="nav-History" class="navInput" tabindex="0" type="checkbox" />
-            <label for="nav-History" class="navDropdownArrow"></label>
-            <ul class="subnav">
-                <li class="navItem">
-                    <a href="/history/2017/" class="navLink" tabindex="0">2017</a>
-                </li>
-                <li class="navItem">
-                    <a href="/history/2016/" class="navLink" tabindex="0">2016</a>
-                </li>
-                <li class="navItem">
-                    <a href="/history/2015/" class="navLink" tabindex="0">2015</a>
-                </li>
-            </ul>
-        </li>
-        <li class="navItem">
-            <a href="/tickets/"" class="navLink" tabindex="0">Get Tickets</a>
-        </li>
+        {% for item in site.data.nav %}
+            <li class="navItem">
+                <a href="{{item.link | uri_escape}}" class="navLink" tabindex="0">{{item.title | xml_escape}}</a>
+                {% if item.children %}
+                    <input id="nav-{{item.title | slugify: 'pretty'}}" class="navInput" tabindex="0" type="checkbox" />
+                    <label for="nav-{{item.title | slugify: 'pretty'}}" class="navDropdownArrow"></label>
+                    <ul class="subnav">
+                        {% for child in item.children %}
+                            <li class="navItem">
+                                <a href="{{child.link | uri_escape}}" class="navLink" tabindex="0">{{child.title | xml_escape}}</a>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+            </li>
+        {% endfor %}
     </ul>
 </div>

@@ -19,14 +19,14 @@ Please enjoy all available videos and slides from talks, keynotes, and tutorials
         given {{item.date | xml_escape}} at {{item.time | xml_escape}} in {{item.room | xml_escape}}
     </p>
     <ul>
-        <li><a href="{{item.sched | xml_escape}}">Summary</a></li>
+        <li><a href="{{item.sched | uri_escape}}">Summary</a></li>
         <li>
             {% if item.slides == '' %}<span class="greyText"><em>No Slides</em></span>{% endif %}
-            {% if item.slides != '' %}<a href="{{item.slides | xml_escape}}">Slides</a>{% endif %}
+            {% if item.slides != '' %}<a href="{{item.slides | uri_escape}}">Slides</a>{% endif %}
         </li>
         <li>
             {% if item.youtube == '' %}<span class="greyText"><em>No Video</em></span>{% endif %}
-            {% if item.youtube != '' %}<a href="https://youtu.be/{{item.youtube | xml_escape}}" class="panelVideoLink" data-src="{{item.youtube | xml_escape}}">Video</a>{% endif %}
+            {% if item.youtube != '' %}<a href="https://youtu.be/{{item.youtube}}" class="panelVideoLink" data-src="{{item.youtube}}">Video</a>{% endif %}
         </li>
     </ul>
 </div>
