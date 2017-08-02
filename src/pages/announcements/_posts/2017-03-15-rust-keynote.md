@@ -2,7 +2,7 @@
 layout: post
 title: "2017 Keynote - Niko Matsakis - Rust: Hack Without fear!"
 date: 2017-03-15
-permalink: /announcements/2017/15/rust-keynote/
+permalink: /announcements/2017/03/rust-keynote/
 section: announcements
 ---
 

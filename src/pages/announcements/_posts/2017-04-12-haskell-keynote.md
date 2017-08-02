@@ -26,7 +26,7 @@ By clearing the canvas of unconstrained effects, Haskell and similar languages a
 
 ---
 
-Our previously announced keynote speakers include [Ali Çehreli, presenting *Competitive Advantage with D*](/2017-conference/announcements/2017/04/09/d-keynote.html), and [Nicholas Matsakis, presenting *Rust: Hack Without Fear*](/2017-conference/announcements/2017/03/15/rust-keynote.html).
+Our previously announced keynote speakers include [Ali Çehreli, presenting *Competitive Advantage with D*](/announcements/2017/04/d-keynote/), and [Nicholas Matsakis, presenting *Rust: Hack Without Fear*](/announcements/2017/03/rust-keynote/).
 
 **Come join us in Aspen for C++Now 2017!** [Registration is still open](https://cppnow2017.eventbrite.com).
 

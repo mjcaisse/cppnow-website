@@ -79,6 +79,6 @@ Note: Presenters must agree to grant a non-exclusive, perpetual license to publi
 
 C++Now is presented by Boost in-cooperation with ACM.
 
-[Bryce Adelstein-Lelbach](bryce@cppnow.org) (Program Committee Chair)
+[Bryce Adelstein-Lelbach](mailto:bryce@cppnow.org) (Program Committee Chair)
 
 [Jon Kalb](mailto:jonkalb@boost.org) (Conference Chair)

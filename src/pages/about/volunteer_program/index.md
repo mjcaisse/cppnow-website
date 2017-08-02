@@ -12,7 +12,7 @@ The C++Now Volunteer/Student Program was started in 2013 in an effort to encoura
 
 Applications will be accepted until March 20th, 2017. Application decisions will be sent out on March 27th, 2017.
 
-<a href="http://cppnow.org/student_volunteer_application/" style="font-size: 24px; text-decoration: underline line-through;">Apply Now</a><br>Deadline has passed
+<a href="/about/volunteer_program/apply/" style="font-size: 24px; text-decoration: underline line-through;">Apply Now</a><br>Deadline has passed
 
 ### Volunteer Stories
 

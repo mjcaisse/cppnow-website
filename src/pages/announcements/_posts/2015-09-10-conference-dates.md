@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Announcing C++Now 2017"
+title: "Announcing C++Now 2016"
 date: 2015-09-10
 permalink: /announcements/2015/09/conference-dates/
 section: announcements

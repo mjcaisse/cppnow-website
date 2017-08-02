@@ -18,7 +18,7 @@ The Student/Volunteer program is an excellent way for students and young coders 
         Attending has truly been one of the most inspirational moments of my life. I had the opportunity to learn, socialize and have a great time in general. I hope to attend this conference yearly now and make a lasting impact in the computer science community.
     </p>
     <span class="quoteBoxCredentials">Grant Mercer, 2013 Student/Volunteer</span>
-    <a href="http://cppnow.org/2013_volunteer_story_mercer/" class="quoteBoxRightLink">Read Grant's Story</a>
+    <a href="/about/volunteer_program/grant_mercers_volunteer_story/" class="quoteBoxRightLink">Read Grant's Story</a>
 </blockquote>
 
 Student/Volunteers will receive free registration and a travel stipend for their hotel and airfare.

@@ -192,7 +192,7 @@ No. OpenOffice.org's Impress and Apple's Keynote are popular alternatives.
 
 #### What are some of the elements of a good presentation?
 
-Take a look at [Doug Gregor's Google Tech Talk presentation](http://video.google.com/videoplay?docid=-1790714981047186825).
+Take a look at [Doug Gregor's Google Tech Talk presentation](https://youtu.be/oZhixOWljWI).
 
 Suggestions from experienced presenters include:
 

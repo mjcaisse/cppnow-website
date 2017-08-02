@@ -37,7 +37,7 @@ Each year, the conference helps a small group of young programmers attend the co
 
 Contributions to the Boost Scholarship Fund are earmarked* to support these programs and can be made in any amount, but specific benefits attach at certain sponsorship levels. Donations are made through Software Freedom Conservancy, a 501(c)3 not-for-profit charity and are fully tax-deductible to the extent permitted by law. Donors will receive a disclosure statement indicating the fair market value of any tangible benefits received.
 
-**Are you a student who will volunteer in exchange for a ticket? Not a student, just want to volunteer?<br>[Learn how to apply to the Volunteer/Student Program](/about/student_volunteer_program/)**
+**Are you a student who will volunteer in exchange for a ticket? Not a student, just want to volunteer?<br>[Learn how to apply to the Volunteer/Student Program](/about/volunteer_program/)**
 
 #### Gold Scholarship Sponsor Level
 
