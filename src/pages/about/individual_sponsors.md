@@ -9,15 +9,17 @@ For individuals, C++Now offers the Boost Scholarship Sponsorship in support of t
 
 ### Gold Scholarship Sponsors
 
-* Jon Kalb
-* Kathleen Kalb
+There are no Gold Scholarship Sponsors for C++Now 2018 yet. Be the first by donating on the form below!
 
 
 ### Silver Scholarship Sponsors
 
-* Ali Çehreli
-* John Dubchak
-* Michele Hart
+There are no Silver Scholarship Sponsors for C++Now 2018 yet. Be the first by donating on the form below!
+
+
+### Bronze Scholarship Sponsors
+
+There are no Bronze Scholarship Sponsors for C++Now 2018 yet. Be the first by donating on the form below!
 
 
 ## Boost Scholarship Fund

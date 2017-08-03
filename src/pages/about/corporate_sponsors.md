@@ -11,48 +11,29 @@ Email [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org) for a copy of the 
 
 ### Gold Sponsors
 
-<a href="http://www.commvault.com/" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/sponsors/commvault.png" class="sImage" alt="Commvault">
-</a>
+There are no Gold Sponsors for C++Now 2018 yet. Be the first! Email [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org) today!
 
-<a href="http://scm-lp.com/" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/sponsors/scm.png" class="sImage" alt="Stevens Capital Management">
-</a>
 
+### Silver Sponsors
+
+There are no Silver Sponsors for C++Now 2018 yet. Be the first! Email [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org) today!
 
 
 ### Bronze Sponsors
 
-<a href="https://backtrace.io/" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/sponsors/backtrace.png" class="sImage" alt="Backtrace">
-</a>
-
-<a href="https://www.techatbloomberg.com/" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/sponsors/bloomberg.png" class="sImage" alt="Bloomberg LLC">
-</a>
-
-<a href="https://www.cevelop.com/" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/sponsors/cevelop.png" class="sImage" alt="Cevelop">
-</a>
-
-<a href="http://ciere.com" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/sponsors/ciere.png" class="sImage" alt="Ciere Consulting">
-</a>
-
+There are no Bronze Sponsors for C++Now 2018 yet. Be the first! Email [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org) today!
 
 
 ### Video Sponsorship
 
-<a href="http://www.jetbrains.com/" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/sponsors/jetbrains.png" class="sImage" alt="JetBrains">
-</a>
+The Video Sponsorship for C++Now 2018 has not yet been claimed. Email [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org) to claim it!
 
 
 
 ### Brought To You By
 
 <a href="http://sfconservancy.org" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/sponsors/softwarefreedomconservancy.png" class="sImage" alt="Software Conservancy">
+    <img src="/assets/img/sponsors/softwarefreedomconservancy.png" class="sImage" alt="Software Freedom Conservancy">
 </a>
 
 <a href="http://www.boost.org" class="sLink" target="_blank" rel="noopener noreferrer">

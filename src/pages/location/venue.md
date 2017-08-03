@@ -5,6 +5,9 @@ permalink: /location/venue/
 section: location
 ---
 
+![Aspen Center for Physics by Zoetica Ebb](/assets/img/location/AspenCenterForPhysicsByZoeticaEbb.jpg "Aspen Center for Physics by Zoetica Ebb")<br>
+*Photograph by Zoetica Ebb. Used with permission.*
+
 ### Aspen Center for Physics
 
 The main venue for this conference will be the [Aspen Center for Physics](https://www.aspenphys.org/), just a few minutes walk from the [Aspen Meadows Resort](https://www.aspenmeadows.com/). As generations of scientists can attest, the Center's beautiful location and its low-key atmosphere create a unique and lively environment for thought, education, and collaboration.

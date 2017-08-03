@@ -10,9 +10,7 @@ section: about
 
 The C++Now Volunteer/Student Program was started in 2013 in an effort to encourage student involvement in the C++Now conference and the C++ community. Each year, the conference helps a small group of young programmers attend the conference. In exchange, the students help the C++Now staff in running the conference. Volunteers assist with various on-site tasks, such as recording sessions, escorting keynote speakers, and setting up the conference picnic. They are able to attend most sessions. Volunteers receive a waiver of their registration fees and stipends for travel-related expenses are provided.
 
-Applications will be accepted until March 20th, 2017. Application decisions will be sent out on March 27th, 2017.
-
-<a href="/about/volunteer_program/apply/" style="font-size: 24px; text-decoration: underline line-through;">Apply Now</a><br>Deadline has passed
+<p style="text-align: center; font-size: 40px;"><a href="/about/volunteer_program/apply/">Apply Now</a></p>
 
 ### Volunteer Stories
 
