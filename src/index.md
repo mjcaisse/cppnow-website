@@ -1,6 +1,5 @@
 ---
 layout: home
-title: C++Now
 section: home
 ---
 

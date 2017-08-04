@@ -8,7 +8,8 @@ section: about
 Email [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org) for a copy of the C++Now Corporate Sponsorship Prospectus. [Individual Sponsorships](/about/individual_sponsors/) are also available.
 
 
-{% assign DATA = site.data.sponsors.Sponsors2018 %}
+{% assign filename = 'Sponsors' | append: site.current_year %}
+{% assign DATA = site.data.sponsors[filename] %}
 
 {% include corporateSponsorListing.md %}
 

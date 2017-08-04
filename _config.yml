@@ -14,13 +14,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: C++Now
-email: organizers@cppnow.org
+email: admin@ciere.com
 description: > # this means to ignore newlines until "baseurl:"
     A gathering of C++ experts and enthusiasts from around the world in beautiful Aspen, Colorado.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cppnow.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+locale: en_US
+twitter_username: cppnow
+github_username:  boostcon
+feed: 
+    path: /feed/feed.xml
 
 permalink: /:categories/:year/:month/:title/
 
@@ -41,8 +44,13 @@ pagination:
 source: ./src
 destination: ./_temp/jekyll
 markdown: kramdown
-kramdown:
-    smart_quotes: ["apos", "apos", "quot", "quot"]
+# kramdown:
+#     smart_quotes: ["apos", "apos", "quot", "quot"]
 gems:
   - jekyll-feed
   - jekyll-paginate-v2
+
+# Year Data Config
+current_year: 2018
+current_year_start_date: "May 6, 2018"
+current_year_end_date: "May 11, 2018"

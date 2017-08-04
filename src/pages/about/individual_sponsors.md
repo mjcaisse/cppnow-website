@@ -8,7 +8,8 @@ section: about
 For individuals, C++Now offers the Boost Scholarship Sponsorship in support of the Boost Scholarship Fund. [Corporate Sponsorships](/about/corporate_sponsors/) are also available.
 
 
-{% assign DATA = site.data.sponsors.Sponsors2018 %}
+{% assign filename = 'Sponsors' | append: site.current_year %}
+{% assign DATA = site.data.sponsors[filename] %}
 
 {% include individualSponsorListing.md %}
 
