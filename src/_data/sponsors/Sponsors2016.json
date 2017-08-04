@@ -1,0 +1,75 @@
+{
+    "corporate": [
+        {
+            "title": "Gold Sponsors",
+            "sponsors": []
+        },
+        {
+            "title": "Silver Sponsors",
+            "sponsors": []
+        },
+        {
+            "title": "Bronze Sponsors",
+            "sponsors": [
+                {
+                    "title": "Ciere Consulting",
+                    "link": "http://ciere.com",
+                    "image": "/assets/img/sponsors/ciere.png"
+                },
+                {
+                    "title": "Eventbrite",
+                    "link": "http://eventbrite.com",
+                    "image": "/assets/img/sponsors/eventbrite.png"
+                },
+                {
+                    "title": "JetBrains",
+                    "link": "http://www.jetbrains.com/",
+                    "image": "/assets/img/sponsors/jetbrains.png"
+                },
+                {
+                    "title": "Tripwire",
+                    "link": "http://www.tripwire.com",
+                    "image": "/assets/img/sponsors/tripwire.png"
+                }
+            ]
+        },
+        {
+            "title": "Video Sponsorship",
+            "sponsors": [
+                {
+                    "title": "Tripwire",
+                    "link": "https://www.tripwire.com/",
+                    "image": "/assets/img/sponsors/tripwire.png"
+                }
+            ]
+        }
+    ],
+    "individual": [
+        {
+            "title": "Gold Scholarship Sponsors",
+            "sponsors": [
+                {
+                    "name": "Jon and Kathleen Kalb",
+                    "info": "Jon Kalb <jonkalb@boost.org> until 2017-04-05"
+                }
+            ]
+        },
+        {
+            "title": "Silver Scholarship Sponsors",
+            "sponsors": [
+                {
+                    "name": "Conan, C/C++ Package Manager",
+                    "info": "Diego Rodriguez-Losada <diego.rlosada@gmail.com> until 2017-04-06"
+                },
+                {
+                    "name": "John Dubchak and Michele Hart",
+                    "info": "John Dubchak <john@johndubchak.com> until 2017-10-31"
+                }
+            ]
+        },
+        {
+            "title": "Bronze Scholarship Sponsors",
+            "sponsors": []
+        }
+    ]
+}

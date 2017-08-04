@@ -10,7 +10,7 @@ Please enjoy all available videos and slides from talks, keynotes, and tutorials
 * [Playlist of 2017 Session Talks](https://www.youtube.com/playlist?list=PL_AKIMJc4roXJldxjJGtH8PJb4dY6nN1D)
 * [Playlist of 2017 Lightning Talks](https://www.youtube.com/playlist?list=PL_AKIMJc4roV-ATm4VQH5Tc78_0bruUuI)
 
-{% for item in site.data.Talks2017 %}
+{% for item in site.data.talks.Talks2017 %}
 <div class="panelBox">
     <h3>{{item.title | xml_escape}}</h3>
     <p>

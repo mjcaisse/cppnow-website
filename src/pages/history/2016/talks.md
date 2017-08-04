@@ -9,7 +9,7 @@ Please enjoy all available videos and slides from talks, keynotes, and tutorials
 
 * [Playlist of 2016 Session Talks](https://www.youtube.com/playlist?list=PL_AKIMJc4roU0F3w20Ac77YeOFyvFmaJD)
 
-{% for item in site.data.Talks2016 %}
+{% for item in site.data.talks.Talks2016 %}
 <div class="panelBox">
     <h3>{{item.title | xml_escape}}</h3>
     <p>

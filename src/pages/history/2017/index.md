@@ -17,54 +17,8 @@ TODO: summary of 2017's convention.
 
 
 
-## Corporate Sponsors
+{% assign DATA = site.data.sponsors.Sponsors2017 %}
 
-### Gold Sponsors
+{% include corporateSponsorListing.md %}
 
-<a href="http://www.commvault.com/" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/sponsors/commvault.png" class="sImage" alt="Commvault">
-</a>
-
-<a href="http://scm-lp.com/" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/sponsors/scm.png" class="sImage" alt="Stevens Capital Management">
-</a>
-
-### Bronze Sponsors
-
-<a href="https://backtrace.io/" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/sponsors/backtrace.png" class="sImage" alt="Backtrace">
-</a>
-
-<a href="https://www.techatbloomberg.com/" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/sponsors/bloomberg.png" class="sImage" alt="Bloomberg LLC">
-</a>
-
-<a href="https://www.cevelop.com/" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/sponsors/cevelop.png" class="sImage" alt="Cevelop">
-</a>
-
-<a href="http://ciere.com" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/sponsors/ciere.png" class="sImage" alt="Ciere Consulting">
-</a>
-
-### Video Sponsorship
-
-<a href="http://www.jetbrains.com/" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/sponsors/jetbrains.png" class="sImage" alt="JetBrains">
-</a>
-
-
-
-## Individual Sponsors
-
-### Gold Scholarship Sponsors
-
-* Jon Kalb
-* Kathleen Kalb
-* Jeff Trull
-
-### Silver Scholarship Sponsors
-
-* Ali Çehreli
-* John Dubchak
-* Michele Hart
+{% include individualSponsorListing.md %}

@@ -8,39 +8,15 @@ section: about
 Email [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org) for a copy of the C++Now Corporate Sponsorship Prospectus. [Individual Sponsorships](/about/individual_sponsors/) are also available.
 
 
+{% assign DATA = site.data.sponsors.Sponsors2018 %}
 
-### Gold Sponsors
-
-There are no Gold Sponsors for C++Now 2018 yet. Be the first! Email [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org) today!
-
-
-### Silver Sponsors
-
-There are no Silver Sponsors for C++Now 2018 yet. Be the first! Email [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org) today!
-
-
-### Bronze Sponsors
-
-There are no Bronze Sponsors for C++Now 2018 yet. Be the first! Email [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org) today!
-
-
-### Video Sponsorship
-
-The Video Sponsorship for C++Now 2018 has not yet been claimed. Email [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org) to claim it!
-
+{% include corporateSponsorListing.md %}
 
 
 ### Brought To You By
 
-<a href="http://sfconservancy.org" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/sponsors/softwarefreedomconservancy.png" class="sImage" alt="Software Freedom Conservancy">
+{% for item in site.data.sponsors.BroughtToYouBy %}
+<a href="{{item.link | uri_escape}}" class="sLink" target="_blank" rel="noopener noreferrer">
+    <img src="{{item.image | uri_escape}}" class="sImage" alt="{{item.title | xml_escape}}">
 </a>
-
-<a href="http://www.boost.org" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/sponsors/boost.png" class="sImage" alt="Boost">
-</a>
-
-<a href="http://www.acm.org" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/sponsors/acm.png" class="sImage" alt="ACM">
-</a>
-
+{% endfor %}

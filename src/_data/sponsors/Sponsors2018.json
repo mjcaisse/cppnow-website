@@ -1,0 +1,91 @@
+{
+    "corporate": [
+        {
+            "title": "Gold Sponsors",
+            "sponsors": [
+                {
+                    "title": "Commvault",
+                    "link": "http://www.commvault.com/",
+                    "image": "/assets/img/sponsors/commvault.png"
+                },
+                {
+                    "title": "Stevens Capital Management",
+                    "link": "http://scm-lp.com/",
+                    "image": "/assets/img/sponsors/scm.png"
+                }
+            ]
+        },
+        {
+            "title": "Silver Sponsors",
+            "sponsors": []
+        },
+        {
+            "title": "Bronze Sponsors",
+            "sponsors": [
+                {
+                    "title": "Backtrace",
+                    "link": "https://backtrace.io/",
+                    "image": "/assets/img/sponsors/backtrace.png"
+                },
+                {
+                    "title": "Bloomberg LLC",
+                    "link": "https://www.techatbloomberg.com/",
+                    "image": "/assets/img/sponsors/bloomberg.png"
+                },
+                {
+                    "title": "Cevelop",
+                    "link": "https://www.cevelop.com/",
+                    "image": "/assets/img/sponsors/cevelop.png"
+                },
+                {
+                    "title": "Ciere Consulting",
+                    "link": "http://ciere.com",
+                    "image": "/assets/img/sponsors/ciere.png"
+                }
+            ]
+        },
+        {
+            "title": "Video Sponsorship",
+            "sponsors": [
+                {
+                    "title": "JetBrains",
+                    "link": "http://www.jetbrains.com/",
+                    "image": "/assets/img/sponsors/jetbrains.png"
+                }
+            ]
+        }
+    ],
+    "individual": [
+        {
+            "title": "Gold Scholarship Sponsors",
+            "sponsors": [
+                {
+                    "name": "Jon and Kathleen Kalb",
+                    "info": "Jon Kalb <jonkalb@boost.org> until 2018-04-05"
+                }
+            ]
+        },
+        {
+            "title": "Silver Scholarship Sponsors",
+            "sponsors": [
+                {
+                    "disabled": true,
+                    "name": "Conan, C/C++ Package Manager",
+                    "info": "Diego Rodriguez-Losada <diego.rlosada@gmail.com> until 2017-04-06"
+                },
+                {
+                    "name": "Ali Çehreli",
+                    "info": "Ali Çehreli <acehreli@yahoo.com> until 2018-05-01"
+                },
+                {
+                    "name": "John Dubchak and Michele Hart",
+                    "info": "John Dubchak <john@johndubchak.com> until 2017-12-31"
+                }
+            ]
+        },
+        {
+            "title": "Bronze Scholarship Sponsors",
+            "sponsors": []
+        }
+    ]
+}

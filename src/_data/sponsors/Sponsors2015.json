@@ -1,0 +1,33 @@
+{
+    "corporate": [
+        {
+            "title": "Gold Sponsors",
+            "sponsors": []
+        },
+        {
+            "title": "Silver Sponsors",
+            "sponsors": []
+        },
+        {
+            "title": "Bronze Sponsors",
+            "sponsors": [
+                {
+                    "title": "Eventbrite",
+                    "link": "http://eventbrite.com/",
+                    "image": "/assets/img/sponsors/eventbrite.png"
+                }
+            ]
+        },
+        {
+            "title": "Video Sponsorship",
+            "sponsors": [
+                {
+                    "title": "Tripwire",
+                    "link": "https://www.tripwire.com/",
+                    "image": "/assets/img/sponsors/tripwire.png"
+                }
+            ]
+        }
+    ],
+    "individual": []
+}

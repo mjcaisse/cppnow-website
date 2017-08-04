@@ -10,7 +10,7 @@ Please enjoy all available videos and slides from talks, keynotes, and tutorials
 * [Playlist of 2015 Session Talks](https://www.youtube.com/playlist?list=PL_AKIMJc4roX665MVPoqbzHVZFMBzgytT)
 * [Additional Slides and Resources](https://github.com/boostcon/cppnow_presentations_2015)
 
-{% for item in site.data.Talks2015 %}
+{% for item in site.data.talks.Talks2015 %}
 <div class="panelBox">
     <h3>{{item.title | xml_escape}}</h3>
     <p>

@@ -17,43 +17,8 @@ TODO: summary of 2016's convention.
 
 
 
-## Corporate Sponsors
+{% assign DATA = site.data.sponsors.Sponsors2016 %}
 
+{% include corporateSponsorListing.md %}
 
-### Bronze Sponsors
-
-<a href="http://ciere.com" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/sponsors/ciere.png" class="sImage" alt="Ciere Consulting">
-</a>
-
-<a href="http://eventbrite.com/" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/sponsors/eventbrite.png" class="sImage" alt="Eventbrite">
-</a>
-
-<a href="http://www.jetbrains.com/" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/sponsors/jetbrains.png" class="sImage" alt="JetBrains">
-</a>
-
-<a href="https://www.tripwire.com/" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/sponsors/tripwire.png" class="sImage" alt="Tripwire">
-</a>
-
-
-### Video Sponsorship
-
-<a href="https://www.tripwire.com/" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/sponsors/tripwire.png" class="sImage" alt="Tripwire">
-</a>
-
-
-
-## Individual Sponsors
-
-### Gold Scholarship Sponsors
-
-* Jon Kalb
-* Kathleen Kalb
-
-### Silver Scholarship Sponsors
-
-* Conan, C/C++ Package Manager
+{% include individualSponsorListing.md %}

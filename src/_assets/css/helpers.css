@@ -30,6 +30,10 @@
     }
 }
 
+.block {
+    display: block;
+}
+
 .nowrap {
     white-space: nowrap;
 }
@@ -55,6 +59,6 @@
     overflow: hidden;
 }
 
-.hide {
+.hide.hide.hide.hide.hide {
     display: none;
 }

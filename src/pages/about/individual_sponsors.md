@@ -7,19 +7,10 @@ section: about
 
 For individuals, C++Now offers the Boost Scholarship Sponsorship in support of the Boost Scholarship Fund. [Corporate Sponsorships](/about/corporate_sponsors/) are also available.
 
-### Gold Scholarship Sponsors
 
-There are no Gold Scholarship Sponsors for C++Now 2018 yet. Be the first by donating on the form below!
+{% assign DATA = site.data.sponsors.Sponsors2018 %}
 
-
-### Silver Scholarship Sponsors
-
-There are no Silver Scholarship Sponsors for C++Now 2018 yet. Be the first by donating on the form below!
-
-
-### Bronze Scholarship Sponsors
-
-There are no Bronze Scholarship Sponsors for C++Now 2018 yet. Be the first by donating on the form below!
+{% include individualSponsorListing.md %}
 
 
 ## Boost Scholarship Fund

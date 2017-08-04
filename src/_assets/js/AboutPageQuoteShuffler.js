@@ -1,8 +1,9 @@
 (function() {
     var quotes = [
         ['With a welcoming, collaborative, and ruthlessly technical atmosphere, C++Now caters to library designers, compiler nerds, mailing list junkies, and anyone interested in pushing the envelope of what is possible in modern C++. This is the coolest tech conference in the world.', 'Barrett Adair', 'May 20th, 2017'],
+        ['C++Now is always inspiring me in new ways. But also, due its unique location giving me lots of new insights and conversations I could have no where else.', 'Jens Weller', ''],
+        ['I have attended C++ Now every year since the inaugural 2012 conference. It certainly has been the high point of my professional calendar every year. No where else can you mingle with best and the brightest of C++ world. Every year I have brought something back that was immediately usable in my daily work. The venue and conference organization is superb. I am already looking forward to next year.', 'Gwendolyn Hunt', 'Principal Software Engineer; Cedexis, Inc.'],
 
-        ['Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.', 'Frances Weaver', 'Aliquam Tincidunt Mauris'],
         ['Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.', 'Carlton Love', 'Vestibulum Auctor Dapibus'],
         ['Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.', 'Hattie Clayton', 'Nunc Dignissim Risus'],
         ['Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.', 'Iris King', 'Cras Ornare Tristique'],

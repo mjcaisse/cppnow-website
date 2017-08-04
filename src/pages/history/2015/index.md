@@ -16,18 +16,8 @@ TODO: summary of 2015's convention.
 
 
 
-## Corporate Sponsors
+{% assign DATA = site.data.sponsors.Sponsors2015 %}
 
+{% include corporateSponsorListing.md %}
 
-### Bronze Sponsors
-
-<a href="http://eventbrite.com/" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/sponsors/eventbrite.png" class="sImage" alt="Eventbrite">
-</a>
-
-
-### Video Sponsorship
-
-<a href="https://www.tripwire.com/" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/sponsors/tripwire.png" class="sImage" alt="Tripwire">
-</a>
+{% include individualSponsorListing.md %}
