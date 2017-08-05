@@ -4,6 +4,8 @@ title: "Announcing C++Now 2016"
 date: 2015-09-10
 permalink: /announcements/2015/09/conference-dates/
 section: announcements
+redirect_from:
+    - /announcements/2015/09/10/C++Now-2016.html
 ---
 
 ![Flowing Stream by Laurie Clow](/assets/img/posts/2015/FlowingStreamByLaurieClow.jpg "Flowing Stream by Laurie Clow")

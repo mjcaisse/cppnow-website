@@ -3,6 +3,8 @@ layout: page
 title: Contact
 permalink: /about/contact/
 section: about
+redirect_from:
+    - /contact/
 ---
 
 ### Conference Contact Emails

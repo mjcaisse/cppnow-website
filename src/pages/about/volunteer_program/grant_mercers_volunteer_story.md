@@ -3,6 +3,8 @@ layout: page
 title: Grant Mercer's Volunteer Story
 permalink: /about/volunteer_program/grant_mercers_volunteer_story/
 section: about
+redirect_from:
+    - /2013_volunteer_story_mercer/
 ---
 
 <div class="asideImageRight">

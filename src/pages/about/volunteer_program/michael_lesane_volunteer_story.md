@@ -3,6 +3,8 @@ layout: page
 title: Michael LeSane's Volunteer Story
 permalink: /about/volunteer_program/michael_lesane_volunteer_story/
 section: about
+redirect_from:
+    - /2013_volunteer_story_lesane/
 ---
 
 <div class="asideImageRight">

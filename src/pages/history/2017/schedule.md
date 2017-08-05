@@ -3,6 +3,8 @@ layout: schedule-page
 title: 2017 Schedule
 permalink: /history/2017/schedule/
 section: history
+redirect_from:
+    - /program-2017/
 ---
 
 <div><a id="sched-embed" href="http://cppnow2017.sched.org/">View the C++Now 2017 schedule</a></div>

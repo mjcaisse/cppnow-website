@@ -4,6 +4,8 @@ title: Announcing C++Now 2018
 date: 2017-05-27
 permalink: /announcements/2017/05/announcing-cpp-now-2018/
 section: announcements
+redirect_from:
+    - /2018-conference/announcements/2017/05/27/close-of-2017.html
 ---
 
 ![Award Winners](/assets/img/posts/2017/2017AwardWinners.jpg "Award Winners")

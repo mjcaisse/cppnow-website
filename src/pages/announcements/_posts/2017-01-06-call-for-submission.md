@@ -4,6 +4,8 @@ title: "Call For Submissions"
 date: 2017-01-06
 permalink: /announcements/2017/01/call-for-submission/
 section: announcements
+redirect_from:
+    - /2017-conference/announcements/2017/01/06/call-for-submission.html
 ---
 
 The C++Now 2017 Call For Submissions is open. We invite you to submit session proposals to the 6th annual C++Now Conference: C++Now 2017 (Aspen CO, USA, May 15 – 20, 2017).
@@ -63,7 +65,7 @@ We actively encourage tool vendors and ISP’s to submit proposals about product
 
 ### Submitting a Proposal
 
-All submissions should be made through our [submission page](/submissions/).
+All submissions should be made through our [submission page](/submission/).
 
 The conference schedule is based upon 90-minute sessions with breaks between. Shorter presentations will be grouped, when possible, to fill a 90 minute slot and longer presentations will be split across multiple sessions.
 

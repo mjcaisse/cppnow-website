@@ -3,6 +3,8 @@ layout: page
 title: Apply as Volunteer
 permalink: /about/volunteer_program/apply/
 section: about
+redirect_from:
+    - /student_volunteer_application/
 ---
 
 <!-- Applications will be accepted until March 20th, 2017. Application decisions will be sent out on March 27th, 2017. -->

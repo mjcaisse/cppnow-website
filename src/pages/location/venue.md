@@ -3,6 +3,8 @@ layout: page
 title: Venue
 permalink: /location/venue/
 section: location
+redirect_from:
+    - /meeting_site/
 ---
 
 ![Aspen Center for Physics by Zoetica Ebb](/assets/img/location/AspenCenterForPhysicsByZoeticaEbb.jpg "Aspen Center for Physics by Zoetica Ebb")<br>

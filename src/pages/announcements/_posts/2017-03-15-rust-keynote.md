@@ -4,6 +4,8 @@ title: "2017 Keynote - Niko Matsakis - Rust: Hack Without fear!"
 date: 2017-03-15
 permalink: /announcements/2017/03/rust-keynote/
 section: announcements
+redirect_from:
+    - /2017-conference/announcements/2017/03/15/rust-keynote.html
 ---
 
 At C++Now, we love to challenge the status quo.

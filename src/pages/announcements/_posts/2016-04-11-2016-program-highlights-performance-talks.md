@@ -4,6 +4,8 @@ title: "2016 Program Highlights: Performance Talks"
 date: 2016-04-11
 permalink: /announcements/2016/04/2016-program-highlights-performance-talks/
 section: announcements
+redirect_from:
+    - /2016-conference/announcements/2016/04/11/program-highlights-performance-talks.html
 ---
 
 Performance and efficiency are always big themes at C++Now. This year is no 

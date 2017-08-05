@@ -32,6 +32,10 @@
                 "link": "/about/faq/"
             },
             {
+                "title": "Staff",
+                "link": "/about/staff/",
+            },
+            {
                 "title": "Contact",
                 "link": "/about/contact/"
             }

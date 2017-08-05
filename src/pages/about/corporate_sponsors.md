@@ -3,6 +3,8 @@ layout: page
 title: Corporate Sponsors
 permalink: /about/corporate_sponsors/
 section: about
+redirect_from:
+    - /sponsors/
 ---
 
 Email [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org) for a copy of the C++Now Corporate Sponsorship Prospectus. [Individual Sponsorships](/about/individual_sponsors/) are also available.

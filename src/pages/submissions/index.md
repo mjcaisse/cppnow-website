@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Submissions
-permalink: /submissions/
-section: submissions
+title: Submit Session
+permalink: /submission/
+section: submission
 ---
 
 TODO

@@ -18,7 +18,8 @@ email: admin@ciere.com
 description: > # this means to ignore newlines until "baseurl:"
     A gathering of C++ experts and enthusiasts from around the world in beautiful Aspen, Colorado.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cppnow.org" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "https://cppnow.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://localhost:4000"
 locale: en_US
 twitter_username: cppnow
 github_username:  boostcon
@@ -49,8 +50,10 @@ markdown: kramdown
 gems:
   - jekyll-feed
   - jekyll-paginate-v2
+  - jekyll-redirect-from
 
 # Year Data Config
 current_year: 2018
 current_year_start_date: "May 6, 2018"
 current_year_end_date: "May 11, 2018"
+registration_time: "4PM on Monday, May 15th"

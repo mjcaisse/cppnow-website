@@ -3,6 +3,8 @@ layout: page
 title: Alexander Duchene's Volunteer Story
 permalink: /about/volunteer_program/alexander_duchene_volunteer_story/
 section: about
+redirect_from:
+    - /2013_volunteer_story_duchene/
 ---
 
 <div class="asideImageRight">

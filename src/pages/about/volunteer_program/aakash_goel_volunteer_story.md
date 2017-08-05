@@ -3,6 +3,8 @@ layout: page
 title: Aakash Goel's Volunteer Story
 permalink: /about/volunteer_program/aakash_goel_volunteer_story/
 section: about
+redirect_from:
+    - /2013_volunteer_story_goel/
 ---
 
 <div class="asideImageRight">

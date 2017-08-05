@@ -3,6 +3,8 @@ layout: page
 title: Volunteer/Student Program
 permalink: /about/volunteer_program/
 section: about
+redirect_from:
+    - /student_volunteer_program/
 ---
 
 ![Volunteers 2016 by Zoetica Ebb](/assets/img/volunteers/Volunteers2016.jpg "Volunteers 2016 by Zoetica Ebb")<br>

@@ -3,6 +3,9 @@ layout: page
 title: Frequently Asked Questions
 permalink: /about/faq/
 section: about
+redirect_from:
+    - /attendee_faq/
+    - /speaker_faq/
 ---
 
 [Attendee FAQ](#attendee-faq) • [Submitter FAQ](#submitter-faq) • [Speaker FAQ](#speaker-faq)

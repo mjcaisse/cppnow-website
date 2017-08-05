@@ -4,6 +4,8 @@ title: "2017 Keynote - Ryan Newton - Haskell Taketh Away: Limiting Side Effects 
 date: 2017-04-12
 permalink: /announcements/2017/04/haskell-keynote/
 section: announcements
+redirect_from:
+    - /2017-conference/announcements/2017/04/12/haskell-keynote.html
 ---
 
 We are announcing the final of this year's three keynotes, all speaking on the theme:

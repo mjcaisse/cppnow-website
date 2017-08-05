@@ -3,6 +3,8 @@ layout: page
 title: Dining
 permalink: /location/dining/
 section: location
+redirect_from:
+    - /meals/
 ---
 
 ![Library Break by Zoetica Ebb](/assets/img/location/LibraryBreakByZoeticaEbb.jpg "Library Break by Zoetica Ebb")<br>

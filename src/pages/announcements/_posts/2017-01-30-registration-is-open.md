@@ -4,6 +4,8 @@ title: "Registration is Open"
 date: 2017-01-30
 permalink: /announcements/2017/01/registration-is-open/
 section: announcements
+redirect_from:
+    - /2017-conference/announcements/2017/01/30/registration-is-open.html
 ---
 
 Registration for C++Now 2017 is open!

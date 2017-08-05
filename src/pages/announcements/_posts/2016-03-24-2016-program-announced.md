@@ -4,6 +4,8 @@ title: 2016 Program Announced
 date: 2016-03-24
 permalink: /announcements/2017/03/2016-program-announced/
 section: announcements
+redirect_from:
+    - /2016-conference/announcements/2016/03/24/program-announced.html
 ---
 
 The [C++Now 2016 program](/history/2016/schedule/) is now online.

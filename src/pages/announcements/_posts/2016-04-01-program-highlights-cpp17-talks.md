@@ -4,6 +4,8 @@ title: "2016 Program Highlights: C++17 Talks"
 date: 2016-04-01
 permalink: /announcements/2016/04/program-highlights-cpp17-talks/
 section: announcements
+redirect_from:
+    - /2016-conference/announcements/2016/04/01/program-highlights-cpp17-talks.html
 ---
 
 One of the major topics of this year's program will be the C++17 standard which

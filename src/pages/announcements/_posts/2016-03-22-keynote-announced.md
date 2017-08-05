@@ -4,6 +4,8 @@ title: "2016 Keynote: Sean Parent"
 date: 2016-03-22
 permalink: /announcements/2017/03/keynote-announced/
 section: announcements
+redirect_from:
+    - /2016-conference/announcements/2016/03/22/keynote-announced.html
 ---
 
 C++Now is a very forward-looking conference. It's focused on cutting edge techniques that take advantage of the latest features of Standard C++ to see today what the libraries that we'll all be using tomorrow will look like.

@@ -4,6 +4,8 @@ title: JetBrains to Sponsor Bash Films as Videographers for C++Now 2017
 date: 2017-03-11
 permalink: /announcements/2017/03/video-sponsorship/
 section: announcements
+redirect_from:
+    - /2017-conference/announcements/2017/03/11/video-sponsorship.html
 ---
 
 With top presenters in the C++ community and its ninety-minute format, C++Now has been the leader in cutting-edge, in-depth sessions on how to get the most from C++. For 2017, Boost has joined with JetBrains, the C++Now 2017 Video Sponsor, and Bash Films, the award-winning media production company that has set the standard for technical recordings in our industry, to provide C++Now 2017 session recordings at the highest level of quality available.

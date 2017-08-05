@@ -3,6 +3,8 @@ layout: page
 title: Transportation
 permalink: /location/transportation/
 section: location
+redirect_from:
+    - /ride_share/
 ---
 
 [Aspen](https://en.wikipedia.org/wiki/Aspen,_Colorado) is a compact town, and the [conference venue](http://www.aspenphys.org/) and [hotel](https://www.aspenmeadows.com/) are within walking distance of downtown shops and restaurants. However, for other transportation needs, there are several options.

@@ -4,6 +4,8 @@ title: 2017 Program Announced
 date: 2017-03-21
 permalink: /announcements/2017/03/2017-program-announced/
 section: announcements
+redirect_from:
+    - /2017-conference/announcements/2017/03/21/program-announced.html
 ---
 
 The complete [Program for C++Now 2017](http://localhost:4000/history/2017/schedule/) is now available.

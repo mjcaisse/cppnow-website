@@ -4,6 +4,8 @@ title: Accepting Student/Volunteer Applications
 date: 2016-02-23
 permalink: /announcements/2017/02/student-volunteer-program-accepting-applications/
 section: announcements
+redirect_from:
+    - /2016-conference/announcements/2016/02/23/student-volunteer-program-accepting-applications.html
 ---
 
 It is my pleasure to announce the fourth year of the C++Now Student/Volunteer program! We are again inviting students with an interest in C++ to attend the May 9-14, 2016 conference in Aspen, CO as Student/Volunteers.

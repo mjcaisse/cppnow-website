@@ -3,6 +3,8 @@ layout: page
 title: C++Now 2017
 permalink: /history/2017/
 section: history
+redirect_from:
+    - /speakers-2017/
 ---
 
 TODO: summary of 2017's convention.
