@@ -5,4 +5,4 @@ permalink: /submission/
 section: submission
 ---
 
-TODO
+TODO: Build form for accepting submissions.

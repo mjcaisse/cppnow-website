@@ -45,23 +45,4 @@ Mild-mannered black bears live in the area. Food trash must be locked in the bea
 
 ### Bike Rental
 
-Bicycles are available for rent. The fee is $75/week.
-
-#### Picking up a Bike
-
-1. Bikes are on the west side of Bethe Hall.
-2. Pick out the bike you wish to use.
-3. Note the number on the bar of the bike.
-4. Pay your $75/week fee at the front desk of Smart Hall.
-5. Sign a bike release form.
-
-After these steps, you will recieve the bike lock combination.
-
-#### Bike Safety
-
-* Please keep your bike locked at all times you are not riding it. When at the Physics Center, use the bike rack near the parking lot.
-* Please wear a helmet. Helmets can be borrowed from the supply on the right side of the Stranahan front porch.
-
-#### Returning a Bike
-
-Before departing, please return and lock your bike in clean and well-working condition to the bike rack near the parking lot.
+Bicycles are available to rent from the [Aspen Center for Physics](https://www.aspenphys.org/) for $75 per week. Check the [Transportation Page](/location/transportation/#bike-rental) for more information.

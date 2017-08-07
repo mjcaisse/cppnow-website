@@ -11,7 +11,7 @@ redirect_from:
 
 ### Dining in Aspen
 
-In town you'll find a wide variety of dining options, from casual bar food and award winning vegan cuisine to world-class gourmet restaurants. Click here for a recent, rated listing of Aspen restaurants.
+In town you'll find a wide variety of dining options, from casual bar food and award winning vegan cuisine to world-class gourmet restaurants. Visit [Eat Aspen](http://eataspen.com/) for a recent, rated listing of Aspen restaurants.
 
 ### Nightlife
 
