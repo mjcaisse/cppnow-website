@@ -34,6 +34,10 @@
     display: block;
 }
 
+.right {
+    float: right;
+}
+
 .nowrap {
     white-space: nowrap;
 }
@@ -48,6 +52,18 @@
 
 .mb0.mb0.mb0.mb0.mb0 {
     margin-bottom: 0;
+}
+
+.mb16 {
+    margin-bottom: 16px;
+}
+
+.mt16 {
+    margin-top: 16px;
+}
+
+.mt4 {
+    margin-top: 4px;
 }
 
 .visuallyhide {

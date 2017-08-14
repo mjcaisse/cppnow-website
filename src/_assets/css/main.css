@@ -15,5 +15,6 @@
 @import 'components/asideImage';
 @import 'components/panelBox';
 @import 'components/sponsors';
+@import 'components/homeBoxes';
 
 @import 'helpers';

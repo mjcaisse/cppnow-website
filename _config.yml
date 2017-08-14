@@ -56,4 +56,7 @@ gems:
 current_year: 2018
 current_year_start_date: "May 6, 2018"
 current_year_end_date: "May 11, 2018"
+current_year_start_date_formatted: "2018-05-06"
+current_year_end_date_formatted: "2018-05-11"
 registration_time: "4PM on Monday, May 15th"
+

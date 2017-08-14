@@ -7,9 +7,16 @@
   "author": "Dwight House",
   "license": "MIT",
   "devDependencies": {
+    "babel-preset-es2015": "6.24.1",
+    "babel-preset-react": "6.24.1",
+    "babelify": "7.3.0",
     "browser-sync": "2.18.12",
+    "browserify": "14.4.0",
+    "bundle-collapser": "1.2.1",
     "cssnano": "3.10.0",
     "del": "3.0.0",
+    "envify": "4.1.0",
+    "event-stream": "3.3.4",
     "glob": "7.1.2",
     "gulp": "3.9.1",
     "gulp-hash-filename": "1.2.0",
@@ -26,6 +33,14 @@
     "postcss-nested": "2.0.2",
     "postcss-sorting": "3.0.0",
     "postcss-utilities": "0.7.0",
-    "run-sequence": "1.2.2"
+    "run-sequence": "1.2.2",
+    "stream": "0.0.2",
+    "vinyl-buffer": "1.0.0",
+    "vinyl-source-stream": "1.1.0"
+  },
+  "dependencies": {
+    "react": "15.6.1",
+    "react-dom": "15.6.1",
+    "seamless-immutable": "7.1.2"
   }
 }

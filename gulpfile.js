@@ -9,7 +9,8 @@ const gulp = require('gulp');
 const gulpWatch = require('gulp-watch');
 const html = require('./build/html');
 const img = require('./build/img');
-const js = require('./build/js');
+const jsBasic = require('./build/jsBasic');
+const jsForms = require('./build/jsForms');
 const runSequence = require('run-sequence');
 const uploads = require('./build/uploads');
 
@@ -24,13 +25,22 @@ const paths = {
     cssMain: './src/_assets/css/main.css',
     cssBuild: './_temp/assets/assets/css',
     jsSrc: './src/_assets/js',
+    jsFormSrc: './src/_assets/js/forms',
     jsBuild: './_temp/assets/assets/js',
+    jsFormBuild: './_temp/assets/assets/js/forms',
     allTemp: './_temp',
     jekyllTemp: './_temp/jekyll',
     assetsTemp: './_temp/assets',
     dist: './dist',
     assetsDist: './dist/assets',
 };
+
+paths.jsFormEntries = [
+    {
+        src: `${paths.jsFormSrc}/Submission.js`,
+        filename: 'Submission.js',
+    },
+];
 
 const jekyll = process.platform === 'win32' ? 'jekyll.bat' : 'jekyll';
 
@@ -121,23 +131,54 @@ gulp.task('cssProd', (end) => {
 
 
 
-gulp.task('jsDev', () => {
-    return js({
-        src: `${paths.jsSrc}/**/*.js`,
+gulp.task('jsBasicDev', () => {
+    return jsBasic({
+        src: [
+            `${paths.jsSrc}/**/*.js`,
+            `!${paths.jsFormSrc}/**/*.js`
+        ],
         dest: paths.jsBuild,
         minify: false,
         hash: false,
     });
 });
 
-gulp.task('jsProd', () => {
-    return js({
-        src: `${paths.jsSrc}/**/*.js`,
+gulp.task('jsBasicProd', () => {
+    return jsBasic({
+        src: [
+            `${paths.jsSrc}/**/*.js`,
+            `!${paths.jsFormSrc}/**/*.js`
+        ],
         dest: paths.jsBuild,
         minify: true,
         hash: true,
     });
 });
+
+gulp.task('jsFormsDev', () => {
+    return jsForms({
+        entries: paths.jsFormEntries,
+        paths: [paths.jsFormSrc],
+        dest: paths.jsFormBuild,
+        env: 'development',
+        createSourcemaps: true,
+        minify: false,
+        hash: false,
+    });
+});
+
+gulp.task('jsFormsProd', () => {
+    return jsForms({
+        entries: paths.jsFormEntries,
+        paths: [paths.jsFormSrc],
+        dest: paths.jsFormBuild,
+        env: 'production',
+        createSourcemaps: false,
+        minify: true,
+        hash: true,
+    });
+});
+
 
 
 
@@ -209,7 +250,7 @@ gulp.task('dev', (end) => {
         ['cleanTemp', 'cleanDist'],
         'jekyll',
         ['imgDev', 'uploadsDev'],
-        ['cssDev', 'jsDev'],
+        ['cssDev', 'jsBasicDev', 'jsFormsDev'],
         ['htmlDev', 'nonHtmlMove'],
         end
     );
@@ -220,7 +261,7 @@ gulp.task('prod', (end) => {
         ['cleanTemp', 'cleanDist'],
         'jekyll',
         ['imgProd', 'uploadsProd'],
-        ['cssProd', 'jsProd'],
+        ['cssProd', 'jsBasicProd', 'jsFormsProd'],
         ['htmlProd', 'nonHtmlMove'],
         'cleanTemp',
         end
@@ -290,7 +331,7 @@ gulp.task('jsWatch', () => {
         `${paths.jsSrc}/**/*.js`,
     ], () => {
         runSequence(
-            'jsDev',
+            ['jsBasicDev', 'jsFormsDev'],
             'htmlDev',
             () => {}
         );

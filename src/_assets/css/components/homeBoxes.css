@@ -1,0 +1,55 @@
+.homeBoxes {
+    margin-bottom: 16px;
+    display: flex;
+
+    .homeBoxesLeft {
+        margin-right: 16px;
+        flex: 1;
+    }
+
+    .homeBoxesRight {
+        margin-left: 16px;
+        flex: 1;
+    }
+
+    .homeBoxesTitle {
+        margin: 8px 0 4px 0;
+        position: relative;
+        border-radius: 8px;
+        overflow: hidden;
+        display: block;
+
+        img {
+            width: 100%;
+            display: block;
+        }
+
+        h2 {
+            margin: 0;
+            display: block;
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background-color: rgba(255, 255, 255, 0.8);
+            text-align: center;
+            font-size: 36px;
+            line-height: 48px;
+        }
+    }
+}
+
+@media (--mobileOnly) {
+    .homeBoxes {
+        margin-bottom: 0;
+        display: block;
+
+        .homeBoxesLeft {
+            margin-right: 0;
+        }
+
+        .homeBoxesRight {
+            margin-left: 0;
+        }
+    }
+}
