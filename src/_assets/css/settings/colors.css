@@ -2,6 +2,7 @@
     --baseTextColor: #222;
     --buttonTextColor: #fff;
     --midGreyColor: #656565;
+    --lightGreyColor: #95a5a6;
 
     --primaryColor: #1abc9c;
     --secondaryColor: #16a085;
@@ -16,4 +17,7 @@
     --navBackgroundColor: #1abc9c;
     --subnavBackgroundColor: #16a085;
     --navTextColor: #fff;
+
+    --deepBlue: #34495e;
+    --deepestBlue: #2c3e50;
 }

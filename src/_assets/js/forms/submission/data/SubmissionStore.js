@@ -1,11 +1,14 @@
+const _assign = require('lodash/assign');
 const _each = require('lodash/each');
 const _get = require('lodash/get');
 const _isEmpty = require('lodash/isEmpty');
 const _some = require('lodash/some');
 const _uniqueId = require('lodash/uniqueId');
+const EditorState = require('draft-js').EditorState;
 const emailError = require('utils/emailError');
 const im = require('seamless-immutable');
 const ImmutableStoreTools = require('utils/ImmutableStoreTools');
+const KeyMutableStore = require('utils/KeyedMutableStore');
 
 const storeSetAt = ImmutableStoreTools.storeSetAt;
 
@@ -34,7 +37,7 @@ let store = im({
             tags: '',
             type: '',
             customType: '',
-            description: '',
+            description: _assign({ focusCount: -1 }, KeyMutableStore.create(EditorState.createEmpty())),
             minimumLength: 90,
             preferredLength: 90,
             maximumLength: 90,
@@ -183,7 +186,7 @@ function validateSubmission() {
     store = storeSetAt(store, `top.submission.errors.tags`, _isEmpty(store.top.submission.tags) ? 'Required' : '');
     store = storeSetAt(store, `top.submission.errors.type`, _isEmpty(store.top.submission.type) ? 'Required' : '');
     store = storeSetAt(store, `top.submission.errors.customType`, store.top.submission.type === 'custom' && _isEmpty(store.top.submission.customType) ? 'Required' : '');
-    store = storeSetAt(store, `top.submission.errors.description`, _isEmpty(store.top.submission.description) ? 'Required' : '');
+    // store = storeSetAt(store, `top.submission.errors.description`, _isEmpty(store.top.submission.description) ? 'Required' : '');
 
     const lengths = validateLengths(store.top.submission.preferredLength, store.top.submission.minimumLength, store.top.submission.maximumLength);
     store = storeSetAt(store, `top.submission.errors.preferredLength`, lengths[0]);

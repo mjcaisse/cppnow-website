@@ -1,5 +1,7 @@
 const _isEmpty = require('lodash/isEmpty');
+const KeyMutableStore = require('utils/KeyedMutableStore');
 const React = require('react');
+const RichTextField = require('components/RichTextField');
 const Select = require('components/Select');
 const SessionLengthList = require('submission/data/SessionLengthList');
 const SessionTypeList = require('submission/data/SessionTypeList');
@@ -13,6 +15,7 @@ class SubmissionInfo extends React.PureComponent {
         this.onSelectType = this.onSelectType.bind(this);
         this.onChangeCustomType = this.onChangeCustomType.bind(this);
         this.onChangeDescription = this.onChangeDescription.bind(this);
+        this.onSetFocusDescription = this.onSetFocusDescription.bind(this);
 
         this.onSelectMinimumLength = this.onSelectMinimumLength.bind(this);
         this.onSelectPreferredLength = this.onSelectPreferredLength.bind(this);
@@ -40,8 +43,23 @@ class SubmissionInfo extends React.PureComponent {
         this.props.setAt(`${this.props.path}.customType`, e.target.value);
     }
 
-    onChangeDescription(e) {
-        this.props.setAt(`${this.props.path}.description`, e.target.value);
+    onChangeDescription(editorState, shouldFocus) {
+        const changes = {};
+
+        if (editorState !== KeyMutableStore.getAt(this.props.state.description.key)) {
+            this.props.setAt(`${this.props.path}.description.setCount`, KeyMutableStore.setAt(this.props.state.description.key, editorState));
+        }
+
+        if (shouldFocus) {
+            changes[`${this.props.path}.description.focusCount`] = this.props.state.description.focusCount + 1;
+        }
+
+        if (!_isEmpty(changes)) {
+            this.props.setAt(changes);
+        }
+    }
+    onSetFocusDescription(isFocused) {
+        this.props.setAt(`${this.props.path}.description.focusCount`, isFocused ? this.props.state.description.focusCount + 1 : -1);
     }
 
     onSelectMinimumLength(selection) {
@@ -146,7 +164,12 @@ class SubmissionInfo extends React.PureComponent {
                             {state.errors.description}
                         </span>
                     </label>
-                    <textarea value={state.description} onChange={this.onChangeDescription} className={_isEmpty(state.errors.description) ? 'textarea' : 'textareaError'} rows="4" tabIndex="0" type="text" />
+                    <RichTextField
+                        state={KeyMutableStore.getAt(state.description.key)}
+                        focusCount={state.description.focusCount}
+                        onChange={this.onChangeDescription}
+                        onSetFocus={this.onSetFocusDescription}
+                        error={!_isEmpty(state.errors.description)} />
                     <div className="greyText mt4">
                         As it should appear in the program. About one to three paragraphs.
                         <br />
