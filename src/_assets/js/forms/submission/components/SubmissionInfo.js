@@ -166,6 +166,7 @@ class SubmissionInfo extends React.PureComponent {
                     </label>
                     <RichTextField
                         state={KeyMutableStore.getAt(state.description.key)}
+                        currentUrl={state.description.currentUrl}
                         focusCount={state.description.focusCount}
                         onChange={this.onChangeDescription}
                         onSetFocus={this.onSetFocusDescription}

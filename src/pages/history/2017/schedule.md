@@ -7,6 +7,6 @@ redirect_from:
     - /program-2017/
 ---
 
-<div><a id="sched-embed" href="http://cppnow2017.sched.org/">View the C++Now 2017 schedule</a></div>
+<div><a id="sched-embed" href="https://cppnow2017.sched.org/">View the C++Now 2017 schedule</a></div>
 
-<script src="http://cppnow2017.sched.org/js/embed.js"></script>
+<script src="https://cppnow2017.sched.org/js/embed.js"></script>

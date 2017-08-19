@@ -61,7 +61,7 @@
 .select {
     border: 2px solid var(--midGreyColor);
     border-radius: 8px;
-    height: 40px;
+    height: 42px;
     font-size: 18px;
     display: inline-block;
 
@@ -75,7 +75,7 @@
 .selectError {
     border: 2px solid var(--dangerColor);
     border-radius: 8px;
-    height: 40px;
+    height: 42px;
     font-size: 18px;
     display: inline-block;
     color: var(--dangerColor);
@@ -92,7 +92,7 @@
     padding-right: 8px;
     border: 2px solid var(--midGreyColor);
     border-radius: 8px;
-    height: 40px;
+    height: 42px;
     font-size: 18px;
     display: block;
     width: 100%;
@@ -109,7 +109,7 @@
     padding-right: 8px;
     border: 2px solid var(--dangerColor);
     border-radius: 8px;
-    height: 40px;
+    height: 42px;
     font-size: 18px;
     display: block;
     width: 100%;
@@ -193,7 +193,6 @@
     display: block;
     font-size: 18px;
     width: 100%;
-    overflow: hidden;
 
     transition: border-color 0.2s ease-in-out;
 }
@@ -209,23 +208,23 @@
 
 .richTextTop {
     margin-bottom: 12px;
-    padding-left: 4px;
-    padding-right: 4px;
+    padding: 4px 4px 0 4px;
     border-bottom: 1px solid var(--lightGreyColor);
+    position: relative;
 }
 
 .richTextButtons {
+    margin-bottom: -12px;
     margin-right: -16px;
-    margin-bottom: -16px;
-    padding-bottom: 8px;
+    padding-bottom: 12px;
     display: flex;
     flex-wrap: wrap;
 }
 
 .richTextButton {
-    margin-bottom: 16px;
+    margin-bottom: 12px;
     margin-right: 16px;
-    padding: 4px 0;
+    padding: 0;
     font-weight: normal;
     font-size: 16px;
     line-height: 18px;
@@ -278,7 +277,61 @@
     }
 }
 
+.richTextLinkBoxWrapper {
+    padding-bottom: 14px;
+    position: absolute;
+    bottom: 100%;
+    width: 450px;
+    right: -10px;
+    max-width: 80%;
+    min-width: 50%;
 
+    &:before {
+        content: '';
+        display: block;
+        position: absolute;
+        bottom: 0;
+        right: 18px;
+        width: 0;
+        height: 0;
+        border-left: 12px solid transparent;
+        border-right: 12px solid transparent;
+        border-top: 16px solid var(--midGreyColor);
+    }
 
+    &:after {
+        content: '';
+        display: block;
+        position: absolute;
+        bottom: 3px;
+        right: 18px;
+        width: 0;
+        height: 0;
+        border-left: 12px solid transparent;
+        border-right: 12px solid transparent;
+        border-top: 16px solid #fff;
+    }
+}
+
+.richTextLinkBox {
+    padding: 8px;
+    border: 2px solid var(--midGreyColor);
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+.richTextLinkButtons {
+    padding-top: 4px;
+    text-align: right;
+}
+
+.richTextLinkButton {}
+
+@media (--mobileOnly) {
+    .richTextLinkButton {
+        padding: 12px 8px;
+        font-size: 16px;
+    }
+}
 
 

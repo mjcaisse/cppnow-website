@@ -227,7 +227,7 @@ gulp.task('serve', () => {
             '!./**/.*',
         ],
         ghostMode: false,
-        reloadDebounce: 600,
+        reloadDebounce: 2000,
         port: 4000,
         server: {
             baseDir: paths.dist,
