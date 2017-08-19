@@ -14,8 +14,6 @@ class SubmissionInfo extends React.PureComponent {
         this.onChangeTags = this.onChangeTags.bind(this);
         this.onSelectType = this.onSelectType.bind(this);
         this.onChangeCustomType = this.onChangeCustomType.bind(this);
-        this.onChangeDescription = this.onChangeDescription.bind(this);
-        this.onSetFocusDescription = this.onSetFocusDescription.bind(this);
 
         this.onSelectMinimumLength = this.onSelectMinimumLength.bind(this);
         this.onSelectPreferredLength = this.onSelectPreferredLength.bind(this);
@@ -41,25 +39,6 @@ class SubmissionInfo extends React.PureComponent {
     }
     onChangeCustomType(e) {
         this.props.setAt(`${this.props.path}.customType`, e.target.value);
-    }
-
-    onChangeDescription(editorState, shouldFocus) {
-        const changes = {};
-
-        if (editorState !== KeyMutableStore.getAt(this.props.state.description.key)) {
-            this.props.setAt(`${this.props.path}.description.setCount`, KeyMutableStore.setAt(this.props.state.description.key, editorState));
-        }
-
-        if (shouldFocus) {
-            changes[`${this.props.path}.description.focusCount`] = this.props.state.description.focusCount + 1;
-        }
-
-        if (!_isEmpty(changes)) {
-            this.props.setAt(changes);
-        }
-    }
-    onSetFocusDescription(isFocused) {
-        this.props.setAt(`${this.props.path}.description.focusCount`, isFocused ? this.props.state.description.focusCount + 1 : -1);
     }
 
     onSelectMinimumLength(selection) {
@@ -165,11 +144,10 @@ class SubmissionInfo extends React.PureComponent {
                         </span>
                     </label>
                     <RichTextField
-                        state={KeyMutableStore.getAt(state.description.key)}
-                        currentUrl={state.description.currentUrl}
-                        focusCount={state.description.focusCount}
-                        onChange={this.onChangeDescription}
-                        onSetFocus={this.onSetFocusDescription}
+                        state={state.description}
+                        path={`${this.props.path}.description`}
+                        setAt={this.props.setAt}
+                        mutableStore={KeyMutableStore}
                         error={!_isEmpty(state.errors.description)} />
                     <div className="greyText mt4">
                         As it should appear in the program. About one to three paragraphs.

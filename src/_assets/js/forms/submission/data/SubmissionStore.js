@@ -10,9 +10,6 @@ const im = require('seamless-immutable');
 const ImmutableStoreTools = require('utils/ImmutableStoreTools');
 const KeyMutableStore = require('utils/KeyedMutableStore');
 
-const React = require('react');
-const CompositeDecorator = require('draft-js').CompositeDecorator;
-
 const storeSetAt = ImmutableStoreTools.storeSetAt;
 
 function createNewSpeaker() {
@@ -33,29 +30,6 @@ function createNewSpeaker() {
     };
 };
 
-function findLinkEntities(contentBlock, callback, contentState) {
-    contentBlock.findEntityRanges((character) => {
-        const entityKey = character.getEntity();
-        return (entityKey !== null && contentState.getEntity(entityKey).getType() === 'LINK');
-    }, callback);
-}
-
-const Link = (props) => {
-    const {url} = props.contentState.getEntity(props.entityKey).getData();
-    return (
-        <a href={url}>
-            {props.children}
-        </a>
-    );
-};
-
-const decorator = new CompositeDecorator([
-    {
-        strategy: findLinkEntities,
-        component: Link,
-    },
-]);
-
 let store = im({
     top: {
         submission: {
@@ -63,7 +37,7 @@ let store = im({
             tags: '',
             type: '',
             customType: '',
-            description: _assign({ currentUrl: '', focusCount: -1 }, KeyMutableStore.create(EditorState.createEmpty(decorator))),
+            description: {},
             minimumLength: 90,
             preferredLength: 90,
             maximumLength: 90,

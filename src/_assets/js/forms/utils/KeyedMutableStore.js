@@ -4,28 +4,19 @@ const store = {};
 
 const create = (mutable) => {
     const key = _uniqueId('mutable_');
-    store[key] = {
-        value: mutable,
-        setCount: 0,
-    };
-    return {
-        key: key,
-        setCount: 0,
-    };
+    store[key] = mutable;
+    return key;
 };
 
 const getAt = (key) => {
-    return store[key].value;
+    return store[key];
 };
 
 const setAt = (key, mutable) => {
-    if (mutable !== store[key].value) {
-        store[key].value = mutable;
-        store[key].setCount += 1;
+    if (mutable !== store[key]) {
+        store[key] = mutable;
     }
-
-    // Return a differing number for every legit set, so we know to update the UI
-    return store[key].setCount;
+    return mutable;
 };
 
 module.exports = {
