@@ -4,8 +4,6 @@ const insertAtFunc = (array, index, value) => array.slice(0, index).concat([valu
 const removeAtFunc = (array, index) => array.slice(0, index).concat(array.slice(index + 1));
 
 const push = (array, value) => array.concat([value]);
-const insertAt = insertAtFunc;
-const removeAt = removeAtFunc;
 const move = (array, fromIndex, toIndex) => {
     // Move to same location, ignore
     // Move from non-existant location, ignore

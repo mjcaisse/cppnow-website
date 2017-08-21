@@ -6,7 +6,6 @@ const glob = require('glob');
 const gulp = require('gulp');
 const gulpHtmlmin = require('gulp-htmlmin');
 const gulpReplace = require('gulp-replace');
-const path = require('path');
 
 const htmlminOptions = {
     collapseBooleanAttributes: true,

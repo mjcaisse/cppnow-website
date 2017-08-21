@@ -48,7 +48,6 @@ class ToTheProgramCommittee extends React.PureComponent {
                         </span>
                     </label>
                     <input value={state.sessionMaterial} onChange={this.onChangeSessionMaterial} className={_isEmpty(state.errors.sessionMaterial) ? 'input' : 'inputError'} tabIndex="0" type="text" />
-                    {state.sessionMaterial}
                     <div className="greyText mt4">List material that will be available for on-line distribution: (slides, source code, etc.)</div>
                 </div>
 

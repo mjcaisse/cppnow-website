@@ -55,8 +55,8 @@ module.exports = (options, end) => {
         stream = stream.pipe(postcss(postcssOptions));
         stream = stream.on('error', onerror);
 
-        stream = stream.pipe(gulpReplace(/url\s*\(\s*(?:(?:[^'"\s\)]+)|(?:'\s*[^\s'\)]+\s*')|(?:"\s*[^\s"\)]+\s*"))\s*\)/g, (match) => {
-            return match.replace(/(?:(url\s*\(\s*(?:'|")?\s*)([^'"\s\)]+)(\s*(?:'|")?\s*\)))/g, (match, start, ref, end) => {
+        stream = stream.pipe(gulpReplace(/url\s*\(\s*(?:(?:[^'"\s)]+)|(?:'\s*[^\s')]+\s*')|(?:"\s*[^\s")]+\s*"))\s*\)/g, (match) => {
+            return match.replace(/(?:(url\s*\(\s*(?:'|")?\s*)([^'"\s)]+)(\s*(?:'|")?\s*\)))/g, (match, start, ref, end) => {
                 return start + applyManifest(ref, manifest, options) + end;
             });
         }));

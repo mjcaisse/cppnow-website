@@ -18,7 +18,7 @@ class Link extends React.Component {
             </a>
         );
     }
-};
+}
 
 
 
@@ -51,30 +51,9 @@ const addUrlAtSelection = (state, url) => {
     return RichUtils.toggleLink(newEditorState, newEditorState.getSelection(), entityKey);
 };
 
-const getCurrentUrl = (state) => {
-    const selection = state.getSelection();
-    if (selection.isCollapsed()) {
-        return '';
-    }
-
-    const contentState = state.getCurrentContent();
-    const startKey = selection.getStartKey();
-    const startOffset = selection.getStartOffset();
-    const blockWithLinkAtBeginning = contentState.getBlockForKey(startKey);
-    const linkKey = blockWithLinkAtBeginning.getEntityAt(startOffset);
-
-    if (linkKey) {
-        const linkInstance = contentState.getEntity(linkKey);
-        return linkInstance.getData().url;
-    }
-
-    return '';
-};
-
 const getFirstUrlInSelection = (state) => {
     const selection = state.getSelection();
     const contentState = state.getCurrentContent();
-    const entityMap = contentState.getEntityMap();
 
     let currentUrl = '';
 
@@ -216,7 +195,7 @@ class RichTextField extends React.PureComponent {
         let newEditorState = RichUtils.toggleLink(editorState, selection, null);
 
         // Then create a link at selection using the current value of the link input
-        this.onChange(addUrlAtSelection(editorState, e.target.value));
+        this.onChange(addUrlAtSelection(newEditorState, e.target.value));
     }
     onClickRemoveLink() {
         const editorState = this.getEditorState();
@@ -231,7 +210,13 @@ class RichTextField extends React.PureComponent {
     }
 
     onFocus() {
-        this.props.setAt(`${this.props.path}.focusCount`, Math.max(1, this.props.state.focusCount + 1));
+        let focusCount = 1;
+
+        if (this.props.state.focusCount || this.props.state.focusCount === 0) {
+            focusCount = Math.max(1, this.props.state.focusCount + 1);
+        }
+
+        this.props.setAt(`${this.props.path}.focusCount`, focusCount);
     }
 
     onBlur() {

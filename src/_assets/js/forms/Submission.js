@@ -1,4 +1,3 @@
-const _map = require('lodash/map');
 const _some = require('lodash/some');
 const React = require('react');
 const ReactDOM = require('react-dom');
@@ -17,7 +16,8 @@ class App extends React.PureComponent {
 
         this.onSave = () => {
             // TODO
-            console.log('SAVE!')
+            console.log('onSave')
+            console.log(SubmissionStore.exportData());
         };
     }
 
@@ -52,12 +52,6 @@ class App extends React.PureComponent {
                     state={SubmissionStore.getAt('top.toTheProgramCommittee')}
                     path="top.toTheProgramCommittee"
                     setAt={SubmissionStore.setAt} />
-
-
-
-                <div className="mb16">
-                    TODO: Recaptcha
-                </div>
 
 
                 

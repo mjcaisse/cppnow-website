@@ -31,7 +31,7 @@ class Select extends React.PureComponent {
             this.props.onChange(e);
         }
 
-        const selectedIndex = this.refs.select.selectedIndex;
+        const selectedIndex = this.select.selectedIndex;
 
         if (selectedIndex === -1 || (this.props.showEmpty && selectedIndex === 0))
         {
@@ -46,11 +46,11 @@ class Select extends React.PureComponent {
     }
 
     render() {
-        const { choices, showEmpty, onSelect, onChange, sheet, classes } = this.props;
+        const { choices, showEmpty } = this.props;
         const other = _omit(this.props, ['choices', 'showEmpty', 'onSelect', 'onChange', 'sheet', 'classes']);
 
         return (
-            <select ref="select" onChange={this.onChange} {...other}>
+            <select ref={(select) => { this.select = select; }} onChange={this.onChange} {...other}>
                 {_compact([
                     (showEmpty ? (
                         <option value="" key="default">-- choose --</option>

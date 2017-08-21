@@ -6,7 +6,6 @@ const gulp = require('gulp');
 const gulpHashFilename = require('gulp-hash-filename');
 const gulpRename = require('gulp-rename');
 const gulpUglify = require('gulp-uglify');
-const readableStream = require('stream').Readable;
 const vinylBuffer = require('vinyl-buffer');
 const vinylSourceStream = require('vinyl-source-stream');
 

@@ -79,7 +79,7 @@ module.exports = (email) => {
 
     // Initial test for valid hostname characters, disregarding placement
     //   Only ASCII letters and numbers, dashes, and dots
-    if (!(/^[\dA-Za-z\-\.]+?$/).test(hostnamePart))
+    if (!(/^[\dA-Za-z\-.]+?$/).test(hostnamePart))
     {
         return 'Invalid characters found after the @ sign';
     }
@@ -108,7 +108,7 @@ module.exports = (email) => {
         // Inappropriately positioned dashes within dot-delimited sections
         //   Starts with dash
         //   Ends with dash
-        if ((/(?:^\-)|(?:\-$)/).test(hostnameSections[h]))
+        if ((/(?:^-)|(?:-$)/).test(hostnameSections[h]))
         {
             return 'After the @ sign, each dot-separated section cannot have dashes on the edges';
         }

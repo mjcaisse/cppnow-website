@@ -1,11 +1,11 @@
 'use strict';
 
-const _ = require('lodash');
 const browserSync = require('browser-sync').create();
 const cp = require('child_process');
 const css = require('./build/css');
 const del = require('del');
 const gulp = require('gulp');
+const gulpEslint = require('gulp-eslint');
 const gulpWatch = require('gulp-watch');
 const html = require('./build/html');
 const img = require('./build/img');
@@ -58,6 +58,15 @@ gulp.task('cleanDist', function() {
         `${paths.dist}/*.*`,
         `${paths.dist}/*`,
     ]);
+});
+
+
+
+gulp.task('lint', () => {
+    return gulp.src(['./src/**/*.js', './_build/**/*.js'])
+        .pipe(gulpEslint())
+        .pipe(gulpEslint.format())
+        .pipe(gulpEslint.failAfterError());
 });
 
 

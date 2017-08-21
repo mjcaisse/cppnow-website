@@ -31,8 +31,6 @@
     function dayDifference(a, b) {
         var HOUR_INCREMENT = 12;
 
-        var a = new Date();
-
         var untilYear = b.getFullYear();
         var untilMonth = b.getMonth();
         var untilDate = b.getDate();
@@ -87,5 +85,5 @@
     setDaysRemaining(countdown);
     setInterval(function() {
         setDaysRemaining(countdown);
-    }, 3.6e6);
+    }, MILLISECONDS_IN_HOUR);
 }());

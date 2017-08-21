@@ -1,14 +1,16 @@
-const _assign = require('lodash/assign');
+const _cloneDeep = require('lodash/cloneDeep');
 const _each = require('lodash/each');
 const _get = require('lodash/get');
 const _isEmpty = require('lodash/isEmpty');
+const _map = require('lodash/map');
+const _omit = require('lodash/omit');
 const _some = require('lodash/some');
 const _uniqueId = require('lodash/uniqueId');
-const EditorState = require('draft-js').EditorState;
 const emailError = require('utils/emailError');
 const im = require('seamless-immutable');
 const ImmutableStoreTools = require('utils/ImmutableStoreTools');
 const KeyMutableStore = require('utils/KeyedMutableStore');
+const stateToHTML = require('draft-js-export-html').stateToHTML;
 
 const storeSetAt = ImmutableStoreTools.storeSetAt;
 
@@ -28,7 +30,7 @@ function createNewSpeaker() {
             organization: '',
         },
     };
-};
+}
 
 let store = im({
     top: {
@@ -84,12 +86,10 @@ let store = im({
                 comments: '',
             },
         },
-        recaptcha: false,
         errors: {
             submission: '',
             speakers: '',
             toTheProgramCommittee: '',
-            recaptcha: '',
         },
     },
 });
@@ -182,11 +182,13 @@ function validateLengths(preferredLength, minimumLength, maximumLength) {
 }
 
 function validateSubmission() {
+    const editorState = KeyMutableStore.getAt(store.top.submission.description.mutableKey);
+
     store = storeSetAt(store, `top.submission.errors.title`, _isEmpty(store.top.submission.title) ? 'Required' : '');
     store = storeSetAt(store, `top.submission.errors.tags`, _isEmpty(store.top.submission.tags) ? 'Required' : '');
     store = storeSetAt(store, `top.submission.errors.type`, _isEmpty(store.top.submission.type) ? 'Required' : '');
     store = storeSetAt(store, `top.submission.errors.customType`, store.top.submission.type === 'custom' && _isEmpty(store.top.submission.customType) ? 'Required' : '');
-    // store = storeSetAt(store, `top.submission.errors.description`, _isEmpty(store.top.submission.description) ? 'Required' : '');
+    store = storeSetAt(store, `top.submission.errors.description`, editorState && editorState.getCurrentContent().hasText() ? '' : 'Required');
 
     const lengths = validateLengths(store.top.submission.preferredLength, store.top.submission.minimumLength, store.top.submission.maximumLength);
     store = storeSetAt(store, `top.submission.errors.preferredLength`, lengths[0]);
@@ -236,8 +238,6 @@ function validate() {
 
     const toTheProgramCommitteeHasErrors = validateToTheProgramCommittee();
     store = storeSetAt(store, `top.errors.toTheProgramCommittee`, toTheProgramCommitteeHasErrors ? 'Error in To the Program Committee section' : '');
-
-    store = storeSetAt(store, `top.errors.recaptcha`, !store.top.recaptcha ? 'Recaptcha required' : '');
 }
 
 const getAt = (path) => _get(store, path, void 0);
@@ -251,6 +251,22 @@ const setAt = (path, value) => {
     }
 };
 
+const exportData = () => {
+    const data = {
+        submission: _omit(store.top.submission, ['errors']),
+        speakers: _map(store.top.speakers.list, (speaker) => {
+            return _omit(speaker, ['id', 'errors']);
+        }),
+        toTheProgramCommittee: _omit(store.top.toTheProgramCommittee, ['errors']),
+    };
+
+    // Convert description to HTML
+    const editorState = KeyMutableStore.getAt(data.submission.description.mutableKey);
+    data.submission.description = stateToHTML(editorState.getCurrentContent());
+
+    return _cloneDeep(data);
+};
+
 // Startup
 validate();
 
@@ -260,4 +276,5 @@ module.exports = {
     getAt: getAt,
     setAt: setAt,
     createNewSpeaker: createNewSpeaker,
+    exportData: exportData,
 };
