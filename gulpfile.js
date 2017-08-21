@@ -37,8 +37,12 @@ const paths = {
 
 paths.jsFormEntries = [
     {
-        src: `${paths.jsFormSrc}/Submission.js`,
+        src: `${paths.jsFormSrc}/apps/submission/Submission.js`,
         filename: 'Submission.js',
+    },
+    {
+        src: `${paths.jsFormSrc}/apps/volunteerApplication/VolunteerApplication.js`,
+        filename: 'VolunteerApplication.js',
     },
 ];
 

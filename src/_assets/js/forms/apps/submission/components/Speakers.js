@@ -1,7 +1,7 @@
 const _map = require('lodash/map');
 const ImmutableTools = require('utils/ImmutableTools');
 const React = require('react');
-const Speaker = require('submission/components/Speaker');
+const Speaker = require('apps/submission/components/Speaker');
 
 class Speakers extends React.PureComponent {
     constructor(props) {

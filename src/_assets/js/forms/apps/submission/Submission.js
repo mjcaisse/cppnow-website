@@ -1,10 +1,10 @@
 const _some = require('lodash/some');
 const React = require('react');
 const ReactDOM = require('react-dom');
-const Speakers = require('submission/components/Speakers');
-const SubmissionInfo = require('submission/components/SubmissionInfo');
-const SubmissionStore = require('submission/data/SubmissionStore');
-const ToTheProgramCommittee = require('submission/components/ToTheProgramCommittee');
+const Speakers = require('apps/submission/components/Speakers');
+const SubmissionInfo = require('apps/submission/components/SubmissionInfo');
+const SubmissionStore = require('apps/submission/data/SubmissionStore');
+const ToTheProgramCommittee = require('apps/submission/components/ToTheProgramCommittee');
 
 class App extends React.PureComponent {
     constructor(props) {

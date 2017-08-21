@@ -7,8 +7,8 @@ redirect_from:
     - /student_volunteer_application/
 ---
 
-<!-- Applications will be accepted until March 20th, 2017. Application decisions will be sent out on March 27th, 2017. -->
+Thank you for applying to be a Vounteer at C++Now {{site.current_year}}! We need a bit of information about you to determine if you've got what it takes! Please fill out the form below before the {{site.deadline_for_volunteers}} deadline. If you apply after the deadline, you will be considered for next year's conference.
 
-Applications for C++Now 2018 are coming soon. Please visit again or keep an eye on the [announcements page](/announcements/) for updated information.
+<div id="ReactHook"></div>
 
-TODO: Build form for the application process that will communicate with the server, sending an email to Jon with info.
+<script src="/assets/js/forms/VolunteerApplication.js"></script>

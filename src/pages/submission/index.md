@@ -9,4 +9,4 @@ Thank you for your interest in becoming a speaker at C++Now. Before you submit y
 
 <div id="ReactHook"></div>
 
-<script src="/assets/js/forms/submission.js"></script>
+<script src="/assets/js/forms/Submission.js"></script>

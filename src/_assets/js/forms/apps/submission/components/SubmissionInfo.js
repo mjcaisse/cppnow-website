@@ -3,8 +3,8 @@ const KeyMutableStore = require('utils/KeyedMutableStore');
 const React = require('react');
 const RichTextField = require('components/RichTextField');
 const Select = require('components/Select');
-const SessionLengthList = require('submission/data/SessionLengthList');
-const SessionTypeList = require('submission/data/SessionTypeList');
+const SessionLengthList = require('apps/submission/data/SessionLengthList');
+const SessionTypeList = require('apps/submission/data/SessionTypeList');
 
 class SubmissionInfo extends React.PureComponent {
     constructor(props) {
