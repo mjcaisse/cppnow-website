@@ -79,8 +79,6 @@ For general information on the C++Now 2017 paper submission process or the scope
 
 Note: Presenters must agree to grant a non-exclusive, perpetual license to publish  materials submitted to C++Now, either electronically or in print, in any media related to C++Now.
 
-C++Now is presented by Boost in-cooperation with ACM.
-
 [Bryce Adelstein-Lelbach](mailto:bryce@cppnow.org) (Program Committee Chair)
 
 [Jon Kalb](mailto:jonkalb@boost.org) (Conference Chair)

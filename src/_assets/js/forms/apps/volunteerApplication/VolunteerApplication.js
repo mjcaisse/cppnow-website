@@ -10,7 +10,7 @@ class App extends React.PureComponent {
 
         this.onTrigger = () => {
             this.forceUpdate();
-        }
+        };
 
         this.onSave = () => {
             // TODO

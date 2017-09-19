@@ -29,5 +29,3 @@ Register now at [our registration page](https://cppnow2017.eventbrite.com/).
 ### Sponsorships
 
 Sponsorship opportunities for 2017 are available. For a copy of the conference Sponsorship Prospectus contact [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org).
-
-C++Now is presented by Boost in-cooperation with ACM.
