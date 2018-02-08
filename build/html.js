@@ -36,6 +36,13 @@ module.exports = (options, end) => {
             });
         }));
 
+        // Handle inline style urls (stolen from CSS handler)
+        stream = stream.pipe(gulpReplace(/url\s*\(\s*(?:(?:[^'"\s)]+)|(?:'\s*[^\s')]+\s*')|(?:"\s*[^\s")]+\s*"))\s*\)/g, (match) => {
+            return match.replace(/(?:(url\s*\(\s*(?:'|")?\s*)([^'"\s)]+)(\s*(?:'|")?\s*\)))/g, (match, start, ref, end) => {
+                return start + applyManifest(ref, manifest, options) + end;
+            });
+        }));
+
         if (options.minify) {
             stream = stream.pipe(gulpHtmlmin(htmlminOptions));
         }
