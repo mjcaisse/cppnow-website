@@ -8,7 +8,7 @@ redirect_from:
     - /speaker_faq/
 ---
 
-[Attendee FAQ](#attendee-faq) • [Submitter FAQ](#submitter-faq) • [Speaker FAQ](#speaker-faq)
+[Attendee FAQ](#attendee-faq) • [Volunteer FAQ](#volunteer-faq) • [Submitter FAQ](#submitter-faq) • [Speaker FAQ](#speaker-faq)
 
 ### Attendee FAQ
 
@@ -39,6 +39,12 @@ After you register, you'll get an invite from Sched.com. Accept this and use it 
 
 * Fill out your bio and upload a photo. The most valuable part of C++Now is the opportunity to meet the other attendees. When everyone updates their bios and uploads their photos, it makes it easier for all of us to get to know each other.
 * Fill out your personal schedule. This is not only convenient for you, it is very important for the conference. We use the personal schedule information to decide which session goes in which room.
+
+
+
+#### Will I need a car?
+
+Parking is not a problem if you have a car, but a car is not needed. Aspen is small enough that you can go almost anywhere on foot and the Meadows Resort has a shuttle that will take you to and from the airport as well as downtown Aspen. Plan to do a good deal of walking, but plan to do it slowly. The mountain air is fresh and clean. And thin.
 
 
 
@@ -147,6 +153,83 @@ C++Now is a community conference and it survives because of the support of the c
 * become a [Boost Scholarship Sponsor](/about/individual_sponsors/)
 * write a trip report about the conference (send link [to the planning list](mailto:boostcon-plan@googlegroups.com))
 * write a testimonial about the conference (send link [to the planning list](mailto:boostcon-plan@googlegroups.com))
+
+
+
+### Volunteer FAQ
+
+
+#### How many people get accepted and funded?
+
+There is no fixed number. Usually four to six.
+
+
+
+#### What criteria makes a successful applicant?
+
+Not every successful application has everything that we look for, but we’d like to see C++ community engagement and intellectual interest in C++. Evidence of engagement with and interest in the C++ community might include:
+* speaking at/working on/attending C++ events such as user group meetings or conferences
+* an active GitHub (or equivalent) account that shows work in C++
+* blogging about C++ (textual, audio, or video)
+* contributing, maintaining, or reviewing open sources C++ libraries
+* tutoring in C++
+* answering C++ questions online
+* academic work focusing on C++
+
+
+
+#### What will I be doing as a volunteer?
+
+We want you to have plenty of time to attend sessions and socialize with other attendees, but you’ll have some responsibilities which will include:
+* preparing for registration
+    * touring the campus--you be giving tours to first-time attendees during registration
+    * assembling badges and literature handouts
+* assisting with registration
+    * distributing badges
+    * answering questions
+    * giving tours
+* directing attendees to sessions (after the first day, everyone will know where everything is)
+* assisting with setup before and cleanup after breaks
+    * monitoring sessions
+    * assisting speakers with microphones, AV, water, etc.
+    * holding up cards to let speakers know about time remaining and to repeat questions
+    * making special announcements as required
+* assisting with setup before and cleanup after the picnic
+* running errands as requested and, in general, supporting conference operations as needed
+
+
+
+#### What should I bring?
+
+Read the attendee FAQ. You are an attendee.
+
+
+
+#### Will I get to watch sessions that I want to see?
+
+Session assignments are done with your input and volunteers do trade assignments, so you’ll have some control over the sessions that you’ll be assigned. But all sessions need to be covered, so there will be times when you are not going to be in the session that was your first choice. You might be surprised. It may turn out that the session you enjoy the most was one that you didn’t expect.
+
+You will be able to attend a session in every time slot; however, when you are assigned to assist with break setup/cleanup you’ll miss a few minutes at the beginning/end of the following/preceeding sessions.
+
+
+
+#### Can volunteers give lightning talks?
+
+Please do!
+
+
+
+#### Do I get to interact and network with the attendees?
+
+Absolutely. Attendees are very supportive of the Student / Volunteer Program and happy to engage with you. Plan to spend your available time socializing with other attendees.
+
+The high ratio of speakers to attendees and long breaks make it possible to have in depth conversation with speakers, but you’ll find that <i>all</i> C++Now attendees come to Aspen because they want to engage with others that are interested in learning about C++.
+
+
+
+#### Will being a volunteer at C++Now be a career-altering event?
+
+Quite likely.
 
 
 

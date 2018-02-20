@@ -28,6 +28,10 @@
                 "link": "/about/volunteer_program/"
             },
             {
+                "title": "Presenter Information",
+                "link": "/presenters/"
+            },
+            {
                 "title": "FAQ",
                 "link": "/about/faq/"
             },
@@ -90,7 +94,7 @@
         ]
     },
     {
-        "title": "Get Tickets",
-        "link": "/tickets/"
+        "title": "Registration",
+        "link": "/registration/"
     }
 ]

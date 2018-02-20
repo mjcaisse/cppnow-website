@@ -3,7 +3,7 @@ layout: home
 section: home
 ---
 
-TODO: Fill out with a quick summary paragraph of C++Now's importance and unique features.
+The C++Now community has grown out the Boost community and is focused on pushing C++ to its limits. We are helping to define what C++ will look like tomorrow, but are also curious about what we can do with C++ <i>now</i>!
 
 
 
@@ -23,11 +23,19 @@ The session schedule for C++Now 2018 is not yet confirmed. Keep an eye on the [a
 
 
 
-## Get Tickets
+## Register
 
-Tickets for C++Now 2018 are not yet available. Watch the [announcements page](/announcements/) for updated information.
+<!-- Tickets for C++Now 2018 are not yet available. Watch the [announcements page](/announcements/) for updated information. -->
+
+<a href="/registration/">Registration</a> is open!
 
 <!-- TODO: List price and what basic things you get (panels, networking, etc). Link to: [Get Tickets](/tickets/) -->
+
+
+
+## Reserve
+
+Rooms are still available at <a href="/location/lodging/" class="a">the Aspen Meadows Resort</a>.
 
 
 
@@ -44,9 +52,8 @@ Tickets for C++Now 2018 are not yet available. Watch the [announcements page](/a
         <p><a href="/location/venue/">Learn More</a></p>
     </div>
     <div class="homeBoxesRight">
-        <!-- TODO: Get a better hotel photo -->
-        <a href="/location/lodging/" class="homeBoxesTitle" title="Aspen Meadows Resort Stream: Photo by Zoetica Ebb">
-            <img src="/assets/img/home/hotel.jpg" alt="Aspen Meadows Resort Stream: Photo by Zoetica Ebb">
+        <a href="/location/lodging/" class="homeBoxesTitle" title="Aspen Meadows Resort">
+            <img src="/assets/img/home/AspenMeadowsResort.jpg" alt="Aspen Meadows Resort">
 
             <h2>Hotel</h2>
         </a>
@@ -59,25 +66,24 @@ Tickets for C++Now 2018 are not yet available. Watch the [announcements page](/a
 
 <div class="homeBoxes">
     <div class="homeBoxesLeft">
-        <a href="/submission/" class="homeBoxesTitle" title="Jon Kalb: Photo by Zoetica Ebb">
-            <img src="/assets/img/home/speakers.jpg" alt="Jon Kalb: Photo by Zoetica Ebb">
+        <a href="/presenters/" class="homeBoxesTitle" title="Jackie Kay: Photo by Zoetica Ebb">
+            <img src="/assets/img/home/jackie.jpg" alt="Jackie Kay: Photo by Zoetica Ebb">
 
             <h2>Become a Speaker</h2>
         </a>
 
-        <p>TODO: List basic qualifications and ideas, advantages of becoming a speaker.</p>
+        <p>Join the discussion! Get the most out of C++Now by joining the elite group of C++ experts that have presented a lightning talk or as part of the regular program.</p>
 
-        <p><a href="/submission/">Submit Sessions</a></p>
+        <p><a href="/presenters/">Presenter Information</a></p>
     </div>
     <div class="homeBoxesRight">
-        <!-- TODO: Get a better hotel photo -->
         <a href="/about/volunteer_program/" class="homeBoxesTitle" title="Volunteers: Photo by Zoetica Ebb">
             <img src="/assets/img/home/volunteers.jpg" alt="Volunteers: Photo by Zoetica Ebb">
 
             <h2>Become a Volunteer</h2>
         </a>
 
-        <p>TODO: List basic qualifications, advantages of becoming a volunteer.</p>
+        <p>A small group of promising young C++ programmers is selected to be part of each C++Now. In exchange for helping run the conference, volunteers receive financial assistance and what may be a career changing opportunity.</p>
 
         <p><a href="/about/volunteer_program/">Apply Today</a></p>
     </div>

@@ -7,7 +7,7 @@ redirect_from:
     - /speakers-2017/
 ---
 
-TODO: summary of 2017's convention.
+The theme of the 2017 keynotes was: What can we learn from other langauges, particularly D, Haskell, and Rust?
 
 
 * **[View the Schedule](/history/2017/schedule/)**

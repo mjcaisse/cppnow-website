@@ -23,9 +23,9 @@ Although C++Now has reserved a large block of rooms at the [Aspen Meadows Resort
 * **$149 per night** - Junior Suite (single or double occupancy)
 * **$159 per night** - One Bedroom Suite
 
-A resort fee ($20 per night) and tax (11.3%) will be added to each night'’'s reservation.
+A resort fee ($20 per night) and tax (11.3%) will be added to each night's reservation.
 
-Use the [online registration system](https://aws.passkey.com/go/softwarefreedomconservancy2017) for this event, or call [1 (800) 452-4240](tel:1-800-452-4240), to schedule your room. Remember, the Reception is Monday evening, and the conference proper begins on Tuesday morning.
+Use the [online registration system](https://aws.passkey.com/go/softwarefreedomconservancy2018) for this event, or call [1 (800) 452-4240](tel:1-800-452-4240), to schedule your room. Remember, the Reception is Monday evening, and the conference proper begins on Tuesday morning.
 
 #### Details
 

@@ -19,6 +19,8 @@ This page contains tools and information useful for editing and building the sit
 
 From the top repository directory...
 
+`gulp watch` may require running `bundle install` and `bundle exec jekyll serve` before it works correctly.
+
 * Run `gulp watch` to build the development version, watch files for changes, and show the site and updates in a browser.
 * Run `gulp prod` to build the production version. The output will be placed in the `./dist/` directory.
 * Run `gulp dev` to build the development version. The output will be placed in the `./dist/` directory.

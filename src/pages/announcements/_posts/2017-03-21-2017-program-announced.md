@@ -8,7 +8,7 @@ redirect_from:
     - /2017-conference/announcements/2017/03/21/program-announced.html
 ---
 
-The complete [Program for C++Now 2017](http://localhost:4000/history/2017/schedule/) is now available.
+The complete [Program for C++Now 2017](/history/2017/schedule/) is now available.
 
 ![C++Now Lightning Talk Audience](/assets/img/posts/2017/LightningTalksByZoeticEbb-2.jpg "Photograph by Zoetica Ebb. Used with permission.")
 <br>

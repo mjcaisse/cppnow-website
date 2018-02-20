@@ -7,7 +7,7 @@ redirect_from:
     - /speakers-2016/
 ---
 
-TODO: summary of 2016's convention.
+In 2016, we celebrated our tenth conference (five as BoostCon and five as C++Now). We invited back the keynote speaker from the first BoostCon in 2007, Sean Parent to talk with us about Better Code.
 
 
 * **[View the Schedule](/history/2016/schedule/)**

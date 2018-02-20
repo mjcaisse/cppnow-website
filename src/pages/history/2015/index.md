@@ -5,7 +5,7 @@ permalink: /history/2015/
 section: history
 ---
 
-TODO: summary of 2015's convention.
+One of our 2015 keynotes, Tiago Quintino, gave us a glimpse of our C++ is used now in numerical weather prediction, and the other two keynotes offered a glimpse of how C++ will be used in the future: Andrew Sutton discussing Concepts and Eric Niebler with Ranges.
 
 
 * **[View the Schedule](/history/2015/schedule/)**

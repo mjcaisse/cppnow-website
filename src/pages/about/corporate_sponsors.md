@@ -7,7 +7,7 @@ redirect_from:
     - /sponsors/
 ---
 
-Email [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org) for a copy of the C++Now Corporate Sponsorship Prospectus. [Individual Sponsorships](/about/individual_sponsors/) are also available.
+Email [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org) for a copy of the current C++Now Corporate Sponsorship Prospectus. [Individual Sponsorships](/about/individual_sponsors/) are also available.
 
 
 {% assign filename = 'Sponsors' | append: site.current_year %}
