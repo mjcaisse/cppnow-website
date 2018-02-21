@@ -3,6 +3,8 @@ layout: page
 title: Presenter Information
 permalink: /presenters/
 section: presenters
+redirect_from:
+    - /submission/
 ---
 
 Thank you for your interest in becoming a speaker at C++Now.
