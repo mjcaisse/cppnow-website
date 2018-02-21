@@ -1,19 +1,22 @@
 @define-mixin button $name, $fontSize, $backgroundColor, $textColor {
     .$(name) {
-        border-radius: 8px;
-        display: inline-block;
-        font-weight: 200;
-        font-size: $fontSize;
-        line-height: $fontSize;
-        color: $textColor;
-        cursor: pointer;
-        user-select: none;
-        position: relative;
+        && {
+            border-radius: 8px;
+            display: inline-block;
+            font-weight: 200;
+            font-size: $fontSize;
+            text-decoration: none;
+            line-height: $fontSize;
+            color: $textColor;
+            cursor: pointer;
+            user-select: none;
+            position: relative;
 
-        background-color: $backgroundColor;
-        transition: background-color 0.2s ease-in-out;
+            background-color: $backgroundColor;
+            transition: background-color 0.2s ease-in-out;
+        }
 
-        &:after {
+        &&:after {
             content: '';
             display: block;
             margin-left: -calc($fontSize / 6);
@@ -30,25 +33,31 @@
             transition: opacity 0.2s ease-in-out, transform 0.2s ease-in-out;
         }
 
-        &:focus:after {
-            opacity: 1;
+        &&:focus {
+            color: $textColor;
+        }
+
+        &&:focus:after {
+            opacity: 0.5;
             transform: translateY(0);
         }
 
-        &:hover {
+        &&:hover {
             background-color: color($backgroundColor lightness(+5%));
+            color: $textColor;
         }
 
-        &:active {
+        &&:active {
             background-color: color($backgroundColor lightness(-5%));
+            color: $textColor;
         }
 
-        &:disabled, &[disabled] {
+        &&:disabled, &&[disabled] {
             background-color: $backgroundColor;
             cursor: not-allowed;
             opacity: 0.4;
 
-            &:after {
+            &&:after {
                 opacity: 0;
             }
         }

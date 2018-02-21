@@ -7,16 +7,14 @@ The C++Now community has grown out the Boost community and is focused on pushing
 
 
 
-<h3 class="textCenter">
-    <span class="nowrap">{{site.current_year_start_date}}</span> - <span class="nowrap">{{site.current_year_end_date}}</span>
-</h3>
-
-<div id="countdown" data-start-date="{{site.current_year_start_date_formatted}}" data-end-date="{{site.current_year_end_date_formatted}}"></div>
-
 <div class="textCenter">
-<a href="/registration/" style="text-decoration: none">
-<span class="nowrap register_button">Register Now</span>
-</a>
+    <h3>
+        <span class="nowrap">{{site.current_year_start_date}}</span> - <span class="nowrap">{{site.current_year_end_date}}</span>
+    </h3>
+
+    <div id="countdown" data-start-date="{{site.current_year_start_date_formatted}}" data-end-date="{{site.current_year_end_date_formatted}}"></div>
+
+    <a href="/registration/" class="buttonPrimaryLarge">Register Now</a>
 </div>
 
 
