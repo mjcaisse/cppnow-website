@@ -10,6 +10,9 @@
 }
 
 @media (--mobileOnly) {
+    .sSidebar {
+        padding: 8px;
+    }
     .contentBox {
         padding: 8px;
     }
@@ -24,10 +27,22 @@
         width: 200px;
         height: 100%;
     }
+    .sSidebar {
+        margin-bottom: 0;
+        padding: 16px 8px 0 8px;
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 150px;
+        height: 100%;
+    }
     .contentBox {
         margin-left: 200px;
-        margin-right: 0;
+        margin-right: 150px;
         padding: 16px;
+    }
+    .scheduleBox .contentBox {
+        margin-right: 0;
     }
 }
 
@@ -42,6 +57,15 @@
         top: 16px;
         left: 0;
         width: 250px;
+        height: auto;
+    }
+    .sSidebar {
+        margin-bottom: 0;
+        padding: 16px 8px 0 8px;
+        position: absolute;
+        top: 0;
+        right: 50px;
+        width: 200px;
         height: auto;
     }
     .contentBox {

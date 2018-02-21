@@ -5,4 +5,19 @@
 
 .sImage {
     width: 320px;
+    max-width: 100%;
+}
+
+.sSidebar {
+    h2 {
+        display: none;
+    }
+
+    h3 {
+        margin-bottom: 4px;
+        font-size: 18px;
+        line-height: 1.4;
+        font-weight: 300;
+        color: var(--midGreyColor);
+    }
 }
