@@ -34,6 +34,7 @@ const paths = {
     assetsTemp: './_temp/assets',
     dist: './dist',
     assetsDist: './dist/assets',
+    zipDist: './',
 };
 
 paths.jsFormEntries = [
@@ -302,7 +303,7 @@ gulp.task('prodServerBuildPart2', (end) => {
 gulp.task('zipDist', (end) => {
     return gulp.src(`${paths.dist}/**/*`)
         .pipe(gulpZip('archive.zip'))
-        .pipe(gulp.dest(paths.dist));
+        .pipe(gulp.dest(paths.zipDist));
 });
 
 gulp.task('jekyllWatch', () => {
