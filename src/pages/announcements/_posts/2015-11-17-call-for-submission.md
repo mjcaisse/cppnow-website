@@ -68,7 +68,7 @@ Interactive and collaborative sessions are encouraged, as this is the style of l
 
 ### Submitting a Proposal
 
-All submissions should be made through our [submission page](/submission/).
+All submissions should be made through our [presenters page](/presenters/).
 
 Standard sessions are 90 minutes. You may submit a proposal for fractions or multiples of 90-minutes. Fractional proposals will be grouped into 90 minute sessions. Longer sessions, such as tutorials and classes, will be assigned 90 minute, three hour (i.e. half day), or six hour (i.e. full day) time slots.
 

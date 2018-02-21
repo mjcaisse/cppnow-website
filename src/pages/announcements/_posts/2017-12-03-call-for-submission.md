@@ -75,7 +75,7 @@ We actively encourage tool vendors and ISP’s to submit proposals about product
 - Other formats may also be of interest. Don’t hold back a proposal just because it doesn’t fit into a pigeonhole.
 
 ### Submitting a Proposal
-All submissions should be made through our <a href="/submission/">submission page</a>.
+All submissions should be made through our <a href="/presenters/">presenters page</a>.
 
 The conference schedule is based upon 90-minute sessions with breaks between. Shorter presentations will be grouped, when possible, to fill a 90 minute slot and longer presentations will be split across multiple sessions.
 

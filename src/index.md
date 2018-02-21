@@ -29,7 +29,7 @@ The session schedule for C++Now 2018 is not yet confirmed. Keep an eye on the [a
 
 <a href="/registration/">Registration</a> is open!
 
-<!-- TODO: List price and what basic things you get (panels, networking, etc). Link to: [Get Tickets](/tickets/) -->
+<!-- TODO: List price and what basic things you get (panels, networking, etc). Link to: [Register](/registration/) -->
 
 
 
@@ -69,7 +69,7 @@ Rooms are still available at <a href="/location/lodging/" class="a">the Aspen Me
         <a href="/presenters/" class="homeBoxesTitle" title="Jackie Kay: Photo by Zoetica Ebb">
             <img src="/assets/img/home/jackie.jpg" alt="Jackie Kay: Photo by Zoetica Ebb">
 
-            <h2>Become a Speaker</h2>
+            <h2>Become a Presenter</h2>
         </a>
 
         <p>Join the discussion! Get the most out of C++Now by joining the elite group of C++ experts that have presented a lightning talk or as part of the regular program.</p>
