@@ -8,7 +8,7 @@ section: about
 <blockquote class="quoteBox">
     <span class="quoteBoxImage quoteBoxQuotes"></span>
     <p class="quoteBoxText">
-        To hear the answer to a C++ questions, go to CppCon.<br>
+        To hear the answer to a C++ question, go to CppCon.<br>
         If you want to be part of finding the answer, go to C++Now.
     </p>
     <strong class="quoteBoxAuthor">Jon Kalb</strong>
