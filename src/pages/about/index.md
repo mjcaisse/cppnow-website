@@ -23,21 +23,21 @@ section: about
 <blockquote class="quoteBox replaceQuote">
     <span class="quoteBoxImage quoteBoxQuotes"></span>
     <p class="quoteBoxText">
-        Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.
+        I have attended C++ Now every year since the inaugural 2012 conference. It certainly has been the high point of my professional calendar every year. No where else can you mingle with best and the brightest of C++ world. Every year I have brought something back that was immediately usable in my daily work. The venue and conference organization is superb. I am already looking forward to next year.
     </p>
-    <span class="quoteBoxAuthor">Aenean Donec</span>
-    <span class="quoteBoxCredentials">Aliquam Tincidunt Mauris</span>
+    <span class="quoteBoxAuthor">Gwendolyn Hunt</span>
+    <span class="quoteBoxCredentials">Principal Software Engineer; Cedexis, Inc.</span>
 </blockquote>
 
-<div class="ratioBox16x9"><iframe src="https://www.youtube.com/embed/QsYuEsZVy3I?color=white&rel=0" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups" allowfullscreen=""></iframe></div>
+<div class="ratioBox16x9"><iframe src="https://www.youtube.com/embed/QsYuEsZVy3I?color=white&rel=0" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" allowfullscreen=""></iframe></div>
 
 <blockquote class="quoteBox replaceQuote">
     <span class="quoteBoxImage quoteBoxQuotes"></span>
     <p class="quoteBoxText">
-        Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.
+        With a welcoming, collaborative, and ruthlessly technical atmosphere, C++Now caters to library designers, compiler nerds, mailing list junkies, and anyone interested in pushing the envelope of what is possible in modern C++. This is the coolest tech conference in the world.
     </p>
-    <strong class="quoteBoxAuthor">Vulputate Pellentesque</strong>
-    <span class="quoteBoxCredentials">Aliquam Lectus</span>
+    <strong class="quoteBoxAuthor">Barrett Adair</strong>
+    <span class="quoteBoxCredentials">May 20th, 2017</span>
 </blockquote>
 
 <blockquote class="quoteBox">
@@ -55,15 +55,15 @@ section: about
     <span class="quoteBoxCredentials">Conference Chair CppCon, Conference Chair C++Now</span>
 </blockquote>
 
-<div class="ratioBox16x9"><iframe src="https://www.youtube.com/embed/kdbYLOBNguk?color=white&rel=0" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups" allowfullscreen=""></iframe></div>
+<div class="ratioBox16x9"><iframe src="https://www.youtube.com/embed/kdbYLOBNguk?color=white&rel=0" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" allowfullscreen=""></iframe></div>
 
 <blockquote class="quoteBox replaceQuote">
     <span class="quoteBoxImage quoteBoxQuotes"></span>
     <p class="quoteBoxText">
-        Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.
+        C++Now is always inspiring me in new ways. But also, due its unique location giving me lots of new insights and conversations I could have no where else.
     </p>
-    <strong class="quoteBoxAuthor">Donec Nam</strong>
-    <span class="quoteBoxCredentials">Sem Tristique Cursus</span>
+    <strong class="quoteBoxAuthor">Jens Weller</strong>
+    <span class="quoteBoxCredentials"></span>
 </blockquote>
 
 <blockquote class="quoteBox">
@@ -74,10 +74,10 @@ section: about
 <blockquote class="quoteBox replaceQuote">
     <span class="quoteBoxImage quoteBoxQuotes"></span>
     <p class="quoteBoxText">
-        Sed adipiscing ornare risus. Morbi est est, blandit sit amet, sagittis vel, euismod vel, velit. Pellentesque egestas sem. Suspendisse commodo ullamcorper magna.
+        C++Now was an incredible experience. The talks are all world class and Aspen is a lovely town, but the best part for me was the people. I've watched a lot of recordings of talks, so when I got there I already felt like I knew many of the other attendees. Everyone I talked to had great insight and was working on interesting projects or libraries. Since roughly 1/3rd of the attendees were speakers some of them always happened to be around too. It felt almost as though I were at some exclusive event for famous c++ people, but everyone was so friendly and welcoming that I felt like I belonged there too. It was also a great opportunity for personal development. Some people pushed me to do a lightning talk, and from there I've gone onto have a full length talk accepted to CppCon, which I probably wouldn't have even submitted if it weren't for my experience at C++Now. In that sense I grew as a person as a direct result of my experiences at C++Now.
     </p>
-    <strong class="quoteBoxAuthor">Ornare Risus</strong>
-    <span class="quoteBoxCredentials">Pellentesque Egestas Sem</span>
+    <strong class="quoteBoxAuthor">Allan Deutsch</strong>
+    <span class="quoteBoxCredentials">Student / Volunteer 2017</span>
 </blockquote>
 
-<script src="/assets/js/AboutPageQuoteShuffler.js"></script>
+<!-- <script src="/assets/js/AboutPageQuoteShuffler.js"></script> -->
