@@ -8,7 +8,7 @@ section: about
 <blockquote class="quoteBox">
     <span class="quoteBoxImage quoteBoxQuotes"></span>
     <p class="quoteBoxText">
-        If you want to hear the answer to a C++ questions, go to CppCon.<br>
+        To hear the answer to a C++ questions, go to CppCon.<br>
         If you want to be part of finding the answer, go to C++Now.
     </p>
     <strong class="quoteBoxAuthor">Jon Kalb</strong>
@@ -17,7 +17,7 @@ section: about
 
 <blockquote class="quoteBox">
     <span class="quoteBoxImage quoteBoxAirplane"></span>
-    <a href="https://mpark.github.io/trip-report/2017/05/20/cppnow-2017/" class="quoteBoxMainLink">Trip Report by Michael Park</a>
+    <a href="https://mpark.github.io/trip-report/2017/05/20/cppnow-2017/" class="quoteBoxMainLink">Trip Report by Michael Park (2017)</a>
 </blockquote>
 
 <blockquote class="quoteBox replaceQuote">
@@ -29,7 +29,17 @@ section: about
     <span class="quoteBoxCredentials">Principal Software Engineer; Cedexis, Inc.</span>
 </blockquote>
 
+<blockquote class="quoteBox">
+    <span class="quoteBoxImage quoteBoxAirplane"></span>
+    <a href="http://odinthenerd.blogspot.com/2017/05/cppnow-trip-report.html" class="quoteBoxMainLink">Trip Report by Odin Holmes (2017)</a>
+</blockquote>
+
 <div class="ratioBox16x9"><iframe src="https://www.youtube.com/embed/QsYuEsZVy3I?color=white&rel=0" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" allowfullscreen=""></iframe></div>
+
+<blockquote class="quoteBox">
+    <span class="quoteBoxImage quoteBoxAirplane"></span>
+    <a href="http://www.elbeno.com/blog/?p=1443" class="quoteBoxMainLink">Trip Report by Ben Deane (2017)</a>
+</blockquote>
 
 <blockquote class="quoteBox replaceQuote">
     <span class="quoteBoxImage quoteBoxQuotes"></span>
@@ -42,7 +52,8 @@ section: about
 
 <blockquote class="quoteBox">
     <span class="quoteBoxImage quoteBoxAirplane"></span>
-    <a href="http://odinthenerd.blogspot.com/2017/05/cppnow-trip-report.html" class="quoteBoxMainLink">Trip Report by Odin Holmes</a>
+    <a href="https://vittorioromeo.info/index/blog/cppnow2017_tripreport_pt1.html" class="quoteBoxMainLink">Trip Report by Vittorio Romeo (2017) [1 of 2)</a>
+    <a href="https://vittorioromeo.info/index/blog/cppnow2017_tripreport_pt2.html" class="quoteBoxMainLink">[2 of 2]</a>
 </blockquote>
 
 <blockquote class="quoteBox">
@@ -52,10 +63,20 @@ section: about
         If you want to know the best part, talk to an attendee.
     </p>
     <strong class="quoteBoxAuthor">Jon Kalb</strong>
-    <span class="quoteBoxCredentials">Conference Chair CppCon, Conference Chair C++Now</span>
+    <span class="quoteBoxCredentials">Conference Chair C++Now</span>
+</blockquote>
+
+<blockquote class="quoteBox">
+    <span class="quoteBoxImage quoteBoxAirplane"></span>
+    <a href="https://github.com/SuperV1234/cppnow2016/blob/master/trip_report.md" class="quoteBoxMainLink">Trip Report by Vittorio Romeo (2016)</a>
 </blockquote>
 
 <div class="ratioBox16x9"><iframe src="https://www.youtube.com/embed/kdbYLOBNguk?color=white&rel=0" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" allowfullscreen=""></iframe></div>
+
+<blockquote class="quoteBox">
+    <span class="quoteBoxImage quoteBoxAirplane"></span>
+    <a href="http://www.patrikhuber.ch/blog/7-cpp-now-2015-trip-report" class="quoteBoxMainLink">Trip Report by Patrik Huber (2015)</a>
+</blockquote>
 
 <blockquote class="quoteBox replaceQuote">
     <span class="quoteBoxImage quoteBoxQuotes"></span>
@@ -68,7 +89,7 @@ section: about
 
 <blockquote class="quoteBox">
     <span class="quoteBoxImage quoteBoxAirplane"></span>
-    <a href="http://www.elbeno.com/blog/?p=1443" class="quoteBoxMainLink">Trip Report by Ben Deane</a>
+    <a href="http://stellar-group.org/2015/05/cnow-2015-trip-report-hpx-is-in-the-air/" class="quoteBoxMainLink">Trip Report by Thomas Heller (2015)</a>
 </blockquote>
 
 <blockquote class="quoteBox replaceQuote">
@@ -79,5 +100,8 @@ section: about
     <strong class="quoteBoxAuthor">Allan Deutsch</strong>
     <span class="quoteBoxCredentials">Student / Volunteer 2017</span>
 </blockquote>
+
+
+
 
 <!-- <script src="/assets/js/AboutPageQuoteShuffler.js"></script> -->
