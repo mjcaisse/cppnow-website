@@ -29,6 +29,7 @@
     "gulp-replace": "0.5.4",
     "gulp-uglify": "3.0.0",
     "gulp-watch": "4.3.11",
+    "gulp-zip": "4.1.0",
     "lodash": "4.17.4",
     "postcss-cssnext": "2.11.0",
     "postcss-import": "10.0.0",

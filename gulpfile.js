@@ -7,6 +7,7 @@ const del = require('del');
 const gulp = require('gulp');
 const gulpEslint = require('gulp-eslint');
 const gulpWatch = require('gulp-watch');
+const gulpZip = require('gulp-zip');
 const html = require('./build/html');
 const img = require('./build/img');
 const jsBasic = require('./build/jsBasic');
@@ -279,6 +280,29 @@ gulp.task('prod', (end) => {
         'cleanTemp',
         end
     );
+});
+
+gulp.task('prodServerBuildPart1', (end) => {
+    runSequence(
+        ['cleanTemp', 'cleanDist'],
+        end
+    );
+});
+
+gulp.task('prodServerBuildPart2', (end) => {
+    runSequence(
+        ['imgProd', 'uploadsProd'],
+        ['cssProd', 'jsBasicProd', 'jsFormsProd'],
+        ['htmlProd', 'nonHtmlMove'],
+        'cleanTemp',
+        end
+    );
+});
+
+gulp.task('zipDist', (end) => {
+    return gulp.src(`${paths.dist}/**/*`)
+        .pipe(gulpZip('archive.zip'))
+        .pipe(gulp.dest(paths.dist));
 });
 
 gulp.task('jekyllWatch', () => {
