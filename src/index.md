@@ -13,15 +13,25 @@ The C++Now community has grown out the Boost community and is focused on pushing
 
 <div id="countdown" data-start-date="{{site.current_year_start_date_formatted}}" data-end-date="{{site.current_year_end_date_formatted}}"></div>
 
+<div class="textCenter">
+<a href="/registration/" style="text-decoration: none">
+<span class="nowrap register_button">Register Now</span>
+</a>
+</div>
 
+
+<!--
 
 ## Schedule
 
 The session schedule for C++Now 2018 is not yet confirmed. Keep an eye on the [announcements page](/announcements/) for updated information. To get an idea of what to expect, check out the [C++Now 2017 Schedule](/history/2017/schedule/).
 
-<!-- TODO: Add summary of some specific talks, or the keynotes here, followed by the link: [View Complete Schedule](/schedule/) -->
+-->
 
 
+## Volunteer
+
+We are currently <a href="/about/volunteer_program/">accepting applications</a> from young C++ programmers interested in helping to run the conference in exchange for financial aid to attend.
 
 ## Register
 
@@ -38,6 +48,9 @@ The session schedule for C++Now 2018 is not yet confirmed. Keep an eye on the [a
 Rooms are still available at <a href="/location/lodging/" class="a">the Aspen Meadows Resort</a>.
 
 
+## Sponsor
+
+There are several opportunities to sponsor C++Now, both as a [Corporate Sponsor](/about/corporate_sponsors/) and an [Individual Sponsor](/about/individual_sponsors/). Corporate sponsorships exist for multiple levels and specific needs like video production. Individual sponsors help make the [Volunteer Program](/about/volunteer_program/) and the Boost Summer of Code possible.
 
 <div class="homeBoxes">
     <div class="homeBoxesLeft">
@@ -90,10 +103,6 @@ Rooms are still available at <a href="/location/lodging/" class="a">the Aspen Me
 </div>
 
 
-
-## Sponsor C++Now
-
-There are several opportunities to sponsor C++Now, both as a [Corporate Sponsor](/about/corporate_sponsors/) and an [Individual Sponsor](/about/individual_sponsors/). Corporate sponsorships exist for multiple levels and specific needs like video production. Individual sponsors help make the [Volunteer Program](/about/volunteer_program/) and the Boost Summer of Code possible.
 
 
 
