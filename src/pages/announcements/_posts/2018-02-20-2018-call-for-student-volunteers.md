@@ -8,6 +8,12 @@ section: announcements
 
 It is my pleasure to announce the sixth year of the C++Now Student/Volunteer program! We are again inviting students with an interest in C++ to attend the May 6-11, 2018 conference in Aspen, CO as Student/Volunteers.
 
+![Volunteers - Photograph by Zoetica Ebb. Used with permission.](/assets/img/posts/2018/volunteers.jpeg "Volunteers - Photograph by Zoetica Ebb. Used with permission.")
+<br>
+*Photograph by Zoetica Ebb. Used with permission.*
+
+
+
 <!--break-->
 
 The Student/Volunteer program is an excellent way for students and young coders with an interest in C++ to learn about language and make lasting connections with the community.
