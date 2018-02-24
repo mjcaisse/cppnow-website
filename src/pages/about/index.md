@@ -34,6 +34,38 @@ section: about
     <a href="http://odinthenerd.blogspot.com/2017/05/cppnow-trip-report.html" class="quoteBoxMainLink">Trip Report by Odin Holmes (2017)</a>
 </blockquote>
 
+
+<blockquote class="quoteBox">
+    <span class="quoteBoxImage quoteBoxQuotes"></span>
+    <p class="quoteBoxText">
+C++Now is my favourite conference, it is my can't miss event of the year (C++ or otherwise!).
+There is something about the people who attend, and something about the place itself.
+No other event has C++Now's combination of enticing ideas mixed with peaceful serenity.
+<pre>
+words and thoughts swirling
+blossoms on the Aspen trees
+new ideas sprout
+</pre>
+    </p>
+    <strong class="quoteBoxAuthor">Tony Van Eerd</strong>
+    <span class="quoteBoxCredentials">C++ Guy; Christie Digital Systems</span>
+</blockquote>
+
+<blockquote class="quoteBox">
+    <span class="quoteBoxImage quoteBoxQuotes"></span>
+    <p class="quoteBoxText">
+I have attended C++Now three years in a row so far, and I cannot recommend it enough.
+
+Other than making many new friends and networking with amazing people, I've always found the content of C++Now  top-notch: most of the talks at the conference are engaging, controversial, and innovative in one way or another. It's not your usual "lecture"-style talk - audience participation is encouraged... and the audience is full of experts.
+
+Whether it's sunny or heavily snowing, the view in Aspen is consistently beautiful and there are many fun activities to keep you busy after conference hours, including a picnic with all the attendees!
+
+Definitely the best conference experience I've had so far.</p>
+    <strong class="quoteBoxAuthor">Vittorio Romeo</strong>
+    <span class="quoteBoxCredentials">Software Engineer; Bloomberg LP</span>
+</blockquote>
+
+
 <div class="ratioBox16x9"><iframe src="https://www.youtube.com/embed/QsYuEsZVy3I?color=white&rel=0" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" allowfullscreen=""></iframe></div>
 
 <blockquote class="quoteBox">
