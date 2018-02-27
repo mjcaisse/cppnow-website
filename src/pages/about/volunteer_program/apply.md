@@ -7,6 +7,6 @@ redirect_from:
     - /student_volunteer_application/
 ---
 
-Thank you for applying to be a Vounteer at C++Now {{site.current_year}}! We need a bit of information about you to determine if you've got what it takes! Please fill out the form below before the {{site.deadline_for_volunteers}} deadline.
+Thank you for applying to be a Vounteer at C++Now {{site.current_year}}! We need a bit of information about you to determine if you've got what it takes! You can fill out the form below or open <a href="https://form.jotform.com/71497824375165">the application on the Jotform website</a> before the {{site.deadline_for_volunteers}} deadline.
 
 <script src="https://form.jotform.com/jsform/71497824375165"></script>
