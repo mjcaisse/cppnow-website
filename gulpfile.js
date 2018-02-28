@@ -16,6 +16,7 @@ const runSequence = require('run-sequence');
 const uploads = require('./build/uploads');
 
 const paths = {
+    config: './_config.yml',
     src: './src',
     dataSrc: './src/_data',
     imgSrc: './src/_assets/img',
@@ -313,7 +314,10 @@ gulp.task('jekyllWatch', () => {
         `${paths.src}/**/*.markdown`,
         `${paths.src}/**/*.html`,
         `${paths.src}/**/*.htm`,
+
+        // Data sources
         `${paths.dataSrc}/**/*.*`,
+        paths.config,
 
         // NOT dot folders/files
         '!./.*',

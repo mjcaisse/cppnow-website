@@ -59,4 +59,5 @@ current_year_start_date_formatted: "2018-05-06"
 current_year_end_date_formatted: "2018-05-11"
 registration_time: "4PM on Sunday, May 6th"
 deadline_for_volunteers: "March 9th, 2018" # 8 weeks prior to start of conference
-
+registration_day_of_week: "Sunday"
+first_session_day_of_week: "Monday"
