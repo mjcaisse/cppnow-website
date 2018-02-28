@@ -6,11 +6,15 @@
     background-position: 50% 50%;
     color: var(--midGreyColor);
 }
+.homeHeaderLogoLink {
+    display: block;
+    height: 50%;
+}
 .homeHeaderLogo {
     margin: 0 auto;
     padding-bottom: 32px;
-    height: 50%;
     max-width: 70%;
+    height: 100%;
     display: block;
 }
 .homeHeaderDates {
