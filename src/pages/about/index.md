@@ -70,6 +70,12 @@ new ideas sprout<br />
 </blockquote>
 
 
+<blockquote class="quoteBox">
+    <span class="quoteBoxImage quoteBoxAirplane"></span>
+    <a href="https://blog.jetbrains.com/clion/2017/06/cnow-trip-report-by-jetbrains/" class="quoteBoxMainLink">Trip Report by JetBrains (2017)</a>
+</blockquote>
+
+
 <div class="ratioBox16x9"><iframe src="https://www.youtube.com/embed/QsYuEsZVy3I?color=white&rel=0" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" allowfullscreen=""></iframe></div>
 
 <blockquote class="quoteBox replaceQuote">
