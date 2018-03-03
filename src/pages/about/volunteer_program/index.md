@@ -35,9 +35,9 @@ Read [the Volunteer FAQ](/about/faq/#volunteer-faq).
 </blockquote>
 
 <blockquote class="quoteBox">
-    <span class="quoteBoxImage" style="background-image: url(/assets/img/volunteers/robin_kuzmin.jpeg);"></span>
+    <span class="quoteBoxImage" style="background-image: url(/assets/img/volunteers/robin_kuzmin.sm.jpeg);"></span>
     <p class="quoteBoxText">
-        Volunteering a C++Now gave me valuable insight and confidence. I'm already seeing the impact of my engagement with the community.
+        Volunteering at C++Now gave me valuable insight and confidence. I'm already seeing the impact of my engagement with the community.
     </p>
     <a href="/about/volunteer_program/robin_kuzmin_volunteer_story/" class="quoteBoxRightLink">Read Robin's Story</a>
 </blockquote>

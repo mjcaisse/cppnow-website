@@ -7,20 +7,23 @@ section: about
 
 <div class="asideImageRight">
     <div class="figureTable">
-        <img src="/assets/img/volunteers/robin_kuzmin_.jpeg" alt="Robin Kuzmin">
-        <p>Robin Kuzmin was an experience C programmer when he attended C++Now 2017 as a volunteer.</p>
+        <img src="/assets/img/volunteers/robin_kuzmin.sm.jpeg" alt="Robin Kuzmin">
+        <p>Robin Kuzmin was an experienced C programmer when he attended C++Now 2017 as a volunteer.</p>
     </div>
 </div>
 
 C++Now 2017 was the second time when I participated in the C++ conferences.
 
-###After I was selected
+### After I was selected
+
 Looking at the profiles of the other [volunteers](https://cppnow2017.sched.com/directory/volunteers) I found a number of very curious and useful links. The ones that attracted my attention most were [Modern C++ Language and Library Features](https://github.com/AnthonyCalandra/modern-cpp-features) by [Anthony Calandra](https://cppnow2017.sched.com/volunteer/anthony278) and [Type-Safe Programming](https://foonathan.net/blog/2016/10/11/type-safe.html) by [Jonathan Muller](https://cppnow2017.sched.com/volunteer/boostcon.2017.jonathan.mueller_foonathan.net) (he also gave a [talk](https://www.youtube.com/watch?v=iihlo9A2Ezw) on that subject).
 
-###Before the conference
+### Before the conference
+
 During my ride-share trip from Denver, CO to Aspen, CO I got acquainted in person with [Louis Dionne](https://cppnow2017.sched.com/speaker/louis_dionne) - the author of [Boost.Hana](http://www.boost.org/doc/libs/1_66_0/libs/hana/doc/html/index.html) library, and his colleague - the conference speaker [John McFarlane](https://cppnow2017.sched.com/speaker/cppcon.2016.john_mcfarlane.name).
 
-###During the conference
+### During the conference
+
 I got acquainted with another Russian-speaking volunteer - [Alex Zaitsev](https://cppnow2017.sched.com/volunteer/zamazan4ik) - who by his second year at the university was writing in C++ for the 7th year, who was actively contributing to the [Boost.Algorithm](http://www.boost.org/doc/libs/1_66_0/libs/algorithm/doc/html/index.html), was participating in the C++ conferences in Russia and Belarus, and was involved in C++ standardization activities in Russia.
 
 In one of the talks I saw closer the JetBrains product - [CLion](https://www.jetbrains.com/clion/) - and met [Anastasia Kazakova](https://cppnow2017.sched.com/speaker/anastasia.kazakova) and [Dmitry Kozhevnikov](https://cppnow2017.sched.com/travel14) who work there (in St. Petersburg office in Russia).
@@ -29,7 +32,8 @@ One night I was surfing through the links from one of the talks. I bumped into t
 
 During the socializing events I talked to a number of people, had a chance to listen to the discussions of standardization topics, instruments, ideas, etc.
 
-###After the conference
+### After the conference
+
 On my return ride-share to Denver I was talking for 4 hours with the conference speaker [Charlie Bay](https://cppnow2017.sched.com/speaker/bay_charles).
 
 
