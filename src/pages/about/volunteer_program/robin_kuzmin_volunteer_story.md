@@ -43,14 +43,15 @@ Having my volunteering experience in C++Now 2017 (and CppCon 2016) I was offered
 
 One company in Russia got very interested in my experience with C++ conferences. Now we are discussing how I can help them to get to the US conferences, how to work around the language barriers, to optimize the expenses, etc.
 
-To summarize, C++Now is 
-*Connections to the outstanding members of the C++ community from all over the world,
-*Strong engineering growth,
-*Horizons Broadening,
-*Experience and Confidence,
-*LARGE OPPORTUNITY,
-*Fun,
-*and much more.
+To summarize, C++Now is
+
+* Connections to the outstanding members of the C++ community from all over the world,
+* Strong engineering growth,
+* Horizons broadening,
+* Experience and confidence,
+* **Big opportunity**,
+* Fun,
+* and much more.
 
 See you at C++Now!
 
