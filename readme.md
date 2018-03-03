@@ -6,7 +6,7 @@ This page contains tools and information useful for editing and building the sit
 ## Installing Site Locally
 
 1. Install RVM - So that specific versions of ruby can be installed for a given directory
-2. Install ruby 2.4.1 - Other versions might work fine, but that version must be set in the Gemfile
+2. Install ruby 2.3.1 - Other versions might work fine, but that version must be set in the Gemfile it was chosen to be close to that of the build server
 3. Install jekyll 3.4.3
 4. Install [Node](https://nodejs.org/en/download/) using the latest Current version
 5. Install Gulp globally - `npm install gulp-cli -g`
@@ -14,6 +14,7 @@ This page contains tools and information useful for editing and building the sit
 7. Navigate to that directory
 8. Install all NPM dependencies - `npm i`
 
+If you change ruby version, you may need to run `gem update --system` and then continue from step 5.
 
 ## Building Site Locally
 
