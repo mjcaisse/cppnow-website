@@ -35,6 +35,14 @@ Read [the Volunteer FAQ](/about/faq/#volunteer-faq).
 </blockquote>
 
 <blockquote class="quoteBox">
+    <span class="quoteBoxImage" style="background-image: url(/assets/img/volunteers/robin_kuzmin.jpeg);"></span>
+    <p class="quoteBoxText">
+        Volunteering a C++Now gave me valuable insight and confidence. I'm already seeing the impact of my engagement with the community.
+    </p>
+    <a href="/about/volunteer_program/robin_kuzmin_volunteer_story/" class="quoteBoxRightLink">Read Robin's Story</a>
+</blockquote>
+
+<blockquote class="quoteBox">
     <span class="quoteBoxImage" style="background-image: url(/assets/img/volunteers/alexander_duchene.jpg);"></span>
     <p class="quoteBoxText">
         All of the attendees had knowledge to share. Although the talks can be seen online, nothing can compare to being surrounded by over a hundred C++ enthusiasts.
