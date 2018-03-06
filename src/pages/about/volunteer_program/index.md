@@ -19,6 +19,14 @@ Read [the Volunteer FAQ](/about/faq/#volunteer-faq).
 ### Volunteer Stories
 
 <blockquote class="quoteBox">
+    <span class="quoteBoxImage" style="background-image: url(/assets/img/volunteers/anthony_calandra.jpeg);"></span>
+    <p class="quoteBoxText">
+        I went through the job interview cycle for my upcoming internship, and during the process I was asked numerous times about C++Now and my experience. An employer even emailed me mentioning how much of a differentiator it was to list on my resume!
+    </p>
+    <a href="https://www.linkedin.com/pulse/cnow-2017-what-means-student-volunteer-anthony-calandra/" class="quoteBoxRightLink">Read Anthony's Story</a>
+</blockquote>
+
+<blockquote class="quoteBox">
     <span class="quoteBoxImage" style="background-image: url(/assets/img/volunteers/grant_mercer.jpg);"></span>
     <p class="quoteBoxText">
         Attending has truly been one of the most inspirational moments of my life. I had the opportunity to learn, socialize and have a great time in general. I hope to attend this conference yearly now and make a lasting impact in the computer science community.
