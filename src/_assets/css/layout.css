@@ -13,7 +13,7 @@
 }
 
 @media (--mobileOnly) {
-    .sSidebar {
+    .sidebar {
         padding: 8px;
     }
     .contentBox {
@@ -30,7 +30,7 @@
         width: 200px;
         height: 100%;
     }
-    .sSidebar {
+    .sidebar {
         margin-bottom: 0;
         padding: 16px 8px 0 8px;
         position: absolute;
@@ -62,7 +62,7 @@
         width: 250px;
         height: auto;
     }
-    .sSidebar {
+    .sidebar {
         margin-bottom: 0;
         padding: 16px 8px 0 8px;
         position: absolute;

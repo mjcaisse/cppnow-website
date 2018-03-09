@@ -15,10 +15,12 @@ section: about
     <span class="quoteBoxCredentials">Conference Chair CppCon, Conference Chair C++Now</span>
 </blockquote>
 
+
 <blockquote class="quoteBox">
     <span class="quoteBoxImage quoteBoxAirplane"></span>
     <a href="https://mpark.github.io/trip-report/2017/05/20/cppnow-2017/" class="quoteBoxMainLink">Trip Report by Michael Park (2017)</a>
 </blockquote>
+
 
 <blockquote class="quoteBox replaceQuote">
     <span class="quoteBoxImage quoteBoxQuotes"></span>
@@ -49,6 +51,7 @@ Definitely the best conference experience I've had so far.</p>
     <span class="quoteBoxCredentials">Software Engineer; Bloomberg LP</span>
 </blockquote>
 
+
 <blockquote class="quoteBox">
     <span class="quoteBoxImage quoteBoxAirplane"></span>
     <a href="http://www.elbeno.com/blog/?p=1443" class="quoteBoxMainLink">Trip Report by Ben Deane (2017)</a>
@@ -78,6 +81,7 @@ new ideas sprout<br />
 
 <div class="ratioBox16x9"><iframe src="https://www.youtube.com/embed/QsYuEsZVy3I?color=white&rel=0" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" allowfullscreen=""></iframe></div>
 
+
 <blockquote class="quoteBox replaceQuote">
     <span class="quoteBoxImage quoteBoxQuotes"></span>
     <p class="quoteBoxText">
@@ -87,11 +91,13 @@ new ideas sprout<br />
     <span class="quoteBoxCredentials">May 20th, 2017</span>
 </blockquote>
 
+
 <blockquote class="quoteBox">
     <span class="quoteBoxImage quoteBoxAirplane"></span>
     <a href="https://vittorioromeo.info/index/blog/cppnow2017_tripreport_pt1.html" class="quoteBoxMainLink">Trip Report by Vittorio Romeo (2017) [1 of 2)</a>
     <a href="https://vittorioromeo.info/index/blog/cppnow2017_tripreport_pt2.html" class="quoteBoxMainLink">[2 of 2]</a>
 </blockquote>
+
 
 <blockquote class="quoteBox">
     <span class="quoteBoxImage quoteBoxQuotes"></span>
@@ -103,10 +109,12 @@ new ideas sprout<br />
     <span class="quoteBoxCredentials">Conference Chair C++Now</span>
 </blockquote>
 
+
 <blockquote class="quoteBox">
     <span class="quoteBoxImage quoteBoxAirplane"></span>
     <a href="https://github.com/SuperV1234/cppnow2016/blob/master/trip_report.md" class="quoteBoxMainLink">Trip Report by Vittorio Romeo (2016)</a>
 </blockquote>
+
 
 <blockquote class="quoteBox replaceQuote">
     <span class="quoteBoxImage quoteBoxQuotes"></span>
@@ -117,12 +125,15 @@ new ideas sprout<br />
     <span class="quoteBoxCredentials"></span>
 </blockquote>
 
+
 <blockquote class="quoteBox">
     <span class="quoteBoxImage quoteBoxAirplane"></span>
     <a href="http://www.patrikhuber.ch/blog/7-cpp-now-2015-trip-report" class="quoteBoxMainLink">Trip Report by Patrik Huber (2015)</a>
 </blockquote>
 
+
 <div class="ratioBox16x9"><iframe src="https://www.youtube.com/embed/kdbYLOBNguk?color=white&rel=0" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" allowfullscreen=""></iframe></div>
+
 
 <blockquote class="quoteBox replaceQuote">
     <span class="quoteBoxImage quoteBoxQuotes"></span>
@@ -138,9 +149,3 @@ new ideas sprout<br />
     <span class="quoteBoxImage quoteBoxAirplane"></span>
     <a href="http://stellar-group.org/2015/05/cnow-2015-trip-report-hpx-is-in-the-air/" class="quoteBoxMainLink">Trip Report by Thomas Heller (2015)</a>
 </blockquote>
-
-
-
-
-
-<script src="/assets/js/AboutPageQuoteShuffler.js"></script>

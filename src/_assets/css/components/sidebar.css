@@ -2,52 +2,43 @@
 /* components/sidebar.css */
 
 
-#side_bar
+.currentlyTitle.currentlyTitle {
+    color: #656565;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.4;
+    margin-bottom: 4px;
+}
+
+.currentlyText {
+    margin-bottom: 32px;
+    font-size: 14px;
+}
+
+.sidebar
 {
-
-    a
-    {
-        text-decoration: underline;
-        color: var(--primaryTextColor);
-        transition: color 0.1s ease-in-out;
-
-        &:hover, &:focus {
-            color: color(var(--primaryTextColor) lightness(+5%));
-        }
-
-        &:active {
-            color: color(var(--primaryTextColor) lightness(-5%));
-        }
+    .quoteBox.quoteBox {
+        margin: 0 0 16px 8px;
+        padding: 16px 8px 8px 16px;
+        border-radius: 8px;
     }
 
-    #currently
-    {
-        font-size: 12px;        
+    .quoteBoxQuotes.quoteBoxQuotes {
+        background-size: 16px;
     }
 
-    .quoteBox.quoteBox
-    {
-        margin: 0 0 0 15px;
-        padding: 48px 0 0 0;
-        background-color: var(--lightColor);
-        border-radius: 16px;
-        font-family: sans-serif;
-        position: relative;
+    .quoteBoxImage.quoteBoxImage {
+        height: 32px;
+        left: -16px;
+        top: -16px;
+        width: 32px;
     }
 
-    .quoteBoxText.quoteBoxText
-    {
-        margin-bottom: 8px;
-        font-family: serif;
+    .quoteBoxText.quoteBoxText {
         font-size: 14px;
     }
 
-    .quoteBoxCredentials.quoteBoxCredentials
-    {
-        display: block;
-        font-size: 14px;
-        text-align: right;
-        color: var(--midGreyColor);
+    .quoteBoxAuthor.quoteBoxAuthor, .quoteBoxCredentials.quoteBoxCredentials {
+        font-size: 12px;
     }
-
 }
