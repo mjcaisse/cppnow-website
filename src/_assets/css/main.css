@@ -1,3 +1,6 @@
+
+/* main.css */
+
 @import 'reset';
 @import 'settings/colors';
 @import 'settings/sizes';
@@ -17,6 +20,8 @@
 @import 'components/sponsors';
 @import 'components/homeBoxes';
 @import 'components/richText';
+
+@import 'components/sidebar';
 
 @import 'helpers';
 

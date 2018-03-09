@@ -1,14 +1,10 @@
-.sLink {
-    margin-bottom: 32px;
-    display: block;
-}
 
-.sImage {
-    width: 320px;
-    max-width: 100%;
-}
+/* components/sponsors.css */
 
-.sSidebar {
+
+/* Note, if we use words like "Sponsor" in the css classnames, ad blockers will likely hide them. */
+
+.sBox {
     h2 {
         display: none;
     }
@@ -20,4 +16,14 @@
         font-weight: 300;
         color: var(--midGreyColor);
     }
+}
+
+.sLink {
+    margin-bottom: 32px;
+    display: block;
+}
+
+.sImage {
+    width: 320px;
+    max-width: 100%;
 }

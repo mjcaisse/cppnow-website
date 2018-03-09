@@ -99,10 +99,3 @@ There are several opportunities to sponsor C++Now, both as a [Corporate Sponsor]
         <p><a href="/about/volunteer_program/">Apply Today</a></p>
     </div>
 </div>
-
-
-
-
-
-
-<script src="/assets/js/HomepageCountdown.js"></script>

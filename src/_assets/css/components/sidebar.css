@@ -1,0 +1,44 @@
+
+/* components/sidebar.css */
+
+
+.currentlyTitle.currentlyTitle {
+    color: #656565;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.4;
+    margin-bottom: 4px;
+}
+
+.currentlyText {
+    margin-bottom: 32px;
+    font-size: 14px;
+}
+
+.sidebar
+{
+    .quoteBox.quoteBox {
+        margin: 0 0 16px 8px;
+        padding: 16px 8px 8px 16px;
+        border-radius: 8px;
+    }
+
+    .quoteBoxQuotes.quoteBoxQuotes {
+        background-size: 16px;
+    }
+
+    .quoteBoxImage.quoteBoxImage {
+        height: 32px;
+        left: -16px;
+        top: -16px;
+        width: 32px;
+    }
+
+    .quoteBoxText.quoteBoxText {
+        font-size: 14px;
+    }
+
+    .quoteBoxAuthor.quoteBoxAuthor, .quoteBoxCredentials.quoteBoxCredentials {
+        font-size: 12px;
+    }
+}
