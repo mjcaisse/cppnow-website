@@ -61,3 +61,16 @@ registration_time: "4PM on Sunday, May 6th"
 deadline_for_volunteers: "March 9th, 2018" # 8 weeks prior to start of conference
 registration_day_of_week: "Sunday"
 first_session_day_of_week: "Monday"
+
+# Currently (for sidebar)
+currently_accepting_submissions: false
+currently_accepting_submissions_link: '/announcements/2017/12/2018-call-for-submissions/'
+currently_accepting_sv_applications: false
+currently_accepting_sv_applications_link: '/announcements/2018/02/2018-call-for-student-volunteers/'
+currently_accepting_registrations: true
+currently_accepting_registrations_link: '/announcements/2018/02/2018-registration-is-open/'
+currently_accepting_sponsors: true
+currently_accepting_sponsors_link: '/about/corporate_sponsors/'
+currently_accepting_reservations: true
+currently_accepting_reservations_link: '/location/lodging/'
+
