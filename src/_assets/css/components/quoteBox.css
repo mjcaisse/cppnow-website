@@ -1,3 +1,6 @@
+
+/* components/quoteBox.css */
+
 .quoteBox.quoteBox {
     margin: 32px 0 16px 32px;
     padding: 32px 32px 32px 48px;
@@ -6,16 +9,6 @@
     font-family: sans-serif;
     position: relative;
 }
-
-.quoteBox.quoteBox.sidebar_text {
-    margin: 0 0 0 15px;
-    padding: 48px 0 0 0;
-    background-color: var(--lightColor);
-    border-radius: 16px;
-    font-family: sans-serif;
-    position: relative;
-}
-
 
 .quoteBoxImage.quoteBoxImage {
     position: absolute;
@@ -37,12 +30,6 @@
     font-size: 28px;
 }
 
-.quoteBoxText.quoteBoxText.sidebar_text {
-    margin-bottom: 8px;
-    font-family: serif;
-    font-size: 14px;
-}
-
 .quoteBoxMainLink.quoteBoxMainLink {
     font-size: 28px;
 }
@@ -57,13 +44,6 @@
 .quoteBoxCredentials.quoteBoxCredentials {
     display: block;
     font-size: 18px;
-    text-align: right;
-    color: var(--midGreyColor);
-}
-
-.quoteBoxCredentials.quoteBoxCredentials.sidebar_text {
-    display: block;
-    font-size: 14px;
     text-align: right;
     color: var(--midGreyColor);
 }
