@@ -1,9 +1,8 @@
-<div class="currentlyText">
-    {% if site.data.currently.size != 0 %}
+{% if site.data.currently.size != 0 %}
+    <div class="currentlyText">
         <h3 class="currentlyTitle">Currently</h3>
         {% for item in site.data.currently %}
             <div><a href="{{item.link}}" class="a">{{item.title}}</a></div>
         {% endfor %}
-    {% endif %}
-</div>
-
+    </div>
+{% endif %}
