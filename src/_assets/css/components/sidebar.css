@@ -1,0 +1,53 @@
+
+/* components/sidebar.css */
+
+
+#side_bar
+{
+
+    a
+    {
+        text-decoration: underline;
+        color: var(--primaryTextColor);
+        transition: color 0.1s ease-in-out;
+
+        &:hover, &:focus {
+            color: color(var(--primaryTextColor) lightness(+5%));
+        }
+
+        &:active {
+            color: color(var(--primaryTextColor) lightness(-5%));
+        }
+    }
+
+    #currently
+    {
+        font-size: 12px;        
+    }
+
+    .quoteBox.quoteBox
+    {
+        margin: 0 0 0 15px;
+        padding: 48px 0 0 0;
+        background-color: var(--lightColor);
+        border-radius: 16px;
+        font-family: sans-serif;
+        position: relative;
+    }
+
+    .quoteBoxText.quoteBoxText
+    {
+        margin-bottom: 8px;
+        font-family: serif;
+        font-size: 14px;
+    }
+
+    .quoteBoxCredentials.quoteBoxCredentials
+    {
+        display: block;
+        font-size: 14px;
+        text-align: right;
+        color: var(--midGreyColor);
+    }
+
+}

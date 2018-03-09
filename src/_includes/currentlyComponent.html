@@ -1,0 +1,22 @@
+<div id="currently">
+    {% if {{site.currently_accepting_submissions}} or {{site.currently_accepting_sv_applications}} or  {{site.currently_accepting_registrations}} or {{site.currently_accepting_sponsors}} or {{site.currently_accepting_reservations}} %}
+        <h3>Currently:</h3>
+        {% if {{site.currently_accepting_registrations}} %}
+        <a href="{{site.currently_accepting_registrations_link}}">Registration is open</a><br />
+        {% endif %}
+        {% if {{site.currently_accepting_reservations}} %}
+        <a href="{{site.currently_accepting_reservations_link}}">Accepting reservations</a><br />
+        {% endif %}
+        {% if {{site.currently_accepting_submissions}} %}
+        <a href="{{site.currently_accepting_submissions_link}}">Accepting submissions</a><br />
+        {% endif %}
+        {% if {{site.currently_accepting_sv_applications}} %}
+        <a href="{{site.currently_accepting_sv_applications_link}}">Accepting S/V apps</a><br />
+        {% endif %}
+        {% if {{site.currently_accepting_sponsors}} %}
+        <a href="{{site.currently_accepting_sponsors_link}}">Accepting sponsors</a><br />
+        {% endif %}
+        <br />
+    {% endif %}
+</div>
+
