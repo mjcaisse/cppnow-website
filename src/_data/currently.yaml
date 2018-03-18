@@ -7,16 +7,16 @@
         "title": "Accepting reservations",
         "link": "/location/lodging/"
     },
+    # {
+    #     "title": "Accepting submissions",
+    #     "link": "/announcements/2017/12/2018-call-for-submissions/"
+    # },
+    # {
+    #     "title": "Accepting S/V apps",
+    #     "link": "/announcements/2018/02/2018-call-for-student-volunteers/",
+    # },
     {
         "title": "Accepting sponsors",
         "link": "/about/corporate_sponsors/"
     },
-    # {
-    #     "title": "Accepting S/V apps",
-    #     "link": "/announcements/2017/12/2018-call-for-submissions/",
-    # },
-    # {
-    #     "title": "Accepting sponsors",
-    #     "link": "/announcements/2018/02/2018-call-for-student-volunteers/"
-    # },
 ]
