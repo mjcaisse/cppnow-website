@@ -272,7 +272,7 @@ No, please bring your own or arrange with the program committee to get access to
 
 #### Do I have to use PowerPoint?
 
-No. OpenOffice.org's Impress and Apple's Keynote are popular alternatives.
+No. OpenOffice.org's Impress and Apple's Keynote are popular alternatives and there are many others.
 
 
 
@@ -297,10 +297,11 @@ Suggestions from experienced presenters include:
 Given the capacity of the rooms, plan on a maximum of 100 and a minimum of 20.
 
 
-
 #### How much time should I reserve for questions?
 
-This can vary from speaker to speaker and topic to topic, but something of the order of 10 minutes for a 90-minute session. You can take questions as they arise, leave them until the end (or, for long sessions, just before the next break), or a mix of both, but be sure to let the audience know at the beginning if you are happy to take questions as they come or whether you prefer to leave them until the end. Of course, if you are involving the audience by asking them questions, you should expect questions in return during the session. In taking questions during the session, try to be brief and to not get sidetracked. If a question deserves a longer answer than the flow of the material allows, or is a little off topic, say so and suggest coming back to it either at the end or offline.
+This can vary from speaker to speaker and topic to topic, but something of the order of 10 minutes for a 90-minute session. You can take questions as they arise, leave them until the end (or, for long sessions, just before the next break), or a mix of both, but be sure to let the audience know at the beginning if you are happy to take questions as they come or whether you prefer to leave them until the end.
+
+If you are involving the audience by asking them questions, you should expect questions in return during the session. In taking questions during the session, try to be brief and to not get sidetracked. If a question deserves a longer answer than the flow of the material allows, or is a little off topic, say so and suggest coming back to it either at the end or offline.
 
 
 
@@ -330,4 +331,8 @@ No, although part of the fun and benefits of a conference come from offline inte
 
 #### When should I plan to arrive?
 
-At a minimum, please plan to arrive the day before your session, and allow plenty of leeway for travel delays. And of course we hope you will come for the entire conference, and leave some time to enjoy the spectacular setting.
+At a minimum, please plan to arrive the day before your session, and allow plenty of leeway for travel delays. Of course we hope you will come for the entire conference, and leave some time to enjoy the spectacular setting.
+
+#### What else should I know?
+
+Please read [the Presenter Infomation page](/presenters/) and [contact the conference's Speaker Liaison](mailto:speakers@cppnow.org) with any questions.
