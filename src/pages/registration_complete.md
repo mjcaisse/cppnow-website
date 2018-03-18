@@ -6,15 +6,16 @@ permalink: /registration_complete/
 
 Thanks for registering and congratulations, **you are going to C++Now {{site.current_year}}!**
 
-You do not need to print or bring a ticket, but be prepared to show personal identification when you register. If you need to make an attendee substitution, please notify us as soon as possible.
 
-Registration starts at {{site.registration_time}} in Aspen. We look forward to seeing you then.
+Do not forget to make your [lodging arrangements](/location/lodging/). Other information about the conference is available on this website. The [attendee FAQ is here](/about/faq/#attendee-faq).
 
-In order to make the conference run as smoothly as possible, we want to present sessions in appropriately sized rooms and we are asking for your help. When the conference schedule is available, you will have the option of creating your personal schedule. Doing this will help us anticipate the audience-size requirements of each session.
+Conference registration starts at {{site.registration_time}} at Aspen Meadows Resort. You do not need to print or bring a ticket, but be prepared to show personal identification when you register.
 
-Do not forget to make your [lodging arrangements](/location/lodging/). Other information about the conference is available on this website. The [attendee FAQ is here](/about/faq/#attendee-faq). If you have any questions, [contact the organizers](/about/contact/).
+When you receive your invite from Sched.com, please accepte it, update your bio and photo, and complete your personal schedule. Your bio and photo make it easier for others to engage with and stay in contact with you. Your personal schedule gives us the information we need to put sessions in appropriately sized rooms, so you'll have a seat for the talks you want to attend.
 
+Refunds are accepted, with {{site.refund_fee}} fee deduction, until {{site.refund_deadline}}. We can make an attendee substitution at any time. If you need to make an attendee substitution, please notify us as soon as possible.
 
+If you have any questions, [contact the organizers](/about/contact/).
 
 <br>
-*Conference Staff*
+*[C++Now Conference Staff](/about/staff/)*
