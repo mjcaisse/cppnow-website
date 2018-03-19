@@ -18,18 +18,19 @@ The C++Now community has grown out the Boost community and is focused on pushing
 </div>
 
 
-<!--
-
 ## Schedule
 
-The session schedule for C++Now 2018 is not yet confirmed. Keep an eye on the [announcements page](/announcements/) for updated information. To get an idea of what to expect, check out the [C++Now 2017 Schedule](/history/2017/schedule/).
+The [session schedule for C++Now 2018](/history/2018/schedule/) is up!
 
+<!--
+The session schedule for C++Now 2018 is not yet confirmed. Keep an eye on the [announcements page](/announcements/) for updated information. To get an idea of what to expect, check out the [C++Now 2017 Schedule](/history/2017/schedule/).
 -->
 
-
+<!--
 ## Volunteer
 
 We are currently <a href="/about/volunteer_program/">accepting applications</a> from young C++ programmers interested in helping to run the conference in exchange for financial aid to attend.
+-->
 
 ## Register
 

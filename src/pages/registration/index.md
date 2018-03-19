@@ -12,7 +12,7 @@ redirect_from:
 
 You can register below or open <a href="https://cppnow2018.eventbrite.com/">the registration page on the Eventbrite website</a>.
 
-Refunds are accepted, with {{site.refund_fee}} fee deduction, until {{site.refund_deadline}}. We can make an attendee substitution at any time. If you need to make an attendee substitution, please notify us as soon as possible.
+Refund requests are granted, with {{site.refund_fee}} fee deduction, until {{site.refund_deadline}}. We can make an attendee substitution at any time. If you need to make an attendee substitution, please notify us as soon as possible.
  
 <iframe src="https://cppnow2018.eventbrite.com/?ref=eweb" width="100%" height="2900" frameborder="0" marginwidth="5" marginheight="5" scrolling="auto"></iframe>
  

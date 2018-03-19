@@ -4,8 +4,12 @@
         "link": "/announcements/2018/02/2018-registration-is-open/"
     },
     {
-        "title": "Accepting reservations",
+        "title": "Taking reservations",
         "link": "/location/lodging/"
+    },
+    {
+        "title": "Schedule is up",
+        "link": "/schedule/"
     },
     # {
     #     "title": "Accepting submissions",
