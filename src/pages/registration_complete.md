@@ -7,7 +7,7 @@ permalink: /registration_complete/
 Thanks for registering and congratulations, **you are going to C++Now {{site.current_year}}!**
 
 
-Do not forget to make your [lodging arrangements](/location/lodging/). Other information about the conference is available on this website. The [attendee FAQ is here](/about/faq/#attendee-faq).
+Do not forget to make your [lodging arrangements](/location/lodging/). Other information about the conference is available on this website. Please read [the attendee FAQ](/about/faq/#attendee-faq).
 
 Conference registration starts at {{site.registration_time}} at Aspen Meadows Resort. You do not need to print or bring a ticket, but be prepared to show personal identification when you register.
 
