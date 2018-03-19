@@ -13,7 +13,7 @@ Conference registration starts at {{site.registration_time}} at Aspen Meadows Re
 
 When you receive your invite from Sched.com, please accepte it, update your bio and photo, and complete your personal schedule. Your bio and photo make it easier for others to engage with and stay in contact with you. Your personal schedule gives us the information we need to put sessions in appropriately sized rooms, so you'll have a seat for the talks you want to attend.
 
-Refunds are accepted, with {{site.refund_fee}} fee deduction, until {{site.refund_deadline}}. We can make an attendee substitution at any time. If you need to make an attendee substitution, please notify us as soon as possible.
+Refund requests are granted, with {{site.refund_fee}} fee deduction, until {{site.refund_deadline}}. We can make an attendee substitution at any time. If you need to make an attendee substitution, please notify us as soon as possible.
 
 If you have any questions, [contact the organizers](/about/contact/).
 
