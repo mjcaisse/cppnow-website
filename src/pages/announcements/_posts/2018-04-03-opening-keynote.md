@@ -15,7 +15,7 @@ Lisa is Chief Software Architect at Tanium, a bay-area startup, and a popular sp
 She contributes to arcane parts of the C++ standard, accepting the label: _language nerd_.
 
 <!--break-->
-Lisa approaches languges from a mathematical point of view and thinks deeply on the meaning of programming. In this presentation, she will encourage us to apply topology, the fundamental mathematics of space, as a way of looking at a program.
+Lisa approaches languages from a mathematical point of view and thinks deeply on the meaning of programming. In this presentation, she will encourage us to apply topology, the fundamental mathematics of space, as a way of looking at a program.
 
 If you are inclined to reject the idea of a program as a spatial object, consider the spatial metaphors that we use when discussing application design. We speak of connection and separation, of paths and boundaries, of areas and lengths.
 
