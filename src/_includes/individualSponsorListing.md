@@ -10,9 +10,15 @@
 <p>
     {% for item in type.sponsors %}
         {% if item.disabled != true %}
+            {% if item.anonymous %}
+            <span class="block anonymous">
+                anonymous
+            </span>
+            {% else %}
             <span class="block">
                 {{item.name}}
             </span>
+            {% endif %}
         {% endif %}
     {% endfor %}
 </p>
