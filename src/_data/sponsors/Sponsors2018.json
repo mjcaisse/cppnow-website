@@ -2,26 +2,30 @@
     "corporate": [
         {
             "title": "Gold Sponsors",
-            "sponsors": [
-                {
-                    "title": "C++ Alliance",
-                    "link": "http://cppalliance.com/",
-                    "image": "/assets/img/sponsors/cpp.alliance.png"
-                },
+            "sponsors":
+            [
                 {
                     "title": "Commvault",
                     "link": "http://www.commvault.com/",
                     "image": "/assets/img/sponsors/commvault.png"
                 },
+                {
+                    "title": "The C++ Alliance",
+                    "link": "http://cppalliance.com/",
+                    "image": "/assets/img/sponsors/cpp.alliance.png"
+                },
             ]
         },
         {
             "title": "Silver Sponsors",
-            "sponsors": []
+            "sponsors":
+            [
+            ]
         },
         {
             "title": "Bronze Sponsors",
-            "sponsors": [
+            "sponsors":
+            [
                 {
                     "title": "Ciere Consulting",
                     "link": "http://ciere.com",
@@ -31,7 +35,8 @@
         },
         {
             "title": "Video Sponsorship",
-            "sponsors": [
+            "sponsors":
+            [
                 {
                     "title": "JetBrains",
                     "link": "http://www.jetbrains.com/",
@@ -43,25 +48,37 @@
     "individual": [
         {
             "title": "Gold Scholarship Sponsors",
-            "sponsors": [
+            "sponsors":
+            [
+                {
+                    "name": "Agustín Bergé", 
+                    "anonymous": true,
+                    "info": "Agustín Bergé <kaballo86@hotmail.com> until 2019-04-01",
+                    "shirt": "men's medium"
+                },
+                {
+                    "name": "Jeff Trull",
+                    "info": "Jeffrey Trull <jetrull@sbcglobal.net> until 2019-04-01",
+                    "shirt": "men's medium"
+                },                
                 {
                     "name": "Jon and Kathleen Kalb",
-                    "info": "Jon Kalb <jonkalb@boost.org> until 2018-04-05"
-                }
-            ]
-        },
-        {
-            "title": "Silver Scholarship Sponsors",
-            "sponsors": [
-                {
-                    "name": "Ali Çehreli",
-                    "info": "Ali Çehreli <acehreli@yahoo.com> until 2018-05-01"
+                    "info": "Jon Kalb <jonkalb@boost.org> until 2019-04-05",
+                    "shirt": "men's large"
                 },
             ]
         },
         {
+            "title": "Silver Scholarship Sponsors",
+            "sponsors":
+            [
+            ]
+        },
+        {
             "title": "Bronze Scholarship Sponsors",
-            "sponsors": []
+            "sponsors":
+            [
+            ]
         }
     ]
 }
