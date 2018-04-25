@@ -87,6 +87,21 @@ During the day, people usually go to lunch and dinner in groups. Don't be shy. I
 After the evening session, the Meadows bar always attracts a crowd.
 
 
+#### Food?
+
+_The History of every major Galactic Civilization tends to pass through three distinct and recognizable phases, those of Survival, Inquiry and Sophistication, otherwise known as the How, Why, and Where phases. For instance, the first phase is characterized by the question 'How can we eat?' the second by the question 'Why do we eat?' and the third by the question 'Where shall we have lunch?_ - Douglas Adams
+
+_Time is an illusion. Lunchtime doubly so._ - Douglas Adams
+
+We have high-carb breaks both morning and afternoon, but for meals you are on-your-own. The Meadows usually has a nice, if pricey, spread for breakfast and some attendees head back to the Meadows for lunch or dinner as they have a limited menu that is convenient. But most head downtown for meals. It is at bit of a walk, but enjoyable with a group.
+
+Some years we have a food truck at lunch and we recommend a couple of places for dinner every evening (except the night of the picnic). When dinning at a recommended spot, mention that you are at the Physics Center for a special deal (free appetizers or a discount).
+
+When heading to town, don't go back to your room first, you'll not make it back in time to the after-meal sessions. Instead, drop your laptop bag at the Center for Physics Library in Bethe Hall where it will be locked up until you return (we'll even charge the battery for you, if you'd like).
+
+One evening, we'll host a picnic at the Center for Physics. Feel free to have anyone traveling with you to join us.
+
+
 
 #### What are Lightning Talks?
 
