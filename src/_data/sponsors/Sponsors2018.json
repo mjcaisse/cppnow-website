@@ -27,6 +27,11 @@
             "sponsors":
             [
                 {
+                    "title": "Backtrace",
+                    "link": "https://backtrace.io/",
+                    "image": "/assets/img/sponsors/backtrace.png"
+                },
+                {
                     "title": "Ciere Consulting",
                     "link": "http://ciere.com",
                     "image": "/assets/img/sponsors/ciere.png"
