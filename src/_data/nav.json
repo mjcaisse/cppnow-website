@@ -40,6 +40,10 @@
                 "link": "/about/staff/",
             },
             {
+                "title": "Code of Conduct",
+                "link": "/about/code_of_conduct/",
+            },
+            {
                 "title": "Contact",
                 "link": "/about/contact/"
             }

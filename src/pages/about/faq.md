@@ -147,7 +147,7 @@ If you'd like to join the PC, please [contact the PC Chair](mailto:boostcon-pc-c
 
 #### Code of Conduct
 
-We use the [PyCon Code of Conduct](https://us.pycon.org/2016/about/code-of-conduct/). For any questions or concerns, [contact our Security Team](mailto:security@cppnow.org) or [contact Jon Kalb](mailto:jon@cppnow.org), our Conference Chair, directly.
+We hold attendees to this [Code of Conduct](/about/code_of_conduct/). For any questions or concerns, [contact our Security Team](mailto:security@cppnow.org) or [contact Jon Kalb](mailto:jon@cppnow.org), our Conference Chair, directly.
 
 
 
