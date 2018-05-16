@@ -14,9 +14,9 @@ redirect_from:
 
 #### Why don't they just let the speaker speak?
 
-A common question/complaint concerns how often C++Now speakers are interrupted by questions (and sometime by comments that aren't even questions) from the audience. Sometimes viewers are thinking, "I'm not watching this to hear you, I'm listening for the speaker." This results from a misunderstanding about the nature of our conference. C++Now is very much a collaborative conference.
+A common question/complaint concerns how often C++Now speakers are interrupted by questions (and sometime by comments that aren't _even_ questions) from the audience. Sometimes viewers are thinking, "I'm not watching this to hear you, I'm listening for the speaker." This results from a misunderstanding about the nature of our conference. C++Now is very much a _collaborative_ conference.
 
-At most conferences, the assumption (usually correct) is that the most knowledgable person on the subject at hand is at the front of the room. But at C++Now, a speaker may be discussing features that were added to C++ based on proposals authored by members of the audience. The collective understanding of the speaker and the audience is what makes a C++Now session such a valuable experience.
+At most conferences, the assumption (usually correct) is that the most knowledgable person on the subject at hand is at the front of the room. But at C++Now, a speaker may be discussing features that were added to C++ based on proposals authored by members of the audience. The collective understanding of the speaker _and_ the audience is what makes a C++Now session such a valuable experience.
 
 Questions and comments by the audience are not distractions, they are the reason that C++Now exists and why it is a different experience than other C++ conferences.
 
@@ -179,7 +179,7 @@ C++Now is a community conference and it survives because of the support of the c
 * get your company to [be a sponsor](/about/corporate_sponsors/)
 * become a [Boost Scholarship Sponsor](/about/individual_sponsors/)
 * write a trip report about the conference (send link [to the planning list](mailto:boostcon-plan@googlegroups.com))
-* write a testimonial about the conference (send link [to the planning list](mailto:boostcon-plan@googlegroups.com))
+* write a testimonial about the conference (send endorsement [to the planning list](mailto:boostcon-plan@googlegroups.com))
 
 
 
@@ -216,8 +216,8 @@ We want you to have plenty of time to attend sessions and socialize with other a
     * answering questions
     * giving tours
 * directing attendees to sessions (after the first day, everyone will know where everything is)
-* assisting with setup before and cleanup after breaks
-    * monitoring sessions
+* assisting with setup before and cleanup after breaks and lunch
+* monitoring sessions
     * assisting speakers with microphones, AV, water, etc.
     * holding up cards to let speakers know about time remaining and to repeat questions
     * making special announcements as required
@@ -250,7 +250,7 @@ Please do!
 
 Absolutely. Attendees are very supportive of the Student / Volunteer Program and happy to engage with you. Plan to spend your available time socializing with other attendees.
 
-The high ratio of speakers to attendees and long breaks make it possible to have in depth conversation with speakers, but you’ll find that <i>all</i> C++Now attendees come to Aspen because they want to engage with others that are interested in learning about C++.
+The high ratio of speakers to attendees and long breaks make it possible to have in-depth conversations with speakers, but you’ll find that <i>all</i> C++Now attendees come to Aspen because they want to engage with others that are interested in learning about C++.
 
 
 
@@ -264,14 +264,15 @@ Quite likely.
 
 #### What are the elements of a good submission?
 
-* Consider your audience. The Program Committee judges proposals based upon how interested C++Now attendees are likely to be in the content. The more niche your content, the less interest there will be, which increases the likelihood your presentation will be rejected.
+* Consider your audience. The Program Committee (PC) judges proposals based upon how interested C++Now attendees are likely to be in the content.
+* Pick a topic small enough that you can go deep in that topic, but if you are too niche, you may not attract enough interest from the PC.
 * Focus on topics about which you are knowledgeable and passionate.
 * Choose a short, punchy title that clearly states the purpose of the presentation. Clever titles can grab attention, but cutesy titles may do the opposite.
 * Try to write just one sentence to describe your presentation. As with documenting classes or functions, if you can't boil down the description, you're likely doing too much in one presentation.
 * Consider describing a challenge, problem, or situation you will address and then discuss how you will address or solve it.
-* Provide enough details to allow the reviewing to make an informed decision. The less well known you are to the reviewer or community, the more you have to show that you know the material, can organize a good presentation, and can interest the audience.
+* Provide enough details to allow the reviewers to make an informed decision. The less well known you are to the reviewer or community, the more you have to show that you know the material, can organize a good presentation, and can interest the audience.
 * C++Now is a technical conference, so discussions of management problems, while not uncommon, are not appropriate.
-* Intentions to present on what does not yet exist increases the risk of rejection. For example, if you intend to present a library, don't expect the Program Committee to take on faith that you'll create that library and a good presentation by the time of the conference.
+* Intentions to present on what does not yet exist increases the risk of rejection. For example, if you intend to present a library, don't expect the PC to take on faith that you'll create that library and a good presentation by the time of the conference.
 * Overly simplistic subjects will almost certainly be rejected.
 * Don't underestimate your time requirements. If you are unused to technical presentations, then five minutes is a lot longer than you think and forty-five minutes is a lot shorter than you think.
 
@@ -326,7 +327,7 @@ Given the capacity of the rooms, plan on a maximum of 100 and a minimum of 20.
 
 #### How much time should I reserve for questions?
 
-This can vary from speaker to speaker and topic to topic, but something of the order of 10 minutes for a 90-minute session. You can take questions as they arise, leave them until the end (or, for long sessions, just before the next break), or a mix of both, but be sure to let the audience know at the beginning if you are happy to take questions as they come or whether you prefer to leave them until the end.
+This can vary from speaker to speaker and topic to topic, but something of the order of 10 minutes for a 90-minute session. You can take questions as they arise (which we recommend), leave them until the end (or, for long sessions, just before the next break), or a mix of both, but be sure to let the audience know at the beginning if you are happy to take questions as they come or whether you prefer to leave them until the end.
 
 If you are involving the audience by asking them questions, you should expect questions in return during the session. In taking questions during the session, try to be brief and to not get sidetracked. If a question deserves a longer answer than the flow of the material allows, or is a little off topic, say so and suggest coming back to it either at the end or offline.
 
@@ -334,7 +335,9 @@ If you are involving the audience by asking them questions, you should expect qu
 
 #### How can I tell how long my presentation will take?
 
-It depends on the amount of detail on each slide, the amount of time allowed for questions, any time budgeted for demos, and, of course, the typical slide velocity of the presenter. If you are unsure, it is worth rehearsing all or part of your presentation to get a sense of the timing. Different presenters have different average slide velocities: some presenters use only a few slides, and move to a new slide once every five minutes or so; others move through their slides at a rapid rate, up to once every minute or so. Work out where you are on this scale and determine a slide limit based on the duration of your session divided by your typical slide velocity.
+It depends on the amount of detail on each slide, the amount of time allowed for questions, any time budgeted for demos, and, of course, the typical slide velocity of the presenter. It is worth rehearsing all or part of your presentation to get a sense of the timing. Different presenters have different average slide velocities: some presenters use only a few slides, and move to a new slide once every few minutes or so; others move through their slides at a much more rapid rate. Work out where you are on this scale and determine a slide limit based on the duration of your session divided by your typical slide velocity.
+
+Compared to other technical conferences, speakers tend to cover less material at C++Now because of the enhanced level of audience engagement.
 
 
 
