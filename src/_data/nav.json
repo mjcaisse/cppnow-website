@@ -14,7 +14,8 @@
     {
         "title": "About",
         "link": "/about/",
-        "children": [
+        "children":
+        [
             {
                 "title": "Corporate Sponsors",
                 "link": "/about/corporate_sponsors/"
@@ -52,7 +53,8 @@
     {
         "title": "Location",
         "link": "/location/",
-        "children": [
+        "children":
+        [
             {
                 "title": "Venue",
                 "link": "/location/venue/"
@@ -82,7 +84,12 @@
     {
         "title": "History",
         "link": "/history/",
-        "children": [
+        "children":
+        [
+            {
+                "title": "2018",
+                "link": "/history/2018/"
+            },
             {
                 "title": "2017",
                 "link": "/history/2017/"

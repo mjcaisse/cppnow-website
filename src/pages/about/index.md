@@ -5,6 +5,8 @@ permalink: /about/
 section: about
 ---
 
+Here is what C++Now is about, in the words of its attendees…
+
 <blockquote class="quoteBox">
     <span class="quoteBoxImage quoteBoxQuotes"></span>
     <p class="quoteBoxText">
@@ -13,6 +15,51 @@ section: about
     </p>
     <strong class="quoteBoxAuthor">Jon Kalb</strong>
     <span class="quoteBoxCredentials">Conference Chair CppCon, Conference Chair C++Now</span>
+</blockquote>
+
+
+<blockquote class="quoteBox">
+    <span class="quoteBoxImage quoteBoxAirplane"></span>
+    <a href="https://bunnyladame.blogspot.com/2018/05/a-cppnow-travel-guide.html" class="quoteBoxMainLink">Trip Report by Eva _Bunny_ Conti (2018)</a>
+</blockquote>
+
+
+<blockquote class="quoteBox replaceQuote">
+    <span class="quoteBoxImage quoteBoxQuotes"></span>
+    <p class="quoteBoxText">
+        With a welcoming, collaborative, and ruthlessly technical atmosphere, C++Now caters to library designers, compiler nerds, mailing list junkies, and anyone interested in pushing the envelope of what is possible in modern C++. This is the coolest tech conference in the world.
+    </p>
+    <span class="quoteBoxAuthor">Barrett Adair</span>
+    <span class="quoteBoxCredentials">May 20th, 2017</span>
+</blockquote>
+
+<blockquote class="quoteBox">
+    <span class="quoteBoxImage quoteBoxAirplane"></span>
+    <a href="https://xania.org/201805/cppnow-trip-report" class="quoteBoxMainLink">Trip Report by Matt Godbolt (2018)</a>
+</blockquote>
+
+
+<blockquote class="quoteBox replaceQuote">
+    <span class="quoteBoxImage quoteBoxQuotes"></span>
+    <p class="quoteBoxText">
+I\'ve spoken at C++Now a few times and it was always a great experience. Everyone was very welcoming and helpful. C++Now is a one of a kind conference. There are some great opportunities to make valuable connections with the leaders of the C++ community since all big IT companies and field experts are represented here. As well as there is a great ratio of speakers to attendees. It\'s the best conference to discuss advanced topics where the C++ language can be pushed to the limits. There is no idea, too extreme here! For me, it\'s a C++ highlight of the year! BTW Aspen is an amazing place, it\'s a must see!</p>
+    <strong class="quoteBoxAuthor">Kris Jusiak</strong>
+    <span class="quoteBoxCredentials">Senior Software Developer, Quantlab Financial</span>
+</blockquote>
+
+
+<blockquote class="quoteBox">
+    <span class="quoteBoxImage quoteBoxAirplane"></span>
+    <a href="https://bobsteagall.com/2018/05/13/cppnow-2018-trip-report/" class="quoteBoxMainLink">Trip Report by Bob Steagall (2018)</a>
+</blockquote>
+
+
+<blockquote class="quoteBox replaceQuote">
+    <span class="quoteBoxImage quoteBoxQuotes"></span>
+    <p class="quoteBoxText">
+C++Now is by C++ experts, for C++ experts - but don’t let that put you off - it’s not elitist! Instead it is an intimate and friendly gathering of those that take C++ seriously and want to move it forward. While the talks are some of the best, and most in-depth, you’ll find - it’s the times between and after the talks that the magic really happens - perhaps more than any other conference. With such a fantastic location this is as much a week-long retreat as a conference.</p>
+    <strong class="quoteBoxAuthor">Phil Nash</strong>
+    <span class="quoteBoxCredentials">Creator of Catch</span>
 </blockquote>
 
 

@@ -7,8 +7,9 @@ redirect_from:
     - /tickets/
 ---
 
-<!-- Tickets for C++Now 2018 are not yet available. Please visit again or keep an eye on the [announcements page](/announcements/) for updated information. -->
+Tickets for C++Now 2019 are not yet available. Please visit again or keep an eye on the [announcements page](/announcements/) for updated information.
 
+<!-- 
 
 You can register below or open <a href="https://cppnow2018.eventbrite.com/">the registration page on the Eventbrite website</a>.
 
@@ -18,3 +19,4 @@ Refund requests are granted, with {{site.refund_fee}} fee deduction, until {{sit
  
 <div style="font-family: Helvetica, Arial; font-size: 12px; padding: 10px 0 5px; margin: 2px; width: 100%; text-align: left;"><a class="powered-by-eb" style="color: #adb0b6; text-decoration: none;" href="http://www.eventbrite.com/" target="_blank" rel="noopener">Powered by Eventbrite</a></div>
 
+ -->

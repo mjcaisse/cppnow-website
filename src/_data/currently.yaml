@@ -1,16 +1,16 @@
 [
-    {
-        "title": "Registration is open",
-        "link": "/announcements/2018/02/2018-registration-is-open/"
-    },
-    {
-        "title": "Taking reservations",
-        "link": "/location/lodging/"
-    },
-    {
-        "title": "Schedule is up",
-        "link": "/schedule/"
-    },
+    # {
+    #     "title": "Registration is open",
+    #     "link": "/announcements/2018/02/2018-registration-is-open/"
+    # },
+    # {
+    #     "title": "Taking reservations",
+    #     "link": "/location/lodging/"
+    # },
+    # {
+    #     "title": "Schedule is up",
+    #     "link": "/schedule/"
+    # },
     # {
     #     "title": "Accepting submissions",
     #     "link": "/announcements/2017/12/2018-call-for-submissions/"

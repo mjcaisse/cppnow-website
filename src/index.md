@@ -14,17 +14,20 @@ The C++Now community has grown out the Boost community and is focused on pushing
 
     <div id="countdown" data-start-date="{{site.current_year_start_date_formatted}}" data-end-date="{{site.current_year_end_date_formatted}}"></div>
 
+<!--
     <a href="/registration/" class="buttonPrimaryLarge">Register Now</a>
+-->
+
 </div>
 
 
 ## Schedule
 
-The [session schedule for C++Now 2018](/history/2018/schedule/) is up!
-
 <!--
-The session schedule for C++Now 2018 is not yet confirmed. Keep an eye on the [announcements page](/announcements/) for updated information. To get an idea of what to expect, check out the [C++Now 2017 Schedule](/history/2017/schedule/).
+The [session schedule for C++Now 2018](/history/2018/schedule/) is up!
 -->
+
+The session schedule for C++Now 2019 is not yet confirmed. Keep an eye on the [announcements page](/announcements/) for updated information. To get an idea of what to expect, check out the [C++Now 2018 Schedule](/history/2018/schedule/).
 
 <!--
 ## Volunteer
@@ -34,17 +37,22 @@ We are currently <a href="/about/volunteer_program/">accepting applications</a> 
 
 ## Register
 
-<!-- Tickets for C++Now 2018 are not yet available. Watch the [announcements page](/announcements/) for updated information. -->
+Tickets for C++Now 2019 are not yet available. Watch the [announcements page](/announcements/) for updated information.
+
+<!-- 
 
 <a href="/registration/">Registration</a> is open!
 
-<!-- TODO: List price and what basic things you get (panels, networking, etc). Link to: [Register](/registration/) -->
+ -->
 
 
+<!-- 
 
 ## Reserve
 
 Rooms are still available at <a href="/location/lodging/" class="a">the Aspen Meadows Resort</a>.
+
+ -->
 
 
 ## Sponsor
