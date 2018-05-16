@@ -8,7 +8,19 @@ redirect_from:
     - /speaker_faq/
 ---
 
-[Attendee FAQ](#attendee-faq) • [Volunteer FAQ](#volunteer-faq) • [Submitter FAQ](#submitter-faq) • [Speaker FAQ](#speaker-faq)
+[Viewer FAQ](#viewer-faq) • [Attendee FAQ](#attendee-faq) • [Volunteer FAQ](#volunteer-faq) • [Submitter FAQ](#submitter-faq) • [Speaker FAQ](#speaker-faq)
+
+### Viewer FAQ
+
+#### Why don't they just let the speaker speak?
+
+A common question/complaint concerns how often C++Now speakers are interrupted by questions (and sometime by comments that aren't even questions) from the audience. Sometimes viewers are thinking, "I'm not watching this to hear you, I'm listening for the speaker." This results from a misunderstanding about the nature of our conference. C++Now is very much a collaborative conference.
+
+At most conferences, the assumption (usually correct) is that the most knowledgable person on the subject at hand is at the front of the room. But at C++Now, a speaker may be discussing features that were added to C++ based on proposals authored by members of the audience. The collective understanding of the speaker and the audience is what makes a C++Now session such a valuable experience.
+
+Questions and comments by the audience are not distractions, they are the reason that C++Now exists and why it is a different experience than other C++ conferences.
+
+
 
 ### Attendee FAQ
 

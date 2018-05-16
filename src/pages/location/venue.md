@@ -26,7 +26,7 @@ Weather permitting, all breaks will be in the Stranahan Patio just south of the 
 
 The campus has wireless.
 
-**Login:** acprf<br>
+**Login:** acp*<br>
 **Password:** highlands
 
 
@@ -45,4 +45,5 @@ Mild-mannered black bears live in the area. Food trash must be locked in the bea
 
 ### Bike Rental
 
-Bicycles are available to rent from the [Aspen Center for Physics](https://www.aspenphys.org/) for $75 per week. Check the [Transportation Page](/location/transportation/#bike-rental) for more information.
+[We-Cycle](https://www.we-cycle.org/) is available in Aspen. This system requires that you download an app to your smart phone and provide a credit card for security, but the first thirty minutes of every ride is free. Thirty minutes is usually enough for a trip anywhere is Aspen. The town of Aspen subsidizes this service to reduce parking in downtown Aspen.
+

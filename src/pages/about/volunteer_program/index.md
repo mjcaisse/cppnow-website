@@ -14,9 +14,21 @@ The C++Now Volunteer/Student Program was started in 2013 in an effort to encoura
 
 Read [the Volunteer FAQ](/about/faq/#volunteer-faq).
 
+We are not yet accepting application for C++Now 2019 Student / Volunteers.
+
+<!--
 <p style="text-align: center; font-size: 40px;"><a href="/about/volunteer_program/apply/">Apply Now</a></p>
+-->
 
 ### Volunteer Stories
+
+<blockquote class="quoteBox">
+    <span class="quoteBoxImage" style="background-image: url(/assets/img/volunteers/jeanheyd_meneide.jpeg);"></span>
+    <p class="quoteBoxText">
+        Every night staying up until 12 or 1 AM in the morning talking about C++, techniques, experiences and ideas was entirely well worth it. It is rare I get to geek out in person… and I got to do a whole week of it in beautiful Aspen!
+    </p>
+    <a href="https://thephd.github.io/2018/05/15/C++Now-Trip-Report.html" class="quoteBoxRightLink">Read JeanHeyd's Story</a>
+</blockquote>
 
 <blockquote class="quoteBox">
     <span class="quoteBoxImage" style="background-image: url(/assets/img/volunteers/anthony_calandra.jpeg);"></span>

@@ -23,23 +23,5 @@ Some attendees elect to carpool from Denver (or other locations) to the conferen
 
 ### Bike Rental
 
-Bicycles are available for rent through the [Aspen Center for Physics](https://www.aspenphys.org/). The fee is $75 per week.
+[We-Cycle](https://www.we-cycle.org/) is available in Aspen. This system requires that you download an app to your smart phone and provide a credit card for security, but the first thirty minutes of every ride is free. Thirty minutes is usually enough for a trip anywhere is Aspen. The town of Aspen subsidizes this service to reduce parking in downtown Aspen.
 
-#### Picking up a Bike
-
-1. Bikes are on the west side of Bethe Hall.
-2. Pick out the bike you wish to use.
-3. Note the number on the bar of the bike.
-4. Pay your $75/week fee at the front desk of Smart Hall.
-5. Sign a bike release form.
-
-After these steps, you will recieve the bike lock combination.
-
-#### Bike Safety
-
-* Please keep your bike locked at all times you are not riding it. When at the Physics Center, use the bike rack near the parking lot.
-* Please wear a helmet. Helmets can be borrowed from the supply on the right side of the Stranahan front porch.
-
-#### Returning a Bike
-
-Before departing, please return and lock your bike in clean and well-working condition to the bike rack near the parking lot.

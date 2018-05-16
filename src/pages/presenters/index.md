@@ -11,7 +11,7 @@ Thank you for your interest in becoming a speaker at C++Now.
 
 ## Types of Presentations
 
-We have two categories of presentations at C++Now. Every year we release a <a href="/announcements/2017/12/2018-call-for-submissions/">Call for Submissions for the <i>regular program</i></a> which are 45 or 90 minutes. That CfS is now closed for C++Now 2018, but it isn't too late to become a presenter.
+We have two categories of presentations at C++Now. Every year we release a <a href="/announcements/2017/12/2018-call-for-submissions/">Call for Submissions for the <i>regular program</i></a> which are 45 or 90 minutes. That CfS is now closed for C++Now 2018<!--, but it isn't too late to become a presenter-->.
 
 We also have <i>lightning talks</i>. Lightning talks are only five minutes long. This is a challenging length for a technical talk! We make a Call for Lightning Talks a few days before the conference and continue to accept submission after the start of the conference.
 
@@ -56,7 +56,7 @@ Not only does it work better to put the question in your own words, it may be sm
 
 ## Ending Your Presentation
 
-It isn’t uncommon for content to take longer to deliver than you expect. This is part of the reason that we urge you to practice before a live technical audience. We aren’t so tightly scheduled that (with one important exception–see Half Sessions) you can go over by a minute or two. But do not go beyond that.
+It isn’t uncommon for content to take longer to deliver than you expect. This is part of the reason that we urge you to practice before a live technical audience. We aren’t so tightly scheduled that (with one important exception–see Half Sessions) you can't go over by a minute or two. But do not go beyond that.
 
 If you find that questions are taking you beyond your allotted time, you may cut them off by saying that you’ll continue to take questions during break.
 
@@ -65,7 +65,7 @@ You may feel that, since you were speaking before the lunch or dinner break, tha
 The volunteers have been instructed to cut you off, but they really don’t want to do that. It is awkward for everyone. Practice your session, watch your time, skip the digressions if necessary, and _end on time_.
 
 ## Half Sessions
-If you are scheduled to deliver a half session, you help is needed to make the program run smoothly.
+If you are scheduled to deliver a half session, your help is needed to make the program run smoothly.
 
 ### First Half
 If you are giving the first half session, arrive at your session extra early because not only will you need to get your AV setup and checked, the following presenter will need to be setup and checked as well. Please let the following speaker get set up and checked before you, so you’ll be setup and ready to go for your talk.

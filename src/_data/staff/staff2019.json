@@ -12,11 +12,11 @@
         "name": "Yuval Hager"
     },
     {
-        "title": "Security Chair",
+        "title": "Facilities Chair",
         "name": "Dave Jenkins"
     },
     {
-        "title": "Facilities Chair",
+        "title": "Security Chair",
         "name": "Dave Jenkins"
     },
     {
@@ -26,5 +26,13 @@
     {
         "title": "Graphic Design",
         "name": "Zoltan Juhasz"
+    },
+    {
+        "title": "Promotion",
+        "name": "Jonthan Müller"
+    },
+    {
+        "title": "Balloting",
+        "name": "Peter Bindels"
     }
 ]

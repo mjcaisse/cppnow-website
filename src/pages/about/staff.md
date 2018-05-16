@@ -9,10 +9,16 @@ redirect_from:
 
 ## Conference Staff
 
-{% for staff_member in site.data.staff %}
-#### {{staff_member.title}}
+{% assign staffname = 'staff' | append: site.current_year %}
+{% assign staffmembers = site.data.staff[staffname] %}
 
-{{staff_member.name}}
+{% for staffmember in staffmembers %}
+#### {{staffmember.title}}
+
+<p><div>
+    {{ staffmember.name }}{% if staffmember.company %}, {{ staffmember.company }}{% endif %}
+</div></p>
+
 {% endfor %}
 
 

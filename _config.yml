@@ -52,14 +52,14 @@ gems:
   - jekyll-redirect-from
 
 # Year Data Config
-current_year: 2018
-current_year_start_date: "May 6, 2018"
-current_year_end_date: "May 11, 2018"
-current_year_start_date_formatted: "2018-05-06"
-current_year_end_date_formatted: "2018-05-11"
-registration_time: "4PM on Sunday, May 6th"
+current_year: 2019
+current_year_start_date: "May 5, 2019"
+current_year_end_date: "May 10, 2019"
+current_year_start_date_formatted: "2019-05-05"
+current_year_end_date_formatted: "2019-05-10"
+registration_time: "4PM on Sunday, May 5th"
 refund_fee: "$30"
-refund_deadline: "April 6th" # 30 days prior to conference start
-deadline_for_volunteers: "March 9th, 2018" # 8 weeks prior to start of conference
+refund_deadline: "April 5th" # 30 days prior to conference start
+deadline_for_volunteers: "March 5th, 2019" # 8 weeks prior to start of conference
 registration_day_of_week: "Sunday"
 first_session_day_of_week: "Monday"
