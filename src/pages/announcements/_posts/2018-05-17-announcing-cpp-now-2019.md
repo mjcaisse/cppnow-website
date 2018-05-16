@@ -19,7 +19,7 @@ This post will announce the "Best Session" ballot winners, share some trip repor
 <!--break-->
 
 
-### Best Session Winners
+### <a name="awards"></a>Best Session Winners
 
 Announcing the results of the **Best Session** and **Best Lightning Talk** balloting by C++Now 2018 attendees.
 
@@ -28,7 +28,7 @@ Announcing the results of the **Best Session** and **Best Lightning Talk** ballo
 
 [Easy to Use, Hard to Misuse: Declarative Style in C++](https://cppnow2018.sched.com/event/EC7i/easy-to-use-hard-to-misuse-declarative-style-in-c) by [Ben Deane](https://cppnow2018.sched.com/speaker/ben_deane).
 
-[<img src="/assets/img/posts/2017/PersonIconBenDeane.jpg" style="border-radius: 1000px;margin: 0 16px 16px 0;" alt="Ben Deane">](https://cppnow2017.sched.com/speaker/ben_deane "Ben Deane")
+[<img src="/assets/img/posts/2018/PersonIconBenDeane.jpg" style="border-radius: 1000px;margin: 0 16px 16px 0;" alt="Ben Deane">](https://cppnow2017.sched.com/speaker/ben_deane "Ben Deane")
 
 
 #### Most Inspiring, Most Educational
@@ -62,7 +62,7 @@ Announcing the results of the **Best Session** and **Best Lightning Talk** ballo
 * [JeanHeyd Meneide](https://cppnow2018.sched.com/volunteer/boostcon.2018.jm3689_columbia.edu)
 * [Matt Godbolt](https://cppnow2018.sched.com/speaker/cppcon.2017.matt_godbolt.org)
 
-### Trip reports
+### <a name="reports"></a>Trip reports
 
 Some of the early C++Now 2018 trip reports have started to arrive. We'll update this announcement as more trip reports are filed.
 
@@ -74,9 +74,11 @@ Some of the early C++Now 2018 trip reports have started to arrive. We'll update 
 
 * [C++Now 2018 Trip Report](https://thephd.github.io/2018/05/15/C++Now-Trip-Report.html) by JeanHeyd *The PhD* Meneide
 
+* [Back to Aspen: C++Now trip report by JetBrains](https://thephd.github.io/2018/05/15/C++Now-Trip-Report.html) by JetBrains (Anastasia Kazakova and Phil Nash)
+
 Thanks to everyone that has filed a trip report!
 
-### C++Now 2019 Announced
+### <a name="dates"></a>C++Now 2019 Announced
 
 C++Now 2018 wrapped up with the announcement of C++Now 2019.
 
@@ -86,5 +88,8 @@ The dates for next year's conference will be **May 5 - 10, 2019** and the locati
 ### Big Thanks!
 
 Thanks for helping make the program a success. The conference organizers would like to send a big thank you for a successful C++Now to all the speakers, the attendees, Patty Fox, the staff of the Aspen Center for Physics, the staff of Aspen Meadows Resort, the Program Committee, the Student/Volunteers, the conference planning committee, Software Freedom Conservancy, and, of course, all of our wonderful sponsors.
+
+![Attendees](/assets/img/posts/2018/attendees.jpeg "Attendees")
+
 
 We hope to see you in Aspen next May.
