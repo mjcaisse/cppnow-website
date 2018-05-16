@@ -74,7 +74,7 @@ Some of the early C++Now 2018 trip reports have started to arrive. We'll update 
 
 * [C++Now 2018 Trip Report](https://thephd.github.io/2018/05/15/C++Now-Trip-Report.html) by JeanHeyd *The PhD* Meneide
 
-* [Back to Aspen: C++Now trip report by JetBrains](https://thephd.github.io/2018/05/15/C++Now-Trip-Report.html) by JetBrains (Anastasia Kazakova and Phil Nash)
+* [Back to Aspen: C++Now trip report by JetBrains](https://blog.jetbrains.com/clion/2018/05/back-to-aspen-cppnow-trip-report-by-jetbrains/) by JetBrains (Anastasia Kazakova and Phil Nash)
 
 Thanks to everyone that has filed a trip report!
 
