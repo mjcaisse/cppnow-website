@@ -27,6 +27,21 @@ Here is what C++Now is about, in the words of its attendees…
 <blockquote class="quoteBox replaceQuote">
     <span class="quoteBoxImage quoteBoxQuotes"></span>
     <p class="quoteBoxText">
+        If you think you’re the Top Gun of C++ developers where you work, you should prepare yourself for being surrounded by people who have forgotten more about C++ than most software engineers know.
+    </p>
+    <span class="quoteBoxAuthor">Matthew Butler</span>
+    <span class="quoteBoxCredentials">Principle Engineer, Laurel Lye</span>
+</blockquote>
+
+<blockquote class="quoteBox">
+    <span class="quoteBoxImage quoteBoxAirplane"></span>
+    <a href="https://maddphysics.com/2018/05/16/cnow-2018-trip-report/" class="quoteBoxMainLink">Trip Report by Matthew Butler (2018)</a>
+</blockquote>
+
+
+<blockquote class="quoteBox replaceQuote">
+    <span class="quoteBoxImage quoteBoxQuotes"></span>
+    <p class="quoteBoxText">
         With a welcoming, collaborative, and ruthlessly technical atmosphere, C++Now caters to library designers, compiler nerds, mailing list junkies, and anyone interested in pushing the envelope of what is possible in modern C++. This is the coolest tech conference in the world.
     </p>
     <span class="quoteBoxAuthor">Barrett Adair</span>
