@@ -76,6 +76,8 @@ Some of the early C++Now 2018 trip reports have started to arrive. We'll update 
 
 * [Back to Aspen: C++Now trip report by JetBrains](https://blog.jetbrains.com/clion/2018/05/back-to-aspen-cppnow-trip-report-by-jetbrains/) by JetBrains (Anastasia Kazakova and Phil Nash)
 
+* [C++Now 2018 Trip Report](https://maddphysics.com/2018/05/16/cnow-2018-trip-report/) by Matthew Butler
+
 Thanks to everyone that has filed a trip report!
 
 ### <a name="dates"></a>C++Now 2019 Announced
