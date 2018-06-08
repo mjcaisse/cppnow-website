@@ -78,6 +78,8 @@ Some of the early C++Now 2018 trip reports have started to arrive. We'll update 
 
 * [C++Now 2018 Trip Report](https://maddphysics.com/2018/05/16/cnow-2018-trip-report/) by Matthew Butler
 
+* [C++Now 2018 Trip Report](https://neobrain.github.io/posts/2018-06-07-cppnow-trip-report.html) by Tony Wasserka
+
 Thanks to everyone that has filed a trip report!
 
 ### <a name="dates"></a>C++Now 2019 Announced
