@@ -39,14 +39,8 @@ Here is what C++Now is about, in the words of its attendees…
 </blockquote>
 
 
-<blockquote class="quoteBox replaceQuote">
-    <span class="quoteBoxImage quoteBoxQuotes"></span>
-    <p class="quoteBoxText">
-        With a welcoming, collaborative, and ruthlessly technical atmosphere, C++Now caters to library designers, compiler nerds, mailing list junkies, and anyone interested in pushing the envelope of what is possible in modern C++. This is the coolest tech conference in the world.
-    </p>
-    <span class="quoteBoxAuthor">Barrett Adair</span>
-    <span class="quoteBoxCredentials">May 20th, 2017</span>
-</blockquote>
+<div class="ratioBox16x9"><iframe width="560" height="315" src="https://www.youtube.com/embed/QavE4jRX25k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
 
 <blockquote class="quoteBox">
     <span class="quoteBoxImage quoteBoxAirplane"></span>
@@ -75,6 +69,22 @@ I\'ve spoken at C++Now a few times and it was always a great experience. Everyon
 C++Now is by C++ experts, for C++ experts - but don’t let that put you off - it’s not elitist! Instead it is an intimate and friendly gathering of those that take C++ seriously and want to move it forward. While the talks are some of the best, and most in-depth, you’ll find - it’s the times between and after the talks that the magic really happens - perhaps more than any other conference. With such a fantastic location this is as much a week-long retreat as a conference.</p>
     <strong class="quoteBoxAuthor">Phil Nash</strong>
     <span class="quoteBoxCredentials">Creator of Catch</span>
+</blockquote>
+
+
+<blockquote class="quoteBox">
+    <span class="quoteBoxImage quoteBoxAirplane"></span>
+    <a href="https://neobrain.github.io/posts/2018-06-07-cppnow-trip-report.html" class="quoteBoxMainLink">Trip Report by Tony Wasserka (2018)</a>
+</blockquote>
+
+
+<blockquote class="quoteBox replaceQuote">
+    <span class="quoteBoxImage quoteBoxQuotes"></span>
+    <p class="quoteBoxText">
+        With a welcoming, collaborative, and ruthlessly technical atmosphere, C++Now caters to library designers, compiler nerds, mailing list junkies, and anyone interested in pushing the envelope of what is possible in modern C++. This is the coolest tech conference in the world.
+    </p>
+    <span class="quoteBoxAuthor">Barrett Adair</span>
+    <span class="quoteBoxCredentials">May 20th, 2017</span>
 </blockquote>
 
 
@@ -141,7 +151,7 @@ new ideas sprout<br />
 </blockquote>
 
 
-<div class="ratioBox16x9"><iframe src="https://www.youtube.com/embed/QsYuEsZVy3I?color=white&rel=0" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" allowfullscreen=""></iframe></div>
+<div class="ratioBox16x9"><iframe src="https://www.youtube.com/embed/kdbYLOBNguk?color=white&rel=0" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" allowfullscreen=""></iframe></div>
 
 
 <blockquote class="quoteBox replaceQuote">
@@ -194,7 +204,7 @@ new ideas sprout<br />
 </blockquote>
 
 
-<div class="ratioBox16x9"><iframe src="https://www.youtube.com/embed/kdbYLOBNguk?color=white&rel=0" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" allowfullscreen=""></iframe></div>
+<div class="ratioBox16x9"><iframe src="https://www.youtube.com/embed/QsYuEsZVy3I?color=white&rel=0" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" allowfullscreen=""></iframe></div>
 
 
 <blockquote class="quoteBox replaceQuote">
