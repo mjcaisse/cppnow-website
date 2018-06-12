@@ -74,6 +74,21 @@ C++Now is by C++ experts, for C++ experts - but don’t let that put you off - i
 
 <blockquote class="quoteBox">
     <span class="quoteBoxImage quoteBoxAirplane"></span>
+    <a href="https://www.fluentcpp.com/2018/06/12/triple-trip-report-from-accu-c-russia-and-cnow-2018-part-2/" class="quoteBoxMainLink">Trip Report by Jonathan Boccara (2018)</a>
+</blockquote>
+
+
+<blockquote class="quoteBox replaceQuote">
+    <span class="quoteBoxImage quoteBoxQuotes"></span>
+    <p class="quoteBoxText">
+Eight years of C++Now attendance have helped me acquire next-level C++ skills, as well as a network of talented and influential fellow developers. The talks and environment are of the very highest quality. It\'s a transformative experience every time.</p>
+    <strong class="quoteBoxAuthor">Jeff Trull</strong>
+    <span class="quoteBoxCredentials">C++ Consultant</span>
+</blockquote>
+
+
+<blockquote class="quoteBox">
+    <span class="quoteBoxImage quoteBoxAirplane"></span>
     <a href="https://neobrain.github.io/posts/2018-06-07-cppnow-trip-report.html" class="quoteBoxMainLink">Trip Report by Tony Wasserka (2018)</a>
 </blockquote>
 
