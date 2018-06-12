@@ -7,13 +7,14 @@ section: history
 
 Please enjoy all available videos and slides from talks, keynotes, and tutorials given at C++Now 2018, which took place in Aspen Colorado from May 6th to May 11th, 2018.
 
-<!---
-* [Playlist of 2018 Session Talks](https://www.youtube.com/playlist?list=PL_AKIMJc4roXJldxjJGtH8PJb4dY6nN1D)
-* [Playlist of 2018 Lightning Talks](https://www.youtube.com/playlist?list=PL_AKIMJc4roV-ATm4VQH5Tc78_0bruUuI)
--->
+* [Playlist of 2018 Session Talks](https://www.youtube.com/watch?v=QFIOE1jKv30&list=PL_AKIMJc4roVSbTTfHReQTl1dc9ms0lWH)
+* [Playlist of 2018 Lightning Talks](https://www.youtube.com/watch?v=6uon_MtpcwE&list=PL_AKIMJc4roWtkG_Qiw6uwNWcjjG5WLHE)
+* [Slides](https://github.com/boostcon/cppnow_presentations_2018)
 
+<!--
 * Playlist of 2018 Session Talks (not yet available)
 * Playlist of 2018 Lightning Talks (not yet available)
+-->
 
 {% for item in site.data.talks.Talks2018 %}
 <div class="panelBox">
