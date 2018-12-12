@@ -11,7 +11,7 @@ Thank you for your interest in becoming a speaker at C++Now.
 
 ## Types of Presentations
 
-We have two categories of presentations at C++Now. Every year we release a <a href="/announcements/2017/12/2018-call-for-submissions/">Call for Submissions for the <i>regular program</i></a> which are 45 or 90 minutes. That CfS is now closed for C++Now 2018<!--, but it isn't too late to become a presenter-->.
+We have two categories of presentations at C++Now. Every year we release a <a href="/announcements/2018/12/2019-call-for-submissions/">Call for Submissions for the <i>regular program</i></a> which are 45 or 90 minutes. <!--That CfS is now closed for C++Now 2018<!--, but it isn't too late to become a presenter-->.
 
 We also have <i>lightning talks</i>. Lightning talks are only five minutes long. This is a challenging length for a technical talk! We make a Call for Lightning Talks a few days before the conference and continue to accept submission after the start of the conference.
 
@@ -27,7 +27,7 @@ For more information about lightning talks, contact the Lightning Talk Chair: [l
 
 Speakers that are speaking as Lightning Talk (only) presenters do not have their registration waived.
 
-Regular program speakers have their registration cost waived.
+Regular program speakers have their registration cost waived. (Prorated up to one registration per full session.)
 
 If your registration cost is waived, you will be contacted about how to register.
 
@@ -100,6 +100,12 @@ Here is [a page of advice](https://meetingcpp.com/index.php/br/items/presenting-
 ## More information
 
 If you have any questions, please [contact the Speaker Liaison](mailto:speakers@cppnow.org).
+
+## Submission
+
+Please [make your submission here](https://cppform.cierecloud.com/sessions/submitter/?conf=boostcon&year=2019).
+
+We'll see you in Aspen!
 
 <!--After that, fill out the form below and we will review your submission.
 
