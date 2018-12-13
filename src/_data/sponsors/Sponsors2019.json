@@ -4,9 +4,11 @@
             "title": "Gold Sponsors",
             "sponsors":
             [
+                {
                     "title": "Bloomberg",
                     "link": "http://techatbloomberg.com/",
                     "image": "/assets/img/sponsors/bloomberg.png"
+                }
             ]
         },
         {

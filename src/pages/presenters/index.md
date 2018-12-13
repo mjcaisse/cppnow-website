@@ -11,15 +11,46 @@ Thank you for your interest in becoming a speaker at C++Now.
 
 ## Types of Presentations
 
-We have two categories of presentations at C++Now. Every year we release a <a href="/announcements/2018/12/2019-call-for-submissions/">Call for Submissions for the <i>regular program</i></a> which are 45 or 90 minutes. <!--That CfS is now closed for C++Now 2018<!--, but it isn't too late to become a presenter-->.
+We have two programs of presentations at C++Now. We have a [main program](#main_program) and a [lightning talk program](#lightning_talks).
 
-We also have <i>lightning talks</i>. Lightning talks are only five minutes long. This is a challenging length for a technical talk! We make a Call for Lightning Talks a few days before the conference and continue to accept submission after the start of the conference.
+<a name="main_program"></a>
+### Main Program
+Every year we release a <a href="/announcements/2018/12/2019-call-for-submissions/">Call for Submissions for the <i>main program</i></a>.<!--That CfS is now closed for C++Now 2018<!--, but it isn't too late to become a presenter-->.
+
+Most C++Now sessions are 90 minutes long, but sessions can be either shorter (45 minutes) or longer (multiples of 90 minutes). For 90 minute or longer sessions, registration will be waived for one presenter. For shorter sessions, registration will be prorated.
+
+Interactive and collaborative sessions are encouraged, as this is the style of learning and participation that has proven most successful at these events. Many sessions take the form of a traditional presentation with a slide deck and a single speaker, but other formats are encouraged and supported.
+
+- _Lectures_ focus on a practitioner’s ideas and experience with anything relevant to the C++ community.
+
+- _Tutorials_ are sessions at which instructors teach conference participants specific skills or knowledge relevant to C++.
+
+- _Workshops_ provide an active arena for advancements in C++-relevant topics. Workshops provide the opportunity for experienced practitioners to develop new ideas about a topic of common interest and experience. Workshops usually feature significant hands-on exercises.
+
+- _Case Studies_ are reports on a particular project or projects that attempted something new and the results of the experience.
+
+- _Panels_ feature several people presenting their ideas and experiences relating to C++’s relevant, controversial, emerging, or unresolved issues. _Panels_ may be conducted in several ways, such as comparative, analytic, or historic and usually feature interaction between participants as well as Q&A with the audience.
+
+- _Demonstrations_ show attendees what a particular process, product, technique, or library is capable of and how it is best used.
+
+- Other formats may also be of interest. Don’t hold back a proposal just because it doesn’t fit into a pigeonhole.
 
 Before you submit your talk, please have a look at our [Submitter FAQ](/about/faq/#submitter-faq) and our [Speaker FAQ](/about/faq/#speaker-faq).
 
 For more information about regular program submissions, contact the Program Chair: [program@cppnow.org](mailto:program@cppnow.org)
 
+Please [make your main program submission here](https://cppform.cierecloud.com/sessions/submitter/?conf=boostcon&year=2019).
+
+
+<a name="lightning_talks"></a>
+### Lightning Talks
+
+In addition to the [main program](#main_program) we also have <i>lightning talks</i>. Lightning talks are only five minutes long. This is a challenging length for a technical talk! We make a Call for Lightning Talks a few days before the conference and continue to accept submission after the start of the conference.
+
+The [BoostCon YouTube Channel](https://www.youtube.com/user/BoostCon/) has examples of [previous lightning talks](https://www.youtube.com/watch?v=6uon_MtpcwE&list=PL_AKIMJc4roWtkG_Qiw6uwNWcjjG5WLHE).
+
 For more information about lightning talks, contact the Lightning Talk Chair: [lightning@cppnow.org](mailto:lightning@cppnow.org)
+
 
 ## Registration
 
@@ -100,10 +131,6 @@ Here is [a page of advice](https://meetingcpp.com/index.php/br/items/presenting-
 ## More information
 
 If you have any questions, please [contact the Speaker Liaison](mailto:speakers@cppnow.org).
-
-## Submission
-
-Please [make your submission here](https://cppform.cierecloud.com/sessions/submitter/?conf=boostcon&year=2019).
 
 We'll see you in Aspen!
 
