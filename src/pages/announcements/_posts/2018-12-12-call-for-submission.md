@@ -56,24 +56,10 @@ Most C++Now sessions are 90 minutes long, but sessions can be either shorter (45
 
 Many sessions take the form of a traditional presentation with a slide deck and a single speaker, but other formats are encouraged and supported, such as tutorials, live demos, _etc_.
 
-Interactive and collaborative sessions are encouraged, as this is the style of learning and participation that has proven most successful at these events.
-
-- _Lectures_ focus on a practitioner’s ideas and experience with anything relevant to the C++ community.
-
-- _Tutorials_ are sessions at which instructors teach conference participants specific skills or knowledge relevant to C++.
-
-- _Workshops_ provide an active arena for advancements in C++-relevant topics. Workshops provide the opportunity for experienced practitioners to develop new ideas about a topic of common interest and experience. Workshops usually feature significant hands-on exercises.
-
-- _Case Studies_ are reports on a particular project or projects that attempted something new and the results of the experience.
-
-- _Panels_ feature several people presenting their ideas and experiences relating to C++’s relevant, controversial, emerging, or unresolved issues. _Panels_ may be conducted in several ways, such as comparative, analytic, or historic and usually feature interaction between participants as well as Q&A with the audience.
-
-- _Demonstrations_ show attendees what a particular process, product, technique, or library is capable of and how it is best used.
-
-- Other formats may also be of interest. Don’t hold back a proposal just because it doesn’t fit into a pigeonhole.
+For a list of session formats, see the [Presenter Information page](/presenters/)
 
 ### Submitting a Proposal
-All submissions should be made through our <a href="/presenters/">presenters page</a>.
+All submissions should be made through our [presenters page](/presenters/)</a>.
 
 Submissions are considered for inclusion in the program by a peer review process.
 
@@ -81,7 +67,7 @@ Session materials will be shared with the C++ community on the C++Now website.
 
 Note: Presenters must agree to grant a non-exclusive, perpetual license to publish  materials submitted to C++Now, either electronically or in print, in any media related to C++Now.
 
-For any questions about the submission process, please contact the Program Committee <mailto:cppnow2018@easychair.org> .
+For any questions about the submission process, please contact the Program Committee <mailto:cppnow2018@easychair.org>.
 
 Bryce Adelstein Lelbach <bryce@cppnow.org> (Program Committee Chair)
 
@@ -91,7 +77,9 @@ Jon Kalb <mailto:jon@cppnow.org> (Conference Chair)
 
 | Proposal submissions due | <strong>January 23</strong> |
 | Proposal decisions sent | <strong>February 25</strong> |
-| Program online | <strong>March 17</strong> |
-
+| Program online | <strong>March 17</strong> |  
+|||  
+  
+  
 <strong>Note</strong>: We strongly recommend that you make your submissions as early as possible. During submission evaluation, the Program Committee may have questions about your submission. If you submit early, these questions may be sent to you for clarification. If you submit close to the deadline, it is unlikely that there will be time to offer you the opportunity to provide answers or clarifications.
 
