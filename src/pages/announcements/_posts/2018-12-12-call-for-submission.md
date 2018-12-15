@@ -11,9 +11,9 @@ categories:
   - announcements
 ---
 
-The C++Now 2019 Call For Submissions is open! We invite all members of the C++ community, including first time submitters, to submit session proposals to the 8th annual C++Now Conference: C++Now 2018 (Aspen CO, USA, May 5 – 10, 2019).
+The C++Now 2019 Call For Submissions is open! We invite all members of the C++ community, including first time submitters, to submit session proposals to the 8th annual C++Now Conference: C++Now 2019 (Aspen CO, USA, May 5 – 10, 2019).
 
-C++Now builds upon the resounding success of previous BoostCon and C++Now conferences. We look forward to considering your proposals. You will be joining leading speakers from the entire C++ community in making C++Now 2018 better than ever.
+C++Now builds upon the resounding success of previous BoostCon and C++Now conferences. We look forward to considering your proposals. You will be joining leading speakers from the entire C++ community in making C++Now 2019 better than ever.
 
 <!--break-->
 
@@ -41,7 +41,7 @@ C++Now sessions should focus on the latest C++ standards (C++11/14/17/20). Topic
 - Concepts and generic programming
 - Compile-time programming
 - Advanced in C++ compiler technology
-- C++ tooling (refactoring, analysis, debugging, build systems, _etc__)
+- C++ tooling (refactoring, analysis, debugging, build systems, _etc_)
 - Designing for testability and testing best practices
 - Use of modern C++ with cryptocurrencies or blockchain technology
 - Any other topics likely to be of great interest to C++ developers 
@@ -59,7 +59,7 @@ Many sessions take the form of a traditional presentation with a slide deck and 
 For a list of session formats, see the [Presenter Information page](/presenters/)
 
 ### Submitting a Proposal
-All submissions should be made through our [presenters page](/presenters/)</a>.
+All submissions should be made through our [presenters page](/presenters/).
 
 Submissions are considered for inclusion in the program by a peer review process.
 
@@ -67,7 +67,7 @@ Session materials will be shared with the C++ community on the C++Now website.
 
 Note: Presenters must agree to grant a non-exclusive, perpetual license to publish  materials submitted to C++Now, either electronically or in print, in any media related to C++Now.
 
-For any questions about the submission process, please contact the Program Committee <mailto:cppnow2018@easychair.org>.
+For any questions about the submission process, please contact the Program Committee <mailto:cppnow2019@easychair.org>.
 
 Bryce Adelstein Lelbach <bryce@cppnow.org> (Program Committee Chair)
 
