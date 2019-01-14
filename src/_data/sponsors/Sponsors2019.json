@@ -32,6 +32,11 @@
             "title": "Video Sponsorship",
             "sponsors":
             [
+                {
+                    "title": "JetBrains",
+                    "link": "http://www.jetbrains.com/",
+                    "image": "/assets/img/sponsors/jetbrains.png"
+                }
             ]
         }
     ],

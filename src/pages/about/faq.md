@@ -314,7 +314,7 @@ Suggestions from experienced presenters include:
 * Your audience can read, so don't just stand there and read your slides to them. Explain the bullet points or code examples on your slides. Give the rationale behind the design. Relate new material to things they are already familiar with.
 * Do include code examples; C++ programmers often understand code examples better than prose descriptions.
 * Look at your audience. Make eye contact.
-* Repeat questions from the audience before answering, particularly with a larger audience where not everyone may be able to hear other audience members.
+* Repeat questions from the audience before answering, remember, the video audience is much bigger than the live audience, and in the video they only hear what has been repeated to microphone.
 * Don't just tell your audience what something is, tell them how to use it themselves. Show them real code.
 * Involve your audience; ask them questions.
 
@@ -343,7 +343,7 @@ Compared to other technical conferences, speakers tend to cover less material at
 
 #### Can I compile/run stuff, or must everything be on slides?
 
-Running compiles or demos can add interest, but be very sure the app will work! Live demos are notorious failure points. There is nothing sadder that attending a presentation designed around a live demo that the presenter can't get working.
+Running compiles or demos can add interest, but be very sure the app will work! Live demos are notorious failure points. There is nothing sadder than attending a presentation designed around a live demo that the presenter can't get working.
 
 
 
@@ -361,7 +361,7 @@ No, although part of the fun and benefits of a conference come from offline inte
 
 #### When should I plan to arrive?
 
-At a minimum, please plan to arrive the day before your session, and allow plenty of leeway for travel delays. Of course we hope you will come for the entire conference, and leave some time to enjoy the spectacular setting.
+At a minimum, please plan to arrive the day before your session, and allow plenty of leeway for travel delays (and possible jet lag). Of course we hope you will come for the entire conference, and leave some time to enjoy the spectacular setting.
 
 #### What else should I know?
 

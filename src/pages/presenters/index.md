@@ -64,7 +64,7 @@ If your registration cost is waived, you will be contacted about how to register
 
 ## Promotion
 
-Please let people know that you are speaking! You are the attraction for this year’s conference, so let people know on [Twitter](https://twitter.com/cppnow/) (#CppNow), [Facebook](https://www.facebook.com/CppNow/), [LinkedIn](https://www.linkedin.com/groups/6593259), [Slack](https://cpplang.slack.com/messages/cppnow/), or where ever is appropriate for you.
+Please let people know that you are speaking! You are the attraction for this year’s conference, so let people know on [Twitter](https://twitter.com/cppnow/) (#CppNow), [Facebook](https://www.facebook.com/CppNow/), [LinkedIn](https://www.linkedin.com/groups/6593259), [Slack](https://cpplang.slack.com/messages/cppnow/), or wherever is appropriate for you.
 
 If you want to engage with other CppNow attendees, including other presenters, please join [the Slack #cppnow channel](https://cpplang.slack.com/messages/cppcon/) by first using [the auto-invite page for the CppLang workspace](https://cpplang.now.sh/).
 
@@ -76,7 +76,7 @@ If possible, give your talk before a live technical audience. Do it at work and/
 
 ## Questions
 Please be prepared for questions. The C++Now audience is made up of seasoned software engineers with an advanced level of understanding of C++. It is also an audience that expects presenters to be ready, willing, and able to address non-trivial questions during a session.
-The environment is collaborative. The audience doesn’t want to see you fail and isn’t trying to play “Gotcha” or “ISO Standard Trivia,” but they do expect their questions and suggestions to be taking seriously.
+The environment is collaborative. The audience doesn’t want to see you fail and isn’t trying to play “Gotcha” or “ISO Standard Trivia,” but they do expect their questions and suggestions to be taken seriously.
 
 ### How and why to repeat questions
 There are two important reasons to repeat questions. One is that, even if you can hear the question, others may not. They may be seated behind the individual asking the question, so the questioner is facing away from them. Even if everyone in the room can hear the question, it may not be picked up well on the recording. You have a microphone; your version of the question will be clear.
