@@ -15,7 +15,15 @@ We have two programs of presentations at C++Now. We have a [main program](#main_
 
 <a name="main_program"></a>
 ### Main Program
-Every year we release a <a href="/announcements/2018/12/2019-call-for-submissions/">Call for Submissions for the <i>main program</i></a>.<!--That CfS is now closed for C++Now 2018<!--, but it isn't too late to become a presenter-->.
+Every year we release a <a href="/announcements/2018/12/2019-call-for-submissions/">Call for Submissions for the <i>main program</i></a>.
+
+{% case site.submission %}
+  {% when 'will' %}
+The CfS is not yet opened for C++Now {{site.current_year}}. Please visit again or keep an eye on the [announcements page](/announcements/) for updated information.
+  {% when 'is' %}
+  {% when 'was' %}
+The CfS is now closed for C++Now {{site.current_year}}{% unless site.over %}, but it isn't too late to become a presenter. Please checkout [our lightning talk program](#lightning_talks){% endunless %}.
+{% endcase %}
 
 Most C++Now sessions are 90 minutes long, but sessions can be either shorter (45 minutes) or longer (multiples of 90 minutes). For 90 minute or longer sessions, registration will be waived for one presenter. For shorter sessions, registration will be prorated.
 
@@ -39,8 +47,11 @@ Before you submit your talk, please have a look at our [Submitter FAQ](/about/fa
 
 For more information about regular program submissions, contact the Program Chair: [program@cppnow.org](mailto:program@cppnow.org)
 
+{% if site.submission == "is" %}
+
 Please [make your main program submission here](https://cppform.cierecloud.com/sessions/submitter/?conf=boostcon&year=2019).
 
+{% endif %}
 
 <a name="lightning_talks"></a>
 ### Lightning Talks
@@ -134,8 +145,3 @@ If you have any questions, please [contact the Speaker Liaison](mailto:speakers@
 
 We'll see you in Aspen!
 
-<!--After that, fill out the form below and we will review your submission.
-
-<div id="ReactHook"></div>
-
-<script src="/assets/js/forms/Submission.js"></script>-->

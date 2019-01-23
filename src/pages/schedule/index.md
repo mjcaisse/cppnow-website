@@ -5,12 +5,16 @@ permalink: /schedule/
 section: schedule
 ---
 
-The schedule for C++Now 2019 is not yet confirmed. Please visit again or keep an eye on the [announcements page](/announcements/) for updated information. If you wish to be a speaker, please visit our [Presenters Page](/presenters/) for information and the submission form.
+{% if site.schedule_online %}
 
-Previous Year's Schedule: [C++Now 2018 Schedule](/history/2018/schedule/)
+<div><a id="sched-embed" href="{{site.sched_com_URL}}">View the C++Now {{site.current_year}} schedule</a></div>
 
-<!---
-<div><a id="sched-embed" href="https://cppnow2018.sched.org/">View the C++Now 2018 schedule</a></div>
+<script src="{{site.sched_com_embed_URL}}"></script>
 
-<script src="https://cppnow2018.sched.org/js/embed.js"></script>
--->
+{% else %}
+
+The schedule for C++Now {{site.current_year}} is not yet confirmed. Please visit again or keep an eye on the [announcements page](/announcements/) for updated information. If you wish to be a speaker, please visit our [Presenters Page](/presenters/) for information and the submission form.
+
+Previous Year's Schedule: {{site.previous_years_schedule}}
+
+{% endif %}

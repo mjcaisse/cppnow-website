@@ -57,9 +57,46 @@ current_year_start_date: "May 5, 2019"
 current_year_end_date: "May 10, 2019"
 current_year_start_date_formatted: "2019-05-05"
 current_year_end_date_formatted: "2019-05-10"
+
 registration_time: "16:00 on Sunday, May 5th"
-refund_fee: "$30"
-refund_deadline: "April 5th" # 30 days prior to conference start
-deadline_for_volunteers: "March 5th, 2019" # 8 weeks prior to start of conference
 registration_day_of_week: "Sunday"
 first_session_day_of_week: "Monday"
+
+# Status
+## For items that are three phase (not yet, yet, not any more) we use these values:
+#### "will", "is", "was"
+## For items that are only two phase, we use Boolean values (false and true)
+
+## becomes true on the last day of the conference
+over: true
+
+## Note that we "flip" the conference (set the current_year, etc,) when we make the
+##  first post about the new conference. This *not* the "announce the date" post,
+##  but is (usually) the CfS post.
+
+submission: "was"
+
+## becomes "was" when the hotel is full or the conference is over
+hotel_registration: "is"
+online_link_for_Meadows_reservation: "https://book.passkey.com/go/CNow2019"
+
+## becomes "was" when  the conference is over
+registration: "is"
+refund_fee: "$30"
+refund_deadline: "April 5th" # 30 days prior to conference start
+eventbrite_reg_URL: "https://cppnow2019.eventbrite.com/"
+eventbrite_reg_iframe_HTML: "<iframe src=\"https://cppnow2019.eventbrite.com/?ref=eweb\" width=\"100%\" height=\"2900\" frameborder=\"0\" marginwidth=\"5\" marginheight=\"5\" scrolling=\"auto\"></iframe>"
+
+volunteer_applications: "will"
+deadline_for_volunteers: "March 5th, 2019" # 8 weeks prior to start of conference
+
+## becomes "was" when  the conference is over
+lightning_talk_submission_is_open: "will"
+
+schedule_online: false
+sched_com_URL: "https://cppnow2019.sched.org/"
+sched_com_embed_URL: "https://cppnow{{site.current_year}}.sched.org/js/embed.js"
+
+previous_years_schedule: "[C++Now 2018 Schedule](/history/2018/schedule/)"
+
+
