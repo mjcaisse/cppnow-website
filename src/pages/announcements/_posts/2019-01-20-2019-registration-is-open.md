@@ -14,7 +14,7 @@ categories:
 
 Registration for C++Now 2019 is open!
 
-The Eighth annual C++Now Conference will be held at the Aspen Center for Physics in Aspen, Colorado, May 5th to 10th, 2019.
+The eighth annual C++Now Conference will be held at the Aspen Center for Physics in Aspen, Colorado, May 5th to 10th, 2019.
 
 ![badges - Photograph by Zoetica Ebb. Used with permission.](/assets/img/posts/2018/badges.jpg "badges - Photograph by Zoetica Ebb. Used with permission.")
 <br>
