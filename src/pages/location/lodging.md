@@ -25,9 +25,12 @@ Although C++Now has reserved a large block of rooms at the [Aspen Meadows Resort
 
 A resort fee ($20 per night) and tax (11.3%) will be added to each night's reservation.
 
-<!--
-Use the [online registration system](https://aws.passkey.com/go/softwarefreedomconservancy2018) for this event, or call [1 (800) 452-4240](tel:1-800-452-4240), to schedule your room. Remember, the registration is {{site.registration_day_of_week}} afternoon, and the conference proper begins on {{site.first_session_day_of_week}} morning.
--->
+{% if site.hotel_registration == "is" %}
+Use the [online registration system]({{site.online_link_for_Meadows_reservation}}) for this event, or call [1 (800) 452-4240](tel:1-800-452-4240), to schedule your room. Remember, the registration is {{site.registration_day_of_week}} afternoon, and the conference proper begins on {{site.first_session_day_of_week}} morning.
+{% else %}
+The hotel's online registration sytem is not yet set up for C++Now {{site.current_year}}
+{% endif %}
+
 
 #### Details
 
@@ -40,6 +43,7 @@ Use the [online registration system](https://aws.passkey.com/go/softwarefreedomc
 * Rates do not include breakfast or other meals.
 * Check-in time is 4 PM (Mountain Time) on arrival day.
 * Check-out time is 11 AM on departure day.
+* Airport shuttle service to/from the resort is complementary. Please notify the hotel of your arriving flight.
 
 
 

@@ -14,11 +14,14 @@ The C++Now Volunteer/Student Program was started in 2013 in an effort to encoura
 
 Read [the Volunteer FAQ](/about/faq/#volunteer-faq).
 
-We are not yet accepting application for C++Now 2019 Student / Volunteers.
-
-<!--
+{% case site.volunteer_applications %}
+  {% when 'will' %}
+We are not yet accepting application for C++Now {{site.current_year}} Student / Volunteers.
+  {% when 'is' %}
 <p style="text-align: center; font-size: 40px;"><a href="/about/volunteer_program/apply/">Apply Now</a></p>
--->
+  {% when 'was' %}
+We are no longer accepting application for C++Now {{site.current_year}} Student / Volunteers. Watch for announcements for next year's conference.
+{% endcase %}
 
 ### Volunteer Stories
 

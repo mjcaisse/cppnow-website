@@ -15,7 +15,15 @@ We have two programs of presentations at C++Now. We have a [main program](#main_
 
 <a name="main_program"></a>
 ### Main Program
-Every year we release a <a href="/announcements/2018/12/2019-call-for-submissions/">Call for Submissions for the <i>main program</i></a>.<!--That CfS is now closed for C++Now 2018<!--, but it isn't too late to become a presenter-->.
+Every year we release a <a href="/announcements/2018/12/2019-call-for-submissions/">Call for Submissions for the <i>main program</i></a>.
+
+{% case site.submission %}
+  {% when 'will' %}
+The CfS is not yet opened for C++Now {{site.current_year}}. Please visit again or keep an eye on the [announcements page](/announcements/) for updated information.
+  {% when 'is' %}
+  {% when 'was' %}
+The CfS is now closed for C++Now {{site.current_year}}{% unless site.over %}, but it isn't too late to become a presenter. Please checkout [our lightning talk program](#lightning_talks){% endunless %}.
+{% endcase %}
 
 Most C++Now sessions are 90 minutes long, but sessions can be either shorter (45 minutes) or longer (multiples of 90 minutes). For 90 minute or longer sessions, registration will be waived for one presenter. For shorter sessions, registration will be prorated.
 
@@ -39,8 +47,11 @@ Before you submit your talk, please have a look at our [Submitter FAQ](/about/fa
 
 For more information about regular program submissions, contact the Program Chair: [program@cppnow.org](mailto:program@cppnow.org)
 
+{% if site.submission == "is" %}
+
 Please [make your main program submission here](https://cppform.cierecloud.com/sessions/submitter/?conf=boostcon&year=2019).
 
+{% endif %}
 
 <a name="lightning_talks"></a>
 ### Lightning Talks
@@ -64,7 +75,7 @@ If your registration cost is waived, you will be contacted about how to register
 
 ## Promotion
 
-Please let people know that you are speaking! You are the attraction for this year’s conference, so let people know on [Twitter](https://twitter.com/cppnow/) (#CppNow), [Facebook](https://www.facebook.com/CppNow/), [LinkedIn](https://www.linkedin.com/groups/6593259), [Slack](https://cpplang.slack.com/messages/cppnow/), or where ever is appropriate for you.
+Please let people know that you are speaking! You are the attraction for this year’s conference, so let people know on [Twitter](https://twitter.com/cppnow/) (#CppNow), [Facebook](https://www.facebook.com/CppNow/), [LinkedIn](https://www.linkedin.com/groups/6593259), [Slack](https://cpplang.slack.com/messages/cppnow/), or wherever is appropriate for you.
 
 If you want to engage with other CppNow attendees, including other presenters, please join [the Slack #cppnow channel](https://cpplang.slack.com/messages/cppcon/) by first using [the auto-invite page for the CppLang workspace](https://cpplang.now.sh/).
 
@@ -76,7 +87,7 @@ If possible, give your talk before a live technical audience. Do it at work and/
 
 ## Questions
 Please be prepared for questions. The C++Now audience is made up of seasoned software engineers with an advanced level of understanding of C++. It is also an audience that expects presenters to be ready, willing, and able to address non-trivial questions during a session.
-The environment is collaborative. The audience doesn’t want to see you fail and isn’t trying to play “Gotcha” or “ISO Standard Trivia,” but they do expect their questions and suggestions to be taking seriously.
+The environment is collaborative. The audience doesn’t want to see you fail and isn’t trying to play “Gotcha” or “ISO Standard Trivia,” but they do expect their questions and suggestions to be taken seriously.
 
 ### How and why to repeat questions
 There are two important reasons to repeat questions. One is that, even if you can hear the question, others may not. They may be seated behind the individual asking the question, so the questioner is facing away from them. Even if everyone in the room can hear the question, it may not be picked up well on the recording. You have a microphone; your version of the question will be clear.
@@ -134,8 +145,3 @@ If you have any questions, please [contact the Speaker Liaison](mailto:speakers@
 
 We'll see you in Aspen!
 
-<!--After that, fill out the form below and we will review your submission.
-
-<div id="ReactHook"></div>
-
-<script src="/assets/js/forms/Submission.js"></script>-->

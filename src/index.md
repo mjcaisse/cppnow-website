@@ -14,46 +14,58 @@ The C++Now community has grown out the Boost community and is focused on pushing
 
     <div id="countdown" data-start-date="{{site.current_year_start_date_formatted}}" data-end-date="{{site.current_year_end_date_formatted}}"></div>
 
-<!--
+{% case site.registration %}
+  {% when 'will' %}
+  {% when 'is' %}
     <a href="/registration/" class="buttonPrimaryLarge">Register Now</a>
--->
+  {% when 'was' %}
+{% endcase %}
+
 
 </div>
 
 
 ## Schedule
 
-<!--
-The [session schedule for C++Now 2018](/history/2018/schedule/) is up!
--->
+{% if site.schedule_online %}
+The [session schedule for C++Now {{site.current_year}}]({{site.sched_com_URL}}) is up!
+{% else %}
+The session schedule for C++Now {{site.current_year}} is not yet confirmed. Keep an eye on the [announcements page](/announcements/) for updated information. To get an idea of what to expect, check out [C++Now 2018 Schedule](/history/2018/schedule/).
+{% endif %}
 
-The session schedule for C++Now 2019 is not yet confirmed. Keep an eye on the [announcements page](/announcements/) for updated information. To get an idea of what to expect, check out the [C++Now 2018 Schedule](/history/2018/schedule/).
 
-<!--
+The session schedule for C++Now 2019 is not yet confirmed. Keep an eye on the [announcements page](/announcements/) for updated information. To get an idea of what to expect, check out the {{previous_years_schedule}}.
+
+
+{% case site.volunteer_applications %}
+  {% when 'will' %}
+  {% when 'is' %}
 ## Volunteer
 
 We are currently <a href="/about/volunteer_program/">accepting applications</a> from young C++ programmers interested in helping to run the conference in exchange for financial aid to attend.
--->
+  {% when 'was' %}
+{% endcase %}
+
 
 ## Register
 
-Tickets for C++Now 2019 are not yet available. Watch the [announcements page](/announcements/) for updated information.
-
-<!-- 
+{% case site.registration %}
+  {% when 'will' %}
+Registration for C++Now {{site.current_year}} is not yet available. Watch the [announcements page](/announcements/) for updated information.
+  {% when 'is' %}
 
 <a href="/registration/">Registration</a> is open!
 
- -->
+  {% when 'was' %}
+C++Now is over for {{site.current_year}}. Please visit again or keep an eye on the [announcements page](/announcements/) information about next year.
+{% endcase %}
 
-
-<!-- 
-
+{% if site.hotel_registration == "is" %}
 ## Reserve
 
 Rooms are still available at <a href="/location/lodging/" class="a">the Aspen Meadows Resort</a>.
-
- -->
-
+{% else %}
+{% endif %}
 
 ## Sponsor
 

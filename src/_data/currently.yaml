@@ -1,30 +1,26 @@
 [
-    # {
-    #     "title": "Registration is open",
-    #     "link": "/announcements/2018/02/2018-registration-is-open/"
-    # },
-    # {
-    #     "title": "Taking reservations",
-    #     "link": "/location/lodging/"
-    # },
+    {
+        "title": "Registration is open",
+        "link": "/announcements/2019/01/2019-registration-is-open/"
+    },
+    {
+        "title": "Taking reservations",
+        "link": "/location/lodging/"
+    },
     # {
     #     "title": "Schedule is up",
     #     "link": "/schedule/"
     # },
     # {
-    #     "title": "Accepting submissions",
-    #     "link": "/announcements/2017/12/2018-call-for-submissions/"
-    # },
-    # {
-    #     "title": "Accepting S/V apps",
+    #     "title": "Accepting volunteers",
     #     "link": "/announcements/2018/02/2018-call-for-student-volunteers/",
     # },
     {
         "title": "Accepting sponsors",
         "link": "/about/corporate_sponsors/"
     },
-    {
-        "title": "Accepting submissions",
-        "link": "/announcements/2018/12/2019-call-for-submissions/"
-    },
+    # {
+    #     "title": "Accepting submissions",
+    #     "link": "/announcements/2018/12/2019-call-for-submissions/"
+    # },
 ]
