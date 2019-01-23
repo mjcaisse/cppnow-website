@@ -91,7 +91,7 @@ volunteer_applications: "will"
 deadline_for_volunteers: "March 5th, 2019" # 8 weeks prior to start of conference
 
 ## becomes "was" when  the conference is over
-lightning_talk_submission_is_open: "will"
+lightning_talk_submission: "will"
 
 schedule_online: false
 sched_com_URL: "https://cppnow2019.sched.org/"

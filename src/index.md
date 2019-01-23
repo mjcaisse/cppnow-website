@@ -33,10 +33,6 @@ The [session schedule for C++Now {{site.current_year}}]({{site.sched_com_URL}}) 
 The session schedule for C++Now {{site.current_year}} is not yet confirmed. Keep an eye on the [announcements page](/announcements/) for updated information. To get an idea of what to expect, check out [C++Now 2018 Schedule](/history/2018/schedule/).
 {% endif %}
 
-
-The session schedule for C++Now 2019 is not yet confirmed. Keep an eye on the [announcements page](/announcements/) for updated information. To get an idea of what to expect, check out the {{previous_years_schedule}}.
-
-
 {% case site.volunteer_applications %}
   {% when 'will' %}
   {% when 'is' %}
