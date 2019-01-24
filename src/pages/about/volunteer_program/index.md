@@ -16,11 +16,11 @@ Read [the Volunteer FAQ](/about/faq/#volunteer-faq).
 
 {% case site.volunteer_applications %}
   {% when 'will' %}
-We are not yet accepting application for C++Now {{site.current_year}} Student / Volunteers.
+We are not yet accepting applicatiosn for C++Now {{site.current_year}} Student / Volunteers.
   {% when 'is' %}
 <p style="text-align: center; font-size: 40px;"><a href="/about/volunteer_program/apply/">Apply Now</a></p>
   {% when 'was' %}
-We are no longer accepting application for C++Now {{site.current_year}} Student / Volunteers. Watch for announcements for next year's conference.
+We are no longer accepting applications for C++Now {{site.current_year}} Student / Volunteers. Watch for announcements for next year's conference.
 {% endcase %}
 
 ### Volunteer Stories
