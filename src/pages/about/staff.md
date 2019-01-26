@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Staff
+title: Conference Staff
 permalink: /about/staff/
 section: about
 redirect_from:
     - /PC/
 ---
-
-## Conference Staff
 
 {% assign staffname = 'staff' | append: site.current_year %}
 {% assign staffmembers = site.data.staff[staffname] %}
@@ -16,7 +14,11 @@ redirect_from:
 #### {{staffmember.title}}
 
 <p><div>
+    {% if staffmember.email %}
+    <a href="mailto:{{ staffmember.email}}">{{ staffmember.name }}</a>{% if staffmember.company %}, {{ staffmember.company }}{% endif %}
+    {% else %}
     {{ staffmember.name }}{% if staffmember.company %}, {{ staffmember.company }}{% endif %}
+    {% endif %}
 </div></p>
 
 {% endfor %}

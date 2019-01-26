@@ -228,7 +228,7 @@ We want you to have plenty of time to attend sessions and socialize with other a
 
 #### What should I bring?
 
-Read the attendee FAQ. You are an attendee.
+Read the [Attendee FAQ](#attendee-faq). You are an attendee.
 
 
 
