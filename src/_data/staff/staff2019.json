@@ -1,27 +1,38 @@
 [
     {
         "title": "Chair",
-        "name": "Jon Kalb"
+        "name": "Jon Kalb",
+        "email": "jon@cppnow.org"
     },
     {
         "title": "Program Chair",
-        "name": "Bryce Adelstein Lelbach"
+        "name": "Bryce Adelstein Lelbach",
+        "email": "program@cppnow.org"
     },
     {
         "title": "Registrar",
-        "name": "Yuval Hager"
+        "name": "Yuval Hager",
+        "email": "registrar@cppnow.org"
+    },
+    {
+        "title": "Speaker Liaison",
+        "name": "Robin Kuzmin",
+        "email": "speakers@cppnow.org"
     },
     {
         "title": "Facilities Chair",
-        "name": "Dave Jenkins"
+        "name": "Dave Jenkins",
+        "email": "ground-team@cppnow.org"
     },
     {
         "title": "Security Chair",
-        "name": "Dave Jenkins"
+        "name": "Dave Jenkins",
+        "email": "security@cppnow.org"
     },
     {
         "title": "Student / Volunteer Chair",
-        "name": "Bryce Adelstein Lelbach"
+        "name": "Bryce Adelstein Lelbach",
+        "email": "student-volunteers@cppnow.org"
     },
     {
         "title": "Graphic Design",
@@ -34,5 +45,5 @@
     {
         "title": "Balloting",
         "name": "Peter Bindels"
-    }
+    },
 ]

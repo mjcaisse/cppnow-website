@@ -1,6 +1,10 @@
 
 /* helpers.css */
 
+.highlight {
+    background-color: #FFFFAA;
+}
+
 .ratioBox16x9 {
     margin-bottom: 16px;
     position: relative;

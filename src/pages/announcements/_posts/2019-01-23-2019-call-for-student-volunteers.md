@@ -27,9 +27,9 @@ The Student/Volunteer program is an excellent way for students and young coders 
     <a href="/about/volunteer_program/grant_mercers_volunteer_story/" class="quoteBoxRightLink">Read Grant's Story</a>
 </blockquote>
 
-Student/Volunteers will receive free registration and a travel stipend for their travel and lodging.
+Student/Volunteers will receive free registration and a travel stipend for their travel and/or lodging.
 
-Volunteers will handle various tasks during the conference, such as assisting presenters, setting up presentation rooms, running A/V equipment, and helping with breaks and the conference picnic.
+Volunteers will handle various tasks during the conference, such as assisting presenters, setting up presentation rooms, running audio/visual equipment, and helping with breaks and the conference picnic.
 
 Students from all fields of study are welcome to apply. However, this conference covers advanced C++ topics, and applicants should have ample experience with the C++ programming language and be familiar with general computer science topics.
 
