@@ -27,7 +27,7 @@ A resort fee ($20 per night) and tax (11.3%) will be added to each night's reser
 
 {% if site.hotel_registration == "is" %}
 
-<p class="highlight" markdown="1">Use the [online registration system]({{site.online_link_for_Meadows_reservation}}) for this event, or call [1 (800) 452-4240](tel:1-800-452-4240), to schedule your room. Remember, the registration is {{site.registration_day_of_week}} afternoon, and the conference proper begins on {{site.first_session_day_of_week}} morning.</p>
+<p class="highlight" markdown="1">Use the [online registration system]({{site.online_link_for_Meadows_reservation}}) for this event, or call [1 (800) 452-4240](tel:1-800-452-4240), to schedule your room. Remember, registration begins {{site.registration_day_of_week}} afternoon, and the conference proper begins on {{site.first_session_day_of_week}} morning.</p>
 
 <p style="text-align: center; font-size: 40px;"><a href="{{site.online_link_for_Meadows_reservation}}">Reserve Now</a></p>
 

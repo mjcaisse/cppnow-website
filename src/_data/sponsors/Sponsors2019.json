@@ -5,6 +5,11 @@
             "sponsors":
             [
                 {
+                    "title": "The C++ Alliance",
+                    "link": "http://cppalliance.com/",
+                    "image": "/assets/img/sponsors/cpp.alliance.png"
+                },
+                {
                     "title": "Bloomberg",
                     "link": "http://techatbloomberg.com/",
                     "image": "/assets/img/sponsors/bloomberg.png"
