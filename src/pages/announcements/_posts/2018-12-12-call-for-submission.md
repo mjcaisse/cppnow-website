@@ -76,7 +76,7 @@ Jon Kalb <mailto:jon@cppnow.org> (Conference Chair)
 ### Important Dates
 
 | Proposal submissions due | <strong>January 23</strong> |
-| Proposal decisions sent | <strong>February 25</strong> |
+| Proposal decisions sent | <strong>March 4</strong> |
 | Program online | <strong>March 17</strong> |  
 |||  
   
