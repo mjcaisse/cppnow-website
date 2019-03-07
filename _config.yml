@@ -88,7 +88,7 @@ refund_deadline: "April 5th" # 30 days prior to conference start
 eventbrite_reg_URL: "https://cppnow2019.eventbrite.com/"
 eventbrite_reg_iframe_HTML: "<iframe src=\"https://cppnow2019.eventbrite.com/?ref=eweb\" width=\"100%\" height=\"2900\" frameborder=\"0\" marginwidth=\"5\" marginheight=\"5\" scrolling=\"auto\"></iframe>"
 
-volunteer_applications: "is"
+volunteer_applications: "was"
 deadline_for_volunteers: "February 23rd, 2019" # 10 weeks prior to start of conference
 notification_for_volunteers: "March 2nd, 2019" # 9 weeks prior to start of conference
 volunteer_jotform_ID: 90226249540151
@@ -102,4 +102,68 @@ sched_com_embed_URL: "https://cppnow{{site.current_year}}.sched.org/js/embed.js"
 
 previous_years_schedule: "[C++Now 2018 Schedule](/history/2018/schedule/)"
 
+#### Promo Video
+show_promo_video: true
+promo_video_iframe: "<iframe width=\"100%\" height=\"480\" src=\"https://www.youtube.com/embed/qCnw4dSZNTM?controls=0\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+### Home Boxes - These are boxes on the front page. They are in pairs so that 0 and 1
+## are on the first line, 2 and 3 are on the second, and 4 and 5 are on the third.
+## Note that if only one box of the pair is shown, it is shown twice as wide.
+## Each has a title, a link location, a photo source, a photo title, a description and
+## a call to action.
+
+## Box 0
+B0_show: true
+B0_title: "Venue"
+B0_link: "/location/venue/"
+B0_photo: "/assets/img/home/venue.jpg"
+B0_photo_title: "Aspen Center for Physics: Photo by Zoetica Ebb"
+B0_description: "<p>The venue for C++Now is the <a href=\"https://www.aspenphys.org/\">Aspen Center for Physics</a>, a beautiful location creating a lively environment for thought, education, and collaboration.</p>"
+B0_call: "Learn More"
+
+## Box 1
+B1_show: true
+B1_title: "Hotel"
+B1_link: "/location/lodging/"
+B1_photo: "/assets/img/home/AspenMeadowsResort.jpg"
+B1_photo_title: "Aspen Meadows Resort"
+B1_description: "<p>The conference hotel is the <a href=\"https://www.aspenmeadows.com/\">Aspen Meadows Resort</a>, a 40 acre resort a short walk from the conference venue overlooking the Roaring Fork River.</p>"
+B1_call: "Learn More"
+
+## Box 2
+B2_show: false
+B2_title: "Become a Presenter"
+B2_link: "/presenters/"
+B2_photo: "/assets/img/home/jackie.jpg"
+B2_photo_title: "Jackie Kay: Photo by Zoetica Ebb"
+B2_description: "<p>Join the discussion! Get the most out of C++Now by joining the elite group of C++ experts that have presented a lightning talk or as part of the regular program.</p>"
+B2_call: "Presenter Information"
+
+
+## Box 3
+B3_show: false
+B3_title: "Become a Volunteer"
+B3_link: "/about/volunteer_program/"
+B3_photo: "/assets/img/home/volunteers.jpg"
+B3_photo_title: "Volunteers: Photo by Zoetica Ebb"
+B3_description: "<p>A small group of promising young C++ programmers is selected to be part of each C++Now. In exchange for helping run the conference, volunteers receive financial assistance and what may be a career changing opportunity.</p>"
+B3_call: "Apply Today"
+
+## Box 4
+B4_show: false
+B4_title: "Venue"
+B4_link: "/location/venue/"
+B4_photo: "/assets/img/home/venue.jpg"
+B4_photo_title: "Aspen Center for Physics: Photo by Zoetica Ebb"
+B4_description: "<p>The venue for C++Now is the <a href=\"https://www.aspenphys.org/\">Aspen Center for Physics</a>, a beautiful location creating a lively environment for thought, education, and collaboration.</p>"
+B1_call: "Learn More"
+
+## Box 5
+B5_show: false
+B5_title: "Hotel"
+B5_link: "/location/lodging/"
+B5_photo: "/assets/img/home/AspenMeadowsResort.jpg"
+B5_photo_title: "Aspen Meadows Resort"
+B5_description: "<p>The conference hotel is the <a href=\"https://www.aspenmeadows.com/\">Aspen Meadows Resort</a>, a 40 acre resort a short walk from the conference venue overlooking the Roaring Fork River.</p>"
+B5_call: "Learn More"
 
