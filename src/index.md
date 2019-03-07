@@ -3,6 +3,14 @@ layout: home
 section: home
 ---
 
+{% if site.show_promo_video %}
+<div class="homeBoxes">
+    <div class="homeBoxesLeft">
+        {{site.promo_video_iframe}}
+    </div>
+</div>
+{% endif %}
+
 The C++Now community has grown out the Boost community and is focused on pushing C++ to its limits. We are helping to define what C++ will look like tomorrow, but are also curious about what we can do with C++ <i>now</i>!
 
 
@@ -67,52 +75,90 @@ Rooms are still available at <a href="/location/lodging/" class="a">the Aspen Me
 
 There are several opportunities to sponsor C++Now, both as a [Corporate Sponsor](/about/corporate_sponsors/) and an [Individual Sponsor](/about/individual_sponsors/). Corporate sponsorships exist for multiple levels and specific needs like video production. Individual sponsors help make the [Volunteer Program](/about/volunteer_program/) and the Boost Summer of Code possible.
 
+
 <div class="homeBoxes">
+{% if site.B0_show %}
     <div class="homeBoxesLeft">
-        <a href="/location/venue/" class="homeBoxesTitle" title="Aspen Center for Physics: Photo by Zoetica Ebb">
-            <img src="/assets/img/home/venue.jpg" alt="Aspen Center for Physics: Photo by Zoetica Ebb">
+        <a href="{{site.B0_link}}" class="homeBoxesTitle" title="{{site.B0_photo_title}}">
+            <img src="{{site.B0_photo}}" alt="{{site.B0_photo_title}}">
 
-            <h2>Venue</h2>
+            <h2>{{site.B0_title}}</h2>
         </a>
 
-        <p>The venue for C++Now is the <a href="https://www.aspenphys.org/">Aspen Center for Physics</a>, a beautiful location creating a lively environment for thought, education, and collaboration.</p>
+        {{site.B0_description}}
 
-        <p><a href="/location/venue/">Learn More</a></p>
+        <p><a href="{{site.B0_link}}">{{site.B0_call}}</a></p>
     </div>
+{% endif %}
+{% if site.B1_show %}
     <div class="homeBoxesRight">
-        <a href="/location/lodging/" class="homeBoxesTitle" title="Aspen Meadows Resort">
-            <img src="/assets/img/home/AspenMeadowsResort.jpg" alt="Aspen Meadows Resort">
+        <a href="{{site.B1_link}}" class="homeBoxesTitle" title="{{site.B1_photo_title}}">
+            <img src="{{site.B1_photo}}" alt="{{site.B1_photo_title}}">
 
-            <h2>Hotel</h2>
+            <h2>{{site.B1_title}}</h2>
         </a>
 
-        <p>The conference hotel is the <a href="https://www.aspenmeadows.com/">Aspen Meadows Resort</a>, a 40 acre resort a short walk from the conference venue overlooking the Roaring Fork River.</p>
+        {{site.B1_description}}
 
-        <p><a href="/location/lodging/">Learn More</a></p>
+        <p><a href="{{site.B1_link}}">{{site.B1_call}}</a></p>
     </div>
+{% endif %}
 </div>
 
 <div class="homeBoxes">
+{% if site.B2_show %}
     <div class="homeBoxesLeft">
-        <a href="/presenters/" class="homeBoxesTitle" title="Jackie Kay: Photo by Zoetica Ebb">
-            <img src="/assets/img/home/jackie.jpg" alt="Jackie Kay: Photo by Zoetica Ebb">
+        <a href="{{site.B2_link}}" class="homeBoxesTitle" title="{{site.B2_photo_title}}">
+            <img src="{{site.B2_photo}}" alt="{{site.B2_photo_title}}">
 
-            <h2>Become a Presenter</h2>
+            <h2>{{site.B2_title}}</h2>
         </a>
 
-        <p>Join the discussion! Get the most out of C++Now by joining the elite group of C++ experts that have presented a lightning talk or as part of the regular program.</p>
+        {{site.B2_description}}
 
-        <p><a href="/presenters/">Presenter Information</a></p>
+        <p><a href="{{site.B2_link}}">{{site.B2_call}}</a></p>
     </div>
+{% endif %}
+{% if site.B3_show %}
     <div class="homeBoxesRight">
-        <a href="/about/volunteer_program/" class="homeBoxesTitle" title="Volunteers: Photo by Zoetica Ebb">
-            <img src="/assets/img/home/volunteers.jpg" alt="Volunteers: Photo by Zoetica Ebb">
+        <a href="{{site.B3_link}}" class="homeBoxesTitle" title="{{site.B3_photo_title}}">
+            <img src="{{site.B3_photo}}" alt="{{site.B3_photo_title}}">
 
-            <h2>Become a Volunteer</h2>
+            <h2>{{site.B3_title}}</h2>
         </a>
 
-        <p>A small group of promising young C++ programmers is selected to be part of each C++Now. In exchange for helping run the conference, volunteers receive financial assistance and what may be a career changing opportunity.</p>
+        {{site.B3_description}}
 
-        <p><a href="/about/volunteer_program/">Apply Today</a></p>
+        <p><a href="{{site.B3_link}}">{{site.B3_call}}</a></p>
     </div>
+{% endif %}
+</div>
+
+<div class="homeBoxes">
+{% if site.B4_show %}
+    <div class="homeBoxesLeft">
+        <a href="{{site.B4_link}}" class="homeBoxesTitle" title="{{site.B4_photo_title}}">
+            <img src="{{site.B4_photo}}" alt="{{site.B4_photo_title}}">
+
+            <h2>{{site.B4_title}}</h2>
+        </a>
+
+        {{site.B4_description}}
+
+        <p><a href="{{site.B4_link}}">{{site.B4_call}}</a></p>
+    </div>
+{% endif %}
+{% if site.B5_show %}
+    <div class="homeBoxesRight">
+        <a href="{{site.B5_link}}" class="homeBoxesTitle" title="{{site.B5_photo_title}}">
+            <img src="{{site.B5_photo}}" alt="{{site.B5_photo_title}}">
+
+            <h2>{{site.B5_title}}</h2>
+        </a>
+
+        {{site.B5_description}}
+
+        <p><a href="{{site.B5_link}}">{{site.B5_call}}</a></p>
+    </div>
+{% endif %}
 </div>
