@@ -41,6 +41,17 @@ The [session schedule for C++Now {{site.current_year}}]({{site.sched_com_URL}}) 
 The session schedule for C++Now {{site.current_year}} is not yet confirmed. Keep an eye on the [announcements page](/announcements/) for updated information. To get an idea of what to expect, check out [C++Now 2018 Schedule](/history/2018/schedule/).
 {% endif %}
 
+{% if site.show_tag_cloud %}
+<div class="homeBoxes">
+    <div class="homeBoxesLeft">
+        <p>These are topics covered at the conference. To search for specific sessions, just tap the word or phrase.</p>
+        <img alt="Tag Cloud" src="{{site.tag_cloud_image}}" usemap="#wordCloudMap">
+        {% include {{site.tag_cloud_map}} %}
+    </div>
+</div>
+{% endif %}
+
+
 {% case site.volunteer_applications %}
   {% when 'will' %}
   {% when 'is' %}
@@ -162,3 +173,4 @@ There are several opportunities to sponsor C++Now, both as a [Corporate Sponsor]
     </div>
 {% endif %}
 </div>
+

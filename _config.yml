@@ -106,6 +106,12 @@ previous_years_schedule: "[C++Now 2018 Schedule](/history/2018/schedule/)"
 show_promo_video: true
 promo_video_iframe: "<iframe width=\"100%\" height=\"480\" src=\"https://www.youtube.com/embed/qCnw4dSZNTM?controls=0\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
+#### tagcloud
+show_tag_cloud: true
+tag_cloud_image: "/assets/img/tagcloud/wordcloud2019.png"
+tag_cloud_map: "tagclouds/tagcloud.2019.html"
+
+
 ### Home Boxes - These are boxes on the front page. They are in pairs so that 0 and 1
 ## are on the first line, 2 and 3 are on the second, and 4 and 5 are on the third.
 ## Note that if only one box of the pair is shown, it is shown twice as wide.
