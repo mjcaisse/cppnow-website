@@ -10,7 +10,7 @@ section: announcements
 
 The theme of this year's keynotes is _Compile-time Magic_ and the first keynote that we are announcing is Hana Dusíková's presentation of a library that performs at compile-time, work that is often done at runtime.
 
-Hana's keynote is entitled [_Compile Time Regular Expressions with Deterministic Finite Automaton_](https://cppnow2019.sched.com/event/Mj4O).
+Hana's keynote is entitled _Compile Time Regular Expressions with Deterministic Finite Automaton_.
 
 She is working as a senior researcher in Avast Software. Her responsibility is exploring new ideas and optimizing existing ones. She also propagates modern C++ techniques and libraries in internal techtalks and gives talks at local C++ meetups. 
 
