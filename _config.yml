@@ -96,9 +96,9 @@ volunteer_jotform_ID: 90226249540151
 ## becomes "was" when  the conference is over
 lightning_talk_submission: "will"
 
-schedule_online: false
+schedule_online: true
 sched_com_URL: "https://cppnow2019.sched.org/"
-sched_com_embed_URL: "https://cppnow{{site.current_year}}.sched.org/js/embed.js"
+sched_com_embed_URL: "https://cppnow2019.sched.org/js/embed.js"
 
 previous_years_schedule: "[C++Now 2018 Schedule](/history/2018/schedule/)"
 

@@ -7,10 +7,10 @@
         "title": "Taking reservations",
         "link": "/location/lodging/"
     },
-    # {
-    #     "title": "Schedule is up",
-    #     "link": "/schedule/"
-    # },
+    {
+        "title": "Schedule is up",
+        "link": "/schedule/"
+    },
     # {
     #     "title": "Accepting volunteers",
     #     "link": "/announcements/2019/01/2019-call-for-student-volunteers/",
