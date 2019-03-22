@@ -36,7 +36,7 @@ The C++Now community has grown out the Boost community and is focused on pushing
 ## Schedule
 
 {% if site.schedule_online %}
-The [session schedule for C++Now {{site.current_year}}]({{site.sched_com_URL}}) is up!
+The [session schedule for C++Now {{site.current_year}}](/schedule/) is up!
 {% else %}
 The session schedule for C++Now {{site.current_year}} is not yet confirmed. Keep an eye on the [announcements page](/announcements/) for updated information. To get an idea of what to expect, check out [C++Now 2018 Schedule](/history/2018/schedule/).
 {% endif %}
