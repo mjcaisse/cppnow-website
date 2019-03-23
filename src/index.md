@@ -45,7 +45,10 @@ The session schedule for C++Now {{site.current_year}} is not yet confirmed. Keep
 <div class="homeBoxes">
     <div class="homeBoxesLeft">
         <p>These are topics covered at the conference. To search for specific sessions, just tap the word or phrase.</p>
-        <img alt="Tag Cloud" src="{{site.tag_cloud_image}}" usemap="#wordCloudMap">
+
+        {% include tagclouds/tagcloud.infra.html %}
+
+        <img alt="Tag Cloud" src="{{site.tag_cloud_image}}" usemap="#wordCloudMap" class="map">
         {% include {{site.tag_cloud_map}} %}
     </div>
 </div>
