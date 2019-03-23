@@ -1,0 +1,632 @@
+[
+    {
+        "tag": "C++20",
+        "count": "20",
+        "search-link": "https://cppnow2019.sched.com/?s=C%2B%2B20"
+    },
+    {
+        "tag": "metaprogramming",
+        "count": "18",
+        "search-link": "https://cppnow2019.sched.com/?s=metaprogramming"
+    },
+    {
+        "tag": "C++17",
+        "count": "16",
+        "search-link": "https://cppnow2019.sched.com/?s=C%2B%2B17"
+    },
+    {
+        "tag": "performance",
+        "count": "16",
+        "search-link": "https://cppnow2019.sched.com/?s=performance"
+    },
+    {
+        "tag": "concurrency",
+        "count": "12",
+        "search-link": "https://cppnow2019.sched.com/?s=concurrency"
+    },
+    {
+        "tag": "APIs",
+        "count": "11",
+        "search-link": "https://cppnow2019.sched.com/?s=APIs"
+    },
+    {
+        "tag": "best practices",
+        "count": "11",
+        "search-link": "https://cppnow2019.sched.com/?s=best+practices"
+    },
+    {
+        "tag": "Clang/LLVM",
+        "count": "10",
+        "search-link": "https://cppnow2019.sched.com/?s=Clang/LLVM"
+    },
+    {
+        "tag": "generic programming",
+        "count": "10",
+        "search-link": "https://cppnow2019.sched.com/?s=generic+programming"
+    },
+    {
+        "tag": "templates",
+        "count": "10",
+        "search-link": "https://cppnow2019.sched.com/?s=templates"
+    },
+    {
+        "tag": "algorithms",
+        "count": "9",
+        "search-link": "https://cppnow2019.sched.com/?s=algorithms"
+    },
+    {
+        "tag": "constexpr",
+        "count": "9",
+        "search-link": "https://cppnow2019.sched.com/?s=constexpr"
+    },
+    {
+        "tag": "build systems",
+        "count": "8",
+        "search-link": "https://cppnow2019.sched.com/?s=build+systems"
+    },
+    {
+        "tag": "cross-platform",
+        "count": "8",
+        "search-link": "https://cppnow2019.sched.com/?s=cross-platform"
+    },
+    {
+        "tag": "security",
+        "count": "8",
+        "search-link": "https://cppnow2019.sched.com/?s=security"
+    },
+    {
+        "tag": "testing",
+        "count": "8",
+        "search-link": "https://cppnow2019.sched.com/?s=testing"
+    },
+    {
+        "tag": "concepts",
+        "count": "7",
+        "search-link": "https://cppnow2019.sched.com/?s=concepts"
+    },
+    {
+        "tag": "libraries",
+        "count": "7",
+        "search-link": "https://cppnow2019.sched.com/?s=libraries"
+    },
+    {
+        "tag": "C++14",
+        "count": "6",
+        "search-link": "https://cppnow2019.sched.com/?s=C%2B%2B14"
+    },
+    {
+        "tag": "STL",
+        "count": "6",
+        "search-link": "https://cppnow2019.sched.com/?s=STL"
+    },
+    {
+        "tag": "allocators",
+        "count": "6",
+        "search-link": "https://cppnow2019.sched.com/?s=allocators"
+    },
+    {
+        "tag": "embedded",
+        "count": "6",
+        "search-link": "https://cppnow2019.sched.com/?s=embedded"
+    },
+    {
+        "tag": "functional",
+        "count": "6",
+        "search-link": "https://cppnow2019.sched.com/?s=functional"
+    },
+    {
+        "tag": "polymorphism",
+        "count": "6",
+        "search-link": "https://cppnow2019.sched.com/?s=polymorphism"
+    },
+    {
+        "tag": "Boost",
+        "count": "5",
+        "search-link": "https://cppnow2019.sched.com/?s=Boost"
+    },
+    {
+        "tag": "SG14",
+        "count": "5",
+        "search-link": "https://cppnow2019.sched.com/?s=SG14"
+    },
+    {
+        "tag": "compile-time",
+        "count": "5",
+        "search-link": "https://cppnow2019.sched.com/?s=compile-time"
+    },
+    {
+        "tag": "containers",
+        "count": "5",
+        "search-link": "https://cppnow2019.sched.com/?s=containers"
+    },
+    {
+        "tag": "contracts",
+        "count": "5",
+        "search-link": "https://cppnow2019.sched.com/?s=contracts"
+    },
+    {
+        "tag": "data structures",
+        "count": "5",
+        "search-link": "https://cppnow2019.sched.com/?s=data+structures"
+    },
+    {
+        "tag": "education",
+        "count": "5",
+        "search-link": "https://cppnow2019.sched.com/?s=education"
+    },
+    {
+        "tag": "exception handling",
+        "count": "5",
+        "search-link": "https://cppnow2019.sched.com/?s=exception+handling"
+    },
+    {
+        "tag": "interfaces",
+        "count": "5",
+        "search-link": "https://cppnow2019.sched.com/?s=interfaces"
+    },
+    {
+        "tag": "ABIs",
+        "count": "4",
+        "search-link": "https://cppnow2019.sched.com/?s=ABIs"
+    },
+    {
+        "tag": "C++11",
+        "count": "4",
+        "search-link": "https://cppnow2019.sched.com/?s=C%2B%2B11"
+    },
+    {
+        "tag": "architecture",
+        "count": "4",
+        "search-link": "https://cppnow2019.sched.com/?s=architecture"
+    },
+    {
+        "tag": "correctness",
+        "count": "4",
+        "search-link": "https://cppnow2019.sched.com/?s=correctness"
+    },
+    {
+        "tag": "declarative",
+        "count": "4",
+        "search-link": "https://cppnow2019.sched.com/?s=declarative"
+    },
+    {
+        "tag": "design patterns",
+        "count": "4",
+        "search-link": "https://cppnow2019.sched.com/?s=design+patterns"
+    },
+    {
+        "tag": "efficiency",
+        "count": "4",
+        "search-link": "https://cppnow2019.sched.com/?s=efficiency"
+    },
+    {
+        "tag": "languages",
+        "count": "4",
+        "search-link": "https://cppnow2019.sched.com/?s=languages"
+    },
+    {
+        "tag": "modern C++",
+        "count": "4",
+        "search-link": "https://cppnow2019.sched.com/?s=modern+C%2B%2B"
+    },
+    {
+        "tag": "modules",
+        "count": "4",
+        "search-link": "https://cppnow2019.sched.com/?s=modules"
+    },
+    {
+        "tag": "standardization",
+        "count": "4",
+        "search-link": "https://cppnow2019.sched.com/?s=standardization"
+    },
+    {
+        "tag": "Spectre",
+        "count": "3",
+        "search-link": "https://cppnow2019.sched.com/?s=Spectre"
+    },
+    {
+        "tag": "coroutines",
+        "count": "3",
+        "search-link": "https://cppnow2019.sched.com/?s=coroutines"
+    },
+    {
+        "tag": "domain specific language",
+        "count": "3",
+        "search-link": "https://cppnow2019.sched.com/?s=domain+specific+language"
+    },
+    {
+        "tag": "pattern matching",
+        "count": "3",
+        "search-link": "https://cppnow2019.sched.com/?s=pattern+matching"
+    },
+    {
+        "tag": "ranges",
+        "count": "3",
+        "search-link": "https://cppnow2019.sched.com/?s=ranges"
+    },
+    {
+        "tag": "refactoring",
+        "count": "3",
+        "search-link": "https://cppnow2019.sched.com/?s=refactoring"
+    },
+    {
+        "tag": "secure coding",
+        "count": "3",
+        "search-link": "https://cppnow2019.sched.com/?s=secure+coding"
+    },
+    {
+        "tag": "type safety",
+        "count": "3",
+        "search-link": "https://cppnow2019.sched.com/?s=type+safety"
+    },
+    {
+        "tag": "variant",
+        "count": "3",
+        "search-link": "https://cppnow2019.sched.com/?s=variant"
+    },
+    {
+        "tag": "CMake",
+        "count": "2",
+        "search-link": "https://cppnow2019.sched.com/?s=CMake"
+    },
+    {
+        "tag": "ISO C++",
+        "count": "2",
+        "search-link": "https://cppnow2019.sched.com/?s=ISO+C%2B%2B"
+    },
+    {
+        "tag": "RAII",
+        "count": "2",
+        "search-link": "https://cppnow2019.sched.com/?s=RAII"
+    },
+    {
+        "tag": "assembly",
+        "count": "2",
+        "search-link": "https://cppnow2019.sched.com/?s=assembly"
+    },
+    {
+        "tag": "assertions",
+        "count": "2",
+        "search-link": "https://cppnow2019.sched.com/?s=assertions"
+    },
+    {
+        "tag": "audio",
+        "count": "2",
+        "search-link": "https://cppnow2019.sched.com/?s=audio"
+    },
+    {
+        "tag": "benchmarking",
+        "count": "2",
+        "search-link": "https://cppnow2019.sched.com/?s=benchmarking"
+    },
+    {
+        "tag": "cache",
+        "count": "2",
+        "search-link": "https://cppnow2019.sched.com/?s=cache"
+    },
+    {
+        "tag": "class design",
+        "count": "2",
+        "search-link": "https://cppnow2019.sched.com/?s=class+design"
+    },
+    {
+        "tag": "compatibility",
+        "count": "2",
+        "search-link": "https://cppnow2019.sched.com/?s=compatibility"
+    },
+    {
+        "tag": "executors",
+        "count": "2",
+        "search-link": "https://cppnow2019.sched.com/?s=executors"
+    },
+    {
+        "tag": "financial engineering",
+        "count": "2",
+        "search-link": "https://cppnow2019.sched.com/?s=financial+engineering"
+    },
+    {
+        "tag": "lambdas",
+        "count": "2",
+        "search-link": "https://cppnow2019.sched.com/?s=lambdas"
+    },
+    {
+        "tag": "linking",
+        "count": "2",
+        "search-link": "https://cppnow2019.sched.com/?s=linking"
+    },
+    {
+        "tag": "mathematics",
+        "count": "2",
+        "search-link": "https://cppnow2019.sched.com/?s=mathematics"
+    },
+    {
+        "tag": "object lifetime",
+        "count": "2",
+        "search-link": "https://cppnow2019.sched.com/?s=object+lifetime"
+    },
+    {
+        "tag": "proposal",
+        "count": "2",
+        "search-link": "https://cppnow2019.sched.com/?s=proposal"
+    },
+    {
+        "tag": "regex",
+        "count": "2",
+        "search-link": "https://cppnow2019.sched.com/?s=regex"
+    },
+    {
+        "tag": "software engineering",
+        "count": "2",
+        "search-link": "https://cppnow2019.sched.com/?s=software+engineering"
+    },
+    {
+        "tag": "type system",
+        "count": "2",
+        "search-link": "https://cppnow2019.sched.com/?s=type+system"
+    },
+    {
+        "tag": "unicorns",
+        "count": "2",
+        "search-link": "https://cppnow2019.sched.com/?s=unicorns"
+    },
+    {
+        "tag": "C++23",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=C%2B%2B23"
+    },
+    {
+        "tag": "C++Now",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=C%2B%2BNow"
+    },
+    {
+        "tag": "CppCon",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=CppCon"
+    },
+    {
+        "tag": "ISO Committee",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=ISO+Committee"
+    },
+    {
+        "tag": "Meltdown",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=Meltdown"
+    },
+    {
+        "tag": "PMR",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=PMR"
+    },
+    {
+        "tag": "algebraic types",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=algebraic+types"
+    },
+    {
+        "tag": "communicating",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=communicating"
+    },
+    {
+        "tag": "competitive programming",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=competitive+programming"
+    },
+    {
+        "tag": "compiler design",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=compiler+design"
+    },
+    {
+        "tag": "complexity",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=complexity"
+    },
+    {
+        "tag": "composition",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=composition"
+    },
+    {
+        "tag": "conferences",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=conferences"
+    },
+    {
+        "tag": "const",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=const"
+    },
+    {
+        "tag": "constructors",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=constructors"
+    },
+    {
+        "tag": "course",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=course"
+    },
+    {
+        "tag": "customization",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=customization"
+    },
+    {
+        "tag": "dependency injection",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=dependency+injection"
+    },
+    {
+        "tag": "deterministic finite automaton",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=deterministic+finite+automaton"
+    },
+    {
+        "tag": "discriminated union",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=discriminated+union"
+    },
+    {
+        "tag": "extension",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=extension"
+    },
+    {
+        "tag": "framework",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=framework"
+    },
+    {
+        "tag": "function",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=function"
+    },
+    {
+        "tag": "function_ref",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=function_ref"
+    },
+    {
+        "tag": "graph theory",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=graph+theory"
+    },
+    {
+        "tag": "human machine interface",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=human+machine+interface"
+    },
+    {
+        "tag": "imperative",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=imperative"
+    },
+    {
+        "tag": "inline namespaces",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=inline+namespaces"
+    },
+    {
+        "tag": "interface design",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=interface+design"
+    },
+    {
+        "tag": "language feature",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=language+feature"
+    },
+    {
+        "tag": "library design",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=library+design"
+    },
+    {
+        "tag": "linear algebra",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=linear+algebra"
+    },
+    {
+        "tag": "locality",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=locality"
+    },
+    {
+        "tag": "low latency",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=low+latency"
+    },
+    {
+        "tag": "minimal code",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=minimal+code"
+    },
+    {
+        "tag": "move",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=move"
+    },
+    {
+        "tag": "name mangling",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=name+mangling"
+    },
+    {
+        "tag": "numeric",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=numeric"
+    },
+    {
+        "tag": "optimization",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=optimization"
+    },
+    {
+        "tag": "ordering",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=ordering"
+    },
+    {
+        "tag": "ownership",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=ownership"
+    },
+    {
+        "tag": "physical units",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=physical+units"
+    },
+    {
+        "tag": "precompiled headers",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=precompiled+headers"
+    },
+    {
+        "tag": "preprocessor",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=preprocessor"
+    },
+    {
+        "tag": "properties",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=properties"
+    },
+    {
+        "tag": "semantics",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=semantics"
+    },
+    {
+        "tag": "spaceship operator",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=spaceship+operator"
+    },
+    {
+        "tag": "statemachine",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=statemachine"
+    },
+    {
+        "tag": "sum-types",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=sum-types"
+    },
+    {
+        "tag": "threat hunting",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=threat+hunting"
+    },
+    {
+        "tag": "transform_reduce",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=transform_reduce"
+    },
+    {
+        "tag": "units",
+        "count": "1",
+        "search-link": "https://cppnow2019.sched.com/?s=units"
+    }
+]

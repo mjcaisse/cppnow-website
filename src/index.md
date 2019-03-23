@@ -44,7 +44,10 @@ The session schedule for C++Now {{site.current_year}} is not yet confirmed. Keep
 {% if site.show_tag_cloud %}
 <div class="homeBoxes">
     <div class="homeBoxesLeft">
-        <p>These are topics covered at the conference. To search for specific sessions, just tap the word or phrase.</p>
+        This is the tag cloud for the scheduled sessions.
+
+
+        Mobile users may find the <a href="/taglist/">tag list</a> a more useful format.
 
         {% include tagclouds/tagcloud.infra.html %}
 
