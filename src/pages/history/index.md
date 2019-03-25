@@ -7,6 +7,9 @@ section: history
 
 After each year's convention, C++Now archives the important content: session schedules, videos of talks, sponsors for the year, and attendee information.
 
+* **[C++Now 2019](/history/2019/)**
+    * Keynotes:
+        * The Shape of a Program (Hana Dusídová)
 * **[C++Now 2018](/history/2018/)**
     * Keynotes:
         * The Shape of a Program (Lisa Lippincott)

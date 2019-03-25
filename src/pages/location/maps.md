@@ -12,4 +12,6 @@ section: location
 ### Other Maps
 
 * [Annotated Map](/assets/uploads/pdf/AspenMeadowsResort-AnnotatedMap.pdf)
-* [Printable Map](/assets/img/maps/AspenMeadowsResort-PrintableMap.png)
+* Printable Maps
+  * [2018 Map](/assets/img/maps/2018-aspen-meadows-resort-property-map.pdf)
+  * [Older Printable Map](/assets/img/maps/AspenMeadowsResort-PrintableMap.png)

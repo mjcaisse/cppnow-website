@@ -1,2 +1,502 @@
 [
+    {
+        "speakers": "Jeremy Murphy",
+        "sched": "https://cppnow2019.sched.com/event/2178078bdc11df7755dc8b671d90e9ec",
+        "room": "",
+        "title": "A generic binary tree: why grow your own?",
+        "youtube": "",
+        "slides": "",
+        "time": "11:00:00",
+        "date": "2019-05-08"
+    },
+    {
+        "speakers": "Conor Hoekstra",
+        "sched": "https://cppnow2019.sched.com/event/55fd2b92561f4a4ad78e2379569f840e",
+        "room": "",
+        "title": "Algorithm Intuition",
+        "youtube": "",
+        "slides": "",
+        "time": "11:00:00",
+        "date": "2019-05-09"
+    },
+    {
+        "speakers": "Bob Steagall",
+        "sched": "https://cppnow2019.sched.com/event/b5e3335a737f599bcd996ba18d998a54",
+        "room": "",
+        "title": "A Multithreaded, Transaction-Based Read/Write Locking Strategy for Containers",
+        "youtube": "",
+        "slides": "",
+        "time": "14:30:00",
+        "date": "2019-05-06"
+    },
+    {
+        "speakers": "Matthew Fleming",
+        "sched": "https://cppnow2019.sched.com/event/9b9d2e9ccf9530183577d083ee48371f",
+        "room": "",
+        "title": "An Alternate Smart Pointer Hierarchy",
+        "youtube": "",
+        "slides": "",
+        "time": "16:30:00",
+        "date": "2019-05-09"
+    },
+    {
+        "speakers": "Timur Doumler",
+        "sched": "https://cppnow2019.sched.com/event/0b46a5fc3e6b0a4f7235b2c3b1ba4d64",
+        "room": "",
+        "title": "Audio in standard C++",
+        "youtube": "",
+        "slides": "",
+        "time": "11:00:00",
+        "date": "2019-05-08"
+    },
+    {
+        "speakers": "Timur Doumler",
+        "sched": "https://cppnow2019.sched.com/event/915f259411cd7ab60a5f55c3bab97cd4",
+        "room": "",
+        "title": "Better CTAD for C++20",
+        "youtube": "",
+        "slides": "",
+        "time": "14:30:00",
+        "date": "2019-05-07"
+    },
+    {
+        "speakers": "Mateusz Pusz",
+        "sched": "https://cppnow2019.sched.com/event/24a29d2c97b420928437e2e5d10c3147",
+        "room": "",
+        "title": "Beyond C++17 (Part 2 of N)",
+        "youtube": "",
+        "slides": "",
+        "time": "11:00:00",
+        "date": "2019-05-06"
+    },
+    {
+        "speakers": "Alisdair Meredith",
+        "sched": "https://cppnow2019.sched.com/event/1b3791368ce90f990ea155619cc10030",
+        "room": "",
+        "title": "C++20 in Breadth (not depth!)",
+        "youtube": "",
+        "slides": "",
+        "time": "09:00:00",
+        "date": "2019-05-09"
+    },
+    {
+        "speakers": "Daveed Vandevoorde",
+        "sched": "https://cppnow2019.sched.com/event/6c9770fc7527a4b32d72191db64ffd0f",
+        "room": "",
+        "title": "C++ Constants",
+        "youtube": "",
+        "slides": "",
+        "time": "09:00:00",
+        "date": "2019-05-06"
+    },
+    {
+        "speakers": "Tara Raj",
+        "sched": "https://cppnow2019.sched.com/event/2da23aa05613b81363475d9073b08efc",
+        "room": "",
+        "title": "C++ Development with Visual Studio Code",
+        "youtube": "",
+        "slides": "",
+        "time": "11:00:00",
+        "date": "2019-05-10"
+    },
+    {
+        "speakers": "David Sankel",
+        "sched": "https://cppnow2019.sched.com/event/03e84e3b92b760cf53c28a8a8fa33bfd",
+        "room": "",
+        "title": "C++: Engineers Wanted, Programmers not so Much",
+        "youtube": "",
+        "slides": "",
+        "time": "16:30:00",
+        "date": "2019-05-07"
+    },
+    {
+        "speakers": "Daniel Ruoso",
+        "sched": "https://cppnow2019.sched.com/event/1e8e521d573a1834738523c561e3fbef",
+        "room": "",
+        "title": "Clang Automated Refactoring for everyone with clangmetatool",
+        "youtube": "",
+        "slides": "",
+        "time": "11:00:00",
+        "date": "2019-05-08"
+    },
+    {
+        "speakers": "Robin Kuzmin",
+        "sched": "https://cppnow2019.sched.com/event/7399e61430106d56d3beef5117e3a869",
+        "room": "",
+        "title": "C++Now and CppCon, the View From Inside",
+        "youtube": "",
+        "slides": "",
+        "time": "21:00:00",
+        "date": "2019-05-07"
+    },
+    {
+        "speakers": "Hana Dus\u00edkov\u00e1",
+        "sched": "https://cppnow2019.sched.com/event/5e9b7f4847681b31c3e7d5dbd6ec42f5",
+        "room": "",
+        "title": "Compile Time Regular Expressions with Deterministic Finite Automaton",
+        "youtube": "",
+        "slides": "",
+        "time": "09:00:00",
+        "date": "2019-05-07"
+    },
+    {
+        "speakers": "Kris Jusiak",
+        "sched": "https://cppnow2019.sched.com/event/e8a463cd77146a6771ced1cb1c8b8ec3",
+        "room": "",
+        "title": "Dependency Injection - a 25-dollar term for a 5-cent concept",
+        "youtube": "",
+        "slides": "",
+        "time": "16:30:00",
+        "date": "2019-05-06"
+    },
+    {
+        "speakers": "Michael Caisse",
+        "sched": "https://cppnow2019.sched.com/event/b254c25560d3d97e382fdbe58917800d",
+        "room": "",
+        "title": "Embedded Domain Specific Languages for Embedded Bare Metal Projects",
+        "youtube": "",
+        "slides": "",
+        "time": "16:30:00",
+        "date": "2019-05-06"
+    },
+    {
+        "speakers": "Andreas Weis",
+        "sched": "https://cppnow2019.sched.com/event/690b722ce9d93f125160f0b4e797d8a6",
+        "room": "",
+        "title": "Exceptions Demystified",
+        "youtube": "",
+        "slides": "",
+        "time": "11:00:00",
+        "date": "2019-05-10"
+    },
+    {
+        "speakers": "Ryan Dougherty",
+        "sched": "https://cppnow2019.sched.com/event/04263fa187f4930f751c2273cca0a30d",
+        "room": "",
+        "title": "Experiences in Teaching Modern C++ to Beginners",
+        "youtube": "",
+        "slides": "",
+        "time": "11:00:00",
+        "date": "2019-05-09"
+    },
+    {
+        "speakers": "Odin Holmes",
+        "sched": "https://cppnow2019.sched.com/event/f28af1bfbddefacb577b8a1d00320ebd",
+        "room": "",
+        "title": "Hey C, This Is What Performance Looks like (Manually Generating Optimal Assembly at Compile Time)",
+        "youtube": "",
+        "slides": "",
+        "time": "14:30:00",
+        "date": "2019-05-08"
+    },
+    {
+        "speakers": "Vittorio Romeo",
+        "sched": "https://cppnow2019.sched.com/event/ff5990d54d91ce7c8cb6a11ef6fcf2ff",
+        "room": "",
+        "title": "Higher-order functions and `function_ref`",
+        "youtube": "",
+        "slides": "",
+        "time": "16:30:00",
+        "date": "2019-05-08"
+    },
+    {
+        "speakers": "Peter Sommerlad",
+        "sched": "https://cppnow2019.sched.com/event/ebd8cb9d863839eac8d4dbe36f282e55",
+        "room": "",
+        "title": "How I learned to Stop Worrying and Love the C++ Type System",
+        "youtube": "",
+        "slides": "",
+        "time": "14:30:00",
+        "date": "2019-05-06"
+    },
+    {
+        "speakers": "Ben Deane",
+        "sched": "https://cppnow2019.sched.com/event/b60160aa659270370279c5acb6196fb6",
+        "room": "",
+        "title": "Identifying Monoids: Exploiting Compositional Structure in Code",
+        "youtube": "",
+        "slides": "",
+        "time": "14:30:00",
+        "date": "2019-05-09"
+    },
+    {
+        "speakers": "Matthew Butler",
+        "sched": "https://cppnow2019.sched.com/event/8f1a33cf416a98cdca678c9692d7ef20",
+        "room": "",
+        "title": "If You Can't Open It, You Don't Own It",
+        "youtube": "",
+        "slides": "",
+        "time": "09:00:00",
+        "date": "2019-05-09"
+    },
+    {
+        "speakers": "Mateusz Pusz",
+        "sched": "https://cppnow2019.sched.com/event/9f6c49613bd38e96ca40630a6335a572",
+        "room": "",
+        "title": "Implementing Physical Units Library for C++",
+        "youtube": "",
+        "slides": "",
+        "time": "11:00:00",
+        "date": "2019-05-07"
+    },
+    {
+        "speakers": "Bob Steagall",
+        "sched": "https://cppnow2019.sched.com/event/d01270d34e0ad978339a804f4e66510b",
+        "room": "",
+        "title": "Linear Algebra for the Standard C++ Library",
+        "youtube": "",
+        "slides": "",
+        "time": "11:00:00",
+        "date": "2019-05-07"
+    },
+    {
+        "speakers": "Andr\u00e9 Bergner",
+        "sched": "https://cppnow2019.sched.com/event/06b63ee4ff2b61fe86ab36758cf10216",
+        "room": "",
+        "title": "Matchine: Pattern Matching for Open Sum Types",
+        "youtube": "",
+        "slides": "",
+        "time": "11:00:00",
+        "date": "2019-05-06"
+    },
+    {
+        "speakers": "Jason Rice",
+        "sched": "https://cppnow2019.sched.com/event/bf3fce0dce3e6d8525d677169007d518",
+        "room": "",
+        "title": "Parametric Expressions: A Proposed Language Feature",
+        "youtube": "",
+        "slides": "",
+        "time": "16:30:00",
+        "date": "2019-05-08"
+    },
+    {
+        "speakers": "Michael Park",
+        "sched": "https://cppnow2019.sched.com/event/d028983b763248ea18c9ff0224c34321",
+        "room": "",
+        "title": "Pattern Matching: Match Me If You Can",
+        "youtube": "",
+        "slides": "",
+        "time": "14:30:00",
+        "date": "2019-05-09"
+    },
+    {
+        "speakers": "Ga\u0161per A\u017eman",
+        "sched": "https://cppnow2019.sched.com/event/c243b8f054767d76130c9d5cccdf58ba",
+        "room": "",
+        "title": "Points of Order",
+        "youtube": "",
+        "slides": "",
+        "time": "16:30:00",
+        "date": "2019-05-09"
+    },
+    {
+        "speakers": "Lisa Lippincott",
+        "sched": "https://cppnow2019.sched.com/event/a6e56a636a3b274d52b638a62eae9db4",
+        "room": "",
+        "title": "Practical Interfaces for Practical Functions",
+        "youtube": "",
+        "slides": "",
+        "time": "14:30:00",
+        "date": "2019-05-08"
+    },
+    {
+        "speakers": "Charley Bay",
+        "sched": "https://cppnow2019.sched.com/event/09a9d1cca2525cf334e2502a0a088109",
+        "room": "",
+        "title": "Property-Based Declarative Containers",
+        "youtube": "",
+        "slides": "",
+        "time": "11:00:00",
+        "date": "2019-05-06"
+    },
+    {
+        "speakers": "Kris Jusiak",
+        "sched": "https://cppnow2019.sched.com/event/dc56426d447df5a35e76044b908e534f",
+        "room": "",
+        "title": "Rise of the State Machines",
+        "youtube": "",
+        "slides": "",
+        "time": "14:30:00",
+        "date": "2019-05-07"
+    },
+    {
+        "speakers": "Peter Sommerlad",
+        "sched": "https://cppnow2019.sched.com/event/66b7b48212d36469de589d26a9fb6805",
+        "room": "",
+        "title": "Sane Modern Special Member Functions",
+        "youtube": "",
+        "slides": "",
+        "time": "11:00:00",
+        "date": "2019-05-07"
+    },
+    {
+        "speakers": "Odin Holmes",
+        "sched": "https://cppnow2019.sched.com/event/5dcee668d25dfb23056a34def03dca46",
+        "room": "",
+        "title": "Tacit DSL All the Things",
+        "youtube": "",
+        "slides": "",
+        "time": "16:30:00",
+        "date": "2019-05-07"
+    },
+    {
+        "speakers": "Paul Fultz II",
+        "sched": "https://cppnow2019.sched.com/event/59a3eb4eda2337bfddb69bdd8a7cd56f",
+        "room": "",
+        "title": "Taking the Plunge Towards CMake in Boost",
+        "youtube": "",
+        "slides": "",
+        "time": "09:00:00",
+        "date": "2019-05-10"
+    },
+    {
+        "speakers": "Attila Feh\u00e9r",
+        "sched": "https://cppnow2019.sched.com/event/915ac17bc40b8f2fa637a9c27af4419d",
+        "room": "",
+        "title": "test_resource: the pmr detective",
+        "youtube": "",
+        "slides": "",
+        "time": "16:30:00",
+        "date": "2019-05-06"
+    },
+    {
+        "speakers": "Arvid Norberg",
+        "sched": "https://cppnow2019.sched.com/event/b6815e8e524148f581b6d681debd937e",
+        "room": "",
+        "title": "The ABI challenge",
+        "youtube": "",
+        "slides": "",
+        "time": "11:50:00",
+        "date": "2019-05-09"
+    },
+    {
+        "speakers": "Jeff Garland",
+        "sched": "https://cppnow2019.sched.com/event/b6345a1f2f7e09285c6ac890d5caa669",
+        "room": "",
+        "title": "The C++20 Standard Library - Beyond Ranges",
+        "youtube": "",
+        "slides": "",
+        "time": "16:30:00",
+        "date": "2019-05-07"
+    },
+    {
+        "speakers": "David Sankel",
+        "sched": "https://cppnow2019.sched.com/event/7d1a09ae21b9dd32ea60da1772bdbe51",
+        "room": "",
+        "title": "The C++ Reflection TS",
+        "youtube": "",
+        "slides": "",
+        "time": "09:00:00",
+        "date": "2019-05-08"
+    },
+    {
+        "speakers": "Jason McGuiness",
+        "sched": "https://cppnow2019.sched.com/event/9c4afe564814e522415df1b06ae047ad",
+        "room": "",
+        "title": "The Impact of Compilers, O/Ses and Mitigations for Spectre & Meltdown upon a Low-Latency Trading System.",
+        "youtube": "",
+        "slides": "",
+        "time": "11:00:00",
+        "date": "2019-05-09"
+    },
+    {
+        "speakers": "Nevin \":-)\" Liber",
+        "sched": "https://cppnow2019.sched.com/event/e8bb44106c83f17f63ccc97bb1f6cea6",
+        "room": "",
+        "title": "The Many Variants of std::variant",
+        "youtube": "",
+        "slides": "",
+        "time": "09:00:00",
+        "date": "2019-05-10"
+    },
+    {
+        "speakers": "David Hollman",
+        "sched": "https://cppnow2019.sched.com/event/e697814270d386a62f3b44203eed2611",
+        "room": "",
+        "title": "The Ongoing Saga of ISO-C++ Executors",
+        "youtube": "",
+        "slides": "",
+        "time": "14:30:00",
+        "date": "2019-05-09"
+    },
+    {
+        "speakers": "JeanHeyd Meneide",
+        "sched": "https://cppnow2019.sched.com/event/693b37a35909bfa15959dc3f9bfa1697",
+        "room": "",
+        "title": "The Plan for Tomorrow: Extension Points in C++ Applications",
+        "youtube": "",
+        "slides": "",
+        "time": "11:00:00",
+        "date": "2019-05-10"
+    },
+    {
+        "speakers": "Rich\u00e1rd Szalay",
+        "sched": "https://cppnow2019.sched.com/event/b4754f569d11686e22a6062752b07960",
+        "room": "",
+        "title": "The  Rough Road Towards Upgrading to C++ Modules",
+        "youtube": "",
+        "slides": "",
+        "time": "09:00:00",
+        "date": "2019-05-10"
+    },
+    {
+        "speakers": "Lisa Lippincott",
+        "sched": "https://cppnow2019.sched.com/event/b1e5d83ce71cbaf75c25b7045b30a0dd",
+        "room": "",
+        "title": "The Truth of a Procedure",
+        "youtube": "",
+        "slides": "",
+        "time": "14:30:00",
+        "date": "2019-05-07"
+    },
+    {
+        "speakers": "Marshall Clow",
+        "sched": "https://cppnow2019.sched.com/event/b90bcb2bdccc0b6f4b586c523566cdd5",
+        "room": "",
+        "title": "The View from a C++ Standard Library Implementor",
+        "youtube": "",
+        "slides": "",
+        "time": "16:30:00",
+        "date": "2019-05-09"
+    },
+    {
+        "speakers": "Matthew Butler",
+        "sched": "https://cppnow2019.sched.com/event/d536454a7cf716ddd7c4e471f12bc5cb",
+        "room": "",
+        "title": "Threat Hunting",
+        "youtube": "",
+        "slides": "",
+        "time": "16:30:00",
+        "date": "2019-05-08"
+    },
+    {
+        "speakers": "Arthur O'Dwyer",
+        "sched": "https://cppnow2019.sched.com/event/fe588feda2211383921a0a231df6e9bb",
+        "room": "",
+        "title": "Trivially Relocatable",
+        "youtube": "",
+        "slides": "",
+        "time": "09:00:00",
+        "date": "2019-05-09"
+    },
+    {
+        "speakers": "Jeff Garland",
+        "sched": "https://cppnow2019.sched.com/event/853db875ef0050934fc1ce500a752ff7",
+        "room": "",
+        "title": "Using C++20 Ranges Effectively",
+        "youtube": "",
+        "slides": "",
+        "time": "14:30:00",
+        "date": "2019-05-08"
+    },
+    {
+        "speakers": "John Lakos",
+        "sched": "https://cppnow2019.sched.com/event/62984f35343bfe748f75e41df55a6368",
+        "room": "",
+        "title": "Value Proposition: Allocator-Aware (AA) Software",
+        "youtube": "",
+        "slides": "",
+        "time": "14:30:00",
+        "date": "2019-05-06"
+    }
 ]
