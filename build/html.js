@@ -17,7 +17,7 @@ const htmlminOptions = {
     removeComments: true,
     removeEmptyAttributes: true,
     removeOptionalTags: true,
-    removeRedundantAttributes: true,
+    // removeRedundantAttributes: true, // Disabled because of the use of the maphilight library which assumes that a shape attribute will always be present, though it is optional. See issue: https://github.com/kemayo/maphilight/issues/88
     removeScriptTypeAttributes: true,
     removeStyleLinkTypeAttributes: true,
     sortAttributes: true,
