@@ -51,7 +51,7 @@ The session schedule for C++Now {{site.current_year}} is not yet confirmed. Keep
 
         {% include tagclouds/tagcloud.infra.html %}
 
-        <img alt="Tag Cloud" src="{{site.tag_cloud_image}}" usemap="#wordCloudMap" class="map">
+        <img alt="Tag Cloud" src="{{site.tag_cloud_image}}" height="{{site.tag_cloud_image_height_}}" width="{{site.tag_cloud_image_height_}}" usemap="#wordCloudMap" class="imageCenter map">
         {% include {{site.tag_cloud_map}} %}
     </div>
 </div>
