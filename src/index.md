@@ -44,6 +44,7 @@ The session schedule for C++Now {{site.current_year}} is not yet confirmed. Keep
 {% if site.show_tag_cloud %}
 <div class="homeBoxes">
     <div class="homeBoxesLeft">
+        <div>
         This is the tag cloud for the scheduled sessions.
 
 
@@ -53,6 +54,7 @@ The session schedule for C++Now {{site.current_year}} is not yet confirmed. Keep
 
         <img alt="Tag Cloud" src="{{site.tag_cloud_image}}" height="{{site.tag_cloud_image_height_}}" width="{{site.tag_cloud_image_height_}}" usemap="#wordCloudMap" class="imageCenter map">
         {% include {{site.tag_cloud_map}} %}
+        </div>
     </div>
 </div>
 {% endif %}
