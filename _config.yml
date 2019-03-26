@@ -127,7 +127,8 @@ promo_video_iframe: "<iframe width=\"100%\" height=\"480\" src=\"https://www.you
 show_tag_cloud: true
 tag_cloud_image: "/assets/img/tagcloud/wordcloud2019.png"
 tag_cloud_map: "tagclouds/tagcloud.2019.html"
-
+tag_cloud_image_height: "504"
+tag_cloud_image_width: "577"
 
 ### Home Boxes - These are boxes on the front page. They are in pairs so that 0 and 1
 ## are on the first line, 2 and 3 are on the second, and 4 and 5 are on the third.
