@@ -9,7 +9,7 @@ After each year's convention, C++Now archives the important content: session sch
 
 * **[C++Now 2019](/history/2019/)**
     * Keynotes:
-        * The Shape of a Program (Hana Dusídová)
+        * Compile Time Regular Expressions with Deterministic Finite Automaton (Hana Dusídová)
 * **[C++Now 2018](/history/2018/)**
     * Keynotes:
         * The Shape of a Program (Lisa Lippincott)
