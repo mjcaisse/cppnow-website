@@ -16,11 +16,21 @@ Our overflow property will be the beautiful [Limelight Hotel - Aspen](https://ww
 
 We are working on a special C++Now attendee rate for the overflow property but wanted to give you details about the hotel. Until we have a contract in place, we don't have registration information available.
 
+<!--
 ![Karen Krueger](/assets/img/staff/karen-closeup.jpeg "Karen Krueger"){:style="float: left;margin-right: 7px;margin-top: 7px; width: 160px"}
 
 For now, please contact [Karen Krueger with Krueger Event Management](mailto:Karen@KruegerEvents.com) and provide your contact information along with your arrival and departure dates.  She will send your confirmation number to you as soon as it is available.  You can email [Karen@KruegerEvents.com](mailto:Karen@KruegerEvents.com) and she will work directly with you.
+-->
+
+<p class="highlight" markdown="1">To reserve your room use [the C++Now 2019 Limelight booking link](https://gc.synxis.com/rez.aspx?Hotel=56474&Chain=10237&template=rASELL&shell=rASELL&arrive=5/5/2019&depart=5/10/2019&adult=1&child=0&promo=CPLUSPLUSNOW).
+
+If you would rather call (or if you are not staying five nights), you can call John Knechtel at (970) 925-3323 and let him know you are attending the conference.
+
+Note that because we are within thirty days, payment is due in full and no cancelations are possible.</p>
 
 ![Limelight Hotel - Aspen Lounge](/assets/img/location/Limelight/Limelight lounge.jpeg "Limelight Hotel - Aspen Lounge"){:style="float: right;margin-right: 7px;margin-top: 7px; width: 280px"}
+
+The Limelight provides free shuttle service to an from the airport. Please call the hotel at (970) 925-3025 and tell them your flight information and when you want to be picked up.
 
 Just a mile from the Aspen Center for Physics, take advantage of the complimentary bicycles or enjoy a walk in the clear mountain air. 
 
