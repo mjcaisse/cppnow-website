@@ -8,7 +8,7 @@ section: announcements
 
 ![Keynote Speaker Daveed Vandevoorde](/assets/img/posts/2019/DaveedVandevoorde.jpeg "Keynote Speaker Daveed Vandevoord"){:style="float: right;margin-right: 7px;margin-top: 7px; width: 300px"}
 
-The theme of this year's keynotes is _Compile-time Magic_ and the Deveed will be talking about constant expressions.
+The theme of this year's keynotes is _Compile-time Magic_ and Daveed will be talking about constant expressions.
 
 Daveed's keynote is entitled [C++ Constants](https://cppnow2019.sched.com/event/Mj4S).
 
