@@ -30,7 +30,7 @@ Note that because we are within thirty days, payment is due in full and no cance
 
 ![Limelight Hotel - Aspen Lounge](/assets/img/location/Limelight/Limelight lounge.jpeg "Limelight Hotel - Aspen Lounge"){:style="float: right;margin-right: 7px;margin-top: 7px; width: 280px"}
 
-The Limelight provides free shuttle service to an from the airport. Please call the hotel at (970) 925-3025 and tell them your flight information and when you want to be picked up.
+The Limelight provides free shuttle service to an from the airport. Please review [the information here](https://www.limelighthotels.com/aspen/the-hotel/getting-here) about arranging your pickup.
 
 Just a mile from the Aspen Center for Physics, take advantage of the complimentary bicycles or enjoy a walk in the clear mountain air. 
 
