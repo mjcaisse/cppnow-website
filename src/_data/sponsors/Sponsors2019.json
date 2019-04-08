@@ -5,14 +5,14 @@
             "sponsors":
             [
                 {
-                    "title": "The C++ Alliance",
-                    "link": "http://cpp.al/",
-                    "image": "/assets/img/sponsors/cpp.alliance.png"
-                },
-                {
                     "title": "Bloomberg",
                     "link": "http://techatbloomberg.com/",
                     "image": "/assets/img/sponsors/bloomberg.png"
+                },
+                {
+                    "title": "The C++ Alliance",
+                    "link": "http://cpp.al/",
+                    "image": "/assets/img/sponsors/cpp.alliance.png"
                 }
             ]
         },
@@ -68,7 +68,7 @@
                 },
                 {
                     "name": "Jon and Kathleen Kalb",
-                    "info": "Jon Kalb <jonkalb@boost.org> until 2019-04-05",
+                    "info": "Jon Kalb <jonkalb@boost.org> until 2020-04-07",
                     "shirt": "men's large"
                 },
             ]
