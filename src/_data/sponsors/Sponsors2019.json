@@ -53,23 +53,23 @@
                 {
                     "name": "Agustín Bergé", 
                     "anonymous": true,
-                    "info": "Agustín Bergé <kaballo86@hotmail.com> until 2019-04-01",
+                    "info": "Agustín Bergé <kaballo86@hotmail.com> until 2020-04-01",
                     "shirt": "men's medium"
                 },
                 {
                     "name": "Jeff Trull",
-                    "info": "Jeffrey Trull <jetrull@sbcglobal.net> until 2019-04-01",
+                    "info": "Jeffrey Trull <jetrull@sbcglobal.net> until 2020-02-08",
                     "shirt": "men's medium"
                 },                
+                {
+                    "name": "Jon Terje Kommandantvold",
+                    "info": "Jon Terje Kommandantvold <jonterje.kommandantvold@gmail.com> until 2020-03-07",
+                    "shirt": "men's large"
+                },
                 {
                     "name": "Jon and Kathleen Kalb",
                     "info": "Jon Kalb <jonkalb@boost.org> until 2019-04-05",
                     "shirt": "men's large"
-                },
-                {
-                    "name": "Peter Bindels",
-                    "info": "Peter Bindels <peter.bindels@tomtom.com> until 2019-04-06",
-                    "shirt": "men's xx large"
                 },
             ]
         },
