@@ -202,15 +202,15 @@ There are several opportunities to sponsor C++Now, both as a [Corporate Sponsor]
     }
   },
   "image": [
-    "/assets/img/theme/CppNowLogo.svg"
+    "http://cppnow.org/assets/img/theme/CppNowLogo.svg"
    ],
   "description": "A gathering of C++ experts and enthusiasts from around the world in beautiful Aspen, Colorado.",
   "offers": {
     "@type": "Offer",
-    "url": "/registration/",
+    "url": "http://cppnow.org/registration/",
     "price": "799",
     "priceCurrency": "USD",
-    "availability": "https://schema.org/InStock",
+    "availability": "http://schema.org/InStock",
     "validFrom": "2019-01-11T16:00",
     "offeredBy": {
         "@type": "Organization",
@@ -243,14 +243,17 @@ There are several opportunities to sponsor C++Now, both as a [Corporate Sponsor]
   "performer": [
     {
         "@type": "Person",
+        "name": "Hana Dusíková",
         "familyName": "Dusíková",
         "givenName": "Hana"},
     {
         "@type": "Person",
+        "name": "Daveed Vandevoorde",
         "familyName": "Vandevoorde",
         "givenName": "Daveed"},
     {
         "@type": "Person",
+        "name": "David Sankel",
         "familyName": "Sankel",
         "givenName": "David"}],
   "sponsor": [
