@@ -182,3 +182,50 @@ There are several opportunities to sponsor C++Now, both as a [Corporate Sponsor]
 {% endif %}
 </div>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "C++Now 2019",
+  "startDate": "2019-05-05T16:00",
+  "endDate": "2019-05-10T17:00",
+  "location": {
+    "@type": "Place",
+    "name": "Aspen Center for Physics",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "700 Gillespie Ave",
+      "addressLocality": "Aspeb",
+      "postalCode": "81611",
+      "addressRegion": "CO)",
+      "addressCountry": "US"
+    }
+  },
+  "image": [
+    "/assets/img/theme/CppNowLogo.svg",
+   ],
+  "description": "A gathering of C++ experts and enthusiasts from around the world in beautiful Aspen, Colorado.",
+  "offers": {
+    "@type": "Offer",
+    "url": "/registration/",
+    "price": "799",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "validFrom": "2019-01-11T16:00"
+  },
+  "performer": [
+    {
+        "@type": "Person",
+        "familyName": "Dusíková",
+        "givenName": "Hana"},
+    {
+        "@type": "Person",
+        "familyName": "Vandevoorde",
+        "givenName": "Daveed"},
+    {
+        "@type": "Person",
+        "familyName": "Sankel",
+        "givenName": "David"}]
+}
+</script>
+
