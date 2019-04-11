@@ -5,6 +5,7 @@ permalink: /about/staff/
 section: about
 redirect_from:
     - /PC/
+    - /conference_staff/
 ---
 
 {% assign staffname = 'staff' | append: site.current_year %}

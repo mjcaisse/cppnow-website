@@ -211,8 +211,35 @@ There are several opportunities to sponsor C++Now, both as a [Corporate Sponsor]
     "price": "799",
     "priceCurrency": "USD",
     "availability": "https://schema.org/InStock",
-    "validFrom": "2019-01-11T16:00"
+    "validFrom": "2019-01-11T16:00",
+    "offeredBy": {
+        "@type": "Organization",
+        "name": "Boost Libraries",
+        "url": "http://boost.org/"
+      },
+    "seller": {
+        "@type": "Organization",
+        "name": "Boost Libraries",
+        "url": "http://boost.org/"
+      }
   },
+  "organizer": {
+    "@type": "Person",
+    "familyName": "Kalb",
+    "givenName": "Jon"},
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "C++ programmers"
+  },
+  "eventStatus": "http://schema.org/EventScheduled",
+  "funder": {
+    "@type": "Organization",
+    "name": "Boost Libraries",
+    "url": "http://boost.org/"
+  },
+  "inLanguage": "en",
+  "isAccessibleForFree": false,
+  "maximumAttendeeCapacity": 140,
   "performer": [
     {
         "@type": "Person",
@@ -225,7 +252,24 @@ There are several opportunities to sponsor C++Now, both as a [Corporate Sponsor]
     {
         "@type": "Person",
         "familyName": "Sankel",
-        "givenName": "David"}]
+        "givenName": "David"}],
+  "sponsor": [
+    {
+        "@type": "Organization",
+        "name": "Bloomberg LP",
+        "url": "http://techatbloomberg.com/"},
+    {
+        "@type": "Organization",
+        "name": "C++ Alliance",
+        "url": "http://cpp.al/"},
+    {
+        "@type": "Organization",
+        "name": "Ciere Consulting",
+        "url": "http://ciere.com/"},
+    {
+        "@type": "Organization",
+        "name": "Jet Brains",
+        "url": "http://www.jetbrains.com/"}]
 }
 </script>
 
