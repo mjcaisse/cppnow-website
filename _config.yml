@@ -40,6 +40,9 @@ pagination:
         before: 2
         after: 2
 
+# Google services
+google_analytics: UA—138136534-1
+
 # Build settings
 source: ./src
 destination: ./_temp/jekyll
