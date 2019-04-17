@@ -78,6 +78,11 @@
             "title": "Boost Scholarship Sponsors: Bronze Level",
             "sponsors":
             [
+                {
+                    "name": "Peter Sommerlad",
+                    "info": "Peter Sommerlad <peter.cpp@sommerlad.ch> until 2020-04-17",
+                    "shirt": "unknown"
+                },
             ]
         }
     ]
