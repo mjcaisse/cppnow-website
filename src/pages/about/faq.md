@@ -42,6 +42,9 @@ Think back to the conferences you've been to. If your experience is like ours, t
 * Make your travel arrangements. Sooner is better because that is when you'll have the best selections.
 * Make your [hotel arrangements](/location/lodging/). Sooner is better because the hotel will sell out.
 * Join the [CppLang Team on Slack](http://cpplang.diegostamigni.com/) and then the [#cppnow channel](https://cpplang.slack.com/messages/C59UQL3CL).
+{% if site.doing_lunch_signups %}
+* Sign up for [on-site lunches]({{site.lunch_signup_link}}).
+{% endif %}
 
 
 
@@ -109,6 +112,10 @@ We have high-carb breaks both morning and afternoon, but for meals you are on-yo
 
 Some years we have a food truck at lunch and we recommend a couple of places for dinner every evening (except the night of the picnic). When dinning at a recommended spot, mention that you are at the Physics Center for a special deal (free appetizers or a discount).
 
+{% if site.doing_lunch_signups %}
+This year we are doing [sign ups for on-site lunches]({{site.lunch_signup_link}}). If you think you'll be staying at the Physics Center over lunch (to work on Library in a Week or for a lunch meeting like the meeting to learn about the Program Committee), you'll want to sign up to have lunch delivered.
+{% endif %}
+
 When heading to town, don't go back to your room first, you'll not make it back in time to the after-meal sessions. Instead, drop your laptop bag at the Center for Physics Library in Bethe Hall where it will be locked up until you return (we'll even charge the battery for you, if you'd like).
 
 One evening, we'll host a picnic at the Center for Physics. Feel free to have anyone traveling with you to join us.
@@ -153,8 +160,10 @@ The Program Committee is the group of individuals that evaluate every submission
 
 You can find information about the role of the committee in the [C++Now Program Committee Reviewers' Guide](https://docs.google.com/document/d/1Z1PXETemPj0FP_i_zqt1YFHK4KiFYAiGTvbpVa2kKE0/edit).
 
-If you'd like to join the PC, please [contact the PC Chair](mailto:boostcon-pc-chair@googlegroups.com).
+Most years we have an over-lunch meeting of the Program Committee, to which we invite anyone that is interested in learning about the PC and how it works. {% if site.doing_lunch_signups %}
+If you plan to attend, the conference will pay for your lunch if you [sign up in advance]({{site.lunch_signup_link}}).{% endif %}
 
+If you'd like to join the PC, please [contact the PC Chair](mailto:boostcon-pc-chair@googlegroups.com).
 
 
 #### Code of Conduct

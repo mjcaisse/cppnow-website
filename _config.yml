@@ -80,6 +80,10 @@ over: true
 
 submission: "was"
 
+##
+doing_lunch_signups: true
+lunch_signup_link: "https://docs.google.com/spreadsheets/d/1w2oFdRlFScEKOHdxOpkTGwhQT8eolVxkmT4Xrw2vxyM/""
+
 ## becomes "was" when the hotel is full or the conference is over
 hotel_registration: "is"
 online_link_for_Meadows_reservation: "https://book.passkey.com/go/CNow2019"
