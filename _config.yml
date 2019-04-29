@@ -25,6 +25,8 @@ github_username:  boostcon
 feed:
     path: /feed/feed.xml
 
+video_channel: "https://www.youtube.com/user/boostcon/"
+
 permalink: /:categories/:year/:month/:title/
 
 pagination:
@@ -84,11 +86,11 @@ submission: "was"
 doing_lunch_signups: true
 lunch_signup_link: "https://docs.google.com/spreadsheets/d/1w2oFdRlFScEKOHdxOpkTGwhQT8eolVxkmT4Xrw2vxyM/"
 
-## becomes "was" when the hotel is full or the conference is over
+## "will", "is", "was": becomes "was" when the hotel is full or the conference is over
 hotel_registration: "is"
 online_link_for_Meadows_reservation: "https://book.passkey.com/go/CNow2019"
 
-## becomes "was" when  the conference is over
+## "will", "is", "was": becomes "was" when  the conference is over
 registration: "is"
 refund_fee: "$30"
 refund_deadline: "April 5th" # 30 days prior to conference start
@@ -100,8 +102,10 @@ deadline_for_volunteers: "February 23rd, 2019" # 10 weeks prior to start of conf
 notification_for_volunteers: "March 2nd, 2019" # 9 weeks prior to start of conference
 volunteer_jotform_ID: 90226249540151
 
-## becomes "was" when  the conference is over
-lightning_talk_submission: "will"
+## "will", "is", "was": becomes "was" when  the conference is over
+lightning_talk_submission: "is"
+lightning_talk_submission_URL: "https://cppnow.ciere.io/"
+
 
 schedule_online: true
 sched_com_URL: "https://cppnow2019.sched.org/"
