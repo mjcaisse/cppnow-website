@@ -42,9 +42,7 @@ Think back to the conferences you've been to. If your experience is like ours, t
 * Make your travel arrangements. Sooner is better because that is when you'll have the best selections.
 * Make your [hotel arrangements](/location/lodging/). Sooner is better because the hotel will sell out.
 * Join the [CppLang Team on Slack](http://cpplang.diegostamigni.com/) and then the [#cppnow channel](https://cpplang.slack.com/messages/C59UQL3CL).
-{% if site.doing_lunch_signups %}
-* Sign up for [on-site lunches]({{site.lunch_signup_link}}).
-{% endif %}
+{% if site.doing_lunch_signups %}* Sign up for [on-site lunches]({{site.lunch_signup_link}}).{% endif %}
 
 
 

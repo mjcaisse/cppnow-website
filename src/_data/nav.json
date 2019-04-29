@@ -9,7 +9,14 @@
     },
     {
         "title": "Schedule",
-        "link": "/schedule/"
+        "link": "/schedule/",
+        "children":
+        [
+            {
+                "title": "Lightning Talks",
+                "link": "/schedule/lightning.talks/"
+            }
+        ]
     },
     {
         "title": "About",
