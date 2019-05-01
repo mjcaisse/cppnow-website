@@ -7,7 +7,7 @@ section: schedule
 
 ![Jackie Kay][speaker]
 
-Lightning Talks are short (under five minutes) presentations that may be a little more light hearted that regular sessions.
+Lightning Talks are short (under five minutes) presentations that may be a little more light hearted than regular sessions.
 
 If you have an idea, a rant, or a project that you'd like share with other C++Now attendees, this is your opportunity.
 
@@ -20,7 +20,7 @@ When submissions are open, we'll update this page and send an announcement to al
 
   {% when 'is' %}
 
-We are currently accepting accepting Lightning Talk submissions for {{site.title}} {{site.current_year}}.
+We are currently accepting Lightning Talk submissions for {{site.title}} {{site.current_year}}.
 
 Please [make your submission here]({{site.lightning_talk_submission_URL}}).
 
