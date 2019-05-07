@@ -41,7 +41,10 @@ Think back to the conferences you've been to. If your experience is like ours, t
 * Tweet (#CppNow), blog, or otherwise let everyone know you are coming.
 * Make your travel arrangements. Sooner is better because that is when you'll have the best selections.
 * Make your [hotel arrangements](/location/lodging/). Sooner is better because the hotel will sell out.
-* Join the [CppLang Team on Slack](http://cpplang.diegostamigni.com/) and then the [#cppnow channel](https://cpplang.slack.com/messages/C59UQL3CL).
+* Join the [CppLang Team on Slack](https://cpplang.now.sh/) and then
+    * Join the [#cppnow-announcements channel](https://cpplang.slack.com/messages/cppnow-announcements) for                official conference announcements,
+    * Join the [#cppnow channel](https://cpplang.slack.com/messages/cppnow) for conference attendee chatting, and
+    * Join the [#cppnow-liaw channel](https://cpplang.slack.com/messages/cppnow-liaw) for working on Library in a Week.
 {% if site.doing_lunch_signups %}* Sign up for [on-site lunches]({{site.lunch_signup_link}}).{% endif %}
 
 
