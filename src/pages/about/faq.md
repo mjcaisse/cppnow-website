@@ -375,7 +375,7 @@ At a minimum, please plan to arrive the day before your session, and allow plent
 
 
 #### How do I submit my slides?
-Please send a PDF of your slides to the conference archivist at <speaker-files@cppnow.org>.
+Please send a PDF of your main progam slides to the conference archivist at <speaker-files@cppnow.org>. Please send a PDF of your lightning talk slides to <lightning@cppnow.org>.
 
 
 
