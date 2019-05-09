@@ -373,6 +373,12 @@ No, although part of the fun and benefits of a conference come from offline inte
 
 At a minimum, please plan to arrive the day before your session, and allow plenty of leeway for travel delays (and possible jet lag). Of course we hope you will come for the entire conference, and leave some time to enjoy the spectacular setting.
 
+
+#### How do I submit my slides?
+Please send a PDF of your slides to the conference archivist at <speaker-files@cppnow.org>.
+
+
+
 #### What else should I know?
 
 Please read [the Presenter Infomation page](/presenters/) and [contact the conference's Speaker Liaison](mailto:speakers@cppnow.org) with any questions.
