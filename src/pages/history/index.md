@@ -9,6 +9,8 @@ After each year's convention, C++Now archives the important content: session sch
 
 * **[C++Now 2019](/history/2019/)**
     * Keynotes:
+        * C++ Constants (Daveed Vandevorde)
+        * The C++ Reflection TS (David Sankel)
         * Compile Time Regular Expressions with Deterministic Finite Automaton (Hana Dusídová)
 * **[C++Now 2018](/history/2018/)**
     * Keynotes:
