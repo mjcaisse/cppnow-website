@@ -8,10 +8,14 @@
         "link": "/announcements/"
     },
     {
-        "title": "Schedule",
+        "title": "Content",
         "link": "/schedule/",
         "children":
         [
+            {
+                "title": "Main Program",
+                "link": "/schedule/"
+            },
             {
                 "title": "Lightning Talks",
                 "link": "/schedule/lightning.talks/"
