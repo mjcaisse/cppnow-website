@@ -46,7 +46,7 @@ Think back to the conferences you've been to. If your experience is like ours, t
     * Join the [#cppnow channel](https://cpplang.slack.com/messages/cppnow) for conference attendee chatting, and
     * Join the [#cppnow-liaw channel](https://cpplang.slack.com/messages/cppnow-liaw) for working on Library in a Week.
 {% if site.doing_lunch_signups %}* Sign up for [on-site lunches]({{site.lunch_signup_link}}).{% endif %}
-
+* Think about what you want to do your [Lightning Talk](/schedule/lightning.talks/) about.
 
 
 #### Why should I use Sched.com?
@@ -103,11 +103,16 @@ During the day, people usually go to lunch and dinner in groups. Don't be shy. I
 After the evening session, the Meadows bar always attracts a crowd.
 
 
+#### Can we hold impromptu meetings?
+
+Of course, this is why C++Now exists. If you want to join others for an impromptu discussion, lecture, work session, or debate, please do.
+
+When and if you do this, please feel free to use any of the meeting space at the _Aspen Center for Physics_. There are no other groups meeting at the Physics Center while we are here and there are plenty of offices and meeting spaces available. Please _do not_ use any of the meeting space at _The Aspen Institute_ (the home of Hudson Commons and Paepcke Auditorium). There may be other groups that have scheduled those rooms or they may be scheduled for use by the Institute staff.
+
+
 #### Food?
 
-_The History of every major Galactic Civilization tends to pass through three distinct and recognizable phases, those of Survival, Inquiry and Sophistication, otherwise known as the How, Why, and Where phases. For instance, the first phase is characterized by the question 'How can we eat?' the second by the question 'Why do we eat?' and the third by the question 'Where shall we have lunch?_ - Douglas Adams
-
-_Time is an illusion. Lunchtime doubly so._ - Douglas Adams
+_The History of every major Galactic Civilization tends to pass through three distinct and recognizable phases, those of Survival, Inquiry and Sophistication, otherwise known as the How, Why, and Where phases. For instance, the first phase is characterized by the question '**How can we eat?**' the second by the question '**Why do we eat?**' and the third by the question '**Where shall we have lunch?**_ - Douglas Adams
 
 We have high-carb breaks both morning and afternoon, but for meals you are on-your-own. The Meadows usually has a nice, if pricey, spread for breakfast and some attendees head back to the Meadows for lunch or dinner as they have a limited menu that is convenient. But most head downtown for meals. It is at bit of a walk, but enjoyable with a group.
 
@@ -117,10 +122,11 @@ Some years we have a food truck at lunch and we recommend a couple of places for
 This year we are doing [sign ups for on-site lunches]({{site.lunch_signup_link}}). If you think you'll be staying at the Physics Center over lunch (to work on Library in a Week or for a lunch meeting like the meeting to learn about the Program Committee), you'll want to sign up to have lunch delivered.
 {% endif %}
 
-When heading to town, don't go back to your room first, you'll not make it back in time to the after-meal sessions. Instead, drop your laptop bag at the Center for Physics Library in Bethe Hall where it will be locked up until you return (we'll even charge the battery for you, if you'd like).
+When heading to town, don't go back to your room first, you'll not make it back in time to the after-meal sessions. Instead, **drop your laptop bag at the Center for Physics Library in Bethe Hall** where it will be locked up until you return (we'll even charge the battery for you, if you'd like).
 
-One evening, we'll host a picnic at the Center for Physics. Feel free to have anyone traveling with you to join us.
+One evening, we'll host a picnic at the Center for Physics. Feel free to have anyone traveling with you join us.
 
+_Time is an illusion. Lunchtime doubly so._ - Douglas Adams
 
 
 #### What are Lightning Talks?

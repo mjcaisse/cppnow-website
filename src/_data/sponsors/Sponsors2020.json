@@ -11,16 +11,16 @@
                     "until": "2019-12-31"
                 },
                 {
-                    "title": "Commvault",
-                    "link": "http://www.commvault.com/",
-                    "image": "/assets/img/sponsors/commvault.png"
-                    "until": "2020-12-31"
-                },
-                {
                     "title": "The C++ Alliance",
                     "link": "http://cpp.al/",
                     "image": "/assets/img/sponsors/cpp.alliance.png",
                     "until": "2019-12-31"
+                },
+                {
+                    "title": "Commvault",
+                    "link": "http://www.commvault.com/",
+                    "image": "/assets/img/sponsors/commvault.png",
+                    "until": "2020-12-31"
                 }
             ]
         },

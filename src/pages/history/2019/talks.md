@@ -19,9 +19,10 @@ Please enjoy all available videos and slides from talks, keynotes, and tutorials
 
 {% for item in site.data.talks.Talks2019 %}
 <div class="panelBox">
+<a name="{{item.sched | remove_first: "https://cppnow2019.sched.com/event/" |uri_escape}}"></a>
     <h3>{{item.title | xml_escape}}</h3>
     <p>
-        by {{item.speakers | xml_escape}}
+        by {% if item.bio == '' %}{{item.speakers | xml_escape}}{% else %}<a href="{{item.bio | uri_escape}}">{{item.speakers | xml_escape}}</a>{% endif %}
         <br>
         given {{item.date | xml_escape}} at {{item.time | xml_escape}} in {{item.room | xml_escape}}
     </p>

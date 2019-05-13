@@ -1,6 +1,7 @@
 [
     {
         "speakers": "Jeremy Murphy",
+        "bio": "https://cppnow2019.sched.com/speaker/boostcon.2019.jeremy.william.murphy_gmail.com",
         "sched": "https://cppnow2019.sched.com/event/2178078bdc11df7755dc8b671d90e9ec",
         "room": "",
         "title": "A generic binary tree: why grow your own?",
@@ -11,6 +12,7 @@
     },
     {
         "speakers": "Conor Hoekstra",
+        "bio": "https://cppnow2019.sched.com/speaker/hoekstra101",
         "sched": "https://cppnow2019.sched.com/event/55fd2b92561f4a4ad78e2379569f840e",
         "room": "",
         "title": "Algorithm Intuition",
@@ -21,6 +23,7 @@
     },
     {
         "speakers": "Bob Steagall",
+        "bio": "https://cppnow2019.sched.com/artist/bob.steagall",
         "sched": "https://cppnow2019.sched.com/event/b5e3335a737f599bcd996ba18d998a54",
         "room": "",
         "title": "A Multithreaded, Transaction-Based Read/Write Locking Strategy for Containers",
@@ -31,6 +34,7 @@
     },
     {
         "speakers": "Matthew Fleming",
+        "bio": "https://cppnow2019.sched.com/speaker/mdf1",
         "sched": "https://cppnow2019.sched.com/event/9b9d2e9ccf9530183577d083ee48371f",
         "room": "",
         "title": "An Alternate Smart Pointer Hierarchy",
@@ -41,6 +45,7 @@
     },
     {
         "speakers": "Timur Doumler",
+        "bio": "https://cppnow2019.sched.com/speaker/cppcon.2018.easychair_timur.audio",
         "sched": "https://cppnow2019.sched.com/event/0b46a5fc3e6b0a4f7235b2c3b1ba4d64",
         "room": "",
         "title": "Audio in standard C++",
@@ -51,6 +56,7 @@
     },
     {
         "speakers": "Timur Doumler",
+        "bio": "https://cppnow2019.sched.com/speaker/cppcon.2018.easychair_timur.audio",
         "sched": "https://cppnow2019.sched.com/event/915f259411cd7ab60a5f55c3bab97cd4",
         "room": "",
         "title": "Better CTAD for C++20",
@@ -61,6 +67,7 @@
     },
     {
         "speakers": "Mateusz Pusz",
+        "bio": "https://cppnow2019.sched.com/speaker/mateusz.pusz",
         "sched": "https://cppnow2019.sched.com/event/24a29d2c97b420928437e2e5d10c3147",
         "room": "",
         "title": "Beyond C++17 (Part 2 of N)",
@@ -71,6 +78,7 @@
     },
     {
         "speakers": "Alisdair Meredith",
+        "bio": "https://cppnow2019.sched.com/speaker/boostcon.2019.alisdairm_me.com",
         "sched": "https://cppnow2019.sched.com/event/1b3791368ce90f990ea155619cc10030",
         "room": "",
         "title": "C++20 in Breadth (not depth!)",
@@ -81,6 +89,7 @@
     },
     {
         "speakers": "Daveed Vandevoorde",
+        "bio": "https://cppnow2019.sched.com/speaker/boostcon.2019.daveed_vandevoorde.com",
         "sched": "https://cppnow2019.sched.com/event/6c9770fc7527a4b32d72191db64ffd0f",
         "room": "",
         "title": "C++ Constants",
@@ -91,6 +100,7 @@
     },
     {
         "speakers": "Tara Raj",
+        "bio": "https://cppnow2019.sched.com/speaker/boostcon.2019.taraj_microsoft.com",
         "sched": "https://cppnow2019.sched.com/event/2da23aa05613b81363475d9073b08efc",
         "room": "",
         "title": "C++ Development with Visual Studio Code",
@@ -101,6 +111,7 @@
     },
     {
         "speakers": "David Sankel",
+        "bio": "https://cppnow2019.sched.com/speaker/david_sankel.1tk57jjh",
         "sched": "https://cppnow2019.sched.com/event/03e84e3b92b760cf53c28a8a8fa33bfd",
         "room": "",
         "title": "C++: Engineers Wanted, Programmers not so Much",
@@ -111,6 +122,7 @@
     },
     {
         "speakers": "Daniel Ruoso",
+        "bio": "https://cppnow2019.sched.com/speaker/daniel_ruoso.1ynfthzs",
         "sched": "https://cppnow2019.sched.com/event/1e8e521d573a1834738523c561e3fbef",
         "room": "",
         "title": "Clang Automated Refactoring for everyone with clangmetatool",
@@ -121,6 +133,7 @@
     },
     {
         "speakers": "Robin Kuzmin",
+        "bio": "https://cppnow2019.sched.com/artist/kuzmin.robin",
         "sched": "https://cppnow2019.sched.com/event/7399e61430106d56d3beef5117e3a869",
         "room": "",
         "title": "C++Now and CppCon, the View From Inside",
@@ -131,6 +144,7 @@
     },
     {
         "speakers": "Hana Dus\u00edkov\u00e1",
+        "bio": "https://cppnow2019.sched.com/speaker/hanicka.dot",
         "sched": "https://cppnow2019.sched.com/event/5e9b7f4847681b31c3e7d5dbd6ec42f5",
         "room": "",
         "title": "Compile Time Regular Expressions with Deterministic Finite Automaton",
@@ -141,6 +155,7 @@
     },
     {
         "speakers": "Kris Jusiak",
+        "bio": "https://cppnow2019.sched.com/speaker/boostcon.2016.kris_jusiak.net",
         "sched": "https://cppnow2019.sched.com/event/e8a463cd77146a6771ced1cb1c8b8ec3",
         "room": "",
         "title": "Dependency Injection - a 25-dollar term for a 5-cent concept",
@@ -151,6 +166,7 @@
     },
     {
         "speakers": "Michael Caisse",
+        "bio": "https://cppnow2019.sched.com/speaker/mjcaisse",
         "sched": "https://cppnow2019.sched.com/event/b254c25560d3d97e382fdbe58917800d",
         "room": "",
         "title": "Embedded Domain Specific Languages for Embedded Bare Metal Projects",
@@ -161,6 +177,7 @@
     },
     {
         "speakers": "Andreas Weis",
+        "bio": "https://cppnow2019.sched.com/speaker/cppcon.2017.der_ghulbus_ghulbus_inc.de",
         "sched": "https://cppnow2019.sched.com/event/690b722ce9d93f125160f0b4e797d8a6",
         "room": "",
         "title": "Exceptions Demystified",
@@ -171,6 +188,7 @@
     },
     {
         "speakers": "Ryan Dougherty",
+        "bio": "https://cppnow2019.sched.com/speaker/boostcon.2019.ryan.dougherty_asu.edu",
         "sched": "https://cppnow2019.sched.com/event/04263fa187f4930f751c2273cca0a30d",
         "room": "",
         "title": "Experiences in Teaching Modern C++ to Beginners",
@@ -181,6 +199,7 @@
     },
     {
         "speakers": "Odin Holmes",
+        "bio": "https://cppnow2019.sched.com/speaker/holmes.odin",
         "sched": "https://cppnow2019.sched.com/event/f28af1bfbddefacb577b8a1d00320ebd",
         "room": "",
         "title": "Hey C, This Is What Performance Looks like (Manually Generating Optimal Assembly at Compile Time)",
@@ -191,6 +210,7 @@
     },
     {
         "speakers": "Vittorio Romeo",
+        "bio": "https://cppnow2019.sched.com/speaker/vittorio_romeo",
         "sched": "https://cppnow2019.sched.com/event/ff5990d54d91ce7c8cb6a11ef6fcf2ff",
         "room": "",
         "title": "Higher-order functions and `function_ref`",
@@ -201,6 +221,7 @@
     },
     {
         "speakers": "Peter Sommerlad",
+        "bio": "https://cppnow2019.sched.com/speaker/boostcon.2019.hsr.peter_sommerlad.ch",
         "sched": "https://cppnow2019.sched.com/event/ebd8cb9d863839eac8d4dbe36f282e55",
         "room": "",
         "title": "How I learned to Stop Worrying and Love the C++ Type System",
@@ -211,6 +232,7 @@
     },
     {
         "speakers": "Ben Deane",
+        "bio": "https://cppnow2019.sched.com/speaker/ben_deane",
         "sched": "https://cppnow2019.sched.com/event/b60160aa659270370279c5acb6196fb6",
         "room": "",
         "title": "Identifying Monoids: Exploiting Compositional Structure in Code",
@@ -221,6 +243,7 @@
     },
     {
         "speakers": "Matthew Butler",
+        "bio": "https://cppnow2019.sched.com/artist/boostcon.2018.mbutler_laurellye.com",
         "sched": "https://cppnow2019.sched.com/event/8f1a33cf416a98cdca678c9692d7ef20",
         "room": "",
         "title": "If You Can't Open It, You Don't Own It",
@@ -231,6 +254,7 @@
     },
     {
         "speakers": "Mateusz Pusz",
+        "bio": "https://cppnow2019.sched.com/speaker/mateusz.pusz",
         "sched": "https://cppnow2019.sched.com/event/9f6c49613bd38e96ca40630a6335a572",
         "room": "",
         "title": "Implementing Physical Units Library for C++",
@@ -241,6 +265,7 @@
     },
     {
         "speakers": "Bob Steagall",
+        "bio": "https://cppnow2019.sched.com/artist/bob.steagall",
         "sched": "https://cppnow2019.sched.com/event/d01270d34e0ad978339a804f4e66510b",
         "room": "",
         "title": "Linear Algebra for the Standard C++ Library",
@@ -251,6 +276,7 @@
     },
     {
         "speakers": "Andr\u00e9 Bergner",
+        "bio": "https://cppnow2019.sched.com/speaker/andre_bergner",
         "sched": "https://cppnow2019.sched.com/event/06b63ee4ff2b61fe86ab36758cf10216",
         "room": "",
         "title": "Matchine: Pattern Matching for Open Sum Types",
@@ -261,6 +287,7 @@
     },
     {
         "speakers": "Jason Rice",
+        "bio": "https://cppnow2019.sched.com/speaker/boostcon.2017.ricejasonf_gmail.com",
         "sched": "https://cppnow2019.sched.com/event/bf3fce0dce3e6d8525d677169007d518",
         "room": "",
         "title": "Parametric Expressions: A Proposed Language Feature",
@@ -271,6 +298,7 @@
     },
     {
         "speakers": "Michael Park",
+        "bio": "https://cppnow2019.sched.com/mcypark",
         "sched": "https://cppnow2019.sched.com/event/d028983b763248ea18c9ff0224c34321",
         "room": "",
         "title": "Pattern Matching: Match Me If You Can",
@@ -281,6 +309,7 @@
     },
     {
         "speakers": "Ga\u0161per A\u017eman",
+        "bio": "https://cppnow2019.sched.com/speaker/gasper.azman",
         "sched": "https://cppnow2019.sched.com/event/c243b8f054767d76130c9d5cccdf58ba",
         "room": "",
         "title": "Points of Order",
@@ -291,6 +320,7 @@
     },
     {
         "speakers": "Lisa Lippincott",
+        "bio": "https://cppnow2019.sched.com/speaker/lisa_lippincott",
         "sched": "https://cppnow2019.sched.com/event/a6e56a636a3b274d52b638a62eae9db4",
         "room": "",
         "title": "Practical Interfaces for Practical Functions",
@@ -301,6 +331,7 @@
     },
     {
         "speakers": "Charley Bay",
+        "bio": "https://cppnow2019.sched.com/speaker/bay_charles",
         "sched": "https://cppnow2019.sched.com/event/09a9d1cca2525cf334e2502a0a088109",
         "room": "",
         "title": "Property-Based Declarative Containers",
@@ -311,6 +342,7 @@
     },
     {
         "speakers": "Kris Jusiak",
+        "bio": "https://cppnow2019.sched.com/speaker/boostcon.2016.kris_jusiak.net",
         "sched": "https://cppnow2019.sched.com/event/dc56426d447df5a35e76044b908e534f",
         "room": "",
         "title": "Rise of the State Machines",
@@ -321,6 +353,7 @@
     },
     {
         "speakers": "Peter Sommerlad",
+        "bio": "https://cppnow2019.sched.com/speaker/boostcon.2019.hsr.peter_sommerlad.ch",
         "sched": "https://cppnow2019.sched.com/event/66b7b48212d36469de589d26a9fb6805",
         "room": "",
         "title": "Sane Modern Special Member Functions",
@@ -331,6 +364,7 @@
     },
     {
         "speakers": "Odin Holmes",
+        "bio": "https://cppnow2019.sched.com/speaker/holmes.odin",
         "sched": "https://cppnow2019.sched.com/event/5dcee668d25dfb23056a34def03dca46",
         "room": "",
         "title": "Tacit DSL All the Things",
@@ -341,6 +375,7 @@
     },
     {
         "speakers": "Paul Fultz II",
+        "bio": "https://cppnow2019.sched.com/speaker/pfultz2",
         "sched": "https://cppnow2019.sched.com/event/59a3eb4eda2337bfddb69bdd8a7cd56f",
         "room": "",
         "title": "Taking the Plunge Towards CMake in Boost",
@@ -351,6 +386,7 @@
     },
     {
         "speakers": "Attila Feh\u00e9r",
+        "bio": "https://cppnow2019.sched.com/speaker/afeher3",
         "sched": "https://cppnow2019.sched.com/event/915ac17bc40b8f2fa637a9c27af4419d",
         "room": "",
         "title": "test_resource: the pmr detective",
@@ -361,6 +397,7 @@
     },
     {
         "speakers": "Arvid Norberg",
+        "bio": "https://cppnow2019.sched.com/speaker/arvid.norberg",
         "sched": "https://cppnow2019.sched.com/event/b6815e8e524148f581b6d681debd937e",
         "room": "",
         "title": "The ABI challenge",
@@ -371,6 +408,7 @@
     },
     {
         "speakers": "Jeff Garland",
+        "bio": "https://cppnow2019.sched.com/speaker/jeff_garland_2016",
         "sched": "https://cppnow2019.sched.com/event/b6345a1f2f7e09285c6ac890d5caa669",
         "room": "",
         "title": "The C++20 Standard Library - Beyond Ranges",
@@ -381,6 +419,7 @@
     },
     {
         "speakers": "David Sankel",
+        "bio": "https://cppnow2019.sched.com/speaker/david_sankel.1tk57jjh",
         "sched": "https://cppnow2019.sched.com/event/7d1a09ae21b9dd32ea60da1772bdbe51",
         "room": "",
         "title": "The C++ Reflection TS",
@@ -391,6 +430,7 @@
     },
     {
         "speakers": "Jason McGuiness",
+        "bio": "https://cppnow2019.sched.com/speaker/jmmcg",
         "sched": "https://cppnow2019.sched.com/event/9c4afe564814e522415df1b06ae047ad",
         "room": "",
         "title": "The Impact of Compilers, O/Ses and Mitigations for Spectre & Meltdown upon a Low-Latency Trading System.",
@@ -401,6 +441,7 @@
     },
     {
         "speakers": "Nevin \":-)\" Liber",
+        "bio": "https://cppnow2019.sched.com/speaker/boostcon.2019.nevin_cplusplusguy.com",
         "sched": "https://cppnow2019.sched.com/event/e8bb44106c83f17f63ccc97bb1f6cea6",
         "room": "",
         "title": "The Many Variants of std::variant",
@@ -411,6 +452,7 @@
     },
     {
         "speakers": "David Hollman",
+        "bio": "https://cppnow2019.sched.com/speaker/dshollm",
         "sched": "https://cppnow2019.sched.com/event/e697814270d386a62f3b44203eed2611",
         "room": "",
         "title": "The Ongoing Saga of ISO-C++ Executors",
@@ -421,6 +463,7 @@
     },
     {
         "speakers": "JeanHeyd Meneide",
+        "bio": "https://cppnow2019.sched.com/artist/boostcon.2018.jm3689_columbia.edu",
         "sched": "https://cppnow2019.sched.com/event/693b37a35909bfa15959dc3f9bfa1697",
         "room": "",
         "title": "The Plan for Tomorrow: Extension Points in C++ Applications",
@@ -431,6 +474,7 @@
     },
     {
         "speakers": "Rich\u00e1rd Szalay",
+        "bio": "https://cppnow2019.sched.com/speaker/boostcon.2019.szalayrichard_inf.elte.hu",
         "sched": "https://cppnow2019.sched.com/event/b4754f569d11686e22a6062752b07960",
         "room": "",
         "title": "The  Rough Road Towards Upgrading to C++ Modules",
@@ -441,6 +485,7 @@
     },
     {
         "speakers": "Lisa Lippincott",
+        "bio": "https://cppnow2019.sched.com/speaker/lisa_lippincott",
         "sched": "https://cppnow2019.sched.com/event/b1e5d83ce71cbaf75c25b7045b30a0dd",
         "room": "",
         "title": "The Truth of a Procedure",
@@ -451,6 +496,7 @@
     },
     {
         "speakers": "Marshall Clow",
+        "bio": "https://cppnow2019.sched.com/speaker/mclow",
         "sched": "https://cppnow2019.sched.com/event/b90bcb2bdccc0b6f4b586c523566cdd5",
         "room": "",
         "title": "The View from a C++ Standard Library Implementor",
@@ -461,6 +507,7 @@
     },
     {
         "speakers": "Matthew Butler",
+        "bio": "https://cppnow2019.sched.com/artist/boostcon.2018.mbutler_laurellye.com",
         "sched": "https://cppnow2019.sched.com/event/d536454a7cf716ddd7c4e471f12bc5cb",
         "room": "",
         "title": "Threat Hunting",
@@ -471,6 +518,7 @@
     },
     {
         "speakers": "Arthur O'Dwyer",
+        "bio": "https://cppnow2019.sched.com/speaker/arthur_odwyer",
         "sched": "https://cppnow2019.sched.com/event/fe588feda2211383921a0a231df6e9bb",
         "room": "",
         "title": "Trivially Relocatable",
@@ -481,6 +529,7 @@
     },
     {
         "speakers": "Jeff Garland",
+        "bio": "https://cppnow2019.sched.com/speaker/jeff_garland_2016",
         "sched": "https://cppnow2019.sched.com/event/853db875ef0050934fc1ce500a752ff7",
         "room": "",
         "title": "Using C++20 Ranges Effectively",
@@ -491,6 +540,7 @@
     },
     {
         "speakers": "John Lakos",
+        "bio": "https://cppnow2019.sched.com/speaker/john_lakos.1rzy8qns",
         "sched": "https://cppnow2019.sched.com/event/62984f35343bfe748f75e41df55a6368",
         "room": "",
         "title": "Value Proposition: Allocator-Aware (AA) Software",

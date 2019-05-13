@@ -9,7 +9,7 @@
     },
     {
         "title": "Content",
-        "link": "/schedule/",
+        "link": "/schedule/content/",
         "children":
         [
             {
