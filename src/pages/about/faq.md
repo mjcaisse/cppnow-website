@@ -94,6 +94,22 @@ Tours are organized to take first-timers around the conference campus so you'll 
 
 Why does this take two hours? Because the real purpose of registration is to get acquainted or re-acquainted with other attendees. You'll be meeting old friends and friends that you don't know yet. Other attendees are the real reason to attend C++Now, so get started early. (Don't wait until registration starts to show up for registration.)
 
+#### <a name="CatchBox"></a>What's a CatchBox and how is it used?
+<img src="/assets/img/FAQ/CatchBox.png/" alt="CatchBox"
+	title="CatchBox" width="200" style="float: left; margin: 20px 20px 20px 20px;"/>
+A CatchBox is a throwable microphone.
+
+We use them at C++Now to record audience comments and questions (and, when the discussions get really intense, to indicate who has "the floor"). The breakout session rooms are small enough that microphones are not necessary to hear the discussion for the audience in the room, but we want to capture the comments and questions for the benefit of the online audience.
+
+Since a CatchBox is essentially a pillow with a microphone in it, they are safe and easy to use, but a few guidelines make them more effective.
+
+1. **Throw underhanded, gently, and across short distances.** Walk or relay as needed.
+2. No really, **_only throw underhanded, gently, and across short distances_**_.
+3. Always have eye contact with the person you're throwing towards. Wait for their hands to be up and ready to catch.
+4. **Never** throw if they shake their head or wave off. Throw to a neighbor or pass it.
+5. Don't throw next to, above, or around a laptop. This isn't the time to showcase your (undoubtedly superb) precision throwing skillz.
+6. Throw back to the speaker or a volunteer at the front when you're done speaking.
+7. When throwing to a seated attendee, always toss from in front of them. Don't throw sideways or from behind them as they may not be able to turn and catch.
 
 
 #### Where do people socialize?
@@ -145,7 +161,7 @@ Then we've done our job. If there is only one talk you want to see in any timesl
 
 The best way to give speaker feedback at a conference as intimate as C++Now is talk with speakers about their presentation. This is a favorite subject of speakers and is likely to make more of an impression than anything else you can do.
 
-You can also vote for your favorite sessions. There are Best Session and Best Lightning Talk ballots that will be handed out and collected toward the end of the conference.
+We've started to use an online feedback system. Since this system is still evolving, updated information will be given at the conference welcome.
 
 You can also give feedback using the feedback system on Sched.org. This may be an easier way to give negative feedback. Negative feedback is valuable, as long as it is constructive.
 
