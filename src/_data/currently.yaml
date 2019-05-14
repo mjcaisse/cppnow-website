@@ -1,16 +1,16 @@
 [
-    {
-        "title": "Registration is open",
-        "link": "/announcements/2019/01/2019-registration-is-open/"
-    },
-    {
-        "title": "Taking reservations",
-        "link": "/location/lodging/"
-    },
-    {
-        "title": "Lightning Talks open",
-        "link": "/schedule/lightning.talks/"
-    },
+#    {
+#        "title": "Registration is open",
+#        "link": "/announcements/2019/01/2019-registration-is-open/"
+#    },
+#    {
+#        "title": "Taking reservations",
+#        "link": "/location/lodging/"
+#    },
+#    {
+#        "title": "Lightning Talks open",
+#        "link": "/schedule/lightning.talks/"
+#    },
     {
         "title": "Schedule is up",
         "link": "/schedule/"

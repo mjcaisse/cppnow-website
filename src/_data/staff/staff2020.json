@@ -1,0 +1,79 @@
+[
+    {
+        "title": "Chair",
+        "name": "Jon Kalb",
+        "email": "jon@cppnow.org"
+    },
+    {
+        "title": "Program Chair",
+        "name": "Bryce Adelstein Lelbach",
+        "email": "program@cppnow.org"
+    },
+    {
+        "title": "Registrar",
+        "name": "Yuval Hager",
+        "email": "registrar@cppnow.org"
+    },
+    {
+        "title": "Speaker Liaison",
+        "name": "Robin Kuzmin",
+        "email": "speakers@cppnow.org"
+    },
+    {
+        "title": "Student / Volunteer Chair",
+        "name": "Bryce Adelstein Lelbach",
+        "email": "student-volunteers@cppnow.org"
+    },
+    {
+        "title": "Facilities Co-Chairs",
+        "cochairs": true,
+        "comembers":
+            [
+                {
+                    "name": "Bob Steagall",
+                    "email": "ground-team@cppnow.org"
+                },
+                {
+                    "name": "Dave Jenkins",
+                    "email": "ground-team@cppnow.org"
+                }
+            ],
+
+        "name": "Dave Jenkins",
+        "email": "ground-team@cppnow.org"
+    },
+    {
+        "title": "Security Co-Chairs",
+        "cochairs": true,
+        "comembers":
+            [
+                {
+                    "name": "Bob Steagall",
+                    "email": "security@cppnow.org"
+                },
+                {
+                    "name": "Dave Jenkins",
+                    "email": "security@cppnow.org"
+                }
+            ],
+
+        "name": "Dave Jenkins",
+        "email": "security@cppnow.org"
+    },
+    {
+        "title": "Graphic Design",
+        "name": "Zoltan Juhasz"
+    },
+    {
+        "title": "Archivist",
+        "name": "JeanHyde Meneide"
+    },
+    {
+        "title": "Promotion",
+        "name": "Jonthan Müller"
+    },
+    {
+        "title": "Balloting",
+        "name": "Peter Bindels"
+    },
+]

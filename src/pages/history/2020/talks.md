@@ -1,28 +1,27 @@
 ---
 layout: page
-title: 2019 Talks
-permalink: /history/2019/talks/
+title: 20120 Talks
+permalink: /history/2020/talks/
 section: history
 ---
 
-Please enjoy all available videos and slides from talks, keynotes, and tutorials given at C++Now 2019, which took place in Aspen Colorado from May 5th to May 10th, 2019.
+Please enjoy all available videos and slides from talks, keynotes, and tutorials given at C++Now 2020, which took place in Aspen Colorado from May 3rd to May 8th, 2020.
 
 <!--
-* [Playlist of 2019 Session Talks](https://www.youtube.com/watch?v=QFIOE1jKv30&list=PL_AKIMJc4roVSbTTfHReQTl1dc9ms0lWH)
-* [Playlist of 2019 Lightning Talks](https://www.youtube.com/watch?v=6uon_MtpcwE&list=PL_AKIMJc4roWtkG_Qiw6uwNWcjjG5WLHE)
-* [Slides](https://github.com/boostcon/cppnow_presentations_2019)
+* [Playlist of 2020 Session Talks](https://www.youtube.com/watch?v=QFIOE1jKv30&list=PL_AKIMJc4roVSbTTfHReQTl1dc9ms0lWH)
+* [Playlist of 2020 Lightning Talks](https://www.youtube.com/watch?v=6uon_MtpcwE&list=PL_AKIMJc4roWtkG_Qiw6uwNWcjjG5WLHE)
+* [Slides](https://github.com/boostcon/cppnow_presentations_2020)
 -->
 
-* Playlist of 2019 Session Talks (not yet available)
-* Playlist of 2019 Lightning Talks (not yet available)
+* Playlist of 2020 Session Talks (not yet available)
+* Playlist of 2020 Lightning Talks (not yet available)
 * Slides (not yet available)
 
-{% for item in site.data.talks.Talks2019 %}
+{% for item in site.data.talks.Talks2020 %}
 <div class="panelBox">
-<a name="{{item.sched | remove_first: "https://cppnow2019.sched.com/event/" |uri_escape}}"></a>
     <h3>{{item.title | xml_escape}}</h3>
     <p>
-        by {% if item.bio == '' %}{{item.speakers | xml_escape}}{% else %}<a href="{{item.bio | uri_escape}}">{{item.speakers | xml_escape}}</a>{% endif %}
+        by {{item.speakers | xml_escape}}
         <br>
         given {{item.date | xml_escape}} at {{item.time | xml_escape}} in {{item.room | xml_escape}}
     </p>

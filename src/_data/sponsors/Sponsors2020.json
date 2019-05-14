@@ -1,0 +1,103 @@
+{
+    "corporate": [
+        {
+            "title": "Gold Sponsors",
+            "sponsors":
+            [
+                {
+                    "title": "Bloomberg",
+                    "link": "http://techatbloomberg.com/",
+                    "image": "/assets/img/sponsors/bloomberg.png",
+                    "until": "2019-12-31"
+                },
+                {
+                    "title": "The C++ Alliance",
+                    "link": "http://cpp.al/",
+                    "image": "/assets/img/sponsors/cpp.alliance.png",
+                    "until": "2019-12-31"
+                },
+                {
+                    "title": "Commvault",
+                    "link": "http://www.commvault.com/",
+                    "image": "/assets/img/sponsors/commvault.png",
+                    "until": "2020-12-31"
+                }
+            ]
+        },
+        {
+            "title": "Silver Sponsors",
+            "sponsors":
+            [
+            ]
+        },
+        {
+            "title": "Bronze Sponsors",
+            "sponsors":
+            [
+                {
+                    "title": "Ciere Consulting",
+                    "link": "http://ciere.com",
+                    "image": "/assets/img/sponsors/ciere.png",
+                    "until": "2020-12-31"
+                },
+            ]
+        },
+        {
+            "title": "Video Sponsorship",
+            "sponsors":
+            [
+                {
+                    "title": "JetBrains",
+                    "link": "http://www.jetbrains.com/",
+                    "image": "/assets/img/sponsors/jetbrains.png",
+                    "until": "2019-12-31"
+                }
+            ]
+        }
+    ],
+    "individual": [
+        {
+            "title": "Boost Scholarship Sponsors: Gold Level",
+            "sponsors":
+            [
+                {
+                    "name": "Agustín Bergé", 
+                    "anonymous": true,
+                    "info": "Agustín Bergé <kaballo86@hotmail.com>",
+                    "shirt": "men's medium",
+                    "until": "2020-04-01"
+                },
+                {
+                    "name": "Jeff Trull",
+                    "info": "Jeffrey Trull <jetrull@sbcglobal.net>",
+                    "shirt": "men's medium",
+                    "until": "2020-02-08"
+                },                
+                {
+                    "name": "Jon and Kathleen Kalb",
+                    "info": "Jon Kalb <jonkalb@boost.org>",
+                    "shirt": "men's large",
+                    "until": "2020-04-07"
+                },
+            ]
+        },
+        {
+            "title": "Boost Scholarship Sponsors: Silver Level",
+            "sponsors":
+            [
+            ]
+        },
+        {
+            "title": "Boost Scholarship Sponsors: Bronze Level",
+            "sponsors":
+            [
+                {
+                    "name": "Peter Sommerlad",
+                    "info": "Peter Sommerlad <peter.cpp@sommerlad.ch>",
+                    "shirt": "men's large",
+                    "until": "2020-04-17"
+                },
+            ]
+        }
+    ]
+}

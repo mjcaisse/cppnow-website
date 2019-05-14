@@ -8,7 +8,7 @@ redirect_from:
     - /room_share/
 ---
 
-<p class="highlight" markdown="1">The Aspen Meadows Resort has sold out for C++Now 2019.</p>
+<!-- <p class="highlight" markdown="1">The Aspen Meadows Resort has sold out for C++Now 2019.</p>
 
 ![Limelight Hotel - Aspen](/assets/img/location/Limelight/Limelight.jpeg "Limelight Hotel - Aspen"){:style="float: right;margin-right: 7px;margin-top: 7px; width: 240px"}
 
@@ -16,11 +16,10 @@ Our overflow property will be the beautiful [Limelight Hotel - Aspen](https://ww
 
 We are working on a special C++Now attendee rate for the overflow property but wanted to give you details about the hotel. Until we have a contract in place, we don't have registration information available.
 
-<!--
 ![Karen Krueger](/assets/img/staff/karen-closeup.jpeg "Karen Krueger"){:style="float: left;margin-right: 7px;margin-top: 7px; width: 160px"}
 
 For now, please contact [Karen Krueger with Krueger Event Management](mailto:Karen@KruegerEvents.com) and provide your contact information along with your arrival and departure dates.  She will send your confirmation number to you as soon as it is available.  You can email [Karen@KruegerEvents.com](mailto:Karen@KruegerEvents.com) and she will work directly with you.
--->
+
 
 <p class="highlight" markdown="1">To reserve your room use [the C++Now 2019 Limelight booking link](https://gc.synxis.com/rez.aspx?Hotel=56474&Chain=10237&template=rASELL&shell=rASELL&arrive=5/5/2019&depart=5/10/2019&adult=1&child=0&promo=CPLUSPLUSNOW).
 
@@ -45,12 +44,13 @@ Overnight parking is self-park, underground garage is $18, which is accessible a
 Our overflow block size will be limited, so do not delay:
 
 <p style="text-align: center; font-size: 40px;"><a href="mailto:Karen@KruegerEvents.com">Reserve Now</a></p>
+-->
 
-
+<!-- 
 ---
 <p class="highlight" markdown="1">The Aspen Meadows Resort has sold out for C++Now 2019.</p>
 ---
-
+ -->
 ## Aspen Meadows Resort
 
 The conference hotel is the [Aspen Meadows Resort](https://www.aspenmeadows.com/). This Bauhaus-inspired resort lies on 40 acres overlooking the Roaring Fork River. Surrounded by bike paths, walking trails, and mountain views, the resort is home to the [Aspen Institute](https://www.aspeninstitute.org/), an international nonprofit organization dedicated to fostering dialogue on global concerns. Hotel amenities include a health club that offers a range of workout equipment, a half-court gym, steam rooms, and an outdoor pool and spa tub. Complimentary wireless internet access is provided throughout the resort. A business center provides complimentary services such as computer use, scanning, copying, and printing.
@@ -61,7 +61,13 @@ The [Aspen Meadows Resort](https://www.aspenmeadows.com/) is approximately a blo
 
 ### Reservations
 
-{% comment %} 
+
+{% case site.hotel_registration %}
+  {% when 'will' %}
+
+The hotel's online registration sytem is not yet set up for C++Now {{site.current_year}}
+
+  {% when 'is' %}
 
 Although C++Now has reserved a large block of rooms at the [Aspen Meadows Resort](https://www.aspenmeadows.com/), registrations are expected to exceed capacity. Please make reservations as soon as possible to avoid the need to find other accommodations.
 
@@ -72,20 +78,15 @@ Although C++Now has reserved a large block of rooms at the [Aspen Meadows Resort
 
 A resort fee ($20 per night) and tax (11.3%) will be added to each night's reservation.
 
-{% if site.hotel_registration == "is" %}
 
-<p class="highlight" markdown="1">Use the [online registration system]({{site.online_link_for_Meadows_reservation}}) for this event, or call [1 (800) 452-4240](tel:1-800-452-4240), to schedule your room. Remember, registration begins {{site.registration_day_of_week}} afternoon, and the conference proper begins on {{site.first_session_day_of_week}} morning.</p>
+  {% when 'was' %}
 
-<p style="text-align: center; font-size: 40px;"><a href="{{site.online_link_for_Meadows_reservation}}">Reserve Now</a></p>
+---
+<p class="highlight" markdown="1">The Aspen Meadows Resort has sold out for C++Now 2019.</p>
+---
 
+{% endcase %}
 
-{% else %}
-The hotel's online registration sytem is not yet set up for C++Now {{site.current_year}}
-{% endif %}
-
-{% endcomment %}
-
-<p class="highlight" style="text-align: center; font-size: 40px;">Sold Out</p>
 
 
 #### Details

@@ -38,7 +38,7 @@ The C++Now community has grown out the Boost community and is focused on pushing
 {% if site.schedule_online %}
 The [session schedule for C++Now {{site.current_year}}](/schedule/) is up!
 {% else %}
-The session schedule for C++Now {{site.current_year}} is not yet confirmed. Keep an eye on the [announcements page](/announcements/) for updated information. To get an idea of what to expect, check out [C++Now 2018 Schedule](/history/2018/schedule/).
+The session schedule for C++Now {{site.current_year}} is not yet confirmed. Keep an eye on the [announcements page](/announcements/) for updated information. To get an idea of what to expect, check out the {{ site.previous_years_schedule }}.
 {% endif %}
 
 {% if site.show_tag_cloud %}
@@ -186,9 +186,9 @@ There are several opportunities to sponsor C++Now, both as a [Corporate Sponsor]
 {
   "@context": "https://schema.org",
   "@type": "Event",
-  "name": "C++Now 2019",
-  "startDate": "2019-05-05T16:00",
-  "endDate": "2019-05-10T17:00",
+  "name": "C++Now 2020",
+  "startDate": "2020-05-03T16:00",
+  "endDate": "2020-05-08T17:00",
   "location": {
     "@type": "Place",
     "name": "Aspen Center for Physics",
@@ -211,7 +211,7 @@ There are several opportunities to sponsor C++Now, both as a [Corporate Sponsor]
     "price": "799",
     "priceCurrency": "USD",
     "availability": "http://schema.org/InStock",
-    "validFrom": "2019-01-11T16:00",
+    "validFrom": "2019-05-13T16:00",
     "offeredBy": {
         "@type": "Organization",
         "name": "Boost Libraries",
@@ -265,6 +265,10 @@ There are several opportunities to sponsor C++Now, both as a [Corporate Sponsor]
         "@type": "Organization",
         "name": "C++ Alliance",
         "url": "http://cpp.al/"},
+    {
+        "@type": "Organization",
+        "name": "Commvault",
+        "url": "http://www.commvault.com/"},
     {
         "@type": "Organization",
         "name": "Ciere Consulting",

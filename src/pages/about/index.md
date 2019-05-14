@@ -35,6 +35,11 @@ Here is what C++Now is about, in the words of its attendees…
 
 <blockquote class="quoteBox">
     <span class="quoteBoxImage quoteBoxAirplane"></span>
+    <a href="https://maddphysics.com/2019/05/13/cnow-2019-trip-report/" class="quoteBoxMainLink">Trip Report by Matthew Butler (2019)</a>
+</blockquote>
+
+<blockquote class="quoteBox">
+    <span class="quoteBoxImage quoteBoxAirplane"></span>
     <a href="https://maddphysics.com/2018/05/16/cnow-2018-trip-report/" class="quoteBoxMainLink">Trip Report by Matthew Butler (2018)</a>
 </blockquote>
 
