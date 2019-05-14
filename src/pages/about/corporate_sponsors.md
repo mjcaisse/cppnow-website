@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_sponsorless
 title: Corporate Sponsors
 permalink: /about/corporate_sponsors/
 section: about
@@ -13,7 +13,7 @@ Email [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org) for a copy of the 
 {% assign filename = 'Sponsors' | append: site.current_year %}
 {% assign DATA = site.data.sponsors[filename] %}
 
-{% include corporateSponsorListing.md %}
+{% include corporateSponsorListing.blurb.md %}
 
 
 ### Brought To You By
