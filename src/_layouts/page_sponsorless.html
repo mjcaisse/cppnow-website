@@ -1,0 +1,21 @@
+{% include topMatter.html %}
+
+{% include topBanner.html %}
+
+{% include pageHeader.html %}
+
+<div class="midpageBox">
+
+    {% include nav.html %}
+
+    <div class="contentBox">
+        <h2 class="pageTitle">{{ page.title }}</h2>
+        <div class="formattedTags">
+            {{ content }}
+        </div>
+    </div>
+
+    {% include sidebar.sponsorless.html %}
+</div>
+
+<script src="/assets/js/QuoteShuffler.js"></script>

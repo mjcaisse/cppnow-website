@@ -1,0 +1,6 @@
+<div class="sBox">
+    {% assign filename = 'Sponsors' | append: site.current_year %}
+    {% assign DATA = site.data.sponsors[filename] %}
+
+    {% include corporateSponsorListing.blurb.md %}
+</div>

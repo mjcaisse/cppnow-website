@@ -8,18 +8,21 @@
                     "title": "Bloomberg",
                     "link": "http://techatbloomberg.com/",
                     "image": "/assets/img/sponsors/bloomberg.png",
+                    "blurb": "",
                     "until": "2019-12-31"
                 },
                 {
                     "title": "The C++ Alliance",
                     "link": "http://cpp.al/",
                     "image": "/assets/img/sponsors/cpp.alliance.png",
+                    "blurb": "",
                     "until": "2019-12-31"
                 },
                 {
                     "title": "Commvault",
                     "link": "http://www.commvault.com/",
                     "image": "/assets/img/sponsors/commvault.png",
+                    "blurb": "",
                     "until": "2020-12-31"
                 }
             ]
@@ -38,6 +41,7 @@
                     "title": "Ciere Consulting",
                     "link": "http://ciere.com",
                     "image": "/assets/img/sponsors/ciere.png",
+                    "blurb": "",
                     "until": "2020-12-31"
                 },
             ]
@@ -50,6 +54,7 @@
                     "title": "JetBrains",
                     "link": "http://www.jetbrains.com/",
                     "image": "/assets/img/sponsors/jetbrains.png",
+                    "blurb": "",
                     "until": "2019-12-31"
                 }
             ]

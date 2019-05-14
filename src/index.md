@@ -11,7 +11,7 @@ section: home
 </div>
 {% endif %}
 
-The C++Now community has grown out the Boost community and is focused on pushing C++ to its limits. We are helping to define what C++ will look like tomorrow, but are also curious about what we can do with C++ <i>now</i>!
+The C++Now community has grown out of the Boost community and is focused on pushing C++ to its limits. We are helping to define what C++ will look like tomorrow, but are also curious about what we can do with C++ <i>now</i>!
 
 
 
