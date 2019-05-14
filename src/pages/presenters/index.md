@@ -43,7 +43,7 @@ Interactive and collaborative sessions are encouraged, as this is the style of l
 
 - Other formats may also be of interest. Don’t hold back a proposal just because it doesn’t fit into a pigeonhole.
 
-Before you submit your talk, please have a look at our [Submitter FAQ](/about/faq/#submitter-faq) and our [Speaker FAQ](/about/faq/#speaker-faq).
+Before you submit your talk, please have a look at our [Submitter FAQ](/about/faq/#submitter-faq) and our [Speaker FAQ](/about/faq/#speaker-faq). Before you give your talk, please read our [Attendee FAQ](/about/faq/#attendee-faq), particularly, [the question about the CatchBox](/about/faq/#CatchBox).
 
 For more information about regular program submissions, contact the Program Chair: [program@cppnow.org](mailto:program@cppnow.org)
 
