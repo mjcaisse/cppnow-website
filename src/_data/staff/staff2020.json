@@ -5,6 +5,11 @@
         "email": "jon@cppnow.org"
     },
     {
+        "title": "Conference Manager",
+        "name": "Bob Steagall",
+        "email": "bob@cppnow.org"
+    },
+    {
         "title": "Program Chair",
         "name": "Bryce Adelstein Lelbach",
         "email": "program@cppnow.org"
@@ -73,7 +78,7 @@
         "name": "Jonthan Müller"
     },
     {
-        "title": "Balloting",
+        "title": "Speaker Feedback / Best Session Balloting",
         "name": "Peter Bindels"
     },
 ]
