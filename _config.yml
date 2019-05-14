@@ -147,7 +147,7 @@ tag_cloud_image_width: "577"
 ## a call to action.
 
 ## Box 0
-B0_show: true
+B0_show: false
 B0_title: "Venue"
 B0_link: "/location/venue/"
 B0_photo: "/assets/img/home/venue.jpg"
@@ -156,7 +156,7 @@ B0_description: "<p>The venue for C++Now is the <a href=\"https://www.aspenphys.
 B0_call: "Learn More"
 
 ## Box 1
-B1_show: true
+B1_show: false
 B1_title: "Hotel"
 B1_link: "/location/lodging/"
 B1_photo: "/assets/img/home/AspenMeadowsResort.jpg"
@@ -165,7 +165,7 @@ B1_description: "<p>The conference hotel is the <a href=\"https://www.aspenmeado
 B1_call: "Learn More"
 
 ## Box 2
-B2_show: false
+B2_show: true
 B2_title: "Become a Presenter"
 B2_link: "/presenters/"
 B2_photo: "/assets/img/home/jackie.jpg"
@@ -175,7 +175,7 @@ B2_call: "Presenter Information"
 
 
 ## Box 3
-B3_show: false
+B3_show: true
 B3_title: "Become a Volunteer"
 B3_link: "/about/volunteer_program/"
 B3_photo: "/assets/img/home/volunteers.jpg"
@@ -184,7 +184,7 @@ B3_description: "<p>A small group of promising young C++ programmers is selected
 B3_call: "Apply Today"
 
 ## Box 4
-B4_show: false
+B4_show: true
 B4_title: "Venue"
 B4_link: "/location/venue/"
 B4_photo: "/assets/img/home/venue.jpg"
@@ -193,7 +193,7 @@ B4_description: "<p>The venue for C++Now is the <a href=\"https://www.aspenphys.
 B1_call: "Learn More"
 
 ## Box 5
-B5_show: false
+B5_show: true
 B5_title: "Hotel"
 B5_link: "/location/lodging/"
 B5_photo: "/assets/img/home/AspenMeadowsResort.jpg"
