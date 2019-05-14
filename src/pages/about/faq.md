@@ -104,7 +104,7 @@ We use them at C++Now to record audience comments and questions (and, when the d
 Since a CatchBox is essentially a pillow with a microphone in it, they are safe and easy to use, but a few guidelines make them more effective.
 
 1. **Throw underhanded, gently, and across short distances.** Walk or relay as needed.
-2. No really, **_only throw underhanded, gently, and across short distances_**_.
+2. No really, **_only throw underhanded, gently, and across short distances_**.
 3. Always have eye contact with the person you're throwing towards. Wait for their hands to be up and ready to catch.
 4. **Never** throw if they shake their head or wave off. Throw to a neighbor or pass it.
 5. Don't throw next to, above, or around a laptop. This isn't the time to showcase your (undoubtedly superb) precision throwing skillz.
