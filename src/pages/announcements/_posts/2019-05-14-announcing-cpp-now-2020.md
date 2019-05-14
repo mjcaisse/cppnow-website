@@ -23,13 +23,13 @@ This post will announce the "Best Session" ballot winners, share some trip repor
 
 Announcing the results of the **Best Session** balloting by C++Now 2019 attendees.
 
-In 2017, Tony van Eerd did so well in the Best Session balloting that the joke was that we'd have to start calling it the _Tony Awards_. But even Tony's memorable showing was bested this year by first-time attendee, Colon Hoekstra, who dominated the voting.
+In 2017, Tony van Eerd did so well in the Best Session balloting that the joke was that we'd have to start calling it the _Tony Awards_. But even Tony's memorable showing was bested this year by first-time attendee, Conor Hoekstra, who dominated the voting.
 
 #### Best Presentation
 
-[Algorithm Intuition](http://localhost:4000/history/2019/talks/#55fd2b92561f4a4ad78e2379569f840e) by [Colon Hoekstra](https://cppnow2019.sched.com/speaker/hoekstra101).
+[Algorithm Intuition](http://localhost:4000/history/2019/talks/#55fd2b92561f4a4ad78e2379569f840e) by [Conor Hoekstra](https://cppnow2019.sched.com/speaker/hoekstra101).
 
-[<img src="https://avatars.sched.co/e/90/5901833/avatar.jpg" style="border-radius: 1000px;width: 160px; margin: 0 16px 16px 0;" alt="Colon Hoekstra">](https://cppnow2019.sched.com/speaker/hoekstra101 "Colon Hoekstra")
+[<img src="https://avatars.sched.co/e/90/5901833/avatar.jpg" style="border-radius: 1000px;width: 160px; margin: 0 16px 16px 0;" alt="Conor Hoekstra">](https://cppnow2019.sched.com/speaker/hoekstra101 "Conor Hoekstra")
 
 **Best Presentation Runners Up:**
 
@@ -41,9 +41,9 @@ In 2017, Tony van Eerd did so well in the Best Session balloting that the joke w
 
 We tried a new category of best overall speaker and that award went to:
 
-[Colon Hoekstra](https://cppnow2019.sched.com/speaker/hoekstra101)
+[Conor Hoekstra](https://cppnow2019.sched.com/speaker/hoekstra101)
 
-[<img src="https://avatars.sched.co/e/90/5901833/avatar.jpg" style="border-radius: 1000px;width: 160px; margin: 0 16px 16px 0;" alt="Colon Hoekstra">](https://cppnow2019.sched.com/speaker/hoekstra101 "Colon Hoekstra")
+[<img src="https://avatars.sched.co/e/90/5901833/avatar.jpg" style="border-radius: 1000px;width: 160px; margin: 0 16px 16px 0;" alt="Conor Hoekstra">](https://cppnow2019.sched.com/speaker/hoekstra101 "Conor Hoekstra")
 
 **Best Speaker Runners Up (tied):**
 
@@ -55,9 +55,9 @@ We tried a new category of best overall speaker and that award went to:
 
 We tried another new category to recognize the best up and coming speaker. This year that turned out to be redundant:
 
-[Colon Hoekstra](https://cppnow2019.sched.com/speaker/hoekstra101)
+[Conor Hoekstra](https://cppnow2019.sched.com/speaker/hoekstra101)
 
-[<img src="https://avatars.sched.co/e/90/5901833/avatar.jpg" style="border-radius: 1000px;width: 160px; margin: 0 16px 16px 0;" alt="Colon Hoekstra">](https://cppnow2019.sched.com/speaker/hoekstra101 "Colon Hoekstra")
+[<img src="https://avatars.sched.co/e/90/5901833/avatar.jpg" style="border-radius: 1000px;width: 160px; margin: 0 16px 16px 0;" alt="Conor Hoekstra">](https://cppnow2019.sched.com/speaker/hoekstra101 "Conor Hoekstra")
 
 **Best New (to me) Speaker Runners Up:**
 
@@ -68,9 +68,9 @@ We tried another new category to recognize the best up and coming speaker. This 
 
 We had a tie in this category:
 
-[Algorithm Intuition](http://localhost:4000/history/2019/talks/#55fd2b92561f4a4ad78e2379569f840e) by [Colon Hoekstra](https://cppnow2019.sched.com/speaker/hoekstra101).
+[Algorithm Intuition](http://localhost:4000/history/2019/talks/#55fd2b92561f4a4ad78e2379569f840e) by [Conor Hoekstra](https://cppnow2019.sched.com/speaker/hoekstra101).
 
-[<img src="https://avatars.sched.co/e/90/5901833/avatar.jpg" style="border-radius: 1000px;width: 160px; margin: 0 16px 16px 0;" alt="Colon Hoekstra">](https://cppnow2019.sched.com/speaker/hoekstra101 "Colon Hoekstra")
+[<img src="https://avatars.sched.co/e/90/5901833/avatar.jpg" style="border-radius: 1000px;width: 160px; margin: 0 16px 16px 0;" alt="Conor Hoekstra">](https://cppnow2019.sched.com/speaker/hoekstra101 "Conor Hoekstra")
 
 tied with
 
@@ -84,9 +84,9 @@ tied with
 
 #### Most Engaging
 
-[Algorithm Intuition](http://localhost:4000/history/2019/talks/#55fd2b92561f4a4ad78e2379569f840e) by [Colon Hoekstra](https://cppnow2019.sched.com/speaker/hoekstra101)
+[Algorithm Intuition](http://localhost:4000/history/2019/talks/#55fd2b92561f4a4ad78e2379569f840e) by [Conor Hoekstra](https://cppnow2019.sched.com/speaker/hoekstra101)
 
-[<img src="https://avatars.sched.co/e/90/5901833/avatar.jpg" style="border-radius: 1000px;width: 160px; margin: 0 16px 16px 0;" alt="Colon Hoekstra">](https://cppnow2019.sched.com/speaker/hoekstra101 "Colon Hoekstra")
+[<img src="https://avatars.sched.co/e/90/5901833/avatar.jpg" style="border-radius: 1000px;width: 160px; margin: 0 16px 16px 0;" alt="Conor Hoekstra">](https://cppnow2019.sched.com/speaker/hoekstra101 "Conor Hoekstra")
 
 **Most Engaging Runners Up (tied):**
 
@@ -101,7 +101,7 @@ tied with
 
 **Most Inspiring Runners Up:**
 
-* [Algorithm Intuition](http://localhost:4000/history/2019/talks/#55fd2b92561f4a4ad78e2379569f840e) by [Colon Hoekstra](https://cppnow2019.sched.com/speaker/hoekstra101)
+* [Algorithm Intuition](http://localhost:4000/history/2019/talks/#55fd2b92561f4a4ad78e2379569f840e) by [Conor Hoekstra](https://cppnow2019.sched.com/speaker/hoekstra101)
 * [The Truth of a Procedure](http://localhost:4000/history/2019/talks/#b1e5d83ce71cbaf75c25b7045b30a0dd) by [Lisa Lippincott](https://cppnow2019.sched.com/speaker/lisa_lippincott)
 
 
