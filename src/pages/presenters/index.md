@@ -132,6 +132,9 @@ Better safe than sorry: Your laptop may break or go missing. Consider:
 * Mail yourself a copy of the slides.
 * Put a copy on Google drive/Dropbox/iCloud.
 
+## Archiving Your Presentation
+Please send a PDF of your presentation to the [Conference Archivist](mailto:speaker-files@cppnow.org). Please use this address for both Main Program presentations and Lightning Talk presentations. This need not be done _before_ you give your presentation, but please have it done in time to have the slides online by the time the video recording of your presentation is uploaded (shortly after the conference).
+
 ## Advice from Bash Films
 Bash is company that records, edits, and uploads our videos. Here is their [advice to presenters](https://drive.google.com/file/d/0BylxYEqmZhqTV0JnS1A0WS1CUnM/view?usp=sharing).
 
