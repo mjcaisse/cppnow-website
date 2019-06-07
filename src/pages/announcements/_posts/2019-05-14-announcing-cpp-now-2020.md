@@ -112,7 +112,10 @@ Some of the early C++Now 2019 trip reports have started to arrive. We'll update 
 * [C++Now 2019 Trip Report](https://maddphysics.com/2019/05/13/cnow-2019-trip-report/) by Matthew Butler
 * [C++Now 2019 Trip Report, Extension Points, and Summer Opportunities](https://thephd.github.io/c++now-2019-trip-report) by JeanHeyd Meneide
 * [Trip Report: C++Now 2019](http://stellar.cct.lsu.edu/2019/06/trip-report-cnow-2019/) by Weile Wei
+
 Thanks to everyone that has filed a trip report!
+
+We will update this list with new trip reports as they are submitted. Please <a href="mailto:jon@cppnow.org">let us know</a> about any new trip reports.
 
 ### <a name="dates"></a>C++Now 2020 Announced
 
