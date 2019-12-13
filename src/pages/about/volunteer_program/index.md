@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Volunteer/Student Program
+title: Student/Volunteer Program
 permalink: /about/volunteer_program/
 section: about
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 ![Volunteers 2016 by Zoetica Ebb](/assets/img/volunteers/Volunteers2016.jpg "Volunteers 2016 by Zoetica Ebb")<br>
 *Photograph by Zoetica Ebb. Used with permission.*
 
-The C++Now Volunteer/Student Program was started in 2013 in an effort to encourage student involvement in the C++Now conference and the C++ community. Each year, the conference helps a small group of young programmers attend the conference. In exchange, the students help the C++Now staff in running the conference. Volunteers assist with various on-site tasks, such as recording sessions, escorting keynote speakers, and setting up breaks and the conference picnic. Volunteers are able to attend most sessions and receive a waiver of their registration fees. Some stipends for travel-related expenses are available.
+The C++Now Student/Volunteer Program was started in 2013 in an effort to encourage student involvement in the C++Now conference and the C++ community. Each year, the conference helps a small group of young programmers attend the conference. In exchange, the students help the C++Now staff in running the conference. Volunteers assist with various on-site tasks, such as recording sessions, escorting keynote speakers, and setting up breaks and the conference picnic. Volunteers are able to attend most sessions and receive a waiver of their registration fees. Some stipends for travel-related expenses are available.
 
 Read [the Volunteer FAQ](/about/faq/#volunteer-faq).
 
