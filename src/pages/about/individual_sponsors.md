@@ -18,7 +18,7 @@ For individuals, C++Now offers the Boost Scholarship Sponsorship in support of t
 
 ## Boost Scholarship Fund
 
-The Boost Scholarship Fund supports two programs that directly benefit C++ students and indirectly benefit the entire C++ community: Boost Summer of Code and the C++Now Volunteer/Student Program.
+The Boost Scholarship Fund supports two programs that directly benefit C++ students and indirectly benefit the entire C++ community: Boost Summer of Code and the C++Now Student/Volunteer Program.
 
 
 ### Boost Summer of Code
@@ -27,13 +27,13 @@ The BSoC program is modeled after the [Google Summer of Code](https://developers
 
 
 
-### C++Now Volunteer/Student Program
+### C++Now Student/Volunteer Program
 
 Each year, the conference helps a small group of young programmers attend the conference. In exchange, the volunteers help the C++Now staff in running the conference.
 
 Contributions to the Boost Scholarship Fund are earmarked* to support these programs and can be made in any amount, but specific benefits attach at certain sponsorship levels. Donations are made through Software Freedom Conservancy, a 501(c)3 not-for-profit charity and are fully tax-deductible to the extent permitted by law. Donors will receive a disclosure statement indicating the fair market value of any tangible benefits received.
 
-**Are you a student who will volunteer in exchange for a ticket? Not a student, just want to volunteer?<br>[Learn how to apply to the Volunteer/Student Program](/about/volunteer_program/)**
+**Are you a student who will volunteer in exchange for a ticket? Not a student, just want to volunteer?<br>[Learn how to apply to the Student/Volunteer Program](/about/volunteer_program/)**
 
 #### Gold Scholarship Sponsor Level
 
@@ -42,7 +42,7 @@ The Gold Level Sponsorship is $500 and has these benefits:
 * Recognition on Boost and C++Now websites
 * Boost Scholarship Sponsor tee shirt
 * Recognition at C++Now Welcome and Closing sessions
-* Invitation to Meet The Volunteers/Student Breakfast at C++Now
+* Invitation to Meet The Student/Volunteers Breakfast at C++Now
 
 #### Silver Scholarship Sponsor Level
 
