@@ -5,8 +5,7 @@
 #    },
     {
          "title": "Accepting submissions",
-#         "link": "/announcements/2019/12/2020-CfS/"
-         "link": "{{site.last_csf}}"
+         "link": "/announcements/2019/12/2020-CfS/"
      },
 #    {
 #        "title": "Taking reservations",
