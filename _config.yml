@@ -81,6 +81,8 @@ over: false
 
 submission: "is"
 
+last_cfs: "/announcements/2019/12/2020-CfS/"
+
 ## If we are doing lunch signups we want them in the FAQ.
 doing_lunch_signups: true
 lunch_signup_link: "https://docs.google.com/spreadsheets/d/12zmvrJHI7fIms8SH9FviPJkyt0cYOnq6eaARv_m9GuU/"

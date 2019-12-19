@@ -15,7 +15,7 @@ We have two programs of presentations at C++Now. We have a [main program](#main_
 
 <a name="main_program"></a>
 ### Main Program
-Every year we release a <a href="/announcements/2018/12/2019-call-for-submissions/">Call for Submissions for the <i>main program</i></a>.
+Every year we release a <a href="{{site.last_csf}}">Call for Submissions for the <i>main program</i></a>.
 
 {% case site.submission %}
   {% when 'will' %}
@@ -50,10 +50,10 @@ For more information about regular program submissions, contact the Program Chai
 {% if site.submission == "is" %}
 
 <!--
-<p class="highlight" markdown="1">Please [make your main program submission here](https://cppform.cierecloud.com/sessions/submitter/?conf=boostcon&year=2020).
+<p class="highlight" markdown="1">Please [make your main program submission here](https://cppform.cierecloud.com/sessions/submitter/?conf=boostcon&year={{site.current_year}}).
 </p>
 -->
-<p style="text-align: center; font-size: 40px;"><a href="https://cppform.cierecloud.com/sessions/submitter/?conf=boostcon&year=2019">Submit Now</a></p>
+<p style="text-align: center; font-size: 40px;"><a href="https://cppform.cierecloud.com/sessions/submitter/?conf=boostcon&year={{site.current_year}}">Submit Now</a></p>
 
 {% endif %}
 
