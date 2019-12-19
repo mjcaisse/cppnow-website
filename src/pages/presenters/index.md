@@ -50,7 +50,7 @@ For more information about regular program submissions, contact the Program Chai
 {% if site.submission == "is" %}
 
 <!--
-<p class="highlight" markdown="1">Please [make your main program submission here](https://cppform.cierecloud.com/sessions/submitter/?conf=boostcon&year=2019).
+<p class="highlight" markdown="1">Please [make your main program submission here](https://cppform.cierecloud.com/sessions/submitter/?conf=boostcon&year=2020).
 </p>
 -->
 <p style="text-align: center; font-size: 40px;"><a href="https://cppform.cierecloud.com/sessions/submitter/?conf=boostcon&year=2019">Submit Now</a></p>
