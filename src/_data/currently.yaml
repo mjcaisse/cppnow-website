@@ -3,6 +3,10 @@
 #        "title": "Registration is open",
 #        "link": "/announcements/2019/01/2019-registration-is-open/"
 #    },
+    {
+         "title": "Accepting submissions",
+         "link": "/announcements/2019/12/2020-CfS/"
+     },
 #    {
 #        "title": "Taking reservations",
 #        "link": "/location/lodging/"
@@ -23,8 +27,4 @@
         "title": "Accepting sponsors",
         "link": "/about/corporate_sponsors/"
     },
-    # {
-    #     "title": "Accepting submissions",
-    #     "link": "/announcements/2018/12/2019-call-for-submissions/"
-    # },
 ]
