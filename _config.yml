@@ -79,7 +79,7 @@ over: false
 ## Note that we "flip" the conference (set the current_year, etc,) when we make the
 ##  first post about the new conference.
 
-submission: "will"
+submission: "is"
 
 ## If we are doing lunch signups we want them in the FAQ.
 doing_lunch_signups: true
