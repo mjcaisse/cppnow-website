@@ -85,8 +85,6 @@ Consider a Boost Scholarship Sponsorship via the [Software Freedom Conservancy](
     <input type="hidden" name="business" value="karen@kruegerevents.com" />
     <input type="hidden" name="item_name" value="Donation to Boost Foundation via C++Now" />
 
-    <input type="hidden" name="hosted_button_id" value="R8YMK82272QP6">
-
     <select class="select" name="os0" tabindex="0">
         <option value="Gold Level">Gold Level $500.00 USD</option>
         <option value="Silver Level">Silver Level $250.00 USD</option>
