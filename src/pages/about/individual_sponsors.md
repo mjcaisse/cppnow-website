@@ -31,7 +31,7 @@ The BSoC program is modeled after the [Google Summer of Code](https://developers
 
 Each year, the conference helps a small group of young programmers attend the conference. In exchange, the volunteers help the C++Now staff in running the conference.
 
-Contributions to the Boost Scholarship Fund are earmarked* to support these programs and can be made in any amount, but specific benefits attach at certain sponsorship levels. Donations are made through Software Freedom Conservancy, a 501(c)3 not-for-profit charity and are fully tax-deductible to the extent permitted by law. Donors will receive a disclosure statement indicating the fair market value of any tangible benefits received.
+Contributions to the Boost Scholarship Fund are earmarked* to support these programs and can be made in any amount, but specific benefits attach at certain sponsorship levels. Donations are made to the Boost Foundation, a 501(c)3 (pending) not-for-profit charity and are fully tax-deductable to the extent permitted by law. Credit card transactions are made through our partner Krueger Event Management, which manages the C++Now event. Donors will receive a disclosure statement indicating the fair market value of any tangible benefits received.
 
 **Are you a student who will volunteer in exchange for a ticket? Not a student, just want to volunteer?<br>[Learn how to apply to the Student/Volunteer Program](/about/volunteer_program/)**
 
@@ -65,6 +65,41 @@ Every donation comes with the knowledge that you are making a difference in the 
 
 Consider a Boost Scholarship Sponsorship via the [Software Freedom Conservancy](https://sfconservancy.org/). Choose a level and proceed to Paypal to checkout.
 
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+    <input type="hidden" name="cmd" value="_donations" />
+    <input type="hidden" name="currency_code" value="USD" />
+
+    <input type="hidden" name="business" value="karen@kruegerevents.com" />
+    <input type="hidden" name="item_name" value="Donation to Boost Foundation via C++Now" />
+
+    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0"    name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+
+    <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
+
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+    <input type="hidden" name="cmd" value="_donations" />
+    <input type="hidden" name="currency_code" value="USD" />
+
+    <input type="hidden" name="business" value="karen@kruegerevents.com" />
+    <input type="hidden" name="item_name" value="Donation to Boost Foundation via C++Now" />
+
+    <input type="hidden" name="hosted_button_id" value="R8YMK82272QP6">
+
+    <select class="select" name="os0" tabindex="0">
+        <option value="Gold Level">Gold Level $500.00 USD</option>
+        <option value="Silver Level">Silver Level $250.00 USD</option>
+        <option value="Bronze Level">Bronze Level $125.00 USD</option>
+    </select>
+
+    <div style="margin-top: 8px;">
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0"    name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+        <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+    </div>
+</form>
+
+
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
     <input type="hidden" name="cmd" value="_s-xclick">
     <input type="hidden" name="hosted_button_id" value="R8YMK82272QP6">
@@ -91,6 +126,6 @@ C++Now is brought to you by [Boost](http://www.boost.org). You can make a [donat
 
 ---
 
-<p>* It is the intent of the Boost Steering Committee to honor the wishes of all donors; however, an earmark does not represent a legal obligation on the Committee to apply the funds as directed and we reserve the right to reallocate any unused funds towards other Boost activities. All funds will, regardless of their use, be spent in a way that benefits the Boost community, the general public, and the advancement of free and open source software.</p>
+<p>* It is the intent of the Boost Foundation to honor the wishes of all donors; however, an earmark does not represent a legal obligation on the Foundation to apply the funds as directed and we reserve the right to reallocate any unused funds toward other Boost activities. All funds will, regardless of their use, be spent in a way that benefits the Boost community, the general public, and the advancement of free and open source software.</p>
 
 For a copy of the C++Now Corporate Sponsorship Prospectus or if you have any questions about individual sponsorships or any of these programs contact [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org).
