@@ -63,7 +63,7 @@ Every donation comes with the knowledge that you are making a difference in the 
 
 #### Become a Sponsor Today
 
-Consider a Boost Scholarship Sponsorship via the [Software Freedom Conservancy](https://sfconservancy.org/). Choose a level and proceed to Paypal to checkout.
+Choose a Boost Scholarship Sponsorship level and proceed to Paypal to checkout.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
     <input type="hidden" name="cmd" value="_donations" />
@@ -83,7 +83,7 @@ Consider a Boost Scholarship Sponsorship via the [Software Freedom Conservancy](
     <input type="hidden" name="currency_code" value="USD" />
 
     <input type="hidden" name="business" value="karen@kruegerevents.com" />
-    <input type="hidden" name="item_name" value="Donation to Boost Foundation via C++Now" />
+    <input type="hidden" name="item_name" value="Boost Scholarship Sponsorship via C++Now" />
 
     <select class="select" name="os0" tabindex="0">
         <option value="Gold Level">Gold Level $500.00 USD</option>
