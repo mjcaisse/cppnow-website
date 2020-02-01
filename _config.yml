@@ -172,12 +172,12 @@ B1_call: "Learn More"
 
 ## Box 2
 B2_show: true
-B2_title: "Become a Presenter"
-B2_link: "/presenters/"
-B2_photo: "/assets/img/home/jackie.jpg"
-B2_photo_title: "Jackie Kay: Photo by Zoetica Ebb"
-B2_description: "<p>Join the discussion! Get the most out of C++Now by joining the elite group of C++ experts that have presented a lightning talk or as part of the regular program.</p>"
-B2_call: "Presenter Information"
+B2_title: "Join us"
+B2_link: "/registration/"
+B2_photo: "/assets/img/home/attendees.jpeg"
+B2_photo_title: "Attendees: Photo by Zoetica Ebb"
+B2_description: "<p>Attending C++Now and being part of the discussion on cutting edge C++ can be a life changing experience. The content presented at C++Now is unmatched at C++ events, but that isn't the best part of conference. The best part of the conference is the attendees that you'll meet and engage with for a week in the beautiful Colorado Rockies.</p>"
+B2_call: "Register"
 
 
 ## Box 3
@@ -191,12 +191,14 @@ B3_call: "Apply Today"
 
 ## Box 4
 B4_show: false
-B4_title: "Venue"
-B4_link: "/location/venue/"
-B4_photo: "/assets/img/home/venue.jpg"
-B4_photo_title: "Aspen Center for Physics: Photo by Zoetica Ebb"
-B4_description: "<p>The venue for C++Now is the <a href=\"https://www.aspenphys.org/\">Aspen Center for Physics</a>, a beautiful location creating a lively environment for thought, education, and collaboration.</p>"
-B1_call: "Learn More"
+B4_title: "Become a Presenter"
+B4_link: "/presenters/"
+B4_photo: "/assets/img/home/jackie.jpg"
+B4_photo_title: "Jackie Kay: Photo by Zoetica Ebb"
+B4_description: "<p>Join the discussion! Get the most out of C++Now by joining the elite group of C++ experts that have presented a lightning talk or as part of the regular program.</p>"
+B4_call: "Presenter Information"
+
+
 
 ## Box 5
 B5_show: false
