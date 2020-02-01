@@ -63,58 +63,23 @@ Every donation comes with the knowledge that you are making a difference in the 
 
 #### Become a Sponsor Today
 
-Consider a Boost Scholarship Sponsorship via the [Software Freedom Conservancy](https://sfconservancy.org/). Choose a level and proceed to Paypal to checkout.
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-    <input type="hidden" name="cmd" value="_donations" />
-    <input type="hidden" name="currency_code" value="USD" />
-
-    <input type="hidden" name="business" value="karen@kruegerevents.com" />
-    <input type="hidden" name="item_name" value="Donation to Boost Foundation via C++Now" />
-
-    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0"    name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-
-    <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
-
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-    <input type="hidden" name="cmd" value="_donations" />
-    <input type="hidden" name="currency_code" value="USD" />
-
-    <input type="hidden" name="business" value="karen@kruegerevents.com" />
-    <input type="hidden" name="item_name" value="Donation to Boost Foundation via C++Now" />
-
-    <select class="select" name="os0" tabindex="0">
-        <option value="Gold Level">Gold Level $500.00 USD</option>
-        <option value="Silver Level">Silver Level $250.00 USD</option>
-        <option value="Bronze Level">Bronze Level $125.00 USD</option>
-    </select>
-
-    <div style="margin-top: 8px;">
-        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0"    name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-        <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-    </div>
-</form>
-
+Choose a Boost Scholarship Sponsorship level and proceed to Paypal to checkout.
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
     <input type="hidden" name="cmd" value="_s-xclick">
-    <input type="hidden" name="hosted_button_id" value="R8YMK82272QP6">
+    <input type="hidden" name="hosted_button_id" value="T9UEH5JVH3NXC">
+    <table>
+        <tr><td><input type="hidden" name="on0" value="Sponsor Levels">Sponsorship Levels</td></tr>
+        <tr><td><select name="os0">
+                        <option value="Gold Level">Gold Level $500.00 USD</option>
+                        <option value="Silver Level">Silver Level $250.00 USD</option>
+                        <option value="Bronze Level">Bronze Level $125.00 USD</option>
+        </select> </td></tr>
+    </table>
     <input type="hidden" name="currency_code" value="USD">
-
-    <select class="select" name="os0" tabindex="0">
-        <option value="Gold Level">Gold Level $500.00 USD</option>
-        <option value="Silver Level">Silver Level $250.00 USD</option>
-        <option value="Bronze Level">Bronze Level $125.00 USD</option>
-    </select>
-
-    <div style="margin-top: 8px;">
-        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-    </div>
+    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-
 ---
 
 C++Now is brought to you by [Boost](http://www.boost.org). You can make a [donation to Boost](http://www.boost.org/donate/) in any amount.

@@ -79,7 +79,7 @@ over: false
 ## Note that we "flip" the conference (set the current_year, etc,) when we make the
 ##  first post about the new conference.
 
-submission: "is"
+submission: "was"
 
 last_cfs: "/announcements/2019/12/2020-CfS/"
 
@@ -88,8 +88,9 @@ doing_lunch_signups: true
 lunch_signup_link: "https://docs.google.com/spreadsheets/d/12zmvrJHI7fIms8SH9FviPJkyt0cYOnq6eaARv_m9GuU/"
 
 ## "will", "is", "was": becomes "was" when the hotel is full or the conference is over
-hotel_registration: "will"
-online_link_for_Meadows_reservation: "https://book.passkey.com/go/CNow2020"
+hotel_registration: "is"
+online_link_for_Meadows_reservation: "https://book.passkey.com/go/CppNow"
+
 
 ## "will", "is", "was": becomes "was" when  the conference is over
 registration: "is"
@@ -152,7 +153,7 @@ tag_cloud_image_width: "577"
 ## a call to action.
 
 ## Box 0
-B0_show: false
+B0_show: true
 B0_title: "Venue"
 B0_link: "/location/venue/"
 B0_photo: "/assets/img/home/venue.jpg"
@@ -161,7 +162,7 @@ B0_description: "<p>The venue for C++Now is the <a href=\"https://www.aspenphys.
 B0_call: "Learn More"
 
 ## Box 1
-B1_show: false
+B1_show: true
 B1_title: "Hotel"
 B1_link: "/location/lodging/"
 B1_photo: "/assets/img/home/AspenMeadowsResort.jpg"
@@ -189,7 +190,7 @@ B3_description: "<p>A small group of promising young C++ programmers is selected
 B3_call: "Apply Today"
 
 ## Box 4
-B4_show: true
+B4_show: false
 B4_title: "Venue"
 B4_link: "/location/venue/"
 B4_photo: "/assets/img/home/venue.jpg"
@@ -198,7 +199,7 @@ B4_description: "<p>The venue for C++Now is the <a href=\"https://www.aspenphys.
 B1_call: "Learn More"
 
 ## Box 5
-B5_show: true
+B5_show: false
 B5_title: "Hotel"
 B5_link: "/location/lodging/"
 B5_photo: "/assets/img/home/AspenMeadowsResort.jpg"
