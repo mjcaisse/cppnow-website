@@ -66,18 +66,18 @@ Every donation comes with the knowledge that you are making a difference in the 
 Choose a Boost Scholarship Sponsorship level and proceed to Paypal to checkout.
 
 <form action=https://www.paypal.com/cgi-bin/webscr method=post target=paypal>
-    <input type=hidden name=cmd value=_s-xclick>
-    <input type=hidden name=currency_code value=USD>
-    <input type=hidden name=hosted_button_id value=T9UEH5JVH3NXC>
+ <input type=hidden name=cmd value=_s-xclick>
+ <input type=hidden name=currency_code value=USD>
+ <input type=hidden name=hosted_button_id value=T9UEH5JVH3NXC>
 
-    <select class="select" name="os0" tabindex="0">
-        <option value="Gold Level">Gold Level $500.00 USD</option>
-        <option value="Silver Level">Silver Level $250.00 USD</option>
-        <option value="Bronze Level">Bronze Level $125.00 USD</option>
-    </select>
+ <select class="select" name="os0" tabindex="0">
+   <option value="Gold Level">Gold Level $500.00 USD</option>
+   <option value="Silver Level">Silver Level $250.00 USD</option>
+   <option value="Bronze Level">Bronze Level $125.00 USD</option>
+ </select>
 
-    <input type=image name=submit alt="PayPal - The safer, easier way to pay online!" border=0 src=https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif>
-    <img alt="" src=https://www.paypalobjects.com/en_US/i/scr/pixel.gif border=0 height=1 width=1>
+ <input type=image name=submit alt="PayPal - The safer, easier way to pay online!" border=0 src=https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif>
+ <img alt="" src=https://www.paypalobjects.com/en_US/i/scr/pixel.gif border=0 height=1 width=1>
 </form>
 
 ---
