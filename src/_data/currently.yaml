@@ -3,14 +3,14 @@
 #        "title": "Registration is open",
 #        "link": "/announcements/2019/01/2019-registration-is-open/"
 #    },
-    {
-         "title": "Accepting submissions",
-         "link": "/announcements/2019/12/2020-CfS/"
-     },
 #    {
-#        "title": "Taking reservations",
-#        "link": "/location/lodging/"
-#    },
+#         "title": "Accepting submissions",
+#         "link": "/announcements/2019/12/2020-CfS/"
+#     },
+    {
+        "title": "Taking reservations",
+        "link": "/location/lodging/"
+    },
 #    {
 #        "title": "Lightning Talks open",
 #        "link": "/schedule/lightning.talks/"
