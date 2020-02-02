@@ -65,6 +65,7 @@ Every donation comes with the knowledge that you are making a difference in the 
 
 Choose a Boost Scholarship Sponsorship level and proceed to Paypal to checkout.
 
+
 <form action=https://www.paypal.com/cgi-bin/webscr method=post target=paypal>
  <input type=hidden name=cmd value=_s-xclick>
  <input type=hidden name=currency_code value=USD>
