@@ -9,7 +9,7 @@
                     "link": "http://techatbloomberg.com/",
                     "image": "/assets/img/sponsors/bloomberg.png",
                     "blurb": "",
-                    "until": "2019-12-31"
+                    "until": "2020-12-31"
                 },
                 {
                     "title": "The C++ Alliance",
@@ -41,6 +41,13 @@
                     "title": "Ciere Consulting",
                     "link": "http://ciere.com",
                     "image": "/assets/img/sponsors/ciere.png",
+                    "blurb": "",
+                    "until": "2020-12-31"
+                },
+                {
+                    "title": "Quantlab",
+                    "link": "https://www.quantlab.com/",
+                    "image": "/assets/img/sponsors/Quantlab.jpeg",
                     "blurb": "",
                     "until": "2020-12-31"
                 },
