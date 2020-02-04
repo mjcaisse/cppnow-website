@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2020 Registration is Open"
-date: 2020-02-04
+date: 2020-02-03
 permalink: /announcements/2020/02/2020-registration-is-open/
 section: announcements
 
