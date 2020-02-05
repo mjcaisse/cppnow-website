@@ -31,6 +31,13 @@
             "title": "Silver Sponsors",
             "sponsors":
             [
+                {
+                    "title": "Unified Streaming",
+                    "link": "https://www.unified-streaming.com",
+                    "image": "/assets/img/sponsors/UnifiedStreaming.jpeg",
+                    "blurb": "",
+                    "until": "2020-12-31"
+                }
             ]
         },
         {
