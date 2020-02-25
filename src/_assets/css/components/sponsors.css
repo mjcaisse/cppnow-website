@@ -28,6 +28,10 @@
     max-width: 100%;
 }
 
+.sImageCell {
+    width: 320px;
+}
+
 .anonymous {
     font-style: italic;
 }
