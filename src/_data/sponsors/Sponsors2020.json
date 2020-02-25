@@ -8,21 +8,21 @@
                     "title": "Bloomberg",
                     "link": "http://techatbloomberg.com/",
                     "image": "/assets/img/sponsors/BBGEngineering_black.png",
-                    "blurb": "",
+                    "blurb": "This is a test.",
                     "until": "2020-12-31"
                 },
                 {
                     "title": "The C++ Alliance",
                     "link": "http://cpp.al/",
                     "image": "/assets/img/sponsors/cpp_alliance.png",
-                    "blurb": "",
-                    "until": "2020-12-31"
+                    "blurb": "This is a test of a very long blur. This is a test of a very long blur. This is a test of a very long blur. This is a test of a very long blur. This is a test of a very long blur. This is a test of a very long blur. This is a test of a very long blur. This is a test of a very long blur. This is a test of a very long blur. This is a test of a very long blur. This is a test of a very long blur.",
++                    "until": "2020-12-31"
                 },
                 {
                     "title": "Commvault",
                     "link": "http://www.commvault.com/",
                     "image": "/assets/img/sponsors/commvault.png",
-                    "blurb": "",
+                    "blurb": "This is a test of a very long blur with a <cr>.\nThis is a test of a very long blur with a <cr>.\nThis is a test of a very long blur with a <cr>.\nThis is a test of a very long blur with a <cr>.\nThis is a test of a very long blur with a <cr>.\nThis is a test of a very long blur with a <cr>.\nThis is a test of a very long blur with a <cr>.\nThis is a test of a very long blur with a <cr>.\n",
                     "until": "2020-12-31"
                 }
             ]
