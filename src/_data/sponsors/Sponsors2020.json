@@ -8,15 +8,24 @@
                     "title": "Bloomberg",
                     "link": "http://techatbloomberg.com/",
                     "image": "/assets/img/sponsors/BBGEngineering_black.png",
-                    "blurb": "This is a test.",
+                    "blurb": "Bloomberg is building the world's most trusted information network for financial professionals. Our 6,000+ engineers are dedicated to advancing and building new systems for the Bloomberg Terminal to solve complex, real-world problems. ​We trust our teams to choose the right technologies for the job, and, at Bloomberg, the answer is often C++. We employ an active community of more than 1,000 C++ developers who have their hands in everything from financial analytics and data science to contributing to open source technologies like BDE. We also sponsor and host many events for the C++ community.",
                     "until": "2020-12-31"
                 },
                 {
                     "title": "The C++ Alliance",
                     "link": "http://cpp.al/",
                     "image": "/assets/img/sponsors/cpp_alliance.png",
-                    "blurb": "This is a test of a very long blur. This is a test of a very long blur. This is a test of a very long blur. This is a test of a very long blur. This is a test of a very long blur. This is a test of a very long blur. This is a test of a very long blur. This is a test of a very long blur. This is a test of a very long blur. This is a test of a very long blur. This is a test of a very long blur.",
-+                    "until": "2020-12-31"
+                    "blurb": "Our mission is to make the C++ programming language accessible and useful to anyone who wishes to learn and apply the language. C++ is not only popular and foundational, but also an efficient and general purpose programming language that anyone can learn. Teaching C++ gives students knowledge of computer architecture, and helps them compete in the global marketplace. These languages have formed the technological foundations of our modern world, from the in-flight software enabling the Apollo moon landing to the software aspect of all computing devices.
+
+The C++ libraries and community often lack resources, due to their free nature and the reliance on volunteers to conduct the highly advanced and time-intensive work of maintaining and improving code libraries. Educational materials and opportunities are not as robust and affordable as they could be, and some of the most useful and impactful C++-based programs have yet to be developed due to this lack of required resources.
+
+The founders recognize the need to secure funding and resources in order to adequately support those seeking to learn and use the C++ programming language. To achieve these ends, the Charity:
+
+Funds and supports educational resources and initiatives,
+Evolves C++ through expertly maintained code libraries, and
+Supports a growing programming community and educational environment.
+The best software solutions are written using the C++ programming language.",
+                    "until": "2020-12-31"
                 },
                 {
                     "title": "Commvault",
@@ -55,7 +64,7 @@
                     "title": "Quantlab",
                     "link": "https://www.quantlab.com/",
                     "image": "/assets/img/sponsors/Quantlab.jpeg",
-                    "blurb": "",
+                    "blurb": "Quantlab Financial, LLC is a dynamic, technology-driven firm supporting a large-scale quantitative trading operation across a wide range of global financial markets, and supports a very successful proprietary trading organization. Founded in 1998, Quantlab is an established presence and one of the pioneers in quantitative investment management with a track record of consistent profitability under varying market conditions. In simple terms, we are similar to a hedge fund, but have no outside investors enabling us to be much more stable. We invest heavily in bleeding edge technologies, seeking to optimize performance and minimize latency throughout our trading systems. We’re located in Houston, TX, Boston, MA, the San Francisco Bay Area and London, UK.",
                     "until": "2020-12-31"
                 },
             ]
@@ -68,7 +77,7 @@
                     "title": "JetBrains",
                     "link": "http://www.jetbrains.com/",
                     "image": "/assets/img/sponsors/jetbrains.png",
-                    "blurb": "",
+                    "blurb": "JetBrains delivers intelligent software solutions that make developers more productive by simplifying their challenging tasks, automating the routine, and helping them adopt the best development practices. CLion is the C++ IDE for Professional Developers by JetBrains providing a complete set of tools for productive C++ development.",
                     "until": "2019-12-31"
                 }
             ]
