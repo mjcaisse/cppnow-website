@@ -101,7 +101,7 @@ Use the [online registration system]({{site.online_link_for_Meadows_reservation}
 * Rates do not include breakfast or other meals.
 * Check-in time is 4 PM (Mountain Time) on arrival day.
 * Check-out time is 11 AM on departure day.
-* Airport shuttle service to/from the resort is complementary. Please notify the hotel of your arriving flight.
+* Airport shuttle service to/from the resort is complimentary. Please notify the hotel of your arriving flight.
 
 
 
