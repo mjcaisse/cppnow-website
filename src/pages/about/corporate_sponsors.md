@@ -19,5 +19,5 @@ Email [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org) for a copy of the 
 ### Brought To You By
 
 {% for item in site.data.sponsors.BroughtToYouBy %}
-{% include broughtToYouBy.blurb.md %}
+{% include broughtToYouBy.md %}
 {% endfor %}
