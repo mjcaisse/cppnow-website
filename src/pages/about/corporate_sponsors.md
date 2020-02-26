@@ -19,7 +19,5 @@ Email [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org) for a copy of the 
 ### Brought To You By
 
 {% for item in site.data.sponsors.BroughtToYouBy %}
-<a href="{{item.link | uri_escape}}" class="sLink" target="_blank" rel="noopener noreferrer">
-    <img src="{{item.image | uri_escape}}" class="sImage" alt="{{item.title | xml_escape}}">
-</a>
+{% include broughtToYouBy.blurb.md %}
 {% endfor %}
