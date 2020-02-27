@@ -8,7 +8,7 @@
                     "title": "Bloomberg",
                     "link": "http://techatbloomberg.com/",
                     "image": "/assets/img/sponsors/BBGEngineering_black.png",
-                    "blurb": "Bloomberg is building the world's most trusted information network for financial professionals. Our 6,000+ engineers are dedicated to advancing and building new systems for the Bloomberg Terminal to solve complex, real-world problems. ​We trust our teams to choose the right technologies for the job, and, at Bloomberg, the answer is often C++. We employ an active community of more than 1,000 C++ developers who have their hands in everything from financial analytics and data science to contributing to open source technologies like BDE. We also sponsor and host many events for the C++ community.",
+                    "blurb": "",
                     "until": "2020-12-31"
                 },
                 {
@@ -57,7 +57,7 @@ Did you Know? The Boost Library Collection was the inspiration behind most of C+
                     "title": "Quantlab",
                     "link": "https://www.quantlab.com/",
                     "image": "/assets/img/sponsors/Quantlab.jpeg",
-                    "blurb": "Quantlab Financial, LLC is a dynamic, technology-driven firm supporting a large-scale quantitative trading operation across a wide range of global financial markets, and supports a very successful proprietary trading organization. Founded in 1998, Quantlab is an established presence and one of the pioneers in quantitative investment management with a track record of consistent profitability under varying market conditions. In simple terms, we are similar to a hedge fund, but have no outside investors enabling us to be much more stable. We invest heavily in bleeding edge technologies, seeking to optimize performance and minimize latency throughout our trading systems. We’re located in Houston, TX, Boston, MA, the San Francisco Bay Area and London, UK.",
+                    "blurb": "",
                     "until": "2020-12-31"
                 },
             ]
@@ -70,7 +70,7 @@ Did you Know? The Boost Library Collection was the inspiration behind most of C+
                     "title": "JetBrains",
                     "link": "http://www.jetbrains.com/",
                     "image": "/assets/img/sponsors/jetbrains.png",
-                    "blurb": "JetBrains delivers intelligent software solutions that make developers more productive by simplifying their challenging tasks, automating the routine, and helping them adopt the best development practices. CLion is the C++ IDE for Professional Developers by JetBrains providing a complete set of tools for productive C++ development.",
+                    "blurb": "",
                     "until": "2019-12-31"
                 }
             ]
