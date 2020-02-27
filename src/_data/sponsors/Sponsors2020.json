@@ -15,9 +15,9 @@
                     "title": "The C++ Alliance",
                     "link": "http://cpp.al/",
                     "image": "/assets/img/sponsors/cpp_alliance.png",
-                    "blurb": "The C++ Alliance is proud to fund and support the world's largest and most active C++ technical discussion area. Get your free invitation to the Slack Workspace at <a href="http\://slack.cpp.al">http\://slack.cpp.al</a> then visit us at <a href="https\://cpplang.slack.com">https\://cpplang.slack.com</a><br><br>
+                    "blurb": "The C++ Alliance is proud to fund and support the world's largest and most active C++ technical discussion area. Get your free invitation to the Slack Workspace at <a href=\"http://slack.cpp.al\">http://slack.cpp.al</a> then visit us at <a href=\"https://cpplang.slack.com\">https\://cpplang.slack.com</a><br><br>
  
-Did you Know? The Boost Library Collection was the inspiration behind most of C++11.  Boost is a collection of high-quality, peer reviewed libraries that provide foundational components for all applications.  To see some exciting Boost libraries such as mp11 or StaticString please vist <a href="https\://boost.org today">https\://boost.org today</a>!",
+Did you Know? The Boost Library Collection was the inspiration behind most of C++11.  Boost is a collection of high-quality, peer reviewed libraries that provide foundational components for all applications.  To see some exciting Boost libraries such as mp11 or StaticString please vist <a href=\"https://boost.org today\">https\://boost.org today</a>!",
                     "until": "2020-12-31"
                 },
                 {
