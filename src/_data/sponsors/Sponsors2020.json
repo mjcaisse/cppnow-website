@@ -15,7 +15,9 @@
                     "title": "The C++ Alliance",
                     "link": "http://cpp.al/",
                     "image": "/assets/img/sponsors/cpp_alliance.png",
-                    "blurb": "Our mission is to make the C++ programming language accessible and useful to anyone who wishes to learn and apply the language. C++ is not only popular and foundational, but also an efficient and general purpose programming language that anyone can learn. Teaching C++ gives students knowledge of computer architecture, and helps them compete in the global marketplace. These languages have formed the technological foundations of our modern world, from the in-flight software enabling the Apollo moon landing to the software aspect of all computing devices.",
+                    "blurb": "The C++ Alliance is proud to fund and support the world's largest and most active C++ technical discussion area. Get your free invitation to the Slack Workspace at [http://slack.cpp.al](http://slack.cpp.al) then visit us at [https://cpplang.slack.com](https://cpplang.slack.com)<br><br>
+ 
+Did you Know? The Boost Library Collection was the inspiration behind most of C++11.  Boost is a collection of high-quality, peer reviewed libraries that provide foundational components for all applications.  To see some exciting Boost libraries such as mp11 or StaticString please vist [https://boost.org today](https://boost.org today)!",
                     "until": "2020-12-31"
                 },
                 {
