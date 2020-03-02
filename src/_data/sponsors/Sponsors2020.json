@@ -72,7 +72,8 @@ Did you Know? The Boost Library Collection was the inspiration behind most of th
                     "title": "JetBrains",
                     "link": "http://www.jetbrains.com/",
                     "image": "/assets/img/sponsors/jetbrains.png",
-                    "blurb": "",
+                    "motto": "Because C++, smart tools for C++ by JetBrains",
+                    "blurb": "JetBrains has a passion for making developers more productive through smarter software that simplifies your challenging tasks and automates the routine. Our tools for C++ natively support old and new language standards and Boost and libc++ libraries. They work with templated code and macros, and provide smart refactorings and detailed code analysis. Select between CLion for cross-platform development, ReSharper C++ to extend your Visual Studio, or AppCode for creating iOS/OS X applications.",
                     "until": "2019-12-31"
                 }
             ]
