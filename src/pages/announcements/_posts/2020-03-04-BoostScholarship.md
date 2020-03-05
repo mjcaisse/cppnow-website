@@ -31,7 +31,7 @@ The Student / Volunteer Program as only existed for a few years, but already par
 * one has been teaching a two-day workshop at CppCon
 * one has become a Boost Library author
 
-You can read more in the words of our volunteers themselves in the [Volunteer Stories](http://cpptest.cierecloud.com/about/volunteer_program/) or even in a [recent comment on LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:6638891260935577600?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A6638891260935577600%2C6639268108131545088%29). This program has been much more successful than anyone predicted when it was proposed in 2012.
+You can read more in the words of our volunteers themselves in the [Volunteer Stories](/about/volunteer_program/#volunteer_stories) or even in a [recent comment on LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:6638891260935577600?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A6638891260935577600%2C6639268108131545088%29). This program has been much more successful than anyone predicted when it was proposed in 2012.
 
 This return on our investment means that if we have quality candidates we want to accept them into the program. Applications are still being reviewed, but the chair of the S/V Program, Bryce Adelstein Lelbach, estimates that there are at least nine applications that meet the quality bar that we've established over the years.
 
