@@ -23,7 +23,8 @@ We are not yet accepting applicatiosn for C++Now {{site.current_year}} Student /
 We are no longer accepting applications for C++Now {{site.current_year}} Student / Volunteers. Watch for announcements for next year's conference.
 {% endcase %}
 
-### Volunteer Stories<a name="volunteer_stories"></a>
+<a name="volunteer_stories"></a>
+### Volunteer Stories
 
 <blockquote class="quoteBox">
     <span class="quoteBoxImage" style="background-image: url(/assets/img/volunteers/jeanheyd_meneide.jpeg);"></span>
