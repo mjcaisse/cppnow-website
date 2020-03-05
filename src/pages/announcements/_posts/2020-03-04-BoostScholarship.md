@@ -20,7 +20,7 @@ It is gratifying that word is getting out about what a valuable opportunity this
 <br>
 *Photograph by Laurie Clow. Used with permission.*
 
-But it creates a delimma for conference organizers. We don't need more volunteers to run the conference, but help running the conference is only part of the reason that we have this program.
+But it creates a dilemma for conference organizers. We don't need more volunteers to run the conference, but help running the conference is only part of the reason that we have this program.
 
 An important element of the S/V Program is to introduce promising young people to community engagement in a way that they don't experience in classrooms or even in entry-level engineering jobs. This part of the program has been tremendously successful.
 
@@ -29,7 +29,7 @@ The Student / Volunteer Program as only existed for a few years, but already par
 * present at international conferences like C++Now, CppCon, and ACCU
 * author papers for the Standards Committee
 * one has been teaching a two-day workshop at CppCon
-* one has become a Boost Library author.
+* one has become a Boost Library author
 
 This return on our investment means that if we have quality candidates we want to accept them into the program. Applications are still being reviewed, but the chair of the S/V Program, Bryce Adelstein Lelbach, estimates that there are at least nine applications that meet the quality bar that we've established over the years.
 
