@@ -85,13 +85,6 @@ Did you Know? The Boost Library Collection was the inspiration behind most of th
             "sponsors":
             [
                 {
-                    "name": "Agustín Bergé", 
-                    "anonymous": true,
-                    "info": "Agustín Bergé <kaballo86@hotmail.com>",
-                    "shirt": "men's medium",
-                    "until": "2020-04-01"
-                },
-                {
                     "name": "Jeff Trull",
                     "info": "Jeffrey Trull <jetrull@sbcglobal.net>",
                     "shirt": "men's medium",
@@ -102,6 +95,20 @@ Did you Know? The Boost Library Collection was the inspiration behind most of th
                     "info": "Jon Kalb <jonkalb@boost.org>",
                     "shirt": "men's large",
                     "until": "2020-04-07"
+                },
+                {
+                    "name": "Agustín Bergé", 
+                    "anonymous": true,
+                    "info": "Agustín Bergé <kaballo86@hotmail.com>",
+                    "shirt": "men's medium",
+                    "until": "2020-04-01"
+                },
+                {
+                    "name": "Zach Laine", 
+                    "anonymous": true,
+                    "info": "Zach Laine <whatwasthataddress@gmail.com>",
+                    "shirt": "",
+                    "until": "2021-03-04"
                 },
             ]
         },
@@ -115,6 +122,12 @@ Did you Know? The Boost Library Collection was the inspiration behind most of th
             "title": "Boost Scholarship Sponsors: Bronze Level",
             "sponsors":
             [
+                {
+                    "name": "Louis Dionne",
+                    "info": "Peter Sommerlad <peter.cpp@sommerlad.ch>",
+                    "shirt": "",
+                    "until": "2021-03-04"
+                },
                 {
                     "name": "Peter Sommerlad",
                     "info": "Peter Sommerlad <peter.cpp@sommerlad.ch>",
