@@ -16,7 +16,7 @@ This year applications to [the Student / Volunteer Program](/about/volunteer_pro
 
 It is gratifying that word is getting out about what a valuable opportunity this program provides to people beginning their careers in C++.
 
-![volunteers - Photograph by Laurie Clow. Used with permission.](/assets/img/posts/2018/volunteers2017.jpeg "volunteers - Photograph by Laurie Clow. Used with permission.")
+![volunteers - Photograph by Laurie Clow. Used with permission.](/assets/img/volunteers/volunteers2017.jpeg "volunteers - Photograph by Laurie Clow. Used with permission.")
 <br>
 *Photograph by Laurie Clow. Used with permission.*
 
