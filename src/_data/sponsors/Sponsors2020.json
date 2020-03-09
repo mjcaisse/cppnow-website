@@ -38,7 +38,10 @@ Did you Know? The Boost Library Collection was the inspiration behind most of th
                     "title": "Unified Streaming",
                     "link": "https://www.unified-streaming.com",
                     "image": "/assets/img/sponsors/UnifiedStreaming.jpeg",
-                    "blurb": "",
+                    "blurb": "Unified Streaming is dedicated to helping media companies create and execute smart video streaming and monetisation opportunities. Our technology, which is in operation across the globe, allows streaming providers to engage OTT audiences using HTTP for delivery in new ways through smart and highly flexible video playlists no matter how or where they’re watching.  
+
+To realise this we use  C++ as our core technology for audio and video streaming, transcode pipelines and MPEG related specification implementation.",
+                    "motto": "Your streaming challenge… accepted",
                     "until": "2020-12-31"
                 }
             ]
