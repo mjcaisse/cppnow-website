@@ -2,7 +2,7 @@
 layout: post
 title: "Public Health Statement"
 date: 2020-04-08
-permalink: /announcements/2020/04/PublicHealth/
+permalink: /announcements/2020/03/PublicHealth/
 section: announcements
 
 tags:
