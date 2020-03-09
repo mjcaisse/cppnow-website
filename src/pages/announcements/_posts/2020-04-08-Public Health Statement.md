@@ -22,8 +22,8 @@ Conference organizers have no public health expertise and are not able to make s
 
 We know that this uncertainty may be a challenge for those planning to attend. However, we believe it is low risk for attendees to make travel arrangements now and cancel them later:
 
-* Many airlines are waiving change fees for flights booked in March, including Delta, United, and Frontier, the main airlines which provide flights to Aspen.
-* Our hotel, the Aspen Meadows, allows cancellations up to 14 days before the conference.
+* [Many airlines are waiving change fees for flights booked in March](https://www.marketwatch.com/story/these-airlines-are-waiving-flight-change-fees-because-of-the-coronavirus-outbreak-2020-03-03), including [Delta](https://www.delta.com/us/en/advisories/other-alerts/coronavirus-travel-updates), [United](https://www.united.com/ual/en/us/fly/travel/notices.html#ChangeFeeTerms), and Frontier, the main airlines which provide flights to Aspen.
+* Our hotel, the Aspen Meadows, [allows cancellations up to 14 days before the conference](https://www.aspenmeadows.com/faq).
 * This year, we will allow refunds of the conference registration fee for any reason with no questions asked up until the first day of the conference.
 
 If at the time of C++Now 2020 you feel sick, or are worried that you might have been exposed, we encourage you to stay home. If you are already in Aspen, please stay in your hotel. Under these circumstances contact us and we'll refund your registration feel.
