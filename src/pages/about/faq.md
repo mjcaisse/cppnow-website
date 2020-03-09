@@ -14,7 +14,7 @@ redirect_from:
 
 #### Are panicking over the virus situation?
 
-The conference organizers have drafted a [Public Health announcement](/announcements/2020/04/PublicHealth/).
+The conference organizers have drafted a [Public Health announcement](/announcements/2020/03/PublicHealth/).
 
 #### I'm not feeling well. What should I do?
 
