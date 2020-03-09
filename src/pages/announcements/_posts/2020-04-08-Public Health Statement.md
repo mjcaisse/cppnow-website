@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Public Health Statement"
-date: 2020-04-08
+date: 2020-03-08
 permalink: /announcements/2020/03/PublicHealth/
 section: announcements
 
