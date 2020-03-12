@@ -1,0 +1,155 @@
+{
+    "corporate": [
+        {
+            "title": "Gold Sponsors",
+            "sponsors":
+            [
+                {
+                    "title": "Bloomberg",
+                    "link": "http://techatbloomberg.com/",
+                    "image": "/assets/img/sponsors/BBGEngineering_black.png",
+                    "blurb": "",
+                    "until": "2021-12-31"
+                },
+                {
+                    "title": "The C++ Alliance",
+                    "link": "http://cpp.al/",
+                    "motto": "C++ Alliance: Empowering C++",
+                    "image": "/assets/img/sponsors/cpp_alliance.png",
+                    "blurb": "The C++ Alliance is proud to fund and support the world's largest and most active C++ technical discussion area. Get your free invitation to the Slack Workspace at <a href=\"http://slack.cpp.al\">http://slack.cpp.al</a> then visit us at <a href=\"https://cpplang.slack.com\">https://cpplang.slack.com</a><br><br>
+ 
+Did you Know? The Boost Library Collection was the inspiration behind most of the C++11 Standard Library.  Boost is a collection of high-quality, peer-reviewed libraries that provide foundational components for all applications.  To see some exciting new Boost libraries such as <a href=\"https://www.boost.org/doc/libs/develop/libs/mp11/doc/html/mp11.html\">mp11</a> or <a href=\"https://sdkrystian.github.io/doc/static_string/\">StaticString</a> please vist <a href=\"https://boost.org\">https://boost.org</a> today!",
+                    "until": "2021-12-31"
+                },
+                {
+                    "title": "Commvault",
+                    "link": "http://www.commvault.com/",
+                    "image": "/assets/img/sponsors/commvault.png",
+                    "blurb": "",
+                    "until": "2021-12-31"
+                }
+            ]
+        },
+        {
+            "title": "Silver Sponsors",
+            "sponsors":
+            [
+                {
+                    "title": "Unified Streaming",
+                    "link": "https://www.unified-streaming.com",
+                    "image": "/assets/img/sponsors/UnifiedStreaming.jpeg",
+                    "blurb": "Unified Streaming is dedicated to helping media companies create and execute smart video streaming and monetisation opportunities. Our technology, which is in operation across the globe, allows streaming providers to engage OTT audiences using HTTP for delivery in new ways through smart and highly flexible video playlists no matter how or where they’re watching.  
+
+To realise this we use  C++ as our core technology for audio and video streaming, transcode pipelines and MPEG related specification implementation.",
+                    "motto": "Your streaming challenge… accepted",
+                    "until": "2021-12-31"
+                }
+            ]
+        },
+        {
+            "title": "Bronze Sponsors",
+            "sponsors":
+            [
+                {
+                    "title": "Ciere Consulting",
+                    "link": "http://ciere.com",
+                    "image": "/assets/img/sponsors/ciere.png",
+                    "blurb": "",
+                    "until": "2021-12-31"
+                },
+                {
+                    "title": "Quantlab",
+                    "link": "https://www.quantlab.com/",
+                    "image": "/assets/img/sponsors/Quantlab.jpeg",
+                    "motto": "Quantlab: Where the best get better.",
+                    "blurb": "Quantlab is a quantitative trading firm where Technology and Scientific Research are central to our business and key to our success. Founded in 1998, Quantlab is a pioneer in quantitative algorithmic trading. Behind our success is our people. We hire some of the smartest and most passionate programmers and quants in the world.",
+                    "until": "2021-12-31"
+                },
+            ]
+        },
+        {
+            "title": "Video Sponsorship",
+            "sponsors":
+            [
+                {
+                    "title": "JetBrains",
+                    "link": "http://www.jetbrains.com/",
+                    "image": "/assets/img/sponsors/jetbrains.png",
+                    "motto": "Because C++, smart tools for C++ by JetBrains",
+                    "blurb": "JetBrains has a passion for making developers more productive through smarter software that simplifies your challenging tasks and automates the routine. Our tools for C++ natively support old and new language standards and Boost and libc++ libraries. They work with templated code and macros, and provide smart refactorings and detailed code analysis. Select between CLion for cross-platform development, ReSharper C++ to extend your Visual Studio, or AppCode for creating iOS/OS X applications.",
+                    "until": "2019-12-31"
+                }
+            ]
+        }
+    ],
+    "individual": [
+        {
+            "title": "Boost Scholarship Sponsors: Gold Level",
+            "sponsors":
+            [
+                {
+                    "name": "Jeff Trull",
+                    "info": "Jeffrey Trull <jetrull@sbcglobal.net>",
+                    "shirt": "men's medium",
+                    "until": "2021-03-04"
+                },                
+                {
+                    "name": "Jon and Kathleen Kalb",
+                    "info": "Jon Kalb <jonkalb@boost.org>",
+                    "shirt": "men's large",
+                    "until": "2020-04-07"
+                },
+                {
+                    "name": "Jon Terje Kommandantvold",
+                    "info": "jonterje.kommandantvold@gmail.com",
+                    "shirt": "men's large",
+                    "until": "2021-03-06"
+                },
+                {
+                    "name": "Peter Bindels",
+                    "info": "Peter Bindels <dascandy@gmail.com>",
+                    "shirt": "men's large",
+                    "until": "2020-04-07"
+                },
+                {
+                    "name": "Agustín Bergé", 
+                    "anonymous": true,
+                    "info": "Agustín Bergé <kaballo86@hotmail.com>",
+                    "shirt": "men's medium",
+                    "until": "2020-04-01"
+                },
+                {
+                    "name": "Zach Laine", 
+                    "anonymous": true,
+                    "info": "Zach Laine <whatwasthataddress@gmail.com>",
+                    "shirt": "men's extra large",
+                    "until": "2021-03-04"
+                },
+            ]
+        },
+        {
+            "title": "Boost Scholarship Sponsors: Silver Level",
+            "sponsors":
+            [
+            ]
+        },
+        {
+            "title": "Boost Scholarship Sponsors: Bronze Level",
+            "sponsors":
+            [
+                {
+                    "name": "Louis Dionne",
+                    "info": "Louis Dionne <louis.dionne92@gmail.com>",
+                    "shirt": "men's medium",
+                    "until": "2021-03-04"
+                },
+                {
+                    "name": "Peter Sommerlad",
+                    "info": "Peter Sommerlad <peter.cpp@sommerlad.ch>",
+                    "shirt": "men's large",
+                    "until": "2020-04-17"
+                },
+            ]
+        }
+    ]
+}
