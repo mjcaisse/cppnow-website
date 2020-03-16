@@ -8,8 +8,9 @@ redirect_from:
     - /speaker_faq/
 ---
 
-[Public Health FAQ](#public-health-faq) • [Viewer FAQ](#viewer-faq) • [Attendee FAQ](#attendee-faq) • [Volunteer FAQ](#volunteer-faq) • [Submitter FAQ](#submitter-faq) • [Speaker FAQ](#speaker-faq)
+<!-- [Public Health FAQ](#public-health-faq) • -->[Viewer FAQ](#viewer-faq) • [Attendee FAQ](#attendee-faq) • [Volunteer FAQ](#volunteer-faq) • [Submitter FAQ](#submitter-faq) • [Speaker FAQ](#speaker-faq)
 
+<!-- 
 ### Public Health FAQ
 
 #### Are panicking over the virus situation?
@@ -19,6 +20,7 @@ The conference organizers have drafted a [Public Health announcement](/announcem
 #### I'm not feeling well. What should I do?
 
 If at the time of C++Now 2020 you feel sick, or are worried that you might have been exposed, we encourage you to stay home. If you are already in Aspen, please stay in your hotel. Under these circumstances contact us and we'll refund your registration feel.
+-->
 
 ### Viewer FAQ
 
