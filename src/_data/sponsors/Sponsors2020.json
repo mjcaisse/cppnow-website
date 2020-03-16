@@ -103,7 +103,8 @@ To realise this we use  C++ as our core technology for audio and video streaming
                     "name": "Jon Terje Kommandantvold",
                     "info": "jonterje.kommandantvold@gmail.com",
                     "shirt": "men's large",
-                    "until": "2021-03-06"
+                    "until": "2021-03-06",
+                    "overage": "900"
                 },
                 {
                     "name": "Peter Bindels",

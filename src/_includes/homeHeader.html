@@ -3,7 +3,8 @@
         <div class="homeHeaderTopBoxForce">
             <a href="/" class="homeHeaderLogoLink"><img src="/assets/img/theme/CppNowLogo.svg" alt="C++Now Logo" class="homeHeaderLogo"></a>
             <div class="homeHeaderDates">
-                <span class="nowrap">{{site.current_year_start_date}}</span> - <span class="nowrap">{{site.current_year_end_date}}</span>
+                {% if site.current_year_canceled %}<span>canceled for {{site.current_year}}</span>{% else %}<span class="nowrap">{{site.current_year_start_date}}</span> - <span class="nowrap">{{site.current_year_end_date}}</span>{% endif %}
+                
             </div>
             <h4 class="homeHeaderSubtitle">A gathering of C++ experts and enthusiasts from around the world in beautiful Aspen, Colorado</h4>
         </div>
