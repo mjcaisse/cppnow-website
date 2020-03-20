@@ -31,7 +31,7 @@ The BSoC program is modeled after the [Google Summer of Code](https://developers
 
 Each year, the conference helps a small group of young programmers attend the conference. In exchange, the volunteers help the C++Now staff in running the conference.
 
-Contributions to the Boost Scholarship Fund are earmarked* to support these programs and can be made in any amount, but specific benefits attach at certain sponsorship levels. Donations are made to the Boost Foundation, a 501(c)3 (pending) not-for-profit charity and are fully tax-deductable to the extent permitted by law. Credit card transactions are made through our partner Krueger Event Management, which manages the C++Now event. Donors will receive a disclosure statement indicating the fair market value of any tangible benefits received.
+Contributions to the Boost Scholarship Fund are earmarked* to support these programs and can be made in any amount, but specific benefits attach at certain sponsorship levels. Donations are made to the Boost Foundation, a 501(c)(3) public charity and are fully tax-deductable to the extent permitted by law. Credit card transactions are made through our partner Krueger Event Management, which manages the C++Now event. Donors will receive a disclosure statement indicating the fair market value of any tangible benefits received.
 
 **Are you a student who will volunteer in exchange for a ticket? Not a student, just want to volunteer?<br>[Learn how to apply to the Student/Volunteer Program](/about/volunteer_program/)**
 
