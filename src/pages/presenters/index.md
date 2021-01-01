@@ -43,7 +43,26 @@ Interactive and collaborative sessions are encouraged, as this is the style of l
 
 - Other formats may also be of interest. Don’t hold back a proposal just because it doesn’t fit into a pigeonhole.
 
-Before you submit your talk, please have a look at our [Submitter FAQ](/about/faq/#submitter-faq) and our [Speaker FAQ](/about/faq/#speaker-faq). Before you give your talk, please read our [Attendee FAQ](/about/faq/#attendee-faq), particularly, [the question about the CatchBox](/about/faq/#CatchBox).
+{% if site.current_year_online %}
+#### Information specific C++Now 2021 (online-only)
+
+##### Safety Session
+If your submission is accepted for the C++Now 2021 main program, we'll schedule a *Safety Session* with you to work with conference staff on your presentation. The Safety Session will be exactly one week before your conference scheduled session (so in the week of April 26th - 30th). If this time doesn't work for you, please contact [Chris Ryan, our Speaker Liaison](mailto:speakers@cppnow.org), as soon as possible to scheduled an alternative Safety Session time.
+
+During your Safety Session, conference staff will assist with with your hardware/software configuration and provide you with guidance on how to optimize for online presentation.
+
+You will also *record your entire session presentation* so that we'll have a back-up to run in case of any system failures on the day of. Yes, this means that *you'll need to have your slides completed and your presentation ready one week before* it is scheduled. You will also submit a PDF of your slides at this time.
+
+Does this mean that you cannot make further changes to your presentation? Of course not. It wouldn't be C++Now if ~~Michael~~ someone wasn't updating their slides up until the last minute. You can modify your presentation as necessary and update your submitted PDF at any time, but we want to have a "fallback" in place for the day of.
+
+##### Prerecorded Sessions
+Audiences prefer "live" online sessions and most presenters prefer these as well. However, you may be more comfortable prerecording your presentation (or you may have bandwidth issues that require this). If this is your choice, do plan to attend your talk online so you can discuss the presentation in the chat room and do a live Q&A session at the end of your recorded talk. (Allow time for your Q&A session when preparing your recording.)
+
+{% endif %}
+
+#### Presenter FAQs
+
+Before you submit your talk, please have a look at our [Submitter FAQ](/about/faq/#submitter-faq) and our [Speaker FAQ](/about/faq/#speaker-faq). Before you give your talk, please read our [Attendee FAQ](/about/faq/#attendee-faq){% if site.current_year_online == false %}, particularly, [the question about the CatchBox](/about/faq/#CatchBox){% endif %}.
 
 For more information about regular program submissions, contact the Program Chair: [program@cppnow.org](mailto:program@cppnow.org)
 
@@ -81,10 +100,10 @@ If your registration cost is waived, you will be contacted about how to register
 
 Please let people know that you are speaking! You are the attraction for this year’s conference, so let people know on [Twitter](https://twitter.com/cppnow/) (#CppNow), [Facebook](https://www.facebook.com/CppNow/), [LinkedIn](https://www.linkedin.com/groups/6593259), [Slack](https://cpplang.slack.com/messages/cppnow/), or wherever is appropriate for you.
 
-If you want to engage with other CppNow attendees, including other presenters, please join [the Slack #cppnow channel](https://cpplang.slack.com/messages/cppcon/) by first using [the auto-invite page for the CppLang workspace](https://cpplang.now.sh/).
+If you want to engage with other CppNow attendees, including other presenters, please join [the Slack #cppnow channel](https://cpplang.slack.com/messages/cppcon/) by first using [the auto-invite page for the CppLang workspace](https://cpplang-inviter.cppalliance.org/).
 
 ## Connecting with other speakers
-Please join [the Slack #speakerscorner channel](https://cpplang.slack.com/messages/speakerscorner/) by first using [the auto-invite page for the CppLang workspace](https://cpplang.now.sh/). This is a good way of asking questions of and getting advise from experienced presenters at C++ conferences.
+Please join [the Slack #speakerscorner channel](https://cpplang.slack.com/messages/speakerscorner/) by first using [the auto-invite page for the CppLang workspace](https://cpplang-inviter.cppalliance.org/). This is a good way of asking questions of and getting advise from experienced presenters at C++ conferences.
 
 ## Practice
 If possible, give your talk before a live technical audience. Do it at work and/or with a local user group. You’ll be surprised at what you learn about how long it takes, what you find yourself wishing you’d included, and what questions you get. Pay attention to these issues, learn from them, and incorporate them into your talk. It will improve every time you give it, try to give it as many times as you can arrange an audience.
@@ -133,7 +152,7 @@ Better safe than sorry: Your laptop may break or go missing. Consider:
 * Put a copy on Google drive/Dropbox/iCloud.
 
 ## Archiving Your Presentation
-Please send a PDF of your presentation to the [Conference Archivist](mailto:speaker-files@cppnow.org). Please use this address for both Main Program presentations and Lightning Talk presentations. This need not be done _before_ you give your presentation, but please have it done in time to have the slides online by the time the video recording of your presentation is uploaded (shortly after the conference).
+Please send a PDF of your presentation to the [Conference Archivist](mailto:speaker-files@cppnow.org). Please use this address for both Main Program presentations and Lightning Talk presentations. {% if site.current_year_online %}This should be done a week before you give your presentation, but you can update it at any time, even after your presentation is over.{% else %}This need not be done _before_ you give your presentation, but please have it done in time to have the slides online by the time the video recording of your presentation is uploaded (shortly after the conference).{% endif %}
 
 ## Advice from Bash Films
 Bash is company that records, edits, and uploads our videos. Here is their [advice to presenters](https://drive.google.com/file/d/0BylxYEqmZhqTV0JnS1A0WS1CUnM/view?usp=sharing).
