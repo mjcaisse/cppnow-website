@@ -39,7 +39,7 @@ redirect_from:
 ## Program Committee Members
 
 <div style="margin-bottom: 16px;">
-<div>Bryce Adelstein Lelbach (Program Chair)</div>
+<div>Bob Steagall (Program Chair)</div>
 
 {% assign filename = 'ProgramCommitteeMembers' | append: site.current_year %}
 {% assign programCommitteeMembers = site.data.programCommitteeMembers[filename] %}
