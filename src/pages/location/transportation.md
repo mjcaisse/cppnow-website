@@ -7,6 +7,12 @@ redirect_from:
     - /ride_share/
 ---
 
+{% if site.current_year_online %}
+### C++Now {{site.current_year}}
+
+Note: C++Now {{site.current_year}} will be entirely online.
+{% endif %}
+
 [Aspen](https://en.wikipedia.org/wiki/Aspen,_Colorado) is a compact town, and the [conference venue](http://www.aspenphys.org/) and [hotel](https://www.aspenmeadows.com/) are within walking distance of downtown shops and restaurants. However, for other transportation needs, there are several options.
 
 ### Public Transportation

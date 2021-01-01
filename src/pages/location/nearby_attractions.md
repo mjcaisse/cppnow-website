@@ -7,6 +7,13 @@ redirect_from:
     - /around_town/
 ---
 
+{% if site.current_year_online %}
+### C++Now {{site.current_year}}
+
+Note: C++Now {{site.current_year}} will be entirely online.
+{% endif %}
+
+
 [Aspen](https://en.wikipedia.org/wiki/Aspen,_Colorado) is a compact town, and the [conference venue](http://www.aspenphys.org/) and [hotel](https://www.aspenmeadows.com/) are within walking distance of downtown shops and restaurants. For a complete list of attractions, dining options, and entertainment options, visit the [Aspen Chamber of Commerce](https://www.aspenchamber.org/).
 
 ### Dining in Aspen

@@ -36,10 +36,12 @@ Questions and comments by the audience are not distractions, they are the reason
 
 ### Attendee FAQ
 
+{% if site.current_year_online == false %}
+
 #### Why Aspen?
 
 It's an understandable question: when some people think of Aspen, they see a glitzy skiing and shopping playground for the rich. But this town has another side that's in many ways stronger and more fundamental: a tradition of fostering intellectual and artistic collaboration. Every year the [Aspen Institute](https://www.aspeninstitute.org/), [Music Festival](http://www.aspenmusicfestival.com/), and [Center for Physics](https://www.aspenphys.org/) draw the most talented people in the world to work together. They come, not just because their colleagues are there, but because Aspen has an elusive quality that inspires great moments.
-
+{% endif %}
 
 
 #### Why the long breaks?
@@ -50,9 +52,9 @@ Think back to the conferences you've been to. If your experience is like ours, t
 
 #### What should I do after I register?
 
-* Tweet (#CppNow), blog, or otherwise let everyone know you are coming.
+* Tweet (#CppNow), blog, or otherwise let everyone know you are coming.{% if site.current_year_online == false %}
 * Make your travel arrangements. Sooner is better because that is when you'll have the best selections.
-* Make your [hotel arrangements](/location/lodging/). Sooner is better because the hotel will sell out.
+* Make your [hotel arrangements](/location/lodging/). Sooner is better because the hotel will sell out.{% endif %}
 * Join the [CppLang Team on Slack](https://cpplang.now.sh/) and then
     * Join the [#cppnow-announcements channel](https://cpplang.slack.com/messages/cppnow-announcements) for                official conference announcements,
     * Join the [#cppnow channel](https://cpplang.slack.com/messages/cppnow) for conference attendee chatting, and
@@ -70,6 +72,7 @@ After you register, you'll get an invite from Sched.com. Accept this and use it 
 
 
 
+{% if site.current_year_online == false %}
 #### Will I need a car?
 
 Parking is not a problem if you have a car, but a car is not needed. Aspen is small enough that you can go almost anywhere on foot and the Meadows Resort has a shuttle that will take you to and from the airport as well as downtown Aspen. Plan to do a good deal of walking, but plan to do it slowly. The mountain air is fresh and clean. And thin.
@@ -156,6 +159,7 @@ One evening, we'll host a picnic at the Center for Physics. Feel free to have an
 
 _Time is an illusion. Lunchtime doubly so._ - Douglas Adams
 
+{% endif %}
 
 #### What are Lightning Talks?
 
@@ -232,7 +236,8 @@ C++Now is a community conference and it survives because of the support of the c
 
 #### How many people get accepted and funded?
 
-There is no fixed number. Usually four to six.
+There is no fixed number. Usually four to six. {% if site.current_year_online %}For C++Now 2021, which is online, we'll need more volunteers that usual, so more will be accepted.{% endif %}
+
 
 
 
@@ -251,6 +256,13 @@ Not every successful application has everything that we look for, but we’d lik
 
 #### What will I be doing as a volunteer?
 
+{% if site.current_year_online %}
+You will receive training on the software and systems that we use to broadcast online sessions.
+* You'll assist presenters with their Safety Sessions in which they will make a fallback recording of their presentation one week before their scheduled conference session.
+* You'll assist presenters with their live or pre-recorded delivery of their scheduled conference session.
+
+{% else %}
+
 We want you to have plenty of time to attend sessions and socialize with other attendees, but you’ll have some responsibilities which will include:
 * preparing for registration
     * touring the campus--you be giving tours to first-time attendees during registration
@@ -267,14 +279,12 @@ We want you to have plenty of time to attend sessions and socialize with other a
     * making special announcements as required
 * assisting with setup before and cleanup after the picnic
 * running errands as requested and, in general, supporting conference operations as needed
-
+{% endif %}
 
 
 #### What should I bring?
 
 Read the [Attendee FAQ](#attendee-faq). You are an attendee.
-
-
 
 #### Will I get to watch sessions that I want to see?
 
@@ -324,6 +334,7 @@ Quite likely.
 
 ### Speaker FAQ
 
+{% if site.current_year_online == false %}
 #### Will there be a digital video projector available?
 
 Yes.
@@ -340,6 +351,7 @@ Yes.
 
 No, please bring your own or arrange with the program committee to get access to one.
 
+{% endif %}
 
 
 #### Do I have to use PowerPoint?
@@ -357,16 +369,20 @@ Suggestions from experienced presenters include:
 * Think about who your audience is, and target your talk toward the middle of that audience. Boost users, for example, are C++-literate and can be assumed to know about Boost in general, so concentrate on the Boost library you are presenting.
 * Your audience can read, so don't just stand there and read your slides to them. Explain the bullet points or code examples on your slides. Give the rationale behind the design. Relate new material to things they are already familiar with.
 * Do include code examples; C++ programmers often understand code examples better than prose descriptions.
+* Don't just tell your audience what something is, tell them how to use it themselves. Show them real code.
+{% if site.current_year_online == false %}
 * Look at your audience. Make eye contact.
 * Repeat questions from the audience before answering, remember, the video audience is much bigger than the live audience, and in the video they only hear what has been repeated to microphone.
-* Don't just tell your audience what something is, tell them how to use it themselves. Show them real code.
 * Involve your audience; ask them questions.
+{% endif %}
 
 
 
+{% if site.current_year_online == false %}
 #### How many people will attend my session?
 
 Given the capacity of the rooms, plan on a maximum of 100 and a minimum of 20.
+{% endif %}
 
 
 #### How much time should I reserve for questions?
@@ -396,6 +412,7 @@ Running compiles or demos can add interest, but be very sure the app will work! 
 At the minimum, provide a PDF file of your slides.
 
 
+{% if site.current_year_online == false %}
 
 #### Must I stay in the conference hotel?
 
@@ -406,6 +423,7 @@ No, although part of the fun and benefits of a conference come from offline inte
 #### When should I plan to arrive?
 
 At a minimum, please plan to arrive the day before your session, and allow plenty of leeway for travel delays (and possible jet lag). Of course we hope you will come for the entire conference, and leave some time to enjoy the spectacular setting.
+{% endif %}
 
 
 #### How do I submit my slides?
