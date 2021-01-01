@@ -6,6 +6,11 @@ section: location
 redirect_from:
     - /meals/
 ---
+{% if site.current_year_online %}
+### C++Now {{site.current_year}}
+
+Note: C++Now {{site.current_year}} will be entirely online.
+{% endif %}
 
 ![Library Break by Zoetica Ebb](/assets/img/location/LibraryBreakByZoeticaEbb.jpg "Library Break by Zoetica Ebb")<br>
 *Photograph by Zoetica Ebb. Used with permission.*

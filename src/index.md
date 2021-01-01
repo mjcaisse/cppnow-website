@@ -204,7 +204,7 @@ There are several opportunities to sponsor C++Now, both as a [Corporate Sponsor]
   "image": [
     "http://cppnow.org/assets/img/theme/CppNowLogo.svg"
    ],
-  "description": "A gathering of C++ experts and enthusiasts from around the world in beautiful Aspen, Colorado.",
+  "description": "{{ site.description }}",
   "offers": {
     "@type": "Offer",
     "url": "http://cppnow.org/registration/",

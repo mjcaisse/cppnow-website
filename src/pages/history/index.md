@@ -7,6 +7,7 @@ section: history
 
 After each year's convention, C++Now archives the important content: session schedules, videos of talks, sponsors for the year, and attendee information.
 
+* **C++Now 2020 cancelled**
 * **[C++Now 2019](/history/2019/)**
     * Keynotes:
         * C++ Constants (Daveed Vandevorde)

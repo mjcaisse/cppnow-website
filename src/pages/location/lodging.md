@@ -7,6 +7,11 @@ redirect_from:
     - /lodging/
     - /room_share/
 ---
+{% if site.current_year_online %}
+### C++Now {{site.current_year}}
+
+Note: C++Now {{site.current_year}} will be entirely online.
+{% endif %}
 
 <!-- <p class="highlight" markdown="1">The Aspen Meadows Resort has sold out for C++Now 2019.</p>
 

@@ -8,6 +8,10 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
+markdown: redcarpet
+redcarpet:
+  extensions: ["strikethrough"]
+
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -15,8 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 title: C++Now
 email: admin@ciere.com
+#description: > # this means to ignore newlines until "baseurl:"
+#    A gathering of C++ experts and enthusiasts from around the world in beautiful Aspen, Colorado.
 description: > # this means to ignore newlines until "baseurl:"
-    A gathering of C++ experts and enthusiasts from around the world in beautiful Aspen, Colorado.
+    A online gathering of C++ experts and enthusiasts from around the world.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "//cppnow.org"
 locale: en_US
@@ -57,14 +63,15 @@ gems:
   - jekyll-redirect-from
 
 # Year Data Config
-current_year: 2020
+current_year: 2021
 current_dates_formated: "May 2-7, 2021"
 current_year_start_date: "May 2, 2021"
 current_year_end_date: "May 7, 2021"
 current_year_start_date_formatted: "2021-05-02"
 current_year_end_date_formatted: "2021-05-07"
 
-current_year_canceled: true
+current_year_canceled: false
+current_year_online: true
 
 registration_time: "16:00 on Sunday, May 2nd"
 registration_day_of_week: "Sunday"
@@ -81,12 +88,12 @@ over: false
 ## Note that we "flip" the conference (set the current_year, etc,) when we make the
 ##  first post about the new conference.
 
-submission: "was"
+submission: "is"
 
-last_cfs: "/announcements/2019/12/2020-CfS/"
+last_cfs: "/announcements/2020/12/2021-CfS/"
 
 ## If we are doing lunch signups we want them in the FAQ.
-doing_lunch_signups: true
+doing_lunch_signups: false
 lunch_signup_link: "https://docs.google.com/spreadsheets/d/12zmvrJHI7fIms8SH9FviPJkyt0cYOnq6eaARv_m9GuU/"
 
 ## "will", "is", "was": becomes "was" when the hotel is full or the conference is over
@@ -95,9 +102,9 @@ online_link_for_Meadows_reservation: "https://book.passkey.com/go/CppNow"
 
 
 ## "will", "is", "was": becomes "was" when  the conference is over
-registration: "was"
+registration: "will"
 refund_fee: "$30"
-refund_deadline: "May 4th" # 30 days prior to conference start, except for 2020, due to virus
+refund_deadline: "April 30th" # 30 days prior to conference start, except for 2020, due to virus
 
 eventbrite_reg_URL: "https://cppnow2020.eventbrite.com/"
 eventbrite_reg_iframe_HTML: "<iframe src=\"https://cppnow2020.eventbrite.com/?ref=eweb\" width=\"100%\" height=\"2900\" frameborder=\"0\" marginwidth=\"5\" marginheight=\"5\" scrolling=\"auto\"></iframe>"
@@ -105,18 +112,18 @@ eventbrite_reg_iframe_HTML: "<iframe src=\"https://cppnow2020.eventbrite.com/?re
 krueger_reg_URL: "https://na.eventscloud.com/313707"
 krueger_reg_iframe_HTML: "<iframe src=\"https://www.eiseverywhere.com/ereg/index.php?eventid=313707&\" width=\"100%\" height=\"2900\" frameborder=\"0\" marginwidth=\"5\" marginheight=\"5\" scrolling=\"auto\"></iframe>"
 
-volunteer_applications: "was"
-deadline_for_volunteers: "February 7th, 2020" # 10 weeks prior to start of conference
-notification_for_volunteers: "February 23rd, 2020" # 9 weeks prior to start of conference
+volunteer_applications: "will"
+deadline_for_volunteers: "March 15th, 2021" # 10 weeks prior to start of conference
+notification_for_volunteers: "March 31st, 2021" # 9 weeks prior to start of conference
 volunteer_jotform_ID: 193466856656173
 
 ## "will", "is", "was": becomes "was" when  the conference is over
-lightning_talk_submission: "was"
+lightning_talk_submission: "will"
 lightning_talk_submission_URL: "https://cppnow.ciere.io/"
 
 schedule_online: false
-sched_com_URL: "https://cppnow2020.sched.org/"
-sched_com_embed_URL: "https://cppnow2020.sched.org/js/embed.js"
+sched_com_URL: "https://cppnow2021.sched.org/"
+sched_com_embed_URL: "https://cppnow2021.sched.org/js/embed.js"
 
 previous_years_schedule: "[C++Now 2019 Schedule](/history/2019/schedule/)"
 
@@ -155,7 +162,7 @@ tag_cloud_image_width: "577"
 ## a call to action.
 
 ## Box 0
-B0_show: true
+B0_show: false
 B0_title: "Venue"
 B0_link: "/location/venue/"
 B0_photo: "/assets/img/home/venue.jpg"
@@ -164,7 +171,7 @@ B0_description: "<p>The venue for C++Now is the <a href=\"https://www.aspenphys.
 B0_call: "Learn More"
 
 ## Box 1
-B1_show: true
+B1_show: false
 B1_title: "Hotel"
 B1_link: "/location/lodging/"
 B1_photo: "/assets/img/home/AspenMeadowsResort.jpg"
@@ -173,32 +180,40 @@ B1_description: "<p>The conference hotel is the <a href=\"https://www.aspenmeado
 B1_call: "Learn More"
 
 ## Box 2
-B2_show: false
-B2_title: "Join us"
-B2_link: "/registration/"
-B2_photo: "/assets/img/home/attendees.jpeg"
-B2_photo_title: "Attendees: Photo by Zoetica Ebb"
-B2_description: "<p>Attending C++Now and being part of the discussion on cutting edge C++ can be a life changing experience. The content presented at C++Now is unmatched at C++ events, but that isn't the best part of conference. The best part of the conference is the attendees that you'll meet and engage with for a week in the beautiful Colorado Rockies.</p>"
-B2_call: "Register Now"
+# B2_show: false
+# B2_title: "Join us"
+# B2_link: "/registration/"
+# B2_photo: "/assets/img/home/attendees.jpeg"
+# B2_photo_title: "Attendees: Photo by Zoetica Ebb"
+# B2_description: "<p>Attending C++Now and being part of the discussion on cutting edge C++ can be a life changing experience. The content presented at C++Now is unmatched at C++ events, but that isn't the best part of conference. The best part of the conference is the attendees that you'll meet and engage with for a week in the beautiful Colorado Rockies.</p>"
+# B2_call: "Register Now"
 
+B2_show: true
+B2_title: "Venue"
+B2_link: "/announcements/2022/12/announcing-cpp-now-2021/"
+B2_photo: "/assets/img/home/venue.jpg"
+B2_photo_title: "Aspen Center for Physics: Photo by Zoetica Ebb"
+B2_description: "<p>C++Now 2021 will be entirely online, so will not be at our traditional home, the <a href=\"https://www.aspenphys.org/\">Aspen Center for Physics</a>.</p>"
+B2_call: "Learn More"
 
 ## Box 3
-B3_show: false
-B3_title: "Become a Volunteer"
-B3_link: "/about/volunteer_program/"
-B3_photo: "/assets/img/home/volunteers.jpg"
-B3_photo_title: "Volunteers: Photo by Zoetica Ebb"
-B3_description: "<p>A small group of promising young C++ programmers is selected to be part of each C++Now. In exchange for helping run the conference, volunteers receive financial assistance and what may be a career changing opportunity.</p>"
-B3_call: "Apply Today"
+B3_show: true
+B3_title: "Be a Presenter"
+B3_link: "/presenters/"
+B3_photo: "/assets/img/home/jackie.jpg"
+B3_photo_title: "Jackie Kay: Photo by Zoetica Ebb"
+B3_description: "<p>Join the discussion! Get the most out of C++Now by joining the elite group of C++ experts that have presented a lightning talk or as part of the regular program.</p>"
+B3_call: "Presenter Information"
 
 ## Box 4
 B4_show: false
-B4_title: "Become a Presenter"
-B4_link: "/presenters/"
-B4_photo: "/assets/img/home/jackie.jpg"
-B4_photo_title: "Jackie Kay: Photo by Zoetica Ebb"
-B4_description: "<p>Join the discussion! Get the most out of C++Now by joining the elite group of C++ experts that have presented a lightning talk or as part of the regular program.</p>"
-B4_call: "Presenter Information"
+B4_title: "Be a Volunteer"
+B4_link: "/about/volunteer_program/"
+B4_photo: "/assets/img/home/volunteers.jpg"
+B4_photo_title: "Volunteers: Photo by Zoetica Ebb"
+B4_description: "<p>A small group of promising young C++ programmers is selected to be part of each C++Now. In exchange for helping run the conference, volunteers receive financial assistance and what may be a career changing opportunity.</p>"
+B4_call: "Apply Today"
+
 
 ## Box 5
 B5_show: false
