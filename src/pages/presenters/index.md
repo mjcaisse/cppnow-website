@@ -169,5 +169,5 @@ Here is [a page of advice](https://meetingcpp.com/index.php/br/items/presenting-
 
 If you have any questions, please [contact the Speaker Liaison](mailto:speakers@cppnow.org).
 
-We'll see you in Aspen!
+We'll see you {% if site.current_year_online %}online{% else %}{{site.current_where}}{% endif %}!
 

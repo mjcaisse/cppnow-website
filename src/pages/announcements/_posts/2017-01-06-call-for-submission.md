@@ -51,7 +51,7 @@ Interactive and collaborative sessions are encouraged, as this is the style of l
 
 #### Tool vendors
 
-We actively encourage tool vendors and ISP’s to submit proposals about products related to Boost and C++ (compilers, libraries, tools, etc.). We discourge proposals about marketing, but are always interested in technology and its applications.
+We actively encourage tool vendors and ISP’s to submit proposals about products related to Boost and C++ (compilers, libraries, tools, etc.). We discourage proposals about marketing, but are always interested in technology and its applications.
 
 ### Session Formats
 

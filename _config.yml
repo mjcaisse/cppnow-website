@@ -22,7 +22,7 @@ email: admin@ciere.com
 #description: > # this means to ignore newlines until "baseurl:"
 #    A gathering of C++ experts and enthusiasts from around the world in beautiful Aspen, Colorado.
 description: > # this means to ignore newlines until "baseurl:"
-    A online gathering of C++ experts and enthusiasts from around the world.
+    An <span style="color: red;">online</span> gathering of C++ experts and enthusiasts from around the world.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "//cppnow.org"
 locale: en_US
@@ -72,6 +72,8 @@ current_year_end_date_formatted: "2021-05-07"
 
 current_year_canceled: false
 current_year_online: true
+current_location: "Aspen, Colorado"
+current_where: "in Aspen"
 
 registration_time: "16:00 on Sunday, May 2nd"
 registration_day_of_week: "Sunday"
