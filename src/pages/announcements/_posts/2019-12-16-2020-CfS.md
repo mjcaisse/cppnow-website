@@ -48,7 +48,7 @@ C++Now sessions should focus on the latest C++ standards (C++11/14/17/20). Topic
 
 #### Tool vendors
 
-We actively encourage tool vendors and ISP’s to submit proposals about products related to Boost and C++ (compilers, libraries, tools, _etc_). (We discourge proposals about marketing, but are always interested in technology and its applications.)
+We actively encourage tool vendors and ISP’s to submit proposals about products related to Boost and C++ (compilers, libraries, tools, _etc_). (We discourage proposals about marketing, but are always interested in technology and its applications.)
 
 ### Session Formats
 
