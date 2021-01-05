@@ -64,7 +64,7 @@ Audiences prefer "live" online sessions and most presenters prefer these as well
 
 Before you submit your talk, please have a look at our [Submitter FAQ](/about/faq/#submitter-faq) and our [Speaker FAQ](/about/faq/#speaker-faq). Before you give your talk, please read our [Attendee FAQ](/about/faq/#attendee-faq){% if site.current_year_online == false %}, particularly, [the question about the CatchBox](/about/faq/#CatchBox){% endif %}.
 
-For more information about regular program submissions, contact the Program Chair: [program@cppnow.org](mailto:program@cppnow.org)
+For more information about regular program submissions, contact the Program Committee: [program@cppnow.org](mailto:program@cppnow.org)
 
 {% if site.submission == "is" %}
 
