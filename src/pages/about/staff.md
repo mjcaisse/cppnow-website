@@ -40,6 +40,7 @@ redirect_from:
 
 <div style="margin-bottom: 16px;">
 <div>Bob Steagall (Program Chair)</div>
+<div>Bryce Adelstein Lelbach (Program Co-Chair)</div>
 
 {% assign filename = 'ProgramCommitteeMembers' | append: site.current_year %}
 {% assign programCommitteeMembers = site.data.programCommitteeMembers[filename] %}
