@@ -8,7 +8,7 @@ section: announcements
 
 ### C++Now 2021 Online
 
-We are announcing C++Now 2021 which will be held entirely *online*.
+We are announcing C++Now 2021 which will be held <span style="color: red;">entirely *online*</span>.
 
 This year represents an unprecedented opportunity for you to **engage with Boost Library authors**. We are extending a free registration invitation to all authors and official maintainers of Boost Libraries. We've never been able to do this at the onsite conference, so this promises to be a once-in-a-lifetime opportunity.
 
