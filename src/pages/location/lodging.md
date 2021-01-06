@@ -10,7 +10,7 @@ redirect_from:
 {% if site.current_year_online %}
 ### C++Now {{site.current_year}}
 
-Note: C++Now {{site.current_year}} will be entirely online.
+Note: C++Now {{site.current_year}} will be <span style="color: red;">entirely online</span>.
 {% endif %}
 
 <!-- <p class="highlight" markdown="1">The Aspen Meadows Resort has sold out for C++Now 2019.</p>
@@ -87,9 +87,11 @@ Use the [online registration system]({{site.online_link_for_Meadows_reservation}
 
   {% when 'was' %}
 
+<!-- 
 ---
 <p class="highlight" markdown="1">The Aspen Meadows Resort has sold out for C++Now 2019.</p>
 ---
+-->
 
 {% endcase %}
 
