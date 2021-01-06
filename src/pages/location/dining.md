@@ -9,7 +9,7 @@ redirect_from:
 {% if site.current_year_online %}
 ### C++Now {{site.current_year}}
 
-Note: C++Now {{site.current_year}} will be entirely online.
+Note: C++Now {{site.current_year}} will be <span style="color: red;">entirely online</span>.
 {% endif %}
 
 ![Library Break by Zoetica Ebb](/assets/img/location/LibraryBreakByZoeticaEbb.jpg "Library Break by Zoetica Ebb")<br>

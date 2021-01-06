@@ -7,7 +7,7 @@ section: location
 {% if site.current_year_online %}
 ### C++Now {{site.current_year}}
 
-Note: C++Now {{site.current_year}} will be entirely online.
+Note: C++Now {{site.current_year}} will be <span style="color: red;">entirely online</span>.
 {% endif %}
 
 ![Aspen Location by Zoetica Ebb](/assets/img/location/AspenLocationByZoeticaEbb.jpg "Aspen Location by Zoetica Ebb")<br>

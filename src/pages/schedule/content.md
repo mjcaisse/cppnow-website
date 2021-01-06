@@ -15,7 +15,7 @@ Our formal content includes keynote presentations by individuals that are shapin
 
 Our [main program sessions](/schedule/) are ninety minutes long. This is longer than most conference sessions, but the expectation for C++Now sessions is that they dig deep and have time for discussion, comments, and questions.
 
-<img src="/assets/img/content/André.Bergner.jpeg" width="100%" />
+<img src="/assets/img/content/Bergner.jpeg" width="100%" />
 
 At the other end of the length scale, we feature [Lightning Talks](/schedule/lightning.talks/) that last only five minutes. Since our attendees often have clever insights as well as sharpe wits, this is long enough to make a point is creative ways.
 
