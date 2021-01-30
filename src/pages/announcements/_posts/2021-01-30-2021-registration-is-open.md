@@ -14,7 +14,7 @@ categories:
 
 Registration for C++Now 2021 is open!
 
-The ninth annual C++Now Conference will be held online May 2nd to 7th, 2021.
+The ninth annual C++Now Conference will be held <span style="color: red;">online</span> May 2nd to 7th, 2021.
 
 ![badges - Photograph by Zoetica Ebb. Used with permission.](/assets/img/posts/2018/badges.jpg "badges - Photograph by Zoetica Ebb. Used with permission.")
 <br>
