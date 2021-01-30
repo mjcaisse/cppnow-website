@@ -164,13 +164,13 @@ tag_cloud_image_width: "577"
 ## a call to action.
 
 ## Box 0
-B0_show: false
-B0_title: "Venue"
-B0_link: "/location/venue/"
-B0_photo: "/assets/img/home/venue.jpg"
-B0_photo_title: "Aspen Center for Physics: Photo by Zoetica Ebb"
-B0_description: "<p>The venue for C++Now is the <a href=\"https://www.aspenphys.org/\">Aspen Center for Physics</a>, a beautiful location creating a lively environment for thought, education, and collaboration.</p>"
-B0_call: "Learn More"
+#B0_show: false
+#B0_title: "Venue"
+#B0_link: "/location/venue/"
+#B0_photo: "/assets/img/home/venue.jpg"
+#B0_photo_title: "Aspen Center for Physics: Photo by Zoetica Ebb"
+#B0_description: "<p>The venue for C++Now is the <a href=\"https://www.aspenphys.org/\">Aspen Center for Physics</a>, a beautiful location creating a lively environment for thought, education, and collaboration.</p>"
+#B0_call: "Learn More"
 
 ## Box 1
 B1_show: false
@@ -190,13 +190,23 @@ B1_call: "Learn More"
 # B2_description: "<p>Attending C++Now and being part of the discussion on cutting edge C++ can be a life changing experience. The content presented at C++Now is unmatched at C++ events, but that isn't the best part of conference. The best part of the conference is the attendees that you'll meet and engage with for a week in the beautiful Colorado Rockies.</p>"
 # B2_call: "Register Now"
 
+#B2_show: false
+#B2_title: "Venue"
+#B2_link: "/announcements/2022/12/announcing-cpp-now-2021/"
+#B2_photo: "/assets/img/home/venue.jpg"
+#B2_photo_title: "Aspen Center for Physics: Photo by Zoetica Ebb"
+#B2_description: "<p>C++Now 2021 will be entirely online, so will not be at our traditional home, the <a href=\"https://www.aspenphys.org/\">Aspen Center for Physics</a>.</p>"
+#B2_call: "Learn More"
+
 B2_show: true
-B2_title: "Venue"
-B2_link: "/announcements/2022/12/announcing-cpp-now-2021/"
-B2_photo: "/assets/img/home/venue.jpg"
-B2_photo_title: "Aspen Center for Physics: Photo by Zoetica Ebb"
-B2_description: "<p>C++Now 2021 will be entirely online, so will not be at our traditional home, the <a href=\"https://www.aspenphys.org/\">Aspen Center for Physics</a>.</p>"
-B2_call: "Learn More"
+B2_title: "Join us"
+B2_link: "/registration/"
+B2_photo: "/assets/img/home/attendees.jpeg"
+B2_photo_title: "Attendees: Photo by Zoetica Ebb"
+B2_description: "<p>Attending C++Now and being part of the discussion on cutting edge C++ can be a life changing experience. The content presented at C++Now is unmatched at C++ events, but that isn't the best part of conference. The best part of the conference is the attendees that you'll meet and engage with for a week.</p>"
+B2_call: "Register Now"
+
+
 
 ## Box 3
 B3_show: true
