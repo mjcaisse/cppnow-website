@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2021 Registration is Open"
-date: 2021-01-24
+date: 2021-01-30
 permalink: /announcements/2021/01/2021-registration-is-open/
 section: announcements
 
