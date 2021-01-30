@@ -23,18 +23,19 @@ The Boost Scholarship Fund supports two programs that directly benefit C++ stude
 
 ### Boost Summer of Code
 
-The BSoC program is modeled after the [Google Summer of Code](https://developers.google.com/open-source/gsoc/) program, in which Boost is a long time participant. Like GSoC, BSoC projects provide funding for students to work on specific Boost Library projects over the summer. BSoC is designed to supplement the GSoC program by allowing Boost to accept students that would otherwise be rejected by GSoC due to funding or eligibility.
+The BSoC program is modeled after the [Google Summer of Code](https://developers.google.com/open-source/gsoc/) program, in which Boost is a long time participant. Like GSoC, BSoC projects provide funding for students to work on specific Boost Library projects over the summer. BSoC is designed to supplement the GSoC program by allowing Boost to accept students that would otherwise be rejected by GSoC due to limited funding or eligibility.
 
 
 
 ### C++Now Student/Volunteer Program
 
-Each year, the conference helps a small group of young programmers attend the conference. In exchange, the volunteers help the C++Now staff in running the conference.
+Each year, the conference gives financial support to a small group of young programmers covering expenses to attend the conference. In exchange, the volunteers help the C++Now staff in running the conference.
 
-Contributions to the Boost Scholarship Fund are earmarked* to support these programs and can be made in any amount, but specific benefits attach at certain sponsorship levels. Donations are made to the Boost Foundation, a 501(c)(3) public charity and are fully tax-deductable to the extent permitted by law. Credit card transactions are made through our partner Krueger Event Management, which manages the C++Now event. Donors will receive a disclosure statement indicating the fair market value of any tangible benefits received.
+Contributions to the Boost Scholarship Fund are earmarked* to support these programs and can be made in any amount, but {% if site.current_year_online %}specific recognition is given at certain sponsorship levels. Recognized levels for 2021 are Gold $200, Silver $100, and Bronze $50.{% else %}specific benefits attach at certain sponsorship levels.{% endif %} Donations are made to the Boost Foundation, a 501(c)(3) public charity and are fully tax-deductable to the extent permitted by law. Credit card transactions are made through our partner Krueger Event Management, which manages the C++Now event. Donors will receive a disclosure statement indicating the fair market value of any tangible benefits received.
 
 **Are you a student who will volunteer in exchange for a ticket? Not a student, just want to volunteer?<br>[Learn how to apply to the Student/Volunteer Program](/about/volunteer_program/)**
 
+{% if site.current_year_online %}{% else %}
 #### Gold Scholarship Sponsor Level
 
 The Gold Level Sponsorship is $500 and has these benefits:
@@ -58,7 +59,7 @@ The Bronze Level Sponsorship is $125 and has these benefits:
 
 * Recognition on Boost and C++Now websites
 * Boost Scholarship Sponsor tee shirt
-
+{% endif %}
 Every donation comes with the knowledge that you are making a difference in the career of a C++ student.
 
 #### Become a Sponsor Today
