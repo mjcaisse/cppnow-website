@@ -21,6 +21,8 @@ title: C++Now
 email: admin@ciere.com
 #description: > # this means to ignore newlines until "baseurl:"
 #    A gathering of C++ experts and enthusiasts from around the world in beautiful Aspen, Colorado.
+description_html: > # this means to ignore newlines until "baseurl:"
+    An <span style="color: red;">online</span> gathering of C++ experts and enthusiasts from around the world.
 description: > # this means to ignore newlines until "baseurl:"
     An online gathering of C++ experts and enthusiasts from around the world.
 baseurl: "" # the subpath of your site, e.g. /blog

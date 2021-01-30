@@ -186,21 +186,9 @@ There are several opportunities to sponsor C++Now, both as a [Corporate Sponsor]
 {
   "@context": "https://schema.org",
   "@type": "Event",
-  "name": "C++Now 2020",
-  "startDate": "2020-05-03T16:00",
-  "endDate": "2020-05-08T17:00",
-  "location": {
-    "@type": "Place",
-    "name": "Aspen Center for Physics",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "700 Gillespie Ave",
-      "addressLocality": "Aspeb",
-      "postalCode": "81611",
-      "addressRegion": "CO)",
-      "addressCountry": "US"
-    }
-  },
+  "name": "C++Now 2021",
+  "startDate": "2021-05-02T16:00",
+  "endDate": "2021-05-07T17:00",
   "image": [
     "http://cppnow.org/assets/img/theme/CppNowLogo.svg"
    ],
@@ -208,10 +196,10 @@ There are several opportunities to sponsor C++Now, both as a [Corporate Sponsor]
   "offers": {
     "@type": "Offer",
     "url": "http://cppnow.org/registration/",
-    "price": "799",
+    "price": "250",
     "priceCurrency": "USD",
     "availability": "http://schema.org/InStock",
-    "validFrom": "2019-05-13T16:00",
+    "validFrom": "2021-05-02T16:00",
     "offeredBy": {
         "@type": "Organization",
         "name": "Boost Libraries",
@@ -239,23 +227,6 @@ There are several opportunities to sponsor C++Now, both as a [Corporate Sponsor]
   },
   "inLanguage": "en",
   "isAccessibleForFree": false,
-  "maximumAttendeeCapacity": 140,
-  "performer": [
-    {
-        "@type": "Person",
-        "name": "Hana Dusíková",
-        "familyName": "Dusíková",
-        "givenName": "Hana"},
-    {
-        "@type": "Person",
-        "name": "Daveed Vandevoorde",
-        "familyName": "Vandevoorde",
-        "givenName": "Daveed"},
-    {
-        "@type": "Person",
-        "name": "David Sankel",
-        "familyName": "Sankel",
-        "givenName": "David"}],
   "sponsor": [
     {
         "@type": "Organization",
