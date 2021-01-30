@@ -2,7 +2,7 @@
 layout: post
 title: Announcing C++Now 2021
 date: 2020-12-30
-permalink: /announcements/2022/12/announcing-cpp-now-2021/
+permalink: /announcements/2020/12/announcing-cpp-now-2021/
 section: announcements
 ---
 

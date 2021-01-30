@@ -104,15 +104,15 @@ online_link_for_Meadows_reservation: "https://book.passkey.com/go/CppNow"
 
 
 ## "will", "is", "was": becomes "was" when  the conference is over
-registration: "will"
+registration: "is"
 refund_fee: "$30"
-refund_deadline: "April 30th" # 30 days prior to conference start, except for 2020, due to virus
+refund_deadline: "April 27th" # 30 days prior to conference start, except for 2021, due to virus
 
 eventbrite_reg_URL: "https://cppnow2020.eventbrite.com/"
 eventbrite_reg_iframe_HTML: "<iframe src=\"https://cppnow2020.eventbrite.com/?ref=eweb\" width=\"100%\" height=\"2900\" frameborder=\"0\" marginwidth=\"5\" marginheight=\"5\" scrolling=\"auto\"></iframe>"
 
-krueger_reg_URL: "https://na.eventscloud.com/313707"
-krueger_reg_iframe_HTML: "<iframe src=\"https://www.eiseverywhere.com/ereg/index.php?eventid=313707&\" width=\"100%\" height=\"2900\" frameborder=\"0\" marginwidth=\"5\" marginheight=\"5\" scrolling=\"auto\"></iframe>"
+krueger_reg_URL: "https://na.eventscloud.com/600851"
+krueger_reg_iframe_HTML: "<iframe src=\"https://www.eiseverywhere.com/ereg/index.php?eventid=600851&\" width=\"100%\" height=\"2900\" frameborder=\"0\" marginwidth=\"5\" marginheight=\"5\" scrolling=\"auto\"></iframe>"
 
 volunteer_applications: "will"
 deadline_for_volunteers: "March 15th, 2021" # 10 weeks prior to start of conference
