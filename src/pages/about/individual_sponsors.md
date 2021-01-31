@@ -69,7 +69,7 @@ Choose a Boost Scholarship Sponsorship level and proceed to Paypal to checkout.
 {::nomarkdown}
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
  <input type="hidden" name="cmd" value="_s-xclick">
- <input type="hidden" name="hosted_button_id" value="VCDRUBULGUFKN">
+ <input type="hidden" name="hosted_button_id" value="8YPSJLHDD83UN">
  <table>
   <tr>
    <td>
@@ -79,9 +79,9 @@ Choose a Boost Scholarship Sponsorship level and proceed to Paypal to checkout.
   <tr>
    <td>
     <select name="os0">
-     <option value="Gold Level">Gold Level $500.00 USD</option>
-     <option value="Silver Level">Silver Level $250.00 USD</option>
-     <option value="Bronze Level">Bronze Level $125.00 USD</option>
+     <option value="Gold Level">Gold Level $200.00 USD</option>
+     <option value="Silver Level">Silver Level $100.00 USD</option>
+     <option value="Bronze Level">Bronze Level $50.00 USD</option>
     </select>
    </td>
   </tr>
