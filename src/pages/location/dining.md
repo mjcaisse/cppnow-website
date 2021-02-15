@@ -10,7 +10,7 @@ redirect_from:
 ### C++Now {{site.current_year}}
 
 Note: C++Now {{site.current_year}} will be <span style="color: red;">entirely online</span>.
-{% endif %}
+{% else %}
 
 ![Library Break by Zoetica Ebb](/assets/img/location/LibraryBreakByZoeticaEbb.jpg "Library Break by Zoetica Ebb")<br>
 *Photograph by Zoetica Ebb. Used with permission.*
@@ -57,3 +57,5 @@ The Hefner Bar at the [Aspen Meadows Resort](https://www.aspenmeadows.com/) also
 ### Other Dining Options
 
 If a restaurant listed above cannot accomidate you, or you want to explore Aspen's other options, look at [Eat Aspen](http://eataspen.com) for details and off-season speacials. Also have a look at other [Nearby Attractions](/location/nearby_attractions/) for your dining needs.
+
+{% endif %}

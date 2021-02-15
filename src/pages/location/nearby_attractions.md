@@ -11,7 +11,7 @@ redirect_from:
 ### C++Now {{site.current_year}}
 
 Note: C++Now {{site.current_year}} will be <span style="color: red;">entirely online</span>.
-{% endif %}
+{% else %}
 
 
 [Aspen](https://en.wikipedia.org/wiki/Aspen,_Colorado) is a compact town, and the [conference venue](http://www.aspenphys.org/) and [hotel](https://www.aspenmeadows.com/) are within walking distance of downtown shops and restaurants. For a complete list of attractions, dining options, and entertainment options, visit the [Aspen Chamber of Commerce](https://www.aspenchamber.org/).
@@ -27,3 +27,5 @@ As a playground for Hollywood galmourati and home of the winter X-Games, Aspen h
 ### Arts and Entertainment
 
 Aspen is known for its vibrant community of artists and musicians, nurtured by the town's many public programs (notably the [Aspen Music Festival](http://www.aspenmusicfestival.com/) and [Aspen Filmfest](https://aspenfilm.org/)) and the inspiring scenery. A great place to catch some authentic bluegrass Music.
+
+{% endif %}

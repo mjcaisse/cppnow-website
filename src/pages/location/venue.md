@@ -11,7 +11,7 @@ redirect_from:
 ### C++Now {{site.current_year}}
 
 Note: C++Now {{site.current_year}} will be <span style="color: red;">entirely online</span>.
-{% endif %}
+{% else %}
 
 ![Aspen Center for Physics by Zoetica Ebb](/assets/img/location/AspenCenterForPhysicsByZoeticaEbb.jpg "Aspen Center for Physics by Zoetica Ebb")<br>
 *Photograph by Zoetica Ebb. Used with permission.*
@@ -53,3 +53,4 @@ Mild-mannered black bears live in the area. Food trash must be locked in the bea
 
 [We-Cycle](https://www.we-cycle.org/) is available in Aspen. This system requires that you download an app to your smart phone and provide a credit card for security, but the first thirty minutes of every ride is free. Thirty minutes is usually enough for a trip anywhere is Aspen. The town of Aspen subsidizes this service to reduce parking in downtown Aspen.
 
+{% endif %}

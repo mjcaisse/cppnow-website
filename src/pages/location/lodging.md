@@ -11,7 +11,7 @@ redirect_from:
 ### C++Now {{site.current_year}}
 
 Note: C++Now {{site.current_year}} will be <span style="color: red;">entirely online</span>.
-{% endif %}
+{% else %}
 
 <!-- <p class="highlight" markdown="1">The Aspen Meadows Resort has sold out for C++Now 2019.</p>
 
@@ -121,3 +121,5 @@ The [Aspen Meadows Resort](https://www.aspenmeadows.com/) is expected to be over
 ### Other Questions
 
 For any other questions about the [Aspen Meadows Resort](https://www.aspenmeadows.com/), please call them toll-free at [1 (800) 452-4240](tel:1-800-452-4240) or locally at [1 (970) 925-4240](tel:1-970-925-4240).
+
+{% endif %}
