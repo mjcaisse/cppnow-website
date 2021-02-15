@@ -11,7 +11,7 @@ redirect_from:
 ### C++Now {{site.current_year}}
 
 Note: C++Now {{site.current_year}} will be <span style="color: red;">entirely online</span>.
-{% endif %}
+{% else %}
 
 [Aspen](https://en.wikipedia.org/wiki/Aspen,_Colorado) is a compact town, and the [conference venue](http://www.aspenphys.org/) and [hotel](https://www.aspenmeadows.com/) are within walking distance of downtown shops and restaurants. However, for other transportation needs, there are several options.
 
@@ -31,3 +31,4 @@ Some attendees elect to carpool from Denver (or other locations) to the conferen
 
 [We-Cycle](https://www.we-cycle.org/) is available in Aspen. This system requires that you download an app to your smart phone and provide a credit card for security, but the first thirty minutes of every ride is free. Thirty minutes is usually enough for a trip anywhere is Aspen. The town of Aspen subsidizes this service to reduce parking in downtown Aspen.
 
+{% endif %}

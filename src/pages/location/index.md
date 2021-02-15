@@ -8,7 +8,7 @@ section: location
 ### C++Now {{site.current_year}}
 
 Note: C++Now {{site.current_year}} will be <span style="color: red;">entirely online</span>.
-{% endif %}
+{% else %}
 
 ![Aspen Location by Zoetica Ebb](/assets/img/location/AspenLocationByZoeticaEbb.jpg "Aspen Location by Zoetica Ebb")<br>
 *Photograph by Zoetica Ebb. Used with permission.*
@@ -38,3 +38,5 @@ There are options for shuttles, public transportation, ride sharing, and bike re
 ## Nearby Attractions
 
 Want to get away from C++ for an evening? There are numerous clubs, pubs, and attractions within walking distance of the conference hotel. Learn more on the [Nearby Attractions Page](/location/nearby_attractions/).
+
+{% endif %}
