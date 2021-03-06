@@ -117,8 +117,8 @@ krueger_reg_URL: "https://na.eventscloud.com/600851"
 krueger_reg_iframe_HTML: "<iframe src=\"https://www.eiseverywhere.com/ereg/index.php?eventid=600851&\" width=\"100%\" height=\"2900\" frameborder=\"0\" marginwidth=\"5\" marginheight=\"5\" scrolling=\"auto\"></iframe>"
 
 volunteer_applications: "will"
-deadline_for_volunteers: "March 15th, 2021" # 10 weeks prior to start of conference
-notification_for_volunteers: "March 31st, 2021" # 9 weeks prior to start of conference
+deadline_for_volunteers: "March 31th, 2021" # 10 weeks prior to start of conference
+notification_for_volunteers: "April 15th, 2021" # 9 weeks prior to start of conference
 volunteer_jotform_ID: 193466856656173
 
 ## "will", "is", "was": becomes "was" when  the conference is over
