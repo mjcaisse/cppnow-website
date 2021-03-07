@@ -29,7 +29,7 @@ The Student/Volunteer program is an excellent way for students and young coders 
 
 Student/Volunteers will receive free registration to the online event.
 
-Volunteers will handle various tasks during the conference, such as staffing the help desk and lobby, assisting with online presentions, and generally helping run the conference.
+Volunteers will handle various tasks during the conference, such as staffing the help desk and lobby, assisting with online presentations, and generally helping run the conference.
 
 Students from all fields of study are welcome to apply. However, this conference covers advanced C++ topics, and applicants should have ample experience with the C++ programming language and be familiar with general computer science topics.
 
