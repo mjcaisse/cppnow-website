@@ -92,7 +92,7 @@ over: false
 ## Note that we "flip" the conference (set the current_year, etc,) when we make the
 ##  first post about the new conference.
 
-submission: "is"
+submission: "was"
 
 last_cfs: "/announcements/2020/12/2021-CfS/"
 
@@ -211,7 +211,7 @@ B2_call: "Register Now"
 
 
 ## Box 3
-B3_show: true
+B3_show: false
 B3_title: "Be a Presenter"
 B3_link: "/presenters/"
 B3_photo: "/assets/img/home/jackie.jpg"
@@ -219,14 +219,14 @@ B3_photo_title: "Jackie Kay: Photo by Zoetica Ebb"
 B3_description: "<p>Join the discussion! Get the most out of C++Now by joining the elite group of C++ experts that have presented a lightning talk or as part of the regular program.</p>"
 B3_call: "Presenter Information"
 
-## Box 4
-B4_show: false
-B4_title: "Be a Volunteer"
-B4_link: "/about/volunteer_program/"
-B4_photo: "/assets/img/home/volunteers.jpg"
-B4_photo_title: "Volunteers: Photo by Zoetica Ebb"
-B4_description: "<p>A small group of promising young C++ programmers is selected to be part of each C++Now. In exchange for helping run the conference, volunteers receive financial assistance and what may be a career changing opportunity.</p>"
-B4_call: "Apply Today"
+## Box 3
+B3_show: true
+B3_title: "Be a Volunteer"
+B3_link: "/about/volunteer_program/"
+B3_photo: "/assets/img/home/volunteers.jpg"
+B3_photo_title: "Volunteers: Photo by Zoetica Ebb"
+B3_description: "<p>A small group of promising young C++ programmers is selected to be part of each C++Now. In exchange for helping run the conference, volunteers receive financial assistance and what may be a career changing opportunity.</p>"
+B3_call: "Apply Today"
 
 
 ## Box 5
