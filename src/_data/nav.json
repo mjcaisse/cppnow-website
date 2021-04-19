@@ -98,6 +98,10 @@
         "children":
         [
             {
+                "title": "2021",
+                "link": "/history/2021/"
+            },
+            {
                 "title": "2019",
                 "link": "/history/2019/"
             },

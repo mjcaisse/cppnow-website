@@ -20,10 +20,10 @@
 #        "title": "Lightning Talks open",
 #        "link": "/schedule/lightning.talks/"
 #    },
-#    {
-#        "title": "Schedule is up",
-#        "link": "/schedule/"
-#    },
+    {
+        "title": "Schedule is up",
+        "link": "/schedule/"
+    },
     {
         "title": "Accepting volunteers",
         "link": "/announcements/2021/03/2021-call-for-student-volunteers/",

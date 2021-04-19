@@ -125,7 +125,7 @@ volunteer_jotform_ID: 193466856656173
 lightning_talk_submission: "will"
 lightning_talk_submission_URL: "https://cppnow.ciere.io/"
 
-schedule_online: false
+schedule_online: true
 sched_com_URL: "https://cppnow2021.sched.org/"
 sched_com_embed_URL: "https://cppnow2021.sched.org/js/embed.js"
 
