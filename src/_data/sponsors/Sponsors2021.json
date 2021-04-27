@@ -21,13 +21,6 @@
 Did you Know? The Boost Library Collection was the inspiration behind most of the C++11 Standard Library.  Boost is a collection of high-quality, peer-reviewed libraries that provide foundational components for all applications.  To see some exciting new Boost libraries such as <a href=\"https://www.boost.org/doc/libs/develop/libs/mp11/doc/html/mp11.html\">mp11</a> or <a href=\"https://sdkrystian.github.io/doc/static_string/\">StaticString</a> please vist <a href=\"https://boost.org\">https://boost.org</a> today!",
                     "until": "2021-12-31"
                 },
-                {
-                    "title": "Commvault",
-                    "link": "http://www.commvault.com/",
-                    "image": "/assets/img/sponsors/commvault.png",
-                    "blurb": "",
-                    "until": "2021-12-31"
-                }
             ]
         },
         {
