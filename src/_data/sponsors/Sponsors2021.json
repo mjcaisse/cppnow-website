@@ -8,7 +8,9 @@
                     "title": "Bloomberg",
                     "link": "http://techatbloomberg.com/",
                     "image": "/assets/img/sponsors/BBGEngineering_black.png",
-                    "blurb": "",
+                    "blurb": "Bloomberg is building the world's most trusted information network for financial professionals. Our 6,500+ engineers are dedicated to advancing and building new systems for the Bloomberg Terminal and other products to solve complex, real-world problems.<br><br>
+
+C++ is one of our core programming languages. We are constantly pushing the language to its limits because our code needs to be scalable, reliable and extremely fast -- especially since every millisecond counts in the finance industry. Our C++ experts build everything from low-level libraries and components to some of the most performant financial applications and trading systems in the world. They also contribute to the C++ standard.",
                     "until": "2021-12-31"
                 },
                 {
@@ -71,6 +73,15 @@ To realise this we use  C++ as our core technology for audio and video streaming
             "title": "Video Sponsorship",
             "sponsors":
             [
+                {
+                    "title": "Bloomberg",
+                    "link": "http://techatbloomberg.com/",
+                    "image": "/assets/img/sponsors/BBGEngineering_black.png",
+                    "blurb": "Bloomberg is building the world's most trusted information network for financial professionals. Our 6,500+ engineers are dedicated to advancing and building new systems for the Bloomberg Terminal and other products to solve complex, real-world problems.<br><br>
+
+C++ is one of our core programming languages. We are constantly pushing the language to its limits because our code needs to be scalable, reliable and extremely fast -- especially since every millisecond counts in the finance industry. Our C++ experts build everything from low-level libraries and components to some of the most performant financial applications and trading systems in the world. They also contribute to the C++ standard.",
+                    "until": "2021-12-31"
+                },
                 {
                     "title": "JetBrains",
                     "link": "http://www.jetbrains.com/",
