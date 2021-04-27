@@ -28,6 +28,13 @@ Did you Know? The Boost Library Collection was the inspiration behind most of th
             "sponsors":
             [
                 {
+                    "title": "sonarsource",
+                    "link": "https://www.sonarsource.com/",
+                    "image": "/assets/img/sponsors/sonarsource.png",
+                    "blurb": "",
+                    "until": "2021-12-31"
+                },
+                {
                     "title": "Unified Streaming",
                     "link": "https://www.unified-streaming.com",
                     "image": "/assets/img/sponsors/UnifiedStreaming.jpeg",
