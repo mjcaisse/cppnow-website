@@ -64,7 +64,7 @@ To realise this we use  C++ as our core technology for audio and video streaming
                     "motto": "Quantlab: Where the best get better.",
                     "blurb": "Quantlab is a quantitative trading firm where Technology and Scientific Research are central to our business and key to our success. Founded in 1998, Quantlab is a pioneer in quantitative algorithmic trading. Behind our success is our people. We hire some of the smartest and most passionate programmers and quants in the world.",
                     "until": "2021-12-31"
-                },
+                }
             ]
         },
         {
@@ -125,7 +125,7 @@ To realise this we use  C++ as our core technology for audio and video streaming
                     "info": "Zach Laine <whatwasthataddress@gmail.com>",
                     "shirt": "men's extra large",
                     "until": "2021-03-04"
-                },
+                }
             ]
         },
         {
@@ -143,13 +143,13 @@ To realise this we use  C++ as our core technology for audio and video streaming
                     "info": "Louis Dionne <louis.dionne92@gmail.com>",
                     "shirt": "men's medium",
                     "until": "2021-03-04"
-                },
+                }
                 {
                     "name": "Peter Sommerlad",
                     "info": "Peter Sommerlad <peter.cpp@sommerlad.ch>",
                     "shirt": "men's large",
                     "until": "2020-04-17"
-                },
+                }
             ]
         }
     ]
