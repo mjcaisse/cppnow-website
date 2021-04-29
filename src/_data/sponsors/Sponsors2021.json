@@ -31,9 +31,9 @@ Did you Know? The Boost Library Collection was the inspiration behind most of th
             [
                 {
                     "title": "sonarsource",
-                    "link": "https://www.sonarsource.com/",
+                    "link": "https://www.sonarsource.com/cpp",
                     "image": "/assets/img/sponsors/sonarsource.png",
-                    "blurb": "",
+                    "blurb": "SonarSource builds world-class products for Code Quality and Security. Our open-source and commercial code analyzers - SonarLint, SonarCloud, SonarQube - support 27 programming languages, empowering dev teams of all sizes to solve coding issues within their existing workflows. C++ analysis is supported through a variety of compilers and toolchains, come see for yourself how you can make your C++ projects more reliable and secure!",
                     "until": "2021-12-31"
                 },
                 {
