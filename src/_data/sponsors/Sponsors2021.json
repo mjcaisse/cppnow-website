@@ -99,6 +99,66 @@ C++ is one of our core programming languages. We are constantly pushing the lang
             "sponsors":
             [
                 {
+                    "name": "Gwendolyn Hunt",
+                    "info": "Gwendolyn Hunt <gmhunt99@gmail.com>",
+                    "until": "2021-12-31"
+                },
+                {
+                    "name": "Jody Hagins",
+                    "info": "Jody Hagins <coachhagins@gmail.com>",
+                    "until": "2021-12-31"
+                },
+                {
+                    "name": "Sergei Khandrikov",
+                    "info": "Sergei Khandrikov <onionstation@yandex.ru>",
+                    "until": "2021-12-31"
+                },
+            ]
+        },
+        {
+            "title": "Boost Scholarship Sponsors: Silver Level",
+            "sponsors":
+            [
+                {
+                    "name": "Billy Baker",
+                    "info": "Billy Baker <billy.baker@cox.net>",
+                    "until": "2021-12-31"
+                },
+                {
+                    "name": "Vivien Mille",
+                    "info": "Vivien Mille <mille.vivien@gmail.com>",
+                    "until": "2021-12-31"
+                },
+            ]
+        },
+        {
+            "title": "Boost Scholarship Sponsors: Bronze Level",
+            "sponsors":
+            [
+                {
+                    "name": "Jason Rice",
+                    "info": "Jason Rice <ricejasonf@gmail.com>",
+                    "until": "2021-12-31"
+                },
+                {
+                    "name": "Ray Fix",
+                    "info": "Ray Fix <rayfix@gmail.com>",
+                    "until": "2021-12-31"
+                },
+                {
+                    "name": "Roberto Turrado Camblor",
+                    "info": "Roberto Turrado Camblor <rturrado@gmail.com>",
+                    "until": "2021-12-31"
+                },
+            ]
+        }
+    ],
+    "individual history": [
+        {
+            "title": "Boost Scholarship Sponsors: Gold Level",
+            "sponsors":
+            [
+                {
                     "name": "Jeff Trull",
                     "info": "Jeffrey Trull <jetrull@sbcglobal.net>",
                     "shirt": "men's medium",
