@@ -16,9 +16,10 @@ Registration for C++Now {{site.current_year}} is not yet open. Please visit agai
 Online registration enables attendees to:
 * attend sessions live and participate in Q&A
 * participate in the Library-in-a-Week workshop
-* view recordings of session immediately (rather than waiting for them to be publicly released on [our YouTube channel](https://www.youtube.com/user/Boostcon))
+* view recordings of sessions without delay
+* give a talk during the Lightning Talks sessions
 * join the conference Discord to engage with other attendees including presenters, Boost Library authors, and sponsors
-* enter our virtual venue (Gather Town) to engage with other attendees, attended extended Q&A sessions with presenters, solve puzzles, and play games
+* enter our virtual venue (Gather Town) to engage with other attendees, attend extended Q&A sessions with presenters, solve puzzles, and play games
 
 General registration is $250 and Student registration is $50, but the fees may be reduced once the conference has started.
 
