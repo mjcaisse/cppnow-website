@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 20121 Talks
+title: 2021 Talks
 permalink: /history/2021/talks/
 section: history
 ---
@@ -19,24 +19,24 @@ Please enjoy all available videos and slides from talks, keynotes, and tutorials
 
 {% for item in site.data.talks.Talks2021 %}
 <div class="panelBox">
+<a name="{{item.sched | remove_first: "https://sched.co/" |uri_escape}}"></a>
     <h3>{{item.title | xml_escape}}</h3>
     <p>
-        by {{item.speakers | xml_escape}}
+        by {% if item.bio and item.bio != ''  %}<a href="{{item.bio | uri_escape}}">{{item.speaker | xml_escape}}</a>{% else %}{{item.speaker | xml_escape}}{% endif %}{% if item.bio2 and item.bio2 != ''  %} and <a href="{{item.bio2 | uri_escape}}">{{item.speaker2 | xml_escape}}</a>{% else %}{% if item.speaker2 and item.speaker2 != '' %} and {{item.speaker2 | xml_escape}}{% endif %}{% endif %}{% if item.bio3 and item.bio3 != '' %}<a href="{{item.bio3 | uri_escape}}">{{item.speaker3 | xml_escape}}</a>{% else %}{% if item.speaker3 and item.speaker3 != '' %} and {{item.speaker3 | xml_escape}}{% endif %}{% endif %}
         <br>
         given {{item.date | xml_escape}} at {{item.time | xml_escape}} in {{item.room | xml_escape}}
     </p>
     <ul>
         <li><a href="{{item.sched | uri_escape}}">Summary</a></li>
         <li>
-            {% if item.slides == '' %}<span class="greyText"><em>No Slides</em></span>{% endif %}
-            {% if item.slides != '' %}<a href="{{item.slides | uri_escape}}">Slides</a>{% endif %}
+            {% if item.slides and item.slides != '' %}<a href="{{item.slides | uri_escape}}">Slides</a>{% else %}<span class="greyText"><em>No Slides</em></span>{% endif %}
         </li>
         <li>
-            {% if item.youtube == '' %}<span class="greyText"><em>No Video</em></span>{% endif %}
-            {% if item.youtube != '' %}<a href="https://youtu.be/{{item.youtube}}" class="panelVideoLink" data-src="{{item.youtube}}">Video</a>{% endif %}
+            {% if item.youtube and item.youtube != '' %}<a href="https://youtu.be/{{item.youtube}}" class="panelVideoLink" data-src="{{item.youtube}}">Video</a>{% else %}<span class="greyText"><em>No Video</em></span>{% endif %}
         </li>
     </ul>
 </div>
 {% endfor %}
 
 <script src="/assets/js/PanelVideoOpener.js"></script>
+

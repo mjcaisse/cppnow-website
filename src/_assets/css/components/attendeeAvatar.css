@@ -1,0 +1,9 @@
+
+/* components/attendeeAvatar.css */
+
+.attendeeAvatar
+{
+    border-radius: 1000px;
+    width: 160px;
+    margin: 0 16px 16px 0;
+}
