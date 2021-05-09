@@ -22,9 +22,9 @@ email: admin@ciere.com
 #description: > # this means to ignore newlines until "baseurl:"
 #    A gathering of C++ experts and enthusiasts from around the world in beautiful Aspen, Colorado.
 description_html: > # this means to ignore newlines until "description:"
-    An <span style="color: red;">online</span> gathering of C++ experts and enthusiasts from around the world.
+    A gathering of C++ experts and enthusiasts from around the world in beautiful Aspen, Colorado.
 description: > # this means to ignore newlines until "baseurl:"
-    An online gathering of C++ experts and enthusiasts from around the world.
+    A gathering of C++ experts and enthusiasts from around the world in beautiful Aspen, Colorado.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "//cppnow.org"
 locale: en_US
@@ -65,19 +65,19 @@ gems:
   - jekyll-redirect-from
 
 # Year Data Config
-current_year: 2021
-current_dates_formated: "May 2-7, 2021"
-current_year_start_date: "May 2, 2021"
-current_year_end_date: "May 7, 2021"
-current_year_start_date_formatted: "2021-05-02"
-current_year_end_date_formatted: "2021-05-07"
+current_year: 2022
+current_dates_formated: "May 1-6, 2022"
+current_year_start_date: "May 1, 2022"
+current_year_end_date: "May 6, 2022"
+current_year_start_date_formatted: "2022-05-01"
+current_year_end_date_formatted: "2022-05-06"
 
 current_year_canceled: false
-current_year_online: true
+current_year_online: false
 current_location: "Aspen, Colorado"
 current_where: "in Aspen"
 
-registration_time: "16:00 on Sunday, May 2nd"
+registration_time: "16:00 on Sunday, May 1st"
 registration_day_of_week: "Sunday"
 first_session_day_of_week: "Monday"
 
@@ -87,12 +87,12 @@ first_session_day_of_week: "Monday"
 ## For items that are only two phase, we use Boolean values (false and true)
 
 ## becomes true on the last day of the conference
-over: true
+over: false
 
 ## Note that we "flip" the conference (set the current_year, etc,) when we make the
 ##  first post about the new conference.
 
-submission: "was"
+submission: "will"
 
 last_cfs: "/announcements/2020/12/2021-CfS/"
 
@@ -101,12 +101,12 @@ doing_lunch_signups: false
 lunch_signup_link: "https://docs.google.com/spreadsheets/d/12zmvrJHI7fIms8SH9FviPJkyt0cYOnq6eaARv_m9GuU/"
 
 ## "will", "is", "was": becomes "was" when the hotel is full or the conference is over
-hotel_registration: "was"
+hotel_registration: "will"
 online_link_for_Meadows_reservation: "https://book.passkey.com/go/CppNow"
 
 
 ## "will", "is", "was": becomes "was" when  the conference is over
-registration: "was"
+registration: "will"
 refund_fee: "$30"
 refund_deadline: "April 1st" # 30 days prior to conference start, except for 2021, due to virus
 
@@ -116,20 +116,20 @@ eventbrite_reg_iframe_HTML: "<iframe src=\"https://cppnow2020.eventbrite.com/?re
 krueger_reg_URL: "https://na.eventscloud.com/600851"
 krueger_reg_iframe_HTML: "<iframe src=\"https://www.eiseverywhere.com/ereg/index.php?eventid=600851&\" width=\"100%\" height=\"2900\" frameborder=\"0\" marginwidth=\"5\" marginheight=\"5\" scrolling=\"auto\"></iframe>"
 
-volunteer_applications: "was"
-deadline_for_volunteers: "March 31th, 2021" # 10 weeks prior to start of conference
-notification_for_volunteers: "April 15th, 2021" # 9 weeks prior to start of conference
+volunteer_applications: "will"
+deadline_for_volunteers: "Febrary 25th, 2022" # 10 weeks prior to start of conference
+notification_for_volunteers: "March 4th, 2022" # 9 weeks prior to start of conference
 volunteer_jotform_ID: 193466856656173
 
 ## "will", "is", "was": becomes "was" when  the conference is over
-lightning_talk_submission: "was"
+lightning_talk_submission: "will"
 lightning_talk_submission_URL: "https://cppnow.ciere.io/"
 
-schedule_online: true
-sched_com_URL: "https://cppnow2021.sched.org/"
-sched_com_embed_URL: "https://cppnow2021.sched.org/js/embed.js"
+schedule_online: false
+sched_com_URL: "https://cppnow2022.sched.org/"
+sched_com_embed_URL: "https://cppnow2022.sched.org/js/embed.js"
 
-previous_years_schedule: "[C++Now 2019 Schedule](/history/2019/schedule/)"
+previous_years_schedule: "[C++Now 2021 Schedule](/history/2021/schedule/)"
 
 #### Promo Video
 show_promo_video: true
