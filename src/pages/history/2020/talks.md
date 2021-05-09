@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 20120 Talks
+title: 2020 Talks
 permalink: /history/2020/talks/
 section: history
 ---

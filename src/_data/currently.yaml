@@ -4,10 +4,10 @@
 #        "link": "/announcements/2020/03/Canceled/"
 #    },
 
-    {
-        "title": "Registration is open",
-        "link": "/announcements/2021/01/2021-registration-is-open/"
-    },
+#    {
+#        "title": "Registration is open",
+#        "link": "/announcements/2021/01/2021-registration-is-open/"
+#    },
 #    {
 #         "title": "Accepting submissions",
 #         "link": "/announcements/2020/12/2021-CfS/"
@@ -20,14 +20,14 @@
 #        "title": "Lightning Talks open",
 #        "link": "/schedule/lightning.talks/"
 #    },
-    {
-        "title": "Schedule is up",
-        "link": "/schedule/"
-    },
-    {
-        "title": "Accepting volunteers",
-        "link": "/announcements/2021/03/2021-call-for-student-volunteers/",
-    },
+#    {
+#        "title": "Schedule is up",
+#        "link": "/schedule/"
+#    },
+#    {
+#        "title": "Accepting volunteers",
+#        "link": "/announcements/2021/03/2021-call-for-student-volunteers/",
+#    },
 #    {
 #        "title": "Supporting Student/Volunteers",
 #        "link": "/announcements/2020/03/BoostScholarshipFund/"

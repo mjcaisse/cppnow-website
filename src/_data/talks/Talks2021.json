@@ -1,0 +1,468 @@
+[
+    {
+        "speaker": "Bill Hoffman",
+        "bio": "https://cppnow2021.sched.com/speaker/boostcon.2021.bill.hoffman_kitware.com",
+        "sched": "https://sched.co/hhky",
+        "room": "Track A",
+        "title": "CMake: One Tool To Build Them All",
+        "time": "08:45",
+        "date": "2021-05-03"
+    },
+    {
+        "speaker": "Arno Schödl",
+        "bio": "https://cppnow2021.sched.com/speaker/boostcon.2021.schoedl_think_cell.com",
+        "sched": "https://sched.co/ixSq",
+        "room": "Track B",
+        "title": "The C++ Rvalue Lifetime Disaster",
+        "time": "11:30",
+        "date": "2021-05-03"
+    },
+    {
+        "speaker": "Bob Steagall",
+        "bio": "https://cppnow2021.sched.com/speaker/bob.steagall",
+        "sched": "https://sched.co/hhlV",
+        "room": "Track C",
+        "title": "Transpose(*this) - An Update on the State of Linear Algebra for Standard C++",
+        "time": "11:30",
+        "date": "2021-05-03"
+    },
+    {
+        "speaker": "Steve Downey",
+        "bio": "https://cppnow2021.sched.com/speaker/sdowney1965",
+        "sched": "https://sched.co/hhks",
+        "room": "Track A",
+        "title": "A Crash Course in Unicode for C++ Developers",
+        "time": "11:30",
+        "date": "2021-05-03"
+    },
+    {
+        "speaker": "Arthur O'Dwyer",
+        "bio": "https://cppnow2021.sched.com/speaker/arthur_odwyer",
+        "sched": "https://sched.co/ixTD",
+        "room": "Track B",
+        "title": "When Should You Give Two Things the Same Name?",
+        "time": "13:30",
+        "date": "2021-05-03"
+    },
+    {
+        "speaker": "John Lakos",
+        "bio": "https://cppnow2021.sched.com/speaker/john_lakos.1rzy8qns",
+        "speaker2": "Vittorio Romeo",
+        "bio2": "https://cppnow2021.sched.com/speaker/vittorio_romeo",
+        "sched": "https://sched.co/ixTP",
+        "room": "Track C",
+        "title": "C++11/14 at Scale: What Have We Learned?",
+        "time": "13:30",
+        "date": "2021-05-03"
+    },
+    {
+        "speaker": "Matthew Bentley",
+        "bio": "https://cppnow2021.sched.com/speaker/cppcon.2016.mattreecebentley_gmail.com",
+        "sched": "https://sched.co/hhl1",
+        "room": "Track A",
+        "title": "How to: Colony",
+        "time": "13:30",
+        "date": "2021-05-03"
+    },
+    {
+        "speaker": "Anastasia Kazakova",
+        "bio": "https://cppnow2021.sched.com/speaker/boostcon.2018.anastasia.kazakova2512_gmail.com",
+        "sched": "https://sched.co/ixTE",
+        "room": "Track A",
+        "title": "Code Analysis++",
+        "time": "07:00",
+        "date": "2021-05-04"
+    },
+    {
+        "speaker": "Arno Schödl",
+        "bio": "https://cppnow2021.sched.com/speaker/boostcon.2021.schoedl_think_cell.com",
+        "sched": "https://sched.co/hhmE",
+        "room": "Track C",
+        "title": "Better C++ Ranges",
+        "time": "07:00",
+        "date": "2021-05-04"
+    },
+    {
+        "speaker": "Steve Downey",
+        "bio": "https://cppnow2021.sched.com/speaker/sdowney1965",
+        "sched": "https://sched.co/hhlG",
+        "room": "Track B",
+        "title": "Converting a State Machine to a C++ 20 Coroutine",
+        "time": "07:00",
+        "date": "2021-05-04"
+    },
+    {
+        "speaker": "Daniel Nikpayuk",
+        "bio": "https://cppnow2021.sched.com/speaker/djharris3",
+        "sched": "https://sched.co/j7uC",
+        "room": "Track B",
+        "title": "Practical TMP: A C++17 Compile Time Register Machine",
+        "time": "09:00",
+        "date": "2021-05-04"
+    },
+    {
+        "speaker": "Jens Weller",
+        "bio": "https://cppnow2021.sched.com/speaker/jens_weller.1rzy8qkc",
+        "sched": "https://sched.co/hhlY",
+        "room": "Track A",
+        "title": "Surveying the C++ community",
+        "time": "09:00",
+        "date": "2021-05-04"
+    },
+    {
+        "speaker": "Steven R. Brandt",
+        "bio": "https://cppnow2021.sched.com/speaker/sbrandt6",
+        "sched": "https://sched.co/hhlk",
+        "room": "Track C",
+        "title": "Interactive C++ in a Jupyter Notebook Using Modules for Incremental Compilation",
+        "time": "09:00",
+        "date": "2021-05-04"
+    },
+    {
+        "speaker": "Giannis Gonidelis",
+        "bio": "https://cppnow2021.sched.com/speaker/boostcon.2021.pesto80_windowslive.com",
+        "sched": "https://sched.co/hhlA",
+        "room": "Track C",
+        "title": "Parallelism on Ranges: Should We?",
+        "time": "09:50",
+        "date": "2021-05-04"
+    },
+    {
+        "speaker": "Nikunj Gupta",
+        "bio": "https://cppnow2021.sched.com/speaker/boostcon.2021.nikunj.nkgpta_gmail.com",
+        "sched": "https://sched.co/hhlJ",
+        "room": "Track B",
+        "title": "Executors: The Art of Generating Composable APIs",
+        "time": "09:50",
+        "date": "2021-05-04"
+    },
+    {
+        "speaker": "Richárd Szalay",
+        "bio": "https://cppnow2021.sched.com/speaker/boostcon.2019.szalayrichard_inf.elte.hu",
+        "sched": "https://sched.co/hhkX",
+        "room": "Track A",
+        "title": "Weak Interfaces → Weak Defences: The Bane of Implicit Conversion in our Function Calls",
+        "time": "09:50",
+        "date": "2021-05-04"
+    },
+    {
+        "speaker": "Jason Turner",
+        "bio": "https://cppnow2021.sched.com/speaker/jason_turner.6k0ir5x",
+        "sched": "https://sched.co/hhlq",
+        "room": "Track A",
+        "title": "The Worst Best Practices",
+        "time": "11:30",
+        "date": "2021-05-04"
+    },
+    {
+        "speaker": "Jeff Garland",
+        "bio": "https://cppnow2021.sched.com/speaker/jeff_garland_2016",
+        "sched": "https://sched.co/ixSt",
+        "room": "Track C",
+        "title": "Using Concepts - C++ Design in a Concept World (part 1 of 2)",
+        "time": "11:30",
+        "date": "2021-05-04"
+    },
+    {
+        "speaker": "Jeff Garland",
+        "bio": "https://cppnow2021.sched.com/speaker/jeff_garland_2016",
+        "sched": "https://sched.co/ixSw",
+        "room": "Track C",
+        "title": "Using Concepts - C++ Design in a Concept World (part 2 of 2)",
+        "time": "13:30",
+        "date": "2021-05-04"
+    },
+    {
+        "speaker": "Tobias Loew",
+        "bio": "https://cppnow2021.sched.com/speaker/tobi21",
+        "sched": "https://sched.co/hhk6",
+        "room": "Track B",
+        "title": "hop: A Language to Design Function-Overload-Sets",
+        "time": "11:30",
+        "date": "2021-05-04"
+    },
+    {
+        "speaker": "Arthur O'Dwyer",
+        "bio": "https://cppnow2021.sched.com/speaker/arthur_odwyer",
+        "sched": "https://sched.co/hhkU",
+        "room": "Track B",
+        "title": "The Complete Guide to `return x;`",
+        "time": "13:30",
+        "date": "2021-05-04"
+    },
+    {
+        "speaker": "Marshall Clow",
+        "bio": "https://cppnow2021.sched.com/speaker/mclow",
+        "sched": "https://sched.co/hhk0",
+        "room": "Track A",
+        "title": "What is an ABI and Why is Breaking it a Problem?",
+        "time": "13:30",
+        "date": "2021-05-04"
+    },
+    {
+        "speaker": "Andrzej Krzemieński",
+        "bio": "https://cppnow2021.sched.com/speaker/akrzemi1",
+        "sched": "https://sched.co/hhkp",
+        "room": "Track B",
+        "title": "Preconditions, Postconditions, Invariants: How They Help Write Robust Programs",
+        "time": "07:00",
+        "date": "2021-05-05"
+    },
+    {
+        "speaker": "Ivica Bogosavljevic",
+        "bio": "https://cppnow2021.sched.com/speaker/boostcon.2021.ivica_johnysswlab.com",
+        "sched": "https://sched.co/hhln",
+        "room": "Track C",
+        "title": "The Performance Price of Dynamic Memory in C++",
+        "time": "07:00",
+        "date": "2021-05-05"
+    },
+    {
+        "speaker": "Sandor Dargo",
+        "bio": "https://cppnow2021.sched.com/speaker/boostcon.2021.sandor.dargo_gmail.com",
+        "sched": "https://sched.co/ixTB",
+        "room": "Track A",
+        "title": "The Concepts of concepts",
+        "time": "07:00",
+        "date": "2021-05-05"
+    },
+    {
+        "speaker": "Tony Van Eerd",
+        "bio": "https://cppnow2021.sched.com/speaker/tvaneerd",
+        "sched": "https://sched.co/hhlh",
+        "room": "Track A",
+        "title": "SOLID, Revisited",
+        "time": "09:00",
+        "date": "2021-05-05"
+    },
+    {
+        "speaker": "Eduardo Madrid",
+        "bio": "https://cppnow2021.sched.com/speaker/zwischenzug",
+        "speaker2": "Phil Nash",
+        "bio2": "https://cppnow2021.sched.com/speaker/boostcon.2021.mail_philnash.me",
+        "sched": "https://sched.co/hhlD",
+        "room": "Track A",
+        "title": "Polymorphism À La Carte",
+        "time": "11:30",
+        "date": "2021-05-05"
+    },
+    {
+        "speaker": "Roi Barkan",
+        "bio": "https://cppnow2021.sched.com/speaker/boostcon.2021.roi.barkan_gmail.com",
+        "sched": "https://sched.co/hhl4",
+        "room": "Track C",
+        "title": "Semantic Sugar: Tips for Effective Template Library APIs",
+        "time": "11:30",
+        "date": "2021-05-05"
+    },
+    {
+        "speaker": "Steve Downey",
+        "bio": "https://cppnow2021.sched.com/speaker/sdowney1965",
+        "sched": "https://sched.co/hhkv",
+        "room": "Track B",
+        "title": "Writing a C++ 20 Module",
+        "time": "11:30",
+        "date": "2021-05-05"
+    },
+    {
+        "speaker": "Barry Revzin",
+        "bio": "https://cppnow2021.sched.com/speaker/boostcon.2021.barry.revzin_gmail.com",
+        "sched": "https://sched.co/hhkg",
+        "room": "Track C",
+        "title": "Iterators and Ranges: Comparing C++ to D to Rust",
+        "time": "13:30",
+        "date": "2021-05-05"
+    },
+    {
+        "speaker": "Bob Steagall",
+        "bio": "https://cppnow2021.sched.com/speaker/bob.steagall",
+        "sched": "https://sched.co/hhlS",
+        "room": "Track B",
+        "title": "Adventures in SIMD-Thinking",
+        "time": "13:30",
+        "date": "2021-05-05"
+    },
+    {
+        "speaker": "Filipp Gelman",
+        "bio": "https://cppnow2021.sched.com/speaker/cppcon.2019.fgelman1_bloomberg.net",
+        "sched": "https://sched.co/hhkj",
+        "room": "Track A",
+        "title": "Techniques for Overloading any_invocable",
+        "time": "13:30",
+        "date": "2021-05-05"
+    },
+    {
+        "speaker": "Andrzej Krzemieński",
+        "bio": "https://cppnow2021.sched.com/speaker/akrzemi1",
+        "sched": "https://sched.co/hhkm",
+        "room": "Track B",
+        "title": "So You Think You Know How to Work With Concepts?",
+        "time": "07:00",
+        "date": "2021-05-06"
+    },
+    {
+        "speaker": "Mateusz Pusz",
+        "bio": "https://cppnow2021.sched.com/speaker/mateusz.pusz",
+        "sched": "https://sched.co/hhka",
+        "room": "Track C",
+        "title": "CMake + Conan: 3 Years Later",
+        "time": "07:00",
+        "date": "2021-05-06"
+    },
+    {
+        "speaker": "Peter Sommerlad",
+        "bio": "https://cppnow2021.sched.com/speaker/peter_sommerlad",
+        "sched": "https://sched.co/hhkF",
+        "room": "Track A",
+        "title": "Simplest Strong Typing instead of Language Proposal ( P0109 )",
+        "time": "07:00",
+        "date": "2021-05-06"
+    },
+    {
+        "speaker": "Gábor Horváth",
+        "bio": "https://cppnow2021.sched.com/speaker/cppcon.2016.xazax.hun_gmail.com",
+        "sched": "https://sched.co/hhkI",
+        "room": "Track A",
+        "title": "Algorithms from a Compiler Developer's Toolbox",
+        "time": "09:00",
+        "date": "2021-05-06"
+    },
+    {
+        "speaker": "Roi Barkan",
+        "bio": "https://cppnow2021.sched.com/speaker/boostcon.2021.roi.barkan_gmail.com",
+        "sched": "https://sched.co/hhl7",
+        "room": "Track C",
+        "title": "Variations on variants",
+        "time": "09:00",
+        "date": "2021-05-06"
+    },
+    {
+        "speaker": "Sebastian Theophil",
+        "bio": "https://cppnow2021.sched.com/speaker/boostcon.2021.stheophil_think_cell.com",
+        "sched": "https://sched.co/hhmB",
+        "room": "Track B",
+        "title": "Windows, MacOS and the Web: Lessons from Cross-platform Development at think-cell",
+        "time": "09:00",
+        "date": "2021-05-06"
+    },
+    {
+        "speaker": "Andreas Fertig",
+        "bio": "https://cppnow2021.sched.com/speaker/cppcon.2020.conferences_andreasfertig.info",
+        "sched": "https://sched.co/ixTN",
+        "room": "Track A",
+        "title": "C++ Insights: How Stuff Works, Lambdas and More!",
+        "time": "11:30",
+        "date": "2021-05-06"
+    },
+    {
+        "speaker": "Anthony Williams",
+        "bio": "https://cppnow2021.sched.com/speaker/cppcon.2016.anthony_justsoftwaresolutions.co.uk",
+        "sched": "https://sched.co/hhlP",
+        "room": "Track C",
+        "title": "Library Approaches for Strong Type Aliases",
+        "time": "11:30",
+        "date": "2021-05-06"
+    },
+    {
+        "speaker": "Lucian Radu Teodorescu",
+        "bio": "https://cppnow2021.sched.com/speaker/lucteo",
+        "sched": "https://sched.co/ixTM",
+        "room": "Track B",
+        "title": "Designing Concurrent C++ Applications",
+        "time": "11:30",
+        "date": "2021-05-06"
+    },
+    {
+        "speaker": "Alisdair Meredith",
+        "bio": "https://cppnow2021.sched.com/speaker/alisdair_meredith",
+        "sched": "https://sched.co/ixTQ",
+        "room": "Track B",
+        "title": "Frictionless Allocators",
+        "time": "13:30",
+        "date": "2021-05-06"
+    },
+    {
+        "speaker": "Kris Jusiak",
+        "bio": "https://cppnow2021.sched.com/speaker/boostcon.2016.kris_jusiak.net",
+        "sched": "https://sched.co/hhmH",
+        "room": "Track C",
+        "title": "UT - C++20 Unit Testing Framework",
+        "time": "13:30",
+        "date": "2021-05-06"
+    },
+    {
+        "speaker": "Oleksandr Bacherikov",
+        "bio": "https://cppnow2021.sched.com/speaker/al.cash07",
+        "sched": "https://sched.co/hhlM",
+        "room": "Track A",
+        "title": "STL Algorithms as Expressions",
+        "time": "13:30",
+        "date": "2021-05-06"
+    },
+    {
+        "speaker": "David Sankel",
+        "bio": "https://cppnow2021.sched.com/speaker/david_sankel.1tk57jjh",
+        "image": "https://avatars.sched.co/c/67/1793523/avatar.jpg?b77",
+        "sched": "https://sched.co/hhle",
+        "room": "Track C",
+        "title": "Don't constexpr All the Things",
+        "time": "07:00",
+        "date": "2021-05-07"
+    },
+    {
+        "speaker": "Lisa Lippincott",
+        "bio": "https://cppnow2021.sched.com/speaker/lippin",
+        "sched": "https://sched.co/hhk3",
+        "room": "Track B",
+        "title": "What Neighborhoods Owe to Each Other: Rights, Duties, Immunities and Disabilities of Functions and Objects",
+        "time": "07:00",
+        "date": "2021-05-07"
+    },
+    {
+        "speaker": "Peter Sommerlad",
+        "bio": "https://cppnow2021.sched.com/speaker/peter_sommerlad",
+        "sched": "https://sched.co/hhkL",
+        "room": "Track A",
+        "title": "Simplest Safe Integers",
+        "time": "07:00",
+        "date": "2021-05-07"
+    },
+    {
+        "speaker": "Joel Falcou",
+        "bio": "https://cppnow2021.sched.com/speaker/joel_falcou",
+        "speaker2": "Vincent Reverdy",
+        "bio2": "https://cppnow2021.sched.com/speaker/vincent_reverdy",
+        "sched": "https://sched.co/hhkd",
+        "room": "Track B",
+        "title": "Taking Template Classes One Step Further with Opaques Types and Generic NTTPs",
+        "time": "09:00",
+        "date": "2021-05-07"
+    },
+    {
+        "speaker": "Tsung-Wei Huang",
+        "bio": "https://cppnow2021.sched.com/speaker/tsungwei.huang",
+        "sched": "https://sched.co/hhlb",
+        "room": "Track A",
+        "title": "Taskflow: A Lightweight Heterogeneous Task Graph Programming System with Control Flow",
+        "time": "09:00",
+        "date": "2021-05-07"
+    },
+    {
+        "speaker": "Victor Ciura",
+        "bio": "https://cppnow2021.sched.com/speaker/victor.ciura",
+        "sched": "https://sched.co/hhk9",
+        "room": "Track C",
+        "title": "The Quest For A Better Crash",
+        "time": "09:00",
+        "date": "2021-05-07"
+    },
+    {
+        "speaker": "Bryce Adelstein Lelbach",
+        "bio": "https://cppnow2021.sched.com/speaker/bryce_adelstein_lelbach.74tszya",
+        "sched": "https://sched.co/ixTG",
+        "room": "Track A",
+        "title": "What Belongs In The C++ Standard Library?",
+        "time": "11:30",
+        "date": "2021-05-07"
+    }
+]
