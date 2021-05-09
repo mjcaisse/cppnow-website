@@ -27,7 +27,7 @@ Announcing the results of the **Best Session** balloting by C++Now 2021 attendee
 
 [<img src="https://avatars.sched.co/6/80/1026117/avatar.jpg?56a" class="attendeeAvatar" alt="Jeff Garland">](https://cppnow2021.sched.com/speaker/jeff_garland_2016 "Jeff Garland"){:style="float: left; margin-left: 7px; margin-right: 7px; margin-top: 7px;"}
 
-Attendees felt that the two-slot session from Jeff Garland on C++2020's Concepts was the best presentation of C++Now 2021.
+Attendees felt that the two-slot session from Jeff Garland on C++20's Concepts was the best presentation of C++Now 2021.
 
 [Using Concepts - C++ Design in a Concept World](/history/2021/talks/#ixSt) by [Jeff Garland](https://cppnow2021.sched.com/speaker/jeff_garland_2016).
 
@@ -89,7 +89,7 @@ Attendees felt the most inspiring session of the conference was presented by Joe
 [Taking Template Classes One Step Further with Opaques Types and Generic NTTPs](/history/2021/talks/#hhkd) by [Joel Falcou](https://cppnow2021.sched.com/speaker/joel_falcou) and [Vincent Reverdy](https://cppnow2021.sched.com/speaker/vincent_reverdy)
 
 
-### <a name="dates" style="clear: both;"></a>C++Now 2020 Announced
+### <a name="dates" style="clear: both;"></a>C++Now 2022 Announced
 
 C++Now 2021 wrapped up with the announcement of C++Now 2022.
 
