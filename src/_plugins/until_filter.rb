@@ -24,6 +24,7 @@ module Jekyll::UntilFilter
         }
         if sponsor_found
             filtered_hash["title"] = input["title"]
+            filtered_hash["level"] = input["level"]
             filtered_hash["sponsors"] = filtered_sponsors
         else
             return nil
