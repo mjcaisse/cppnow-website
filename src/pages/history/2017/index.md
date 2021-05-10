@@ -21,6 +21,6 @@ The theme of the 2017 keynotes was: What can we learn from other langauges, part
 
 {% assign DATA = site.data.sponsors.Sponsors2017 %}
 
-{% include corporateSponsorListing.md %}
+{% include corporateSponsorHistoryListing.md %}
 
 {% include individualSponsorListing.md %}

@@ -16,6 +16,6 @@ section: history
 
 {% assign DATA = site.data.sponsors.Sponsors2021 %}
 
-{% include corporateSponsorListing.md %}
+{% include corporateSponsorHistoryListing.md %}
 
 {% include individualSponsorListing.md %}

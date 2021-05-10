@@ -21,6 +21,6 @@ In 2016, we celebrated our tenth conference (five as BoostCon and five as C++Now
 
 {% assign DATA = site.data.sponsors.Sponsors2016 %}
 
-{% include corporateSponsorListing.md %}
+{% include corporateSponsorHistoryListing.md %}
 
 {% include individualSponsorListing.md %}

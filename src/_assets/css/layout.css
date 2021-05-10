@@ -8,7 +8,18 @@
     clear: both;
 }
 
+.wideMidpageBox {
+    margin: 0 auto;
+    width: 100%;
+    position: relative;
+    clear: both;
+}
+
 .contentBox {
+    padding: 16px;
+}
+
+.wideContentBox {
     padding: 16px;
 }
 
@@ -17,6 +28,9 @@
         padding: 8px;
     }
     .contentBox {
+        padding: 8px;
+    }
+    .wideContentBox {
         padding: 8px;
     }
 }
@@ -44,7 +58,15 @@
         margin-right: 150px;
         padding: 16px;
     }
+    .wideContentBox {
+        margin-left: 200px;
+        margin-right: 150px;
+        padding: 16px;
+    }
     .scheduleBox .contentBox {
+        margin-right: 0;
+    }
+    .scheduleBox .wideContentBox {
         margin-right: 0;
     }
 }
@@ -53,6 +75,10 @@
     .midpageBox {
         width: 90%;
         max-width: 1400px;
+    }
+    .wideMidpageBox {
+        width: 100%;
+        max-width: 1550px;
     }
     .navBox {
         margin-bottom: 16px;
@@ -74,6 +100,11 @@
     .contentBox {
         margin-left: 250px;
         margin-right: 250px;
+        padding: 16px;
+    }
+    .wideContentBox {
+        margin-left: 250px;
+        margin-right: 15px;
         padding: 16px;
     }
     .contentBoxSchedule {
