@@ -1,0 +1,90 @@
+[
+    {
+        "title": "Chair",
+        "name": "Jon Kalb",
+        "email": "jon@cppnow.org"
+    },
+    {
+        "title": "Conference Manager",
+        "name": "Bob Steagall",
+        "email": "bob@cppnow.org"
+    },
+    {
+        "title": "Program Committee Chair",
+        "name": "Bob Steagall",
+        "email": "program@cppnow.org"
+    },
+    {
+        "title": "Program Committee Co-Chair",
+        "name": "Bryce Adelstein Lelbach",
+        "email": "program@cppnow.org"
+    },
+    {
+        "title": "Registrar",
+        "name": "Karen Krueger",
+        "email": "registrar@cppnow.org"
+    },
+    {
+        "title": "Speaker Liaison",
+        "name": "Chris Ryan",
+        "email": "speakers@cppnow.org"
+    },
+    {
+        "title": "Student / Volunteer Chair",
+        "name": "Matthew Butler",
+        "email": "student-volunteers@cppnow.org"
+    },
+    {
+        "title": "Facilities Co-Chairs",
+        "cochairs": true,
+        "comembers":
+            [
+                {
+                    "name": "Bob Steagall",
+                    "email": "ground-team@cppnow.org"
+                },
+                {
+                    "name": "Dave Jenkins",
+                    "email": "ground-team@cppnow.org"
+                }
+            ],
+
+        "name": "Dave Jenkins",
+        "email": "ground-team@cppnow.org"
+    },
+    {
+        "title": "Security Co-Chairs",
+        "cochairs": true,
+        "comembers":
+            [
+                {
+                    "name": "Bob Steagall",
+                    "email": "security@cppnow.org"
+                },
+                {
+                    "name": "Dave Jenkins",
+                    "email": "security@cppnow.org"
+                }
+            ],
+
+        "name": "Dave Jenkins",
+        "email": "security@cppnow.org"
+    },
+    {
+        "title": "Graphic Design",
+        "name": "Zoltan Juhasz"
+    },
+    {
+        "title": "Archivist",
+        "name": "JeanHeyd Meneide",
+        "email": "speaker-files@cppnow.org"
+    },
+    {
+        "title": "Promotion",
+        "name": "Jonathan Müller"
+    },
+    {
+        "title": "Speaker Feedback / Best Session Balloting",
+        "name": "Peter Bindels"
+    },
+]
