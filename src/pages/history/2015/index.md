@@ -18,6 +18,6 @@ One of our 2015 keynotes, Tiago Quintino, gave us a glimpse of our C++ is used n
 
 {% assign DATA = site.data.sponsors.Sponsors2015 %}
 
-{% include corporateSponsorListing.md %}
+{% include corporateSponsorHistoryListing.md %}
 
 {% include individualSponsorListing.md %}

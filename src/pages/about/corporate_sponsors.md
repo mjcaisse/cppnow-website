@@ -1,5 +1,5 @@
 ---
-layout: page_sponsorless
+layout: nosidebar-page
 title: Corporate Sponsors
 permalink: /about/corporate_sponsors/
 section: about
