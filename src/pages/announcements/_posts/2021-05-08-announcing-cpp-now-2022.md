@@ -9,7 +9,9 @@ section: announcements
 
 ### Wrapping up C++Now 2021 and announcing C++Now 2022
 
-C++Now 2021 was our first and only online conference experience. Attendees, many of whom are new to C++Now, enjoyed the *Gather Town* virtual environment. But the commonly expressed sentiment was a desire to be able to meet together in our Aspen home.
+C++Now 2021 was our first and only online conference experience. With over two hundred attendees, we exceeded our previous attendance record by sixty percent.
+
+Attendees, many of whom are new to C++Now, enjoyed the *Gather Town* virtual environment. But the commonly expressed sentiment was a desire to be able to meet together in our Aspen home.
 
 This post will announce the "Best Session" ballot winners and announce the dates and location for C++Now 2022.
 
