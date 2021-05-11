@@ -7,6 +7,8 @@ redirect_from:
     - /speakers-2017/
 ---
 
+{% assign history_year = '2017' %}
+
 The theme of the 2017 keynotes was: What can we learn from other langauges, particularly D, Haskell, and Rust?
 
 
@@ -16,6 +18,14 @@ The theme of the 2017 keynotes was: What can we learn from other langauges, part
 * [Attendees](https://cppnow2017.sched.com/directory/attendees)
 * [Volunteers](https://cppnow2017.sched.com/directory/volunteers)
 * [Staff](https://cppnow2017.sched.com/directory/artists)
+
+{% assign staffname = 'staff' | append: history_year %}
+{% assign staffmembers = site.data.staff[staffname] %}
+{% include staffList.md %}
+
+{% assign filename = 'ProgramCommitteeMembers' | append: history_year %}
+{% assign programCommittee = site.data.programCommitteeMembers[filename] %}
+{% include programCommittee.md %}
 
 
 
