@@ -1,7 +1,7 @@
 [
     {
         "speaker": "Bill Hoffman",
-        "bio": "https://cppnow2021.sched.com/speaker/boostcon.2021.bill.hoffman_kitware.com",
+        "bio": "https://cppnow2021.sched.com/speaker/bill.hoffman123",
         "sched": "https://sched.co/hhky",
         "room": "Track A",
         "title": "CMake: One Tool To Build Them All",
@@ -10,7 +10,7 @@
     },
     {
         "speaker": "Arno Schödl",
-        "bio": "https://cppnow2021.sched.com/speaker/boostcon.2021.schoedl_think_cell.com",
+        "bio": "https://cppnow2021.sched.com/speaker/Arno.Sch%C3%B6dl",
         "sched": "https://sched.co/ixSq",
         "room": "Track B",
         "title": "The C++ Rvalue Lifetime Disaster",
@@ -57,7 +57,7 @@
     },
     {
         "speaker": "Matthew Bentley",
-        "bio": "https://cppnow2021.sched.com/speaker/cppcon.2016.mattreecebentley_gmail.com",
+        "bio": "https://cppnow2021.sched.com/speaker/Matthew.Bentley123",
         "sched": "https://sched.co/hhl1",
         "room": "Track A",
         "title": "How to: Colony",
@@ -66,7 +66,7 @@
     },
     {
         "speaker": "Anastasia Kazakova",
-        "bio": "https://cppnow2021.sched.com/speaker/boostcon.2018.anastasia.kazakova2512_gmail.com",
+        "bio": "https://cppnow2021.sched.com/speaker/anastasia.kazakova2512",
         "sched": "https://sched.co/ixTE",
         "room": "Track A",
         "title": "Code Analysis++",
@@ -120,7 +120,7 @@
     },
     {
         "speaker": "Giannis Gonidelis",
-        "bio": "https://cppnow2021.sched.com/speaker/boostcon.2021.pesto80_windowslive.com",
+        "bio": "https://cppnow2021.sched.com/speaker/Giannis.Gonidelis",
         "sched": "https://sched.co/hhlA",
         "room": "Track C",
         "title": "Parallelism on Ranges: Should We?",
@@ -129,7 +129,7 @@
     },
     {
         "speaker": "Nikunj Gupta",
-        "bio": "https://cppnow2021.sched.com/speaker/boostcon.2021.nikunj.nkgpta_gmail.com",
+        "bio": "https://cppnow2021.sched.com/speaker/Nikunj.Gupta",
         "sched": "https://sched.co/hhlJ",
         "room": "Track B",
         "title": "Executors: The Art of Generating Composable APIs",
@@ -138,7 +138,7 @@
     },
     {
         "speaker": "Richárd Szalay",
-        "bio": "https://cppnow2021.sched.com/speaker/boostcon.2019.szalayrichard_inf.elte.hu",
+        "bio": "https://cppnow2021.sched.com/speaker/Rich%C3%A1rd.Szalay",
         "sched": "https://sched.co/hhkX",
         "room": "Track A",
         "title": "Weak Interfaces → Weak Defences: The Bane of Implicit Conversion in our Function Calls",
@@ -210,7 +210,7 @@
     },
     {
         "speaker": "Ivica Bogosavljevic",
-        "bio": "https://cppnow2021.sched.com/speaker/boostcon.2021.ivica_johnysswlab.com",
+        "bio": "https://cppnow2021.sched.com/speaker/Ivica.Bogosavljevic",
         "sched": "https://sched.co/hhln",
         "room": "Track C",
         "title": "The Performance Price of Dynamic Memory in C++",
@@ -219,7 +219,7 @@
     },
     {
         "speaker": "Sandor Dargo",
-        "bio": "https://cppnow2021.sched.com/speaker/boostcon.2021.sandor.dargo_gmail.com",
+        "bio": "https://cppnow2021.sched.com/speaker/Sandor.Dargo",
         "sched": "https://sched.co/ixTB",
         "room": "Track A",
         "title": "The Concepts of concepts",
@@ -239,7 +239,7 @@
         "speaker": "Eduardo Madrid",
         "bio": "https://cppnow2021.sched.com/speaker/zwischenzug",
         "speaker2": "Phil Nash",
-        "bio2": "https://cppnow2021.sched.com/speaker/boostcon.2021.mail_philnash.me",
+        "bio2": "https://cppnow2021.sched.com/speaker/philnash",
         "sched": "https://sched.co/hhlD",
         "room": "Track A",
         "title": "Polymorphism À La Carte",
@@ -248,7 +248,7 @@
     },
     {
         "speaker": "Roi Barkan",
-        "bio": "https://cppnow2021.sched.com/speaker/boostcon.2021.roi.barkan_gmail.com",
+        "bio": "https://cppnow2021.sched.com/speaker/Roi.Barkan",
         "sched": "https://sched.co/hhl4",
         "room": "Track C",
         "title": "Semantic Sugar: Tips for Effective Template Library APIs",
@@ -266,7 +266,7 @@
     },
     {
         "speaker": "Barry Revzin",
-        "bio": "https://cppnow2021.sched.com/speaker/boostcon.2021.barry.revzin_gmail.com",
+        "bio": "https://cppnow2021.sched.com/speaker/Barry.Revzin",
         "sched": "https://sched.co/hhkg",
         "room": "Track C",
         "title": "Iterators and Ranges: Comparing C++ to D to Rust",
@@ -284,7 +284,7 @@
     },
     {
         "speaker": "Filipp Gelman",
-        "bio": "https://cppnow2021.sched.com/speaker/cppcon.2019.fgelman1_bloomberg.net",
+        "bio": "https://cppnow2021.sched.com/speaker/Filipp.Gelman",
         "sched": "https://sched.co/hhkj",
         "room": "Track A",
         "title": "Techniques for Overloading any_invocable",
@@ -320,7 +320,7 @@
     },
     {
         "speaker": "Gábor Horváth",
-        "bio": "https://cppnow2021.sched.com/speaker/cppcon.2016.xazax.hun_gmail.com",
+        "bio": "https://cppnow2021.sched.com/speaker/G%C3%A1bor.Horv%C3%A1th",
         "sched": "https://sched.co/hhkI",
         "room": "Track A",
         "title": "Algorithms from a Compiler Developer's Toolbox",
@@ -338,7 +338,7 @@
     },
     {
         "speaker": "Sebastian Theophil",
-        "bio": "https://cppnow2021.sched.com/speaker/boostcon.2021.stheophil_think_cell.com",
+        "bio": "https://cppnow2021.sched.com/speaker/Sebastian.Theophil",
         "sched": "https://sched.co/hhmB",
         "room": "Track B",
         "title": "Windows, MacOS and the Web: Lessons from Cross-platform Development at think-cell",
@@ -356,7 +356,7 @@
     },
     {
         "speaker": "Anthony Williams",
-        "bio": "https://cppnow2021.sched.com/speaker/cppcon.2016.anthony_justsoftwaresolutions.co.uk",
+        "bio": "https://cppnow2021.sched.com/speaker/Anthony.Williams123",
         "sched": "https://sched.co/hhlP",
         "room": "Track C",
         "title": "Library Approaches for Strong Type Aliases",
@@ -383,7 +383,7 @@
     },
     {
         "speaker": "Kris Jusiak",
-        "bio": "https://cppnow2021.sched.com/speaker/boostcon.2016.kris_jusiak.net",
+        "bio": "https://cppnow2021.sched.com/speaker/Kris.Jusiak",
         "sched": "https://sched.co/hhmH",
         "room": "Track C",
         "title": "UT - C++20 Unit Testing Framework",
