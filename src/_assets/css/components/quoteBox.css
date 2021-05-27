@@ -24,6 +24,19 @@
     background-size: cover;
 }
 
+.quoteBoxSponsorImage {
+    background-color: #FFFFFF;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    height: 150px;
+    right: -1px;
+    position: absolute;
+    top: -150px;
+    width: 150px;
+}
+
 .quoteBoxText.quoteBoxText {
     margin-bottom: 8px;
     font-family: serif;
