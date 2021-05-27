@@ -53,6 +53,8 @@ During your Safety Session, conference staff will assist with with your hardware
 
 You will also *record your entire session presentation* so that we'll have a back-up to run in case of any system failures on the day of. Yes, this means that *you'll need to have your slides completed and your presentation ready one week before* it is scheduled. You will also submit a PDF of your slides at this time.
 
+[comment]: # (The ~~ ~~ in the next paragraph generates strikethrough and is enabled by specifying the redcarpet markdown extension in _config.yml)
+
 Does this mean that you cannot make further changes to your presentation? Of course not. It wouldn't be C++Now if ~~Michael~~ someone wasn't updating their slides up until the last minute. You can modify your presentation as necessary and update your submitted PDF at any time, but we want to have a "fallback" in place for the day of.
 
 ##### Prerecorded Sessions

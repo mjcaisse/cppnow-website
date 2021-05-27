@@ -8,9 +8,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-markdown: redcarpet
-redcarpet:
-  extensions: ["strikethrough"]
+# The redcarpet markdown extension was enabled to add strikethrough on an online-only page.
+# Since it isn't needed anyone, it is disabled to reduce dependencies.
+# markdown: redcarpet
+# redcarpet:
+#  extensions: ["strikethrough"]
 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
