@@ -1,0 +1,45 @@
+[
+    {
+        "header": "C++Now relies of services provided by:",
+        "vendors":
+        [
+            {
+                "title": "Aspen Center for Physics",
+                "link": "https://www.aspenphys.org/",
+                "image": "/assets/img/vendors/ACP.jpeg",
+                "blurb": "Science Leadership Since 1962: Aspen remains the best place on earth to have a change to actually think deeply and without interruption."
+
+            },
+            {
+                "title": "Aspen Meadows Resort",
+                "link": "https://www.aspenmeadows.com/",
+                "image": "/assets/img/vendors/AspenMeadowsResort.png",
+                "blurb": "Home of the Aspen Institute: Where Mind, Body, & Spirit Come Together"
+            },
+            {
+                "title": "Bash Films",
+                "link": "http://www.bashfilms.com/",
+                "image": "/assets/img/vendors/BashFilms.png",
+                "blurb": "Trusted by the world’s best companies for event videographyservices, live streaming and media production since 2005."
+            },
+            {
+                "title": "Digital Medium",
+                "link": "https://events.digital-medium.co.uk/",
+                "image": "/assets/img/vendors/DM.png",
+                "blurb": "Live Capture Of Presentation And Slides: We use the latest and best technology to capture and present talks, presentations and workshops in an engaging and highly accessible format. We can embed presentations, videos and other assets shown during the talk or presentation."
+            },
+            {
+                "title": "Krueger Event Management",
+                "link": "http://www.kruegerevents.com/",
+                "image": "/assets/img/vendors/KEM.png",
+                "blurb": "Experienced Meeting Solutions: From Site Selection to Invoice Rectification Krueger Event Management Brings Experience, Professionalism, and Personality to your Meeting or Event."
+            },
+            {
+                "title": "Limelight Hotel Aspen",
+                "link": "https://www.limelighthotels.com/aspen/",
+                "image": "/assets/img/vendors/Limelight.png",
+                "blurb": "At the Limelight, our “Limelightitude” helps us see the world a little differently."
+            },
+        ]
+    }
+]

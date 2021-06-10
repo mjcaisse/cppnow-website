@@ -17,3 +17,14 @@ redirect_from:
 {% assign programCommittee = site.data.programCommitteeMembers[filename] %}
 
 {% include programCommittee.md %}
+
+
+{% include vendors.blurb.md %}
+
+
+
+## Brought To You By
+
+{% for item in site.data.sponsors.BroughtToYouBy %}
+{% include broughtToYouBy.md %}
+{% endfor %}
