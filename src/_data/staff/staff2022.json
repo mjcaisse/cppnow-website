@@ -1,6 +1,19 @@
 [
     {
         "title": "Chair",
+        "cochairs": true,
+        "comembers":
+            [
+                {
+                    "name": "Bob Steagall",
+                    "email": "bob@cppnow.org"
+                },
+                {
+                    "name": "Jon Kalb",
+                    "email": "jon@cppnow.org"
+                }
+            ],
+
         "name": "Jon Kalb",
         "email": "jon@cppnow.org"
     },
@@ -76,7 +89,7 @@
     },
     {
         "title": "Archivist",
-        "name": "JeanHeyd Meneide",
+        "name": "Bob Steagall",
         "email": "speaker-files@cppnow.org"
     },
     {
