@@ -8,10 +8,10 @@
 #        "title": "Registration is open",
 #        "link": "/announcements/2021/01/2021-registration-is-open/"
 #    },
-#    {
-#         "title": "Accepting submissions",
-#         "link": "/announcements/2020/12/2021-CfS/"
-#     },
+    {
+         "title": "Accepting submissions",
+         "link": "/announcements/2020/12/2022-CfS/"
+     },
 #    {
 #        "title": "Taking reservations",
 #        "link": "/location/lodging/"
@@ -32,10 +32,10 @@
 #        "title": "Supporting Student/Volunteers",
 #        "link": "/announcements/2020/03/BoostScholarshipFund/"
 #    },
-    {
-        "title": "Videos Uploaded",
-        "link": "/announcements/2021/05/2021-videos/"
-    },
+#    {
+#        "title": "Videos Uploaded",
+#        "link": "/announcements/2021/05/2021-videos/"
+#    },
     {
         "title": "Accepting corporate sponsors",
         "link": "/about/corporate_sponsors/"

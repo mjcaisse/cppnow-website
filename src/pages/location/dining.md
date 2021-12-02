@@ -23,6 +23,7 @@ There are several social events with food served during the conference, includin
 
 * Opening Reception on Sunday evening
 * Daily refreshment breaks, morning and afternoon
+{% if site.doing_lunch_signups %}* Sign up for [on-site lunches]({{site.lunch_signup_link}}).{% endif %}
 * Barbecue social one evening
 * Dining at the [Aspen Meadows Resort](https://www.aspenmeadows.com/)
 
