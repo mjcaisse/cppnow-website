@@ -94,13 +94,13 @@ over: false
 ## Note that we "flip" the conference (set the current_year, etc,) when we make the
 ##  first post about the new conference.
 
-submission: "will"
+submission: "is"
 
-last_cfs: "/announcements/2020/12/2021-CfS/"
+last_cfs: "/announcements/2021/12/2022-CfS/"
 
 ## If we are doing lunch signups we want them in the FAQ.
-doing_lunch_signups: false
-lunch_signup_link: "https://docs.google.com/spreadsheets/d/12zmvrJHI7fIms8SH9FviPJkyt0cYOnq6eaARv_m9GuU/"
+doing_lunch_signups: true
+lunch_signup_link: "https://docs.google.com/spreadsheets/d/1yUJYAUcRJbX9S4ic0nBBjw0tk0w91Ba1GKTN5jm4-Os/"
 
 ## "will", "is", "was": becomes "was" when the hotel is full or the conference is over
 hotel_registration: "will"
@@ -177,13 +177,13 @@ B0_description: "<p>The venue for C++Now is the <a href=\"https://www.aspenphys.
 B0_call: "Learn More"
 
 ## Box 1
-B1_show: true
-B1_title: "Hotel"
-B1_link: "/location/lodging/"
-B1_photo: "/assets/img/home/AspenMeadowsResort.jpg"
-B1_photo_title: "Aspen Meadows Resort"
-B1_description: "<p>The conference hotel is the <a href=\"https://www.aspenmeadows.com/\">Aspen Meadows Resort</a>, a 40 acre resort a short walk from the conference venue overlooking the Roaring Fork River.</p>"
-B1_call: "Learn More"
+# B1_show: true
+# B1_title: "Hotel"
+# B1_link: "/location/lodging/"
+# B1_photo: "/assets/img/home/AspenMeadowsResort.jpg"
+# B1_photo_title: "Aspen Meadows Resort"
+# B1_description: "<p>The conference hotel is the <a href=\"https://www.aspenmeadows.com/\">Aspen Meadows Resort</a>, a 40 acre resort a short walk from the conference venue overlooking the Roaring Fork River.</p>"
+# B1_call: "Learn More"
 
 ## Box 2
 # B2_show: false
@@ -193,6 +193,15 @@ B1_call: "Learn More"
 # B2_photo_title: "Attendees: Photo by Zoetica Ebb"
 # B2_description: "<p>Attending C++Now and being part of the discussion on cutting edge C++ can be a life changing experience. The content presented at C++Now is unmatched at C++ events, but that isn't the best part of conference. The best part of the conference is the attendees that you'll meet and engage with for a week in the beautiful Colorado Rockies.</p>"
 # B2_call: "Register Now"
+
+## Box 1
+B1_show: true
+B1_title: "Be a Presenter"
+B1_link: "/presenters/"
+B1_photo: "/assets/img/home/jackie.jpg"
+B1_photo_title: "Jackie Kay: Photo by Zoetica Ebb"
+B1_description: "<p>Join the discussion! Get the most out of C++Now by joining the elite group of C++ experts that have presented a lightning talk or as part of the regular program.</p>"
+B1_call: "Presenter Information"
 
 
 B2_show: false
