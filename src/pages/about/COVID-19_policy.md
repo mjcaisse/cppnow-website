@@ -7,11 +7,11 @@ section: about
 
 ## C++Now Vaccine Policy
 
-To attend C++Now 2021, attendees must be fully vaccinated for COVID-19 with any WHO-approved vaccine. Fully vaccinated means two weeks have passed since your final vaccine dose.
+To attend C++Now 2022, attendees must be fully vaccinated for COVID-19 with any WHO-approved vaccine. Fully vaccinated means two weeks have passed since your final vaccine dose.
 
 To receive your badge, you can show an official proof-of-vaccination document online in advance using the link below, or at registration when you arrive.
 
-Confirming online in advance of the conference saves time by streamlining the onsite registration process (and reduces of showing up without your documentation)). [Confirm vaccination status online]().
+Confirming online in advance of the conference saves time by streamlining the onsite registration process (and reduces the risk of showing up without your documentation). [Confirm vaccination status online](https://forms.gle/nM1kKabWg2RJULpw8).
 
 Online confirmation requires you to upload a (potentially redacted) scan of your vaccination documentation, but after confirmation is complete, your uploaded scan is immediately deleted.
 
