@@ -28,6 +28,10 @@
         "children":
         [
             {
+                "title": "COVID-19 Policy",
+                "link": "/about/COVID-19_policy/"
+            },
+            {
                 "title": "Corporate Sponsors",
                 "link": "/about/corporate_sponsors/"
             },
