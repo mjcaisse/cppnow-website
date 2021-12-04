@@ -18,12 +18,6 @@ Here is what C++Now is about, in the words of its attendees…
 </blockquote>
 
 
-<blockquote class="quoteBox">
-    <span class="quoteBoxImage quoteBoxAirplane"></span>
-    <a href="https://bunnyladame.blogspot.com/2018/05/a-cppnow-travel-guide.html" class="quoteBoxMainLink">Trip Report by Eva _Bunny_ Conti (2018)</a>
-</blockquote>
-
-
 <blockquote class="quoteBox replaceQuote">
     <span class="quoteBoxImage quoteBoxQuotes"></span>
     <p class="quoteBoxText">
