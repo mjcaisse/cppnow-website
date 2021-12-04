@@ -169,12 +169,21 @@ tag_cloud_image_width: "577"
 
 ## Box 0
 B0_show: true
-B0_title: "Venue"
-B0_link: "/location/venue/"
-B0_photo: "/assets/img/home/venue.jpg"
-B0_photo_title: "Aspen Center for Physics: Photo by Zoetica Ebb"
-B0_description: "<p>The venue for C++Now is the <a href=\"https://www.aspenphys.org/\">Aspen Center for Physics</a>, a beautiful location creating a lively environment for thought, education, and collaboration.</p>"
+B0_title: "COVID-19 Policy"
+B0_link: "/about/COVID-19_policy/"
+B0_photo: "/assets/img/home/COVID19.png"
+B0_photo_title: ""
+B0_description: "<p>We are commited to providing as safe experience for all attendees.</p>"
 B0_call: "Learn More"
+
+## Box 0
+# B0_show: true
+# B0_title: "Venue"
+# B0_link: "/location/venue/"
+# B0_photo: "/assets/img/home/venue.jpg"
+# B0_photo_title: "Aspen Center for Physics: Photo by Zoetica Ebb"
+# B0_description: "<p>The venue for C++Now is the <a href=\"https://www.aspenphys.org/\">Aspen Center for Physics</a>, a beautiful location creating a lively environment for thought, education, and collaboration.</p>"
+# B0_call: "Learn More"
 
 ## Box 1
 # B1_show: true
