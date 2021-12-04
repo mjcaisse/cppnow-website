@@ -1,6 +1,6 @@
 [
     {
-        "title": "Chair",
+        "title": "Conferences Chairs",
         "cochairs": true,
         "comembers":
             [
@@ -18,18 +18,8 @@
         "email": "jon@cppnow.org"
     },
     {
-        "title": "Conference Manager",
-        "name": "Bob Steagall",
-        "email": "bob@cppnow.org"
-    },
-    {
         "title": "Program Committee Chair",
         "name": "Bob Steagall",
-        "email": "program@cppnow.org"
-    },
-    {
-        "title": "Program Committee Co-Chair",
-        "name": "Bryce Adelstein Lelbach",
         "email": "program@cppnow.org"
     },
     {
@@ -48,38 +38,12 @@
         "email": "student-volunteers@cppnow.org"
     },
     {
-        "title": "Facilities Co-Chairs",
-        "cochairs": true,
-        "comembers":
-            [
-                {
-                    "name": "Bob Steagall",
-                    "email": "ground-team@cppnow.org"
-                },
-                {
-                    "name": "Dave Jenkins",
-                    "email": "ground-team@cppnow.org"
-                }
-            ],
-
+        "title": "Facilities Chair",
         "name": "Dave Jenkins",
         "email": "ground-team@cppnow.org"
     },
     {
-        "title": "Security Co-Chairs",
-        "cochairs": true,
-        "comembers":
-            [
-                {
-                    "name": "Bob Steagall",
-                    "email": "security@cppnow.org"
-                },
-                {
-                    "name": "Dave Jenkins",
-                    "email": "security@cppnow.org"
-                }
-            ],
-
+        "title": "Security Chair",
         "name": "Dave Jenkins",
         "email": "security@cppnow.org"
     },
