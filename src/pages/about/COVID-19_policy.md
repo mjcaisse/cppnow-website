@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COVID-19 Policy
-permalink: /about/COVID-19_policy_/
+permalink: /about/COVID-19_policy/
 section: about
 ---
 
