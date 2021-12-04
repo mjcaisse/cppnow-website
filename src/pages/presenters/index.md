@@ -15,7 +15,7 @@ We have two programs of presentations at C++Now. We have a [main program](#main_
 
 <a name="main_program"></a>
 ### Main Program
-Every year we release a <a href="{{site.last_csf}}">Call for Submissions for the <i>main program</i></a>.
+Every year we release a <a href="{{site.last_cfs}}">Call for Submissions for the <i>main program</i></a>.
 
 {% case site.submission %}
   {% when 'will' %}
