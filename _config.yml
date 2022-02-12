@@ -94,7 +94,7 @@ over: false
 ## Note that we "flip" the conference (set the current_year, etc,) when we make the
 ##  first post about the new conference.
 
-submission: "is"
+submission: "was"
 
 last_cfs: "/announcements/2021/12/2022-CfS/"
 
@@ -205,12 +205,21 @@ B0_call: "Learn More"
 
 ## Box 1
 B1_show: true
-B1_title: "Be a Presenter"
-B1_link: "/presenters/"
-B1_photo: "/assets/img/home/jackie.jpg"
-B1_photo_title: "Jackie Kay: Photo by Zoetica Ebb"
-B1_description: "<p>Join the discussion! Get the most out of C++Now by joining the elite group of C++ experts that have presented a lightning talk or as part of the regular program.</p>"
-B1_call: "Presenter Information"
+B1_title: "Travel Announcement"
+B1_link: "/announcements/2022/02/Travel-Update/"
+B1_photo: "/assets/img/location/ASE/ASE-welcome-bear.jpeg"
+B1_photo_title: "ASE Welcome Bear: Photo by Jon Kalb"
+B1_description: "<p>The Aspen Airport has announced that it will be closed during C++Now 2022. We are asking potential attendees to take a survey.</p>"
+B1_call: "Take the Survey"
+
+## Box 1
+#B1_show: true
+#B1_title: "Be a Presenter"
+#B1_link: "/presenters/"
+#B1_photo: "/assets/img/home/jackie.jpg"
+#B1_photo_title: "Jackie Kay: Photo by Zoetica Ebb"
+#B1_description: "<p>Join the discussion! Get the most out of C++Now by joining the elite group of C++ experts that have presented a lightning talk or as part of the regular program.</p>"
+#B1_call: "Presenter Information"
 
 
 B2_show: false
