@@ -34,72 +34,9 @@ The C++Now community has grown out of the Boost community and is focused on push
 
 ## <span style="color:red;">Travel Update</span>
 
-If you are interested in attending C++Now 2022, please read this important [Travel Update](/announcements/2022/02/Travel-Update/) on the closing of the Aspen Airport.
+If you are interested in attending C++Now 2022, please read this important [Travel Update](/announcements/2022/02/Travel-Update/) on the <span style="font-weight:bold;font-style:italic;">closing of the Aspen Airport</span>.
 
 Also check out the updated [Transportation page](/transportation) and take the brief [attendee survey](https://forms.gle/NxTAdyG8p8DqWSNHA).
-
-
-## Schedule
-
-{% if site.schedule_online %}
-The [session schedule for C++Now {{site.current_year}}](/schedule/) is up!
-{% else %}
-The session schedule for C++Now {{site.current_year}} is not yet confirmed. Keep an eye on the [announcements page](/announcements/) for updated information. To get an idea of what to expect, check out the {{ site.previous_years_schedule }}.
-{% endif %}
-
-{% if site.show_tag_cloud %}
-<div class="homeBoxes">
-    <div class="homeBoxesLeft">
-        <div>
-        This is the tag cloud for the scheduled sessions.
-
-
-        Mobile users may find the <a href="/taglist/">tag list</a> a more useful format.
-
-        {% include tagclouds/tagcloud.infra.html %}
-
-        <img alt="Tag Cloud" src="{{site.tag_cloud_image}}" height="{{site.tag_cloud_image_height_}}" width="{{site.tag_cloud_image_height_}}" usemap="#wordCloudMap" class="imageCenter map">
-        {% include {{site.tag_cloud_map}} %}
-        </div>
-    </div>
-</div>
-{% endif %}
-
-
-{% case site.volunteer_applications %}
-  {% when 'will' %}
-  {% when 'is' %}
-## Volunteer
-
-We are currently <a href="/about/volunteer_program/">accepting applications</a> from young C++ programmers interested in helping to run the conference in exchange for financial aid to attend.
-  {% when 'was' %}
-{% endcase %}
-
-
-## Register
-
-{% case site.registration %}
-  {% when 'will' %}
-Registration for C++Now {{site.current_year}} is not yet available. Watch the [announcements page](/announcements/) for updated information.
-  {% when 'is' %}
-
-<a href="/registration/">Registration</a> is open!
-
-  {% when 'was' %}
-C++Now is over for {{site.current_year}}. Please visit again or keep an eye on the [announcements page](/announcements/) information about next year.
-{% endcase %}
-
-{% if site.hotel_registration == "is" %}
-## Reserve
-
-Rooms are still available at <a href="/location/lodging/" class="a">the Aspen Meadows Resort</a>.
-{% else %}
-{% endif %}
-
-## Sponsor
-
-There are several opportunities to sponsor C++Now, both as a [Corporate Sponsor](/about/corporate_sponsors/) and an [Individual Sponsor](/about/individual_sponsors/). Corporate sponsorships exist for multiple levels and specific needs like video production. Individual sponsors help make the [Volunteer Program](/about/volunteer_program/) and the Boost Summer of Code possible.
-
 
 <div class="homeBoxes">
 {% if site.B0_show %}
@@ -257,3 +194,63 @@ There are several opportunities to sponsor C++Now, both as a [Corporate Sponsor]
 }
 </script>
 
+## Schedule
+
+{% if site.schedule_online %}
+The [session schedule for C++Now {{site.current_year}}](/schedule/) is up!
+{% else %}
+The session schedule for C++Now {{site.current_year}} is not yet confirmed. Keep an eye on the [announcements page](/announcements/) for updated information. To get an idea of what to expect, check out the {{ site.previous_years_schedule }}.
+{% endif %}
+
+{% if site.show_tag_cloud %}
+<div class="homeBoxes">
+    <div class="homeBoxesLeft">
+        <div>
+        This is the tag cloud for the scheduled sessions.
+
+
+        Mobile users may find the <a href="/taglist/">tag list</a> a more useful format.
+
+        {% include tagclouds/tagcloud.infra.html %}
+
+        <img alt="Tag Cloud" src="{{site.tag_cloud_image}}" height="{{site.tag_cloud_image_height_}}" width="{{site.tag_cloud_image_height_}}" usemap="#wordCloudMap" class="imageCenter map">
+        {% include {{site.tag_cloud_map}} %}
+        </div>
+    </div>
+</div>
+{% endif %}
+
+
+{% case site.volunteer_applications %}
+  {% when 'will' %}
+  {% when 'is' %}
+## Volunteer
+
+We are currently <a href="/about/volunteer_program/">accepting applications</a> from young C++ programmers interested in helping to run the conference in exchange for financial aid to attend.
+  {% when 'was' %}
+{% endcase %}
+
+
+## Register
+
+{% case site.registration %}
+  {% when 'will' %}
+Registration for C++Now {{site.current_year}} is not yet available. Watch the [announcements page](/announcements/) for updated information.
+  {% when 'is' %}
+
+<a href="/registration/">Registration</a> is open!
+
+  {% when 'was' %}
+C++Now is over for {{site.current_year}}. Please visit again or keep an eye on the [announcements page](/announcements/) information about next year.
+{% endcase %}
+
+{% if site.hotel_registration == "is" %}
+## Reserve
+
+Rooms are still available at <a href="/location/lodging/" class="a">the Aspen Meadows Resort</a>.
+{% else %}
+{% endif %}
+
+## Sponsor
+
+There are several opportunities to sponsor C++Now, both as a [Corporate Sponsor](/about/corporate_sponsors/) and an [Individual Sponsor](/about/individual_sponsors/). Corporate sponsorships exist for multiple levels and specific needs like video production. Individual sponsors help make the [Volunteer Program](/about/volunteer_program/) and the Boost Summer of Code possible.
