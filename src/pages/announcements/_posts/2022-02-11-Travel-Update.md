@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Travel Update
-date: 2021-02-11
+date: 2022-02-11
 
 permalink: /announcements/2022/02/Travel-Update/
 

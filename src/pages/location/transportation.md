@@ -19,6 +19,8 @@ Note: C++Now {{site.current_year}} will be <span style="color: red;">entirely on
 
 The Aspen/Pitkin County Airport [has announced](https://pitkincounty.com/civicalerts.aspx?AID=465) that it will be closed during the first two weeks of May, 2022.
 
+<span style="color:red;">You may need to make alternative transportation plans!<span>
+
 #### Options for getting into Aspen without going through ASE
 
 * It is possible to rideshare or rent a car at Vail/Eagle (EGE). There are direct flights to EGE from ATL, DEN, DFW, EWT, IAH, JFK, LAX, LGA, MIA, ORD, PHL, PHX, and SFO. This drive is about eighty minutes.
