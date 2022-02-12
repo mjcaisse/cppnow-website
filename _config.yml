@@ -169,12 +169,12 @@ tag_cloud_image_width: "577"
 
 ## Box 0
 B0_show: true
-B0_title: "COVID-19 Policy"
-B0_link: "/about/COVID-19_policy/"
-B0_photo: "/assets/img/home/COVID19.png"
-B0_photo_title: ""
-B0_description: "<p>We are commited to providing a safe experience for all attendees.</p>"
-B0_call: "Learn More"
+B0_title: "Travel Announcement"
+B0_link: "/announcements/2022/02/Travel-Update/"
+B0_photo: "/assets/img/location/ASE/ASE-welcome-bear.jpeg"
+B0_photo_title: "ASE Welcome Bear: Photo by Jon Kalb"
+B0_description: "<p>The Aspen Airport has announced that it will be closed during C++Now 2022. We are asking potential attendees to take a survey.</p>"
+B0_call: "Take the Survey"
 
 ## Box 0
 # B0_show: true
@@ -184,6 +184,15 @@ B0_call: "Learn More"
 # B0_photo_title: "Aspen Center for Physics: Photo by Zoetica Ebb"
 # B0_description: "<p>The venue for C++Now is the <a href=\"https://www.aspenphys.org/\">Aspen Center for Physics</a>, a beautiful location creating a lively environment for thought, education, and collaboration.</p>"
 # B0_call: "Learn More"
+
+## Box 1
+B1_show: true
+B1_title: "COVID-19 Policy"
+B1_link: "/about/COVID-19_policy/"
+B1_photo: "/assets/img/home/COVID19.png"
+B1_photo_title: ""
+B1_description: "<p>We are commited to providing a safe experience for all attendees.</p>"
+B1_call: "Learn More"
 
 ## Box 1
 # B1_show: true
@@ -203,14 +212,6 @@ B0_call: "Learn More"
 # B2_description: "<p>Attending C++Now and being part of the discussion on cutting edge C++ can be a life changing experience. The content presented at C++Now is unmatched at C++ events, but that isn't the best part of conference. The best part of the conference is the attendees that you'll meet and engage with for a week in the beautiful Colorado Rockies.</p>"
 # B2_call: "Register Now"
 
-## Box 1
-B1_show: true
-B1_title: "Travel Announcement"
-B1_link: "/announcements/2022/02/Travel-Update/"
-B1_photo: "/assets/img/location/ASE/ASE-welcome-bear.jpeg"
-B1_photo_title: "ASE Welcome Bear: Photo by Jon Kalb"
-B1_description: "<p>The Aspen Airport has announced that it will be closed during C++Now 2022. We are asking potential attendees to take a survey.</p>"
-B1_call: "Take the Survey"
 
 ## Box 1
 #B1_show: true
