@@ -36,7 +36,7 @@ The C++Now community has grown out of the Boost community and is focused on push
 
 If you are interested in attending C++Now 2022, please read this important [Travel Update](/announcements/2022/02/Travel-Update/) on the <span style="font-weight:bold;font-style:italic;">closing of the Aspen Airport</span>.
 
-Also check out the updated [Transportation page](/transportation) and take the brief [attendee survey](https://forms.gle/NxTAdyG8p8DqWSNHA).
+Also check out the updated [Transportation page](/location/transportation/) and take the brief [attendee survey](https://forms.gle/NxTAdyG8p8DqWSNHA).
 
 <div class="homeBoxes">
 {% if site.B0_show %}
