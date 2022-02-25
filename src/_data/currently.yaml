@@ -4,10 +4,10 @@
 #        "link": "/announcements/2020/03/Canceled/"
 #    },
 
-#    {
-#        "title": "Registration is open",
-#        "link": "/announcements/2021/01/2021-registration-is-open/"
-#    },
+    {
+        "title": "Registration is open",
+        "link": "/announcements/2022/02/2022-registration-is-open/"
+    },
 #    {
 #         "title": "Accepting submissions",
 #         "link": "/announcements/2021/12/2022-CfS/"
@@ -36,10 +36,10 @@
 #        "title": "Videos Uploaded",
 #        "link": "/announcements/2021/05/2021-videos/"
 #    },
-    {
-        "title": "Conducting survey",
-        "link": "/announcements/2022/02/Travel-Update/"
-    },
+#    {
+#        "title": "Conducting survey",
+#        "link": "/announcements/2022/02/Travel-Update/"
+#    },
     {
         "title": "Accepting corporate sponsors",
         "link": "/about/corporate_sponsors/"
