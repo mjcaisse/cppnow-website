@@ -17,11 +17,23 @@ Note: C++Now {{site.current_year}} will be <span style="color: red;">entirely on
 
 ## The Aspen Airport is Closed During C++Now 2022
 
-The Aspen/Pitkin County Airport [has announced](https://pitkincounty.com/civicalerts.aspx?AID=465) that it will be closed during the first two weeks of May, 2022.
+The Aspen/Pitkin County Airport [has announced](https://pitkincounty.com/civicalerts.aspx?AID=465) that it will be closed during the first two weeks of May, 2022, starting on May 2nd.
 
 <span style="color:red;">You may need to make alternative transportation plans!<span>
 
-#### Options for getting into Aspen without going through ASE
+#### Recommended solution: The "Boost Bus"
+The airport doesn't shutdown until Monday, which means that it is possible to fly into Aspen as normal. However, in order to see all available flights, it may be necessary to look for one-way, multi-city, or "hacker" fares.
+
+**The conference is arranging a bus from Aspen to the Vail and Denver airports**. The *Boost Bus* will leave Aspen at 08:00 on Saturday with a stop at the Vail/Eagle (EGE) airport and final destination at the Denver airport (DIA). The fare for this trip will be $75, which you can pay as part of your registration.
+
+Our recommendation for those flying in is:
+* Fly into Aspen on Saturday or Sunday as normal.
+* Plan to stay the night on Friday night.
+* Take the *Boost Bus* to Vail or Denver at 08:00 Saturday.
+* Schedule an afternoon flight out of Vail or a mid to late afternoon flight out of Denver.
+
+
+#### Options for getting into and out of Aspen without going through ASE
 
 * It is possible to rideshare or rent a car at Vail/Eagle (EGE). There are direct flights to EGE from ATL, DEN, DFW, EWT, IAH, JFK, LAX, LGA, MIA, ORD, PHL, PHX, and SFO. This drive is about eighty minutes.
 * It is also possible to rideshare or rent a car at Grand Junction (GJT). There are direct flights to GJT from AZA, DEN, DFW, LAS, LAX, PHX, SNA. This drive is about one hundred thirty minutes.
