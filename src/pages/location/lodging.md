@@ -114,7 +114,7 @@ Use the [online registration system]({{site.online_link_for_Meadows_reservation}
 
 ### Room Sharing
 
-The [Aspen Meadows Resort](https://www.aspenmeadows.com/) may be over capacity this year. However, their one bedroom suites are well designed for sharing accommodations. If you are interested in room sharing, please email [sharing@cppnow.org](mailto:sharing@cppnow.org).
+The [Aspen Meadows Resort](https://www.aspenmeadows.com/) may be over capacity this year. However, their one bedroom suites are well designed for sharing accommodations (their junior suits are also sharable). If you are interested in room sharing, join the  public #room-share-and-lodging channel on [the C++Now Discord](https://discord.gg/UZWwKFa6rr) and/or email [sharing@cppnow.org](mailto:sharing@cppnow.org).
 
 
 
