@@ -70,7 +70,7 @@ The [Aspen Meadows Resort](https://www.aspenmeadows.com/) is approximately a blo
 {% case site.hotel_registration %}
   {% when 'will' %}
 
-The hotel's online registration sytem is not yet set up for C++Now {{site.current_year}}
+The hotel's online registration system is not yet set up for C++Now {{site.current_year}}
 
   {% when 'is' %}
 

@@ -30,7 +30,7 @@ Make your [lodging arrangements](/location/lodging/) as soon as possible.
 
 ### Transportation
 
-Be aware that there is imporatant [transporation information](/location/transportation/) for 2022. The conference is arranging a *Boost Bus* from Aspen to the Vail and Denver airports on May 7th.
+Be aware that there is important [transportation information](/location/transportation/) for 2022. The conference is arranging a *Boost Bus* from Aspen to the Vail and Denver airports on May 7th.
 
 ### Submitters
 

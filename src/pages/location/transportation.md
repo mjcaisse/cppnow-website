@@ -22,7 +22,7 @@ The Aspen/Pitkin County Airport [has announced](https://pitkincounty.com/civical
 <span style="color:red;">You may need to make alternative transportation plans!<span>
 
 #### Recommended solution: The "Boost Bus"
-The airport doesn't shutdown until Monday, which means that it is possible to fly into Aspen as normal. However, in order to see all available flights, it may be necessary to look for one-way, multi-city, or "hacker" fares.
+The airport doesn't shut down until Monday, which means that it is possible to fly into Aspen as normal. However, in order to see all available flights, it may be necessary to look for one-way, multi-city, or "hacker" fares.
 
 **The conference is arranging a bus from Aspen to the Vail and Denver airports**. The *Boost Bus* will leave Aspen at 08:00 on Saturday with a stop at the Vail/Eagle (EGE) airport and final destination at the Denver airport (DIA). The fare for this trip will be $75, which you can pay as part of your registration.
 
@@ -59,6 +59,6 @@ Also, please join the discussion in the #rideshare-and-travel channel on the C++
 
 ### Bike Rental
 
-[We-Cycle](https://www.we-cycle.org/) is available in Aspen. This system requires that you download an app to your smart phone and provide a credit card for security, but the first thirty minutes of every ride is free. Thirty minutes is usually enough for a trip anywhere is Aspen. The town of Aspen subsidizes this service to reduce parking in downtown Aspen.
+[We-Cycle](https://www.we-cycle.org/) is available in Aspen. This system requires that you download an app to your smart phone and provide a credit card for security, but the first thirty minutes of every ride is free. Thirty minutes is usually enough for a trip anywhere in Aspen. The town of Aspen subsidizes this service to reduce parking in downtown Aspen.
 
 {% endif %}
