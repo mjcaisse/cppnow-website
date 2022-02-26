@@ -29,7 +29,7 @@ Please register through <a href="{{site.krueger_reg_URL}}">the registration syst
 Please register through <a href="{{site.krueger_reg_URL}}">the registration system</a>.
 
 In the event that a registered attendee is not able to attend:
-* Please constact the [C++Now Registrar](mailto:registrar@cppnow.org) as soon as possible.
+* Please contact the [C++Now Registrar](mailto:registrar@cppnow.org) as soon as possible.
 * We can make an attendee substitution at any time, up to the start of the conference,
 * We can credit a registration for next year (avoiding any increase in registration rates).
 * {% if site.refunds_are_free %}For {{site.current_year}}, the organizers are waiving the refund fee. We can refund the registration entirely.{% else %}Refund requests are granted, with {{site.refund_fee}} fee deduction, until {{site.refund_deadline}}.{% endif %}
