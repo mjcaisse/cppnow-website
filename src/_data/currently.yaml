@@ -12,10 +12,10 @@
 #         "title": "Accepting submissions",
 #         "link": "/announcements/2021/12/2022-CfS/"
 #     },
-#    {
-#        "title": "Taking reservations",
-#        "link": "/location/lodging/"
-#    },
+    {
+        "title": "Taking reservations",
+        "link": "/location/lodging/"
+    },
 #    {
 #        "title": "Lightning Talks open",
 #        "link": "/schedule/lightning.talks/"
