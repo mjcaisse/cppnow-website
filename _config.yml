@@ -103,8 +103,8 @@ doing_lunch_signups: true
 lunch_signup_link: "https://docs.google.com/spreadsheets/d/1yUJYAUcRJbX9S4ic0nBBjw0tk0w91Ba1GKTN5jm4-Os/"
 
 ## "will", "is", "was": becomes "was" when the hotel is full or the conference is over
-hotel_registration: "will"
-online_link_for_Meadows_reservation: "https://book.passkey.com/go/CppNow"
+hotel_registration: "is"
+online_link_for_Meadows_reservation: "https://book.passkey.com/e/50305129"
 
 
 ## "will", "is", "was": becomes "was" when  the conference is over
@@ -178,13 +178,13 @@ B0_description: "<p>Attending C++Now and being part of the discussion on cutting
 B0_call: "Register Now"
 
 ## Box 1
-B1_show: false
+B1_show: true
 B1_title: "Hotel"
 B1_link: "/location/lodging/"
 B1_photo: "/assets/img/home/AspenMeadowsResort.jpg"
 B1_photo_title: "Aspen Meadows Resort"
-B1_description: "<p>The conference hotel is the <a href=\"https://www.aspenmeadows.com/\">Aspen Meadows Resort</a>, a 40 acre resort a short walk from the conference venue overlooking the Roaring Fork River.</p>"
-B1_call: "Learn More"
+B1_description: "<p>The conference hotel is the <a href=\"https://www.aspenmeadows.com/\">Aspen Meadows Resort</a>, a 40 acre resort a short walk from the conference venue overlooking the Roaring Fork River.</p> The hotel is currently accepting online reservations."
+B1_call: "Reserve Now"
 
 ## Box 2
 B2_show: true
