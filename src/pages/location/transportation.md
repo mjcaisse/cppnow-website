@@ -24,13 +24,17 @@ The Aspen/Pitkin County Airport [has announced](https://pitkincounty.com/civical
 #### Recommended solution: The "Boost Bus"
 The airport doesn't shut down until Monday, which means that it is possible to fly into Aspen as normal. However, in order to see all available flights, it may be necessary to look for one-way, multi-city, or "hacker" fares.
 
-**The conference is arranging a bus from Aspen to the Vail and Denver airports**. The *Boost Bus* will leave Aspen at 08:00 on Saturday with a stop at the Vail/Eagle (EGE) airport and final destination at the Denver airport (DIA). The fare for this trip will be $75, which you can pay as part of your registration.
+**The conference is arranging a bus from Aspen to the Vail and Denver airports**. The *Boost Bus* will leave Aspen at 08:00 on Saturday with a stop at the Vail/Eagle (EGE) airport and final destination at the Denver International Airport (DIA). The fare for this trip will be $75, which you can pay as part of your registration.
+
+The conference is providing this bus as a service to attendees, but cannot guarantee that the bus is large enough for all attendees that are not travelling by car. [Register](/registration/) as soon as possible to secure your seat on the bus.
 
 Our recommendation for those flying in is:
+* [Register](/registration/) as soon as possible to secure your seat on the *Boost Bus*.
+* Make your [hotel](/location/lodging/) and travel arrangements as soon as possible to secure your Friday night stay and your flights into Aspen and out of either Vail/Eagle (EGE) or Denver International Airport (DIA).
 * Fly into Aspen on Saturday or Sunday as normal.
 * Plan to stay the night on Friday night.
-* Take the *Boost Bus* to Vail or Denver at 08:00 Saturday.
-* Schedule an afternoon flight out of Vail or a mid to late afternoon flight out of Denver.
+* Take the *Boost Bus* to Vail/Eagle (EGE) or Denver International Airport (DIA) at 08:00 Saturday.
+* Schedule an afternoon flight out of Vail/Eagle (EGE)  or a mid to late afternoon flight out of Denver International Airport (DIA).
 
 
 #### Options for getting into and out of Aspen without going through ASE
