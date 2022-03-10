@@ -16,7 +16,6 @@ redirect_from:
 {% assign filename = 'ProgramCommitteeMembers' | append: site.current_year %}
 {% assign programCommittee = site.data.programCommitteeMembers[filename] %}
 
-{% include programCommittee.md %}
 
 
 {% include vendors.blurb.md %}
