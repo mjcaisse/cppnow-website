@@ -24,7 +24,7 @@ We've updated our [Transportation page](/location/transportation/) with informat
 
 Pre-conference flights are scheduled as normal, but it may be that you need to search for one-way, multi-city, or "hacker" fares, to see those flights.
 
-The conference is arranging a *Boost Bus* leaving from Aspen 2022-05-07 08:00, stopping at the Vail/Eagle (EGE) airport with a final destination of the Denver airport (DIA). You can purchase a pass during [conference registration](/registration/).
+The conference is arranging a *Boost Bus* leaving from Aspen 2022-05-07 08:00, stopping at the Vail/Eagle (EGE) airport with a final destination of the Denver airport (DEN). You can purchase a pass during [conference registration](/registration/).
 
 We are asking the community to support each other with ridesharing and information about travel options.
 

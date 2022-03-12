@@ -1,8 +1,7 @@
 {
-    "chairs":
+    "chair":
         [
             { "name": "Bob Steagall", "title": "Chair" },
-            { "name": "Bryce Adelstein Lelbach", "title": "Co-Chair"},
         ],
     "members":
         [

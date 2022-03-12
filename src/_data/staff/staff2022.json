@@ -1,21 +1,8 @@
 [
     {
-        "title": "Conferences Chairs",
-        "cochairs": true,
-        "comembers":
-            [
-                {
-                    "name": "Bob Steagall",
-                    "email": "bob@cppnow.org"
-                },
-                {
-                    "name": "Jon Kalb",
-                    "email": "jon@cppnow.org"
-                }
-            ],
-
-        "name": "Jon Kalb",
-        "email": "jon@cppnow.org"
+        "title": "Conference Chair",
+        "name": "Bob Steagall",
+        "email": "bob@cppnow.org"
     },
     {
         "title": "Program Committee Chair",
@@ -34,18 +21,8 @@
     },
     {
         "title": "Student / Volunteer Chair",
-        "name": "Matthew Butler",
+        "name": "Kevin Carpenter",
         "email": "student-volunteers@cppnow.org"
-    },
-    {
-        "title": "Facilities Chair",
-        "name": "Dave Jenkins",
-        "email": "ground-team@cppnow.org"
-    },
-    {
-        "title": "Security Chair",
-        "name": "Dave Jenkins",
-        "email": "security@cppnow.org"
     },
     {
         "title": "Graphic Design",
