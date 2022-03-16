@@ -82,4 +82,4 @@ We are no longer accepting applications for C++Now {{site.current_year}} Student
     <a href="/about/volunteer_program/aakash_goel_volunteer_story/" class="quoteBoxRightLink">Read Aakash's Story</a>
 </blockquote>
 
-For more information about the Student / Volunteer Program, contact the S/V Chair at [student-volunteers@cppnow.org](mailto:student-volunteers@cppnow.org).
+For more information about the Student / Volunteer Program, contact {{site.volunteer_chair}}, the S/V Chair, at [student-volunteers@cppnow.org](mailto:student-volunteers@cppnow.org).
