@@ -31,8 +31,6 @@ Student/Volunteers will receive free registration and a travel stipend for their
 
 Volunteers will handle various tasks during the conference, such as assisting presenters, setting up presentation rooms, running audio/visual equipment, and helping with breaks and the conference picnic.
 
-Volunteers will handle various tasks during the conference, such as staffing the help desk and lobby, assisting with online presentations, and generally helping run the conference.
-
 Students from all fields of study are welcome to apply. However, this conference covers advanced C++ topics, and applicants should have ample experience with the C++ programming language and be familiar with general computer science topics.
 
 Applications will be accepted until {{site.deadline_for_volunteers}}. Application decisions will be sent out by {{site.notification_for_volunteers}}.
