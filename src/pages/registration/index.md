@@ -26,6 +26,9 @@ General registration is $250 and Student registration is $50, but the fees may b
 Please register through <a href="{{site.krueger_reg_URL}}">the registration system</a>.
 
     {% else %}
+
+C++Now {{site.current_year}} is entirely onsite.
+
 Please register through <a href="{{site.krueger_reg_URL}}">the registration system</a>.
 
 In the event that a registered attendee is not able to attend:
