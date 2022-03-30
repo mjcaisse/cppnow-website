@@ -6,6 +6,18 @@ section: location
 redirect_from:
     - /meals/
 ---
+
+{% if site.doing_lunch_signups %}
+ 
+<hr>
+
+Quick Link: [Onsite lunch signup!]({{site.lunch_signup_link}})
+
+<hr>
+ 
+{% endif %}
+
+
 {% if site.current_year_online %}
 ### C++Now {{site.current_year}}
 

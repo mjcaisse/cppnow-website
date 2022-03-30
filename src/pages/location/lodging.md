@@ -56,6 +56,17 @@ Our overflow block size will be limited, so do not delay:
 <p class="highlight" markdown="1">The Aspen Meadows Resort has sold out for C++Now 2019.</p>
 ---
  -->
+
+{% if site.hotel_registration == "is" %}
+
+<hr>
+
+Quick Link: [Online hotel registration!]({{site.online_link_for_Meadows_reservation}})
+
+<hr>
+
+{% endif %}
+
 ## Aspen Meadows Resort
 
 The conference hotel is the [Aspen Meadows Resort](https://www.aspenmeadows.com/). This Bauhaus-inspired resort lies on 40 acres overlooking the Roaring Fork River. Surrounded by bike paths, walking trails, and mountain views, the resort is home to the [Aspen Institute](https://www.aspeninstitute.org/), an international nonprofit organization dedicated to fostering dialogue on global concerns. Hotel amenities include a health club that offers a range of workout equipment, a half-court gym, steam rooms, and an outdoor pool and spa tub. Complimentary wireless internet access is provided throughout the resort. A business center provides complimentary services such as computer use, scanning, copying, and printing.

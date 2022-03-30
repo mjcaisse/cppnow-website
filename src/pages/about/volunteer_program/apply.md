@@ -9,6 +9,16 @@ redirect_from:
 
 
 
+{% if site.volunteer_applications == "is" %}
+
+<hr>
+
+Quick Link: [Student / Volunteer Application!]({{site.volunteer_form_URL}})
+
+<hr>
+
+{% endif %}
+
 {% case site.volunteer_applications %}
   {% when 'will' %}
 

@@ -7,6 +7,19 @@ redirect_from:
     - /ride_share/
 ---
 
+{% if site.current_year == 2022 %}
+
+<hr>
+
+Quick Link: [Boost Bus (only) registration!](https://na.eventscloud.com/675518)
+
+Quick Link: [Full conference registration!]({{site.krueger_reg_URL}})
+
+<hr>
+
+{% endif %}
+
+
 {% if site.current_year_online %}
 ### C++Now {{site.current_year}}
 
