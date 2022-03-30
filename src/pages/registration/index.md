@@ -7,6 +7,16 @@ redirect_from:
     - /tickets/
 ---
 
+{% if site.registration == "is" %}
+
+<hr>
+
+Quick Link: [Online conference registration!]({{site.krueger_reg_URL}})
+
+<hr>
+
+{% endif %}
+
 {% case site.registration %}
   {% when 'will' %}
 Registration for C++Now {{site.current_year}} is not yet open. Please visit again or keep an eye on the [announcements page](/announcements/) for updated information.

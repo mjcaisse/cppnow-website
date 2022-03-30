@@ -5,6 +5,12 @@ permalink: /about/COVID-19_policy/
 section: about
 ---
 
+<hr>
+
+Quick Link: [Confirm vaccination status online!](https://forms.gle/nM1kKabWg2RJULpw8)
+
+<hr>
+
 ## C++Now Vaccine Policy
 
 To attend C++Now 2022, attendees must be fully vaccinated for COVID-19 with any WHO-approved vaccine. Fully vaccinated means two weeks have passed since your final vaccine dose.

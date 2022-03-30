@@ -7,6 +7,16 @@ redirect_from:
     - /student_volunteer_program/
 ---
 
+{% if site.volunteer_applications == "is" %}
+
+<hr>
+
+Quick Link: [Student / Volunteer Application!]({{site.volunteer_form_URL}})
+
+<hr>
+
+{% endif %}
+
 ![Volunteers 2016 by Zoetica Ebb](/assets/img/volunteers/Volunteers2016.jpg "Volunteers 2016 by Zoetica Ebb")<br>
 *Photograph by Zoetica Ebb. Used with permission.*
 
