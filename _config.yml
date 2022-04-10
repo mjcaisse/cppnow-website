@@ -119,7 +119,7 @@ eventbrite_reg_iframe_HTML: "<iframe src=\"https://cppnow2020.eventbrite.com/?re
 krueger_reg_URL: "https://na.eventscloud.com/661200"
 krueger_reg_iframe_HTML: "<iframe src=\"https://www.eiseverywhere.com/ereg/index.php?eventid=661200&\" width=\"100%\" height=\"2900\" frameborder=\"0\" marginwidth=\"5\" marginheight=\"5\" scrolling=\"auto\"></iframe>"
 
-volunteer_applications: "is"
+volunteer_applications: "was"
 volunteer_chair: "Kevin Carpenter"
 deadline_for_volunteers: "March 31st, 2022" # 10 weeks prior to start of conference
 notification_for_volunteers: "April 15th, 2022" # 9 weeks prior to start of conference
@@ -129,9 +129,10 @@ volunteer_form_URL: https://docs.google.com/forms/d/e/1FAIpQLSd0_0A9GcuuIwTYVi6i
 lightning_talk_submission: "will"
 lightning_talk_submission_URL: "https://cppnow.ciere.io/"
 
-schedule_online: false
-sched_com_URL: "https://cppnow2022.sched.org/"
-sched_com_embed_URL: "https://cppnow2022.sched.org/js/embed.js"
+schedule_online: true
+sched_com_URL: "https://cppnow.digital-medium.co.uk/"
+## sched_com_URL: "https://cppnow2022.sched.org/"
+## sched_com_embed_URL: "https://cppnow2022.sched.org/js/embed.js"
 
 previous_years_schedule: "[C++Now 2021 Schedule](/history/2021/schedule/)"
 
