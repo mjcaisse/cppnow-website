@@ -89,8 +89,7 @@ Although C++Now has reserved a large block of rooms at the [Aspen Meadows Resort
 
 #### Rates
 
-* **$182 per night** - Junior Suite (single or double occupancy)
-* **$202 per night** - One Bedroom Suite
+* **$239 per night** - One Bedroom Suite  --or--  Junior Suite (single or double occupancy)
 
 A resort fee ($30 per night) and tax (11.3%) will be added to each night's reservation.
 
@@ -113,7 +112,7 @@ Use the [online registration system]({{site.online_link_for_Meadows_reservation}
 * All reservations must be guaranteed with a credit card.
 * Payment is required at the time of reservation.
 * Cancellations prior to 14 days of arrival are fully refundable.
-* C++Now rate of $219 plus resort fee (for both Junior and One Bedroom suites) is available 3 days prior and 3 days after the conference, subject to availability.
+* C++Now rate of $239 plus resort fee (for both Junior and One Bedroom suites) is available 1 days prior to the conference, subject to availability.
 * Rates do not include breakfast or other meals.
 * Check-in time is 4 PM (Mountain Time) on arrival day.
 * Check-out time is 11 AM on departure day.
