@@ -93,7 +93,7 @@ Although C++Now has reserved a large block of rooms at the [Aspen Meadows Resort
 
 A resort fee ($30 per night) and tax (11.3%) will be added to each night's reservation.
 
-Use the [online registration system]({{site.online_link_for_Meadows_reservation}}) for this event, or call 1 (800) 452-4240, to schedule your room. Remember, registration begins Sunday afternoon, and the conference proper begins on Monday morning.
+You can use the hotel's [online registration system]({{site.online_link_for_Meadows_reservation}}) for this event, or call 1 (800) 452-4240, to book your room. Remember, registration begins Sunday afternoon, and the conference proper begins on Monday morning.
 
   {% when 'was' %}
 
