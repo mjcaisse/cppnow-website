@@ -16,7 +16,8 @@ Email [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org) for a copy of the 
 {% include corporateSponsorListing.blurb.md %}
 
 
-### Brought To You By
+<!--- ### Brought To You By -->
+<h1 style="text-align: center; padding-top: 20px;">Brought To You By</h1>
 
 {% for item in site.data.sponsors.BroughtToYouBy %}
 {% include broughtToYouBy.md %}

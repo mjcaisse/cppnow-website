@@ -1,13 +1,15 @@
 {% if DATA.corporate.size > 0 %}
 
-<h2>Corporate Sponsors</h2>
+<!-- 
+<h2>Corporate Sponsors</h2> 
+-->
 
 {% for type in DATA.corporate %}
 {% assign filtered_type = type | until_filter %}
 
 {% if filtered_type.sponsors.size > 0 %}
 
-<h3 data-level="{{filtered_type.level}}">{{filtered_type.title | xml_escape}}</h3>
+<h3 style="font-size: 20px; text-align: center; padding-top: 0px; padding-bottom: 10px"  data-level="{{filtered_type.level}}">{{filtered_type.title | xml_escape}}</h3>
 
 {% for item in filtered_type.sponsors %}
 <a data-until="{{item.until}}" data-level="{{item.level}}" href="{{item.link | uri_escape}}" class="sLink" target="_blank" rel="noopener noreferrer">
