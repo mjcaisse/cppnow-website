@@ -1,6 +1,30 @@
 {
     "corporate": [
         {
+            "title": "Video Sponsors",
+            "level": "video",
+            "sponsors":
+            [
+                {
+                    "title": "JetBrains",
+                    "link": "http://www.jetbrains.com/",
+                    "image": "/assets/img/sponsors/jetbrains.png",
+                    "motto": "Because C++, smart tools for C++ by JetBrains",
+                    "blurb": "JetBrains has a passion for making developers more productive through smarter software that simplifies your challenging tasks and automates the routine. Our tools for C++ natively support old and new language standards and Boost and libc++ libraries. They work with templated code and macros, and provide smart refactorings and detailed code analysis. Select between CLion for cross-platform development, ReSharper C++ to extend your Visual Studio, or AppCode for creating iOS/OS X applications.",
+                    "until": "2022-12-31",
+                    "level": "video"
+                },
+                {
+                    "title": "sonarsource",
+                    "link": "https://www.sonarsource.com/cpp",
+                    "image": "/assets/img/sponsors/sonarsource.png",
+                    "blurb": "SonarSource builds world-class products for Code Quality and Security. Our open-source and commercial code analyzers - SonarLint, SonarCloud, SonarQube - support 27 programming languages, empowering dev teams of all sizes to solve coding issues within their existing workflows. C++ analysis is supported through a variety of compilers and toolchains, come see for yourself how you can make your C++ projects more reliable and secure!",
+                    "until": "2022-12-31",
+                    "level": "video"
+                }
+            ]
+        },
+        {
             "title": "Gold Sponsors",
             "level": "gold",
             "sponsors":
@@ -12,7 +36,7 @@
                     "blurb": "Bloomberg is building the world's most trusted information network for financial professionals. Our 6,500+ engineers are dedicated to advancing and building new systems for the Bloomberg Terminal and other products to solve complex, real-world problems.<br><br>
 
 C++ is one of our core programming languages. We are constantly pushing the language to its limits because our code needs to be scalable, reliable and extremely fast -- especially since every millisecond counts in the finance industry. Our C++ experts build everything from low-level libraries and components to some of the most performant financial applications and trading systems in the world. They also contribute to the C++ standard.",
-                    "until": "2021-12-31",
+                    "until": "2022-12-31",
                     "level": "gold"
                 },
                 {
@@ -23,14 +47,14 @@ C++ is one of our core programming languages. We are constantly pushing the lang
                     "blurb": "The C++ Alliance is proud to fund and support the world's largest and most active C++ technical discussion area. Get your free invitation to the Slack Workspace at <a href=\"http://slack.cpp.al\">http://slack.cpp.al</a> then visit us at <a href=\"https://cpplang.slack.com\">https://cpplang.slack.com</a><br><br>
  
 Did you Know? The Boost Library Collection was the inspiration behind most of the C++11 Standard Library.  Boost is a collection of high-quality, peer-reviewed libraries that provide foundational components for all applications.  To see some exciting new Boost libraries such as <a href=\"https://www.boost.org/doc/libs/develop/libs/mp11/doc/html/mp11.html\">mp11</a> or <a href=\"https://sdkrystian.github.io/doc/static_string/\">StaticString</a> please visit <a href=\"https://boost.org\">https://boost.org</a> today!",
-                    "until": "2021-12-31",
+                    "until": "2022-12-31",
                     "level": "gold"
                 },
                 {
-                    "title": "Commvault",
-                    "link": "http://www.commvault.com/",
-                    "image": "/assets/img/sponsors/commvault.png",
-                    "blurb": "",
+                    "title": "Hudson River Trading",
+                    "link": "https://www.hudsonrivertrading.com/",
+                    "image": "/assets/img/sponsors/hrt-primary-logo-full-color-1.svg",
+                    "blurb": "Hudson River Trading brings a scientific approach to trading financial products. We have built one of the world’s most sophisticated computing environments for research and development. Our researchers are at the forefront of innovation in the world of algorithmic trading.",
                     "until": "2022-12-31",
                     "level": "gold"
                 }
@@ -42,11 +66,12 @@ Did you Know? The Boost Library Collection was the inspiration behind most of th
             "sponsors":
             [
                 {
-                    "title": "sonarsource",
-                    "link": "https://www.sonarsource.com/cpp",
-                    "image": "/assets/img/sponsors/sonarsource.png",
-                    "blurb": "SonarSource builds world-class products for Code Quality and Security. Our open-source and commercial code analyzers - SonarLint, SonarCloud, SonarQube - support 27 programming languages, empowering dev teams of all sizes to solve coding issues within their existing workflows. C++ analysis is supported through a variety of compilers and toolchains, come see for yourself how you can make your C++ projects more reliable and secure!",
-                    "until": "2021-12-31",
+                    "title": "Quantlab",
+                    "link": "https://www.quantlab.com/",
+                    "image": "/assets/img/sponsors/Quantlab.jpeg",
+                    "motto": "Quantlab: Where the best get better.",
+                    "blurb": "Quantlab is a quantitative trading firm where Technology and Scientific Research are central to our business and key to our success. Founded in 1998, Quantlab is a pioneer in quantitative algorithmic trading. Behind our success is our people. We hire some of the smartest and most passionate programmers and quants in the world.",
+                    "until": "2022-12-31",
                     "level": "silver"
                 },
                 {
@@ -72,43 +97,16 @@ To realise this we use  C++ as our core technology for audio and video streaming
                     "link": "http://ciere.com",
                     "image": "/assets/img/sponsors/ciere.png",
                     "blurb": "",
+                    "until": "2021-12-31",
+                    "level": "bronze"
+                },
+                {
+                    "title": "Maryland Research Institute",
+                    "link": "https://marylandresearch.org/",
+                    "image": "/assets/img/sponsors/md_research_logo.jpg",
+                    "blurb": "Maryland Research is honored to sponsor C++ Now. We are dedicated to solving the most challenging problems in national security. We leverage the power of C++ to build high-performance capabilities for our customers and are grateful to C++ Now for their stewardship of the language and their contributions to  the community.",
                     "until": "2022-12-31",
                     "level": "bronze"
-                },
-                {
-                    "title": "Quantlab",
-                    "link": "https://www.quantlab.com/",
-                    "image": "/assets/img/sponsors/Quantlab.jpeg",
-                    "motto": "Quantlab: Where the best get better.",
-                    "blurb": "Quantlab is a quantitative trading firm where Technology and Scientific Research are central to our business and key to our success. Founded in 1998, Quantlab is a pioneer in quantitative algorithmic trading. Behind our success is our people. We hire some of the smartest and most passionate programmers and quants in the world.",
-                    "until": "2021-12-31",
-                    "level": "bronze"
-                }
-            ]
-        },
-        {
-            "title": "Video Sponsorship",
-            "level": "video",
-            "sponsors":
-            [
-                {
-                    "title": "Bloomberg",
-                    "link": "http://techatbloomberg.com/",
-                    "image": "/assets/img/sponsors/BBGEngineering_black.png",
-                    "blurb": "Bloomberg is building the world's most trusted information network for financial professionals. Our 6,500+ engineers are dedicated to advancing and building new systems for the Bloomberg Terminal and other products to solve complex, real-world problems.<br><br>
-
-C++ is one of our core programming languages. We are constantly pushing the language to its limits because our code needs to be scalable, reliable and extremely fast -- especially since every millisecond counts in the finance industry. Our C++ experts build everything from low-level libraries and components to some of the most performant financial applications and trading systems in the world. They also contribute to the C++ standard.",
-                    "until": "2021-12-31",
-                    "level": "video"
-                },
-                {
-                    "title": "JetBrains",
-                    "link": "http://www.jetbrains.com/",
-                    "image": "/assets/img/sponsors/jetbrains.png",
-                    "motto": "Because C++, smart tools for C++ by JetBrains",
-                    "blurb": "JetBrains has a passion for making developers more productive through smarter software that simplifies your challenging tasks and automates the routine. Our tools for C++ natively support old and new language standards and Boost and libc++ libraries. They work with templated code and macros, and provide smart refactorings and detailed code analysis. Select between CLion for cross-platform development, ReSharper C++ to extend your Visual Studio, or AppCode for creating iOS/OS X applications.",
-                    "until": "2021-12-31",
-                    "level": "video"
                 }
             ]
         }

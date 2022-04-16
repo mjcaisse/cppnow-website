@@ -1,6 +1,6 @@
 {% if site.data.currently.size != 0 %}
     <div class="currentlyText">
-        <h3 class="currentlyTitle">Currently</h3>
+        <h3 class="currentlyTitle" style="font-size: 20px; text-align: center; padding-top: 0px; padding-bottom: 10px">Currently</h3>
         {% for item in site.data.currently %}
             <div><a href="{{item.link}}" class="a">{{item.title}}</a></div>
         {% endfor %}
