@@ -15,7 +15,7 @@
                 anonymous
             </span>
             {% else %}
-            <span class="block">
+            <span data-until="{{item.until}}" class="block">
                 {{item.name}}
             </span>
             {% endif %}
