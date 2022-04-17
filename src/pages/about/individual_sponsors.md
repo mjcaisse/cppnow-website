@@ -20,12 +20,9 @@ For individuals, C++Now offers the Boost Scholarship Sponsorship in support of t
 
 The Boost Scholarship Fund supports two programs that directly benefit C++ students and indirectly benefit the entire C++ community: Boost Summer of Code and the C++Now Student/Volunteer Program.
 
-
 ### Boost Summer of Code
 
 The BSoC program is modeled after the [Google Summer of Code](https://developers.google.com/open-source/gsoc/) program, in which Boost is a long time participant. Like GSoC, BSoC projects provide funding for students to work on specific Boost Library projects over the summer. BSoC is designed to supplement the GSoC program by allowing Boost to accept students that would otherwise be rejected by GSoC due to limited funding or eligibility.
-
-
 
 ### C++Now Student/Volunteer Program
 
@@ -38,7 +35,7 @@ Contributions to the Boost Scholarship Fund are earmarked* to support these prog
 {% if site.current_year_online %}{% else %}
 #### Gold Scholarship Sponsor Level
 
-The Gold Level Sponsorship is $500 and has these benefits:
+The Gold Level Sponsorship is $200 and has these benefits:
 
 * Recognition on Boost and C++Now websites
 * Boost Scholarship Sponsor tee shirt
@@ -47,7 +44,7 @@ The Gold Level Sponsorship is $500 and has these benefits:
 
 #### Silver Scholarship Sponsor Level
 
-The Silver Level Sponsorship is $250 and has these benefits:
+The Silver Level Sponsorship is $100 and has these benefits:
 
 * Recognition on Boost and C++Now websites
 * Recognition at C++Now Welcome and Closing sessions
@@ -55,7 +52,7 @@ The Silver Level Sponsorship is $250 and has these benefits:
 
 #### Bronze Scholarship Sponsor Level
 
-The Bronze Level Sponsorship is $125 and has these benefits:
+The Bronze Level Sponsorship is $50 and has these benefits:
 
 * Recognition on Boost and C++Now websites
 * Boost Scholarship Sponsor tee shirt

@@ -17,7 +17,7 @@
                 {
                     "title": "sonarsource",
                     "link": "https://www.sonarsource.com/cpp",
-                    "image": "/assets/img/sponsors/sonarsource.png",
+                    "image": "/assets/img/sponsors/sonarsource-updated.png",
                     "blurb": "SonarSource builds world-class products for Code Quality and Security. Our open-source and commercial code analyzers - SonarLint, SonarCloud, SonarQube - support 27 programming languages, empowering dev teams of all sizes to solve coding issues within their existing workflows. C++ analysis is supported through a variety of compilers and toolchains, come see for yourself how you can make your C++ projects more reliable and secure!",
                     "until": "2022-12-31",
                     "level": "video"
@@ -44,9 +44,9 @@ C++ is one of our core programming languages. We are constantly pushing the lang
                     "link": "http://cpp.al/",
                     "motto": "C++ Alliance: Empowering C++",
                     "image": "/assets/img/sponsors/cpp_alliance.png",
-                    "blurb": "The C++ Alliance is proud to fund and support the world's largest and most active C++ technical discussion area. Get your free invitation to the Slack Workspace at <a href=\"http://slack.cpp.al\">http://slack.cpp.al</a> then visit us at <a href=\"https://cpplang.slack.com\">https://cpplang.slack.com</a><br><br>
- 
-Did you Know? The Boost Library Collection was the inspiration behind most of the C++11 Standard Library.  Boost is a collection of high-quality, peer-reviewed libraries that provide foundational components for all applications.  To see some exciting new Boost libraries such as <a href=\"https://www.boost.org/doc/libs/develop/libs/mp11/doc/html/mp11.html\">mp11</a> or <a href=\"https://sdkrystian.github.io/doc/static_string/\">StaticString</a> please visit <a href=\"https://boost.org\">https://boost.org</a> today!",
+                    "blurb": "Welcome to C++Now 2022. Enjoy the Conference!<br><br>
+                    
+In addition to this conference, the C++ Alliance is proud to fund and support the world's largest and most active C++ technical discussion area. Get your free invitation to the Slack Workspace at <a href=\"http://slack.cpp.al\">http://slack.cpp.al</a> then visit us at <a href=\"https://cpplang.slack.com\">https://cpplang.slack.com</a>",
                     "until": "2022-12-31",
                     "level": "gold"
                 },
@@ -117,36 +117,16 @@ To realise this we use  C++ as our core technology for audio and video streaming
             "sponsors":
             [
                 {
-                    "name": "Gwendolyn Hunt",
-                    "info": "Gwendolyn Hunt <gmhunt99@gmail.com>",
-                    "until": "2021-12-31"
-                },
-                {
-                    "name": "Jody Hagins",
-                    "info": "Jody Hagins <coachhagins@gmail.com>",
-                    "until": "2021-12-31"
-                },
-                {
-                    "name": "Sergei Khandrikov",
-                    "info": "Sergei Khandrikov <onionstation@yandex.ru>",
-                    "until": "2021-12-31"
-                },
+                    "name": "Bob Steagall",
+                    "info": "Bob Steagall <bob@cppnow.org>",
+                    "until": "2022-12-31"
+                }
             ]
         },
         {
             "title": "Boost Scholarship Sponsors: Silver Level",
             "sponsors":
             [
-                {
-                    "name": "Billy Baker",
-                    "info": "Billy Baker <billy.baker@cox.net>",
-                    "until": "2021-12-31"
-                },
-                {
-                    "name": "Vivien Mille",
-                    "info": "Vivien Mille <mille.vivien@gmail.com>",
-                    "until": "2021-12-31"
-                },
             ]
         },
         {
@@ -154,20 +134,10 @@ To realise this we use  C++ as our core technology for audio and video streaming
             "sponsors":
             [
                 {
-                    "name": "Jason Rice",
-                    "info": "Jason Rice <ricejasonf@gmail.com>",
-                    "until": "2021-12-31"
-                },
-                {
-                    "name": "Ray Fix",
-                    "info": "Ray Fix <rayfix@gmail.com>",
-                    "until": "2021-12-31"
-                },
-                {
-                    "name": "Roberto Turrado Camblor",
-                    "info": "Roberto Turrado Camblor <rturrado@gmail.com>",
-                    "until": "2021-12-31"
-                },
+                    "name": "Shea Williams",
+                    "info": "Shea Williams <sheapwilliams@gmail.com>",
+                    "until": "2022-12-31"
+                }
             ]
         }
     ],
