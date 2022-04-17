@@ -32,6 +32,11 @@ The C++Now community has grown out of the Boost community and is focused on push
 
 </div>
 
+## Keynote Announcements
+
+Checkout the [announcements page](/announcements/) for our keynotes!  Our opening keynote this year will be given by [Dave Abrahams](/announcements/2022/04/Abrahams-keynote/), and we'll close out the conference with a keynote by [Sean Baxter](/announcements/2022/04/Baxter-keynote/).
+
+
 ## <span style="color:red;">Travel Update</span>
 
 If you are interested in attending C++Now 2022, please read this important [Travel Update](/announcements/2022/02/Travel-Update/) on the <span style="font-weight:bold;font-style:italic;">closing of the Aspen Airport</span>.
