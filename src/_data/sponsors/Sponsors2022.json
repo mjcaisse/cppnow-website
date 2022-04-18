@@ -17,8 +17,8 @@
                 {
                     "title": "sonarsource",
                     "link": "https://www.sonarsource.com/cpp",
-                    "image": "/assets/img/sponsors/sonarsource-updated.png",
-                    "blurb": "SonarSource builds world-class products for Code Quality and Security. Our open-source and commercial code analyzers - SonarLint, SonarCloud, SonarQube - support 27 programming languages, empowering dev teams of all sizes to solve coding issues within their existing workflows. C++ analysis is supported through a variety of compilers and toolchains, come see for yourself how you can make your C++ projects more reliable and secure!",
+                    "image": "/assets/img/sponsors/sonar-logo-horizontal-2022.png",
+                    "blurb": "Sonar’s industry-leading solution enables developers and development teams to write clean code and remediate existing code organically, so they can focus on the work they love and maximize the value they generate for businesses. Its open source and commercial solutions – SonarLint, SonarCloud, and SonarQube – support 29 programming languages. Trusted by more than 300,000 organizations globally, SonarSource is considered integral to delivering better software.",
                     "until": "2022-12-31",
                     "level": "video"
                 }
@@ -34,8 +34,8 @@
                     "link": "http://techatbloomberg.com/",
                     "image": "/assets/img/sponsors/BBGEngineering_black.png",
                     "blurb": "Bloomberg is building the world's most trusted information network for financial professionals. Our 6,500+ engineers are dedicated to advancing and building new systems for the Bloomberg Terminal and other products to solve complex, real-world problems.<br><br>
-
-C++ is one of our core programming languages. We are constantly pushing the language to its limits because our code needs to be scalable, reliable and extremely fast -- especially since every millisecond counts in the finance industry. Our C++ experts build everything from low-level libraries and components to some of the most performant financial applications and trading systems in the world. They also contribute to the C++ standard.",
+                    
+                    C++ is one of our core programming languages. We are constantly pushing the language to its limits because our code needs to be scalable, reliable and extremely fast -- especially since every millisecond counts in the finance industry. Our C++ experts build everything from low-level libraries and components to some of the most performant financial applications and trading systems in the world. They also contribute to the C++ standard.",
                     "until": "2022-12-31",
                     "level": "gold"
                 },
@@ -54,7 +54,7 @@ In addition to this conference, the C++ Alliance is proud to fund and support th
                     "title": "Hudson River Trading",
                     "link": "https://www.hudsonrivertrading.com/",
                     "image": "/assets/img/sponsors/hrt-primary-logo-full-color-1.svg",
-                    "blurb": "Hudson River Trading brings a scientific approach to trading financial products. We have built one of the world’s most sophisticated computing environments for research and development. Our researchers are at the forefront of innovation in the world of algorithmic trading.",
+                    "blurb": "At Hudson River Trading (HRT) we are mathematicians, computer scientists, statisticians, physicists, and engineers. We research and develop automated trading algorithms using advanced mathematical techniques. We have built one of the world's most sophisticated computing environments, and our researchers are at the forefront of innovation in the world of algorithmic trading.",
                     "until": "2022-12-31",
                     "level": "gold"
                 }
@@ -70,7 +70,9 @@ In addition to this conference, the C++ Alliance is proud to fund and support th
                     "link": "https://www.quantlab.com/",
                     "image": "/assets/img/sponsors/Quantlab.jpeg",
                     "motto": "Quantlab: Where the best get better.",
-                    "blurb": "Quantlab is a quantitative trading firm where Technology and Scientific Research are central to our business and key to our success. Founded in 1998, Quantlab is a pioneer in quantitative algorithmic trading. Behind our success is our people. We hire some of the smartest and most passionate programmers and quants in the world.",
+                    "blurb": "Quantlab is a quantitative trading firm where Technology and Scientific Research are central to our business and key to our success. Founded in 1998, Quantlab is a pioneer in quantitative algorithmic trading.  Behind our success is our people. We hire some of the smartest and most passionate engineers and quants in the world.<br><br>
+                    
+                    The firm is privately held with headquarters in Houston, and offices in New York, Chicago, Denver, Boston, Austin, and Singapore. We are a science lab spinning trade data in the centrifuge of math and technology to parse financial frontiers and optimize results.",
                     "until": "2022-12-31",
                     "level": "silver"
                 },
