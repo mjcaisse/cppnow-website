@@ -31,11 +31,11 @@
             [
                 {
                     "title": "Bloomberg",
-                    "link": "http://techatbloomberg.com/",
+                    "link": "http://techatbloomberg.com/cplusplus/",
                     "image": "/assets/img/sponsors/BBGEngineering_black.png",
-                    "blurb": "Bloomberg is building the world's most trusted information network for financial professionals. Our 6,500+ engineers are dedicated to advancing and building new systems for the Bloomberg Terminal and other products to solve complex, real-world problems.<br><br>
+                    "blurb": "Bloomberg is building the world's most trusted information network for financial professionals. Our 6,500+ engineers are dedicated to advancing and building new systems for the Bloomberg Terminal and other products to solve complex, real-world problems. ​<br><br>
                     
-                    C++ is one of our core programming languages. We are constantly pushing the language to its limits because our code needs to be scalable, reliable and extremely fast -- especially since every millisecond counts in the finance industry. Our C++ experts build everything from low-level libraries and components to some of the most performant financial applications and trading systems in the world. They also contribute to the C++ standard.",
+                    C++ is one of our core programming languages. Our C++ experts build everything from low-level libraries and components to some of the most performant financial applications, analytics, and trading systems in the world. They also contribute to the C++ Standards Committee (WG21). Learn more at <a href=\"http://TechAtBloomberg.com/cplusplus\">TechAtBloomberg.com/cplusplus</a>.",
                     "until": "2022-12-31",
                     "level": "gold"
                 },
@@ -46,7 +46,7 @@
                     "image": "/assets/img/sponsors/cpp_alliance.png",
                     "blurb": "Welcome to C++Now 2022. Enjoy the Conference!<br><br>
                     
-In addition to this conference, the C++ Alliance is proud to fund and support the world's largest and most active C++ technical discussion area. Get your free invitation to the Slack Workspace at <a href=\"http://slack.cpp.al\">http://slack.cpp.al</a> then visit us at <a href=\"https://cpplang.slack.com\">https://cpplang.slack.com</a>",
+                    In addition to this conference, the C++ Alliance is proud to fund and support the world's largest and most active C++ technical discussion area. Get your free invitation to the Slack Workspace at <a href=\"http://slack.cpp.al\">http://slack.cpp.al</a> then visit us at <a href=\"https://cpplang.slack.com\">https://cpplang.slack.com</a>",
                     "until": "2022-12-31",
                     "level": "gold"
                 },
@@ -106,7 +106,7 @@ To realise this we use  C++ as our core technology for audio and video streaming
                     "title": "Maryland Research Institute",
                     "link": "https://marylandresearch.org/",
                     "image": "/assets/img/sponsors/md_research_logo.jpg",
-                    "blurb": "Maryland Research is honored to sponsor C++ Now. We are dedicated to solving the most challenging problems in national security. We leverage the power of C++ to build high-performance capabilities for our customers and are grateful to C++ Now for their stewardship of the language and their contributions to  the community.",
+                    "blurb": "Maryland Research is honored to sponsor C++Now. We are dedicated to solving the most challenging problems in national security.  We leverage the power of C++ to build high-performance capabilities for our customers and are grateful to C++Now for their stewardship of the language and their contributions to  the community.",
                     "until": "2022-12-31",
                     "level": "bronze"
                 }
