@@ -67,8 +67,8 @@ Contact Information
 -------------------
 
 If you are being harassed, notice that someone else is being harassed, or have
-  any other concerns, please contact Bob Steagall, Jon Kalb (Conference Co-Chairs), Dave Jenkins, and the security team by emailing
-  [security@cppnow.org](mailto:security@cppnow.org).
+  any other concerns, please contact Bob Steagall (Conference Chair) and the security 
+  team by emailing [security@cppnow.org](mailto:security@cppnow.org).
 
 All reports and concerns are kept confidential. 
  
