@@ -17,13 +17,14 @@ assistance. If everyone is physically safe, involve law enforcement or security
 only at a victim's request. 
 
 **2. Inform the Security team of the incident.** Contact
-Bob Steagall, Jon Kalb (Conference Cp-Chairs), Dave Jenkins, and the conference security team by emailing [security@cppnow.org](mailto:security@cppnow.org) and inform them that an
+Bob Steagall (Conference Chair) and the conference security team by emailing 
+[security@cppnow.org](mailto:security@cppnow.org) and inform them that an
 incident has occurred. All conference staff are familiar with the code of
 conduct and incident reporting procedure, and can assist you in contacting
 these individuals. 
 
 **3. Report the details to the Security team.** Provide
-Bob, Jon, Dave, and the security with a report describing the incident, preferably by
+Bob and the security team with a report describing the incident, preferably by
 email. All reports are confidential.
 
 Try to gather as much information as available, but do not interview people
