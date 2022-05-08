@@ -74,7 +74,7 @@
         else if (daysDifferenceStart > 0) {
             element.innerHTML = '<h2 class="textCenter">Starting Tomorrow!</h2>';
         }
-        else if (daysDifferenceStart <= 0  &&  daysDifferenceEnd >= 0) {
+        else if (daysDifferenceStart <= 0  &&  daysDifferenceEnd > 0) {
             element.innerHTML = '<h2 class="textCenter">Going on Now!</h2>';
         }
         else {
