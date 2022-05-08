@@ -134,9 +134,9 @@ Also check out the updated [Transportation page](/location/transportation/).
 {
   "@context": "https://schema.org",
   "@type": "Event",
-  "name": "C++Now 2021",
-  "startDate": "2021-05-02T16:00",
-  "endDate": "2021-05-07T17:00",
+  "name": "C++Now 2022",
+  "startDate": "2021-05-01T16:00",
+  "endDate": "2021-05-06T16:00",
   "image": [
     "http://cppnow.org/assets/img/theme/CppNowLogo.svg"
    ],
@@ -144,10 +144,10 @@ Also check out the updated [Transportation page](/location/transportation/).
   "offers": {
     "@type": "Offer",
     "url": "http://cppnow.org/registration/",
-    "price": "250",
+    "price": "1250",
     "priceCurrency": "USD",
     "availability": "http://schema.org/InStock",
-    "validFrom": "2021-05-02T16:00",
+    "validFrom": "2022-05-01T16:00",
     "offeredBy": {
         "@type": "Organization",
         "name": "Boost Libraries",
@@ -161,8 +161,8 @@ Also check out the updated [Transportation page](/location/transportation/).
   },
   "organizer": {
     "@type": "Person",
-    "familyName": "Kalb",
-    "givenName": "Jon"},
+    "familyName": "Steagall",
+    "givenName": "Bob"},
   "audience": {
     "@type": "Audience",
     "audienceType": "C++ programmers"

@@ -89,7 +89,7 @@ first_session_day_of_week: "Monday"
 ## For items that are only two phase, we use Boolean values (false and true)
 
 ## becomes true on the last day of the conference
-over: false
+over: true
 
 ## Note that we "flip" the conference (set the current_year, etc,) when we make the
 ##  first post about the new conference.
@@ -103,12 +103,12 @@ doing_lunch_signups: true
 lunch_signup_link: "https://docs.google.com/spreadsheets/d/1yUJYAUcRJbX9S4ic0nBBjw0tk0w91Ba1GKTN5jm4-Os/"
 
 ## "will", "is", "was": becomes "was" when the hotel is full or the conference is over
-hotel_registration: "is"
+hotel_registration: "was"
 online_link_for_Meadows_reservation: "https://book.passkey.com/e/50326123"
 
 
 ## "will", "is", "was": becomes "was" when  the conference is over
-registration: "is"
+registration: "was"
 refunds_are_free: true
 refund_fee: "$30"
 refund_deadline: "April 1st" # 30 days prior to conference start, except for 2021, due to virus
@@ -126,7 +126,7 @@ notification_for_volunteers: "April 15th, 2022" # 9 weeks prior to start of conf
 volunteer_form_URL: https://docs.google.com/forms/d/e/1FAIpQLSd0_0A9GcuuIwTYVi6ij1sPQCZguL2FbHpqbux3VfFrp753PQ/viewform
 
 ## "will", "is", "was": becomes "was" when  the conference is over
-lightning_talk_submission: "will"
+lightning_talk_submission: "was"
 lightning_talk_submission_URL: "https://cppnow.ciere.io/"
 
 schedule_online: true
@@ -171,7 +171,7 @@ tag_cloud_image_width: "577"
 ## a call to action.
 
 # Box 0
-B0_show: true
+B0_show: false
 B0_title: "Join us"
 B0_link: "/registration/"
 B0_photo: "/assets/img/home/attendees.jpeg"
