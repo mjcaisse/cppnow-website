@@ -28,6 +28,10 @@
         return date;
     }
 
+    function daysIntoYear(date){
+        return (Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()) - Date.UTC(date.getFullYear(), 0, 0)) / 24 / 60 / 60 / 1000;
+    }
+
     function dayDifference(a, b) {
         var HOUR_INCREMENT = 12;
 
@@ -55,6 +59,14 @@
     function setDaysRemaining(element) {
         var currentTime = new Date();
         var daysDifferenceStart = dayDifference(currentTime, conferenceStartTime);
+        var daysDifferenceEnd = dayDifference(currentTime, conferenceEndTime);
+        
+        var doyCurr  = daysIntoYear(currentTime);
+        var doyStart = daysIntoYear(conferenceStartDate);
+        var doyEnd   = daysIntoYear(conferenceEndTime);
+        
+        daysDifferenceStart = doyStart - doyCurr;
+        daysDifferenceEnd   = doyEnd - doyCurr;
 
         if (daysDifferenceStart > 1) {
             element.innerHTML = '<h2 class="textCenter">' + escapeForHtml(daysDifferenceStart) + ' Days Remaining</h2>';
@@ -62,7 +74,7 @@
         else if (daysDifferenceStart > 0) {
             element.innerHTML = '<h2 class="textCenter">Starting Tomorrow!</h2>';
         }
-        else if (daysDifferenceStart <= 0 && dayDifference(currentTime, conferenceEndTime) >= 0) {
+        else if (daysDifferenceStart <= 0  &&  daysDifferenceEnd >= 0) {
             element.innerHTML = '<h2 class="textCenter">Going on Now!</h2>';
         }
         else {
