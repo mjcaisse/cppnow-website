@@ -7,6 +7,10 @@ section: history
 
 After each year's convention, C++Now archives the important content: session schedules, videos of talks, sponsors for the year, and attendee information.
 
+* **[C++Now 2022](/history/2022/)**
+    * Keynotes:
+        * A Future of Value Semantics and Generic Programming (Dave Abrahams)
+        * Circle Metaprogramming: Better Features Make Better Libraries (Sean Baxter)
 * **C++Now 2020 cancelled**
 * **[C++Now 2019](/history/2019/)**
     * Keynotes:

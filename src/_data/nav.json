@@ -102,6 +102,10 @@
         "children":
         [
             {
+                "title": "2022",
+                "link": "/history/2022/"
+            },
+            {
                 "title": "2021",
                 "link": "/history/2021/"
             },
