@@ -3,19 +3,19 @@
 #        "title": "2020 Canceled",
 #        "link": "/announcements/2020/03/Canceled/"
 #    },
-
-    {
-        "title": "Registration is open",
-        "link": "/announcements/2022/02/2022-registration-is-open/"
-    },
+#
+#    {
+#        "title": "Registration is open",
+#        "link": "/announcements/2022/02/2022-registration-is-open/"
+#    },
 #    {
 #         "title": "Accepting submissions",
 #         "link": "/announcements/2021/12/2022-CfS/"
 #     },
-    {
-        "title": "Taking reservations",
-        "link": "/location/lodging/"
-    },
+#    {
+#        "title": "Taking reservations",
+#        "link": "/location/lodging/"
+#    },
 #    {
 #        "title": "Lightning Talks open",
 #        "link": "/schedule/lightning.talks/"
@@ -24,10 +24,10 @@
 #        "title": "Schedule is up",
 #        "link": "/schedule/"
 #    },
-    {
-        "title": "Accepting volunteers",
-        "link": "/announcements/2022/03/2022-call-for-student-volunteers/",
-    },
+#    {
+#        "title": "Accepting volunteers",
+#        "link": "/announcements/2022/03/2022-call-for-student-volunteers/",
+#    },
 #    {
 #        "title": "Supporting Student/Volunteers",
 #        "link": "/announcements/2020/03/BoostScholarshipFund/"
@@ -40,8 +40,8 @@
 #        "title": "Conducting survey",
 #        "link": "/announcements/2022/02/Travel-Update/"
 #    },
-    {
-        "title": "Accepting corporate sponsors",
-        "link": "/about/corporate_sponsors/"
-    }
+#    {
+#        "title": "Accepting corporate sponsors",
+#        "link": "/about/corporate_sponsors/"
+#    }
 ]

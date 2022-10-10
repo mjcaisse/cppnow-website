@@ -89,9 +89,9 @@ Although C++Now has reserved a large block of rooms at the [Aspen Meadows Resort
 
 #### Rates
 
-* **$239 per night** - One Bedroom Suite  --or--  Junior Suite (single or double occupancy)
+* **$220 per night** - One Bedroom Suite  --or--  **$202 per night** Junior Suite (single or double occupancy)
 
-A resort fee ($30 per night) and tax (11.3%) will be added to each night's reservation.
+A resort fee ($40 per night) and tax (11.3%) will be added to each night's reservation.
 
 You can use the hotel's [online registration system]({{site.online_link_for_Meadows_reservation}}) for this event, or call 1 (800) 452-4240, to book your room. Remember, registration begins Sunday afternoon, and the conference proper begins on Monday morning.
 
@@ -105,19 +105,19 @@ You can use the hotel's [online registration system]({{site.online_link_for_Mead
 
 {% endcase %}
 
-
-
 #### Details
 
-* All reservations must be guaranteed with a credit card.
+* All reservations must be guaranteed with a credit card deposit.
 * Payment is required at the time of reservation.
-* Cancellations prior to 14 days of arrival are fully refundable.
-* C++Now rate of $239 plus resort fee (for both Junior and One Bedroom suites) is available 1 days prior to the conference, subject to availability.
+* The deposit is refundable if notice is received at least 14 days prior to arrival and a cancellation number is obtained.
+* C++Now conference rates of:
+  * $220 per day, plus $40 resort fee per day, for a One Bedroom suite.
+  * $202 per day, plus $40 resort fee per day, for a Junior Suite.
+  * These special rates are available until April 3rd, subject to room availability.  After April 3rd, the room rates will increase (although we don't yet know exactly what the rates will be at that time).
 * Rates do not include breakfast or other meals.
 * Check-in time is 4 PM (Mountain Time) on arrival day.
 * Check-out time is 11 AM on departure day.
 * Airport shuttle service to/from the resort is complimentary. Please notify the hotel of your arriving flight.
-
 
 
 ### Room Sharing

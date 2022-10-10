@@ -67,19 +67,19 @@ gems:
   - jekyll-redirect-from
 
 # Year Data Config
-current_year: 2022
-current_dates_formated: "May 1-6, 2022"
-current_year_start_date: "May 1, 2022"
-current_year_end_date: "May 6, 2022"
-current_year_start_date_formatted: "2022-05-01"
-current_year_end_date_formatted: "2022-05-06"
+current_year: 2023
+current_dates_formated: "May 7-12, 2023"
+current_year_start_date: "May 7, 2023"
+current_year_end_date: "May 12, 2023"
+current_year_start_date_formatted: "2023-05-07"
+current_year_end_date_formatted: "2023-05-12"
 
 current_year_canceled: false
 current_year_online: false
 current_location: "Aspen, Colorado"
 current_where: "in Aspen"
 
-registration_time: "16:00 on Sunday, May 1st"
+registration_time: "15:00 on Sunday, May 7th"
 registration_day_of_week: "Sunday"
 first_session_day_of_week: "Monday"
 
@@ -89,12 +89,12 @@ first_session_day_of_week: "Monday"
 ## For items that are only two phase, we use Boolean values (false and true)
 
 ## becomes true on the last day of the conference
-over: true
+over: false
 
 ## Note that we "flip" the conference (set the current_year, etc,) when we make the
 ##  first post about the new conference.
 
-submission: "was"
+submission: "will"
 
 last_cfs: "/announcements/2021/12/2022-CfS/"
 
@@ -103,15 +103,15 @@ doing_lunch_signups: true
 lunch_signup_link: "https://docs.google.com/spreadsheets/d/1yUJYAUcRJbX9S4ic0nBBjw0tk0w91Ba1GKTN5jm4-Os/"
 
 ## "will", "is", "was": becomes "was" when the hotel is full or the conference is over
-hotel_registration: "was"
+hotel_registration: "will"
 online_link_for_Meadows_reservation: "https://book.passkey.com/e/50326123"
 
 
 ## "will", "is", "was": becomes "was" when  the conference is over
-registration: "was"
+registration: "will"
 refunds_are_free: true
 refund_fee: "$30"
-refund_deadline: "April 1st" # 30 days prior to conference start, except for 2021, due to virus
+refund_deadline: "April 5th" # 30 days prior to conference start, except for 2021, due to virus
 
 eventbrite_reg_URL: "https://cppnow2020.eventbrite.com/"
 eventbrite_reg_iframe_HTML: "<iframe src=\"https://cppnow2020.eventbrite.com/?ref=eweb\" width=\"100%\" height=\"2900\" frameborder=\"0\" marginwidth=\"5\" marginheight=\"5\" scrolling=\"auto\"></iframe>"
@@ -119,22 +119,23 @@ eventbrite_reg_iframe_HTML: "<iframe src=\"https://cppnow2020.eventbrite.com/?re
 krueger_reg_URL: "https://na.eventscloud.com/661200"
 krueger_reg_iframe_HTML: "<iframe src=\"https://www.eiseverywhere.com/ereg/index.php?eventid=661200&\" width=\"100%\" height=\"2900\" frameborder=\"0\" marginwidth=\"5\" marginheight=\"5\" scrolling=\"auto\"></iframe>"
 
-volunteer_applications: "was"
+volunteer_applications: "will"
 volunteer_chair: "Kevin Carpenter"
-deadline_for_volunteers: "March 31st, 2022" # 10 weeks prior to start of conference
-notification_for_volunteers: "April 15th, 2022" # 9 weeks prior to start of conference
+deadline_for_volunteers: "March 15st, 2023" # 10 weeks prior to start of conference
+notification_for_volunteers: "April 1st, 2023" # 9 weeks prior to start of conference
 volunteer_form_URL: https://docs.google.com/forms/d/e/1FAIpQLSd0_0A9GcuuIwTYVi6ij1sPQCZguL2FbHpqbux3VfFrp753PQ/viewform
 
 ## "will", "is", "was": becomes "was" when  the conference is over
-lightning_talk_submission: "was"
+lightning_talk_submission: "will"
 lightning_talk_submission_URL: "https://cppnow.ciere.io/"
 
-schedule_online: true
-sched_com_URL: "https://cppnow.digital-medium.co.uk/2022-schedule/"
+schedule_online: false
+sched_com_URL: "https://cppnow.digital-medium.co.uk/2023-schedule/"
 ## sched_com_URL: "https://cppnow2022.sched.org/"
 ## sched_com_embed_URL: "https://cppnow2022.sched.org/js/embed.js"
 
-previous_years_schedule: "[C++Now 2021 Schedule](/history/2021/schedule/)"
+## previous_years_schedule: "[C++Now 2021 Schedule](/history/2021/schedule/)"
+previous_years_schedule: "[C++Now 2022 Schedule](https://cppnow.digital-medium.co.uk/2023-schedule/)"
 
 #### Promo Video
 show_promo_video: true
@@ -180,7 +181,7 @@ B0_description: "<p>Attending C++Now and being part of the discussion on cutting
 B0_call: "Register Now"
 
 ## Box 1
-B1_show: true
+B1_show: false
 B1_title: "Hotel"
 B1_link: "/location/lodging/"
 B1_photo: "/assets/img/home/AspenMeadowsResort.jpg"
@@ -189,15 +190,6 @@ B1_description: "<p>The conference hotel is the <a href=\"https://www.aspenmeado
 B1_call: "Reserve Now"
 
 ## Box 2
-B2_show: true
-B2_title: "Travel Announcement"
-B2_link: "/announcements/2022/02/Travel-Update/"
-B2_photo: "/assets/img/location/ASE/ASE-welcome-bear.jpeg"
-B2_photo_title: "ASE Welcome Bear: Photo by Jon Kalb"
-B2_description: "<p>The Aspen Airport has announced that it will be closed during C++Now 2022.</p>"
-B2_call: "Read more"
-
-## Box 3
 B3_show: true
 B3_title: "COVID-19 Policy"
 B3_link: "/about/COVID-19_policy/"
@@ -206,7 +198,7 @@ B3_photo_title: ""
 B3_description: "<p>We are committed to providing a safe experience for all attendees.</p>"
 B3_call: "Learn More"
 
-## Box 4
+## Box 3
 B4_show: false
 B4_title: "Be a Presenter"
 B4_link: "/presenters/"
@@ -216,8 +208,8 @@ B4_description: "<p>Join the discussion! Get the most out of C++Now by joining t
 B4_call: "Presenter Information"
 
 
-## Box 5
-B5_show: false
+## Box 4
+B5_show: true
 B5_title: "Hotel"
 B5_link: "/location/lodging/"
 B5_photo: "/assets/img/home/AspenMeadowsResort.jpg"
@@ -234,6 +226,14 @@ B5_call: "Learn More"
 #B1_description: "<p>Join the discussion! Get the most out of C++Now by joining the elite group of C++ experts that have presented a lightning talk or as part of the regular program.</p>"
 #B1_call: "Presenter Information"
 
+## Box 2
+#B2_show: false
+#B2_title: "Travel Announcement"
+#B2_link: "/announcements/2022/02/Travel-Update/"
+#B2_photo: "/assets/img/location/ASE/ASE-welcome-bear.jpeg"
+#B2_photo_title: "ASE Welcome Bear: Photo by Jon Kalb"
+#B2_description: "<p>The Aspen Airport has announced that it will be closed during C++Now 2022.</p>"
+#B2_call: "Read more"
 
 ## Box 3
 #B3_show: false

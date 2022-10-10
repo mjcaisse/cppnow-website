@@ -28,6 +28,10 @@
         "children":
         [
             {
+                "title": "Code of Conduct",
+                "link": "/about/code_of_conduct/",
+            },
+            {
                 "title": "COVID-19 Policy",
                 "link": "/about/COVID-19_policy/"
             },
@@ -54,10 +58,6 @@
             {
                 "title": "Staff",
                 "link": "/about/staff/",
-            },
-            {
-                "title": "Code of Conduct",
-                "link": "/about/code_of_conduct/",
             },
             {
                 "title": "Contact",
