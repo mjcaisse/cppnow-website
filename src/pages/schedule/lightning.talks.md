@@ -5,8 +5,6 @@ permalink: /schedule/lightning.talks/
 section: schedule
 ---
 
-![Jackie Kay][speaker]
-
 Lightning Talks are short (under five minutes) presentations that may be a little more light hearted than regular sessions.
 
 If you have an idea, a rant, or a project that you'd like share with other C++Now attendees, this is your opportunity.
@@ -32,5 +30,3 @@ Please look for our lightning talk videos on the [the {{site.title}} video chann
 
 {% endcase %}
 
-
-[speaker]: {{site.B2_photo}} "Jackie Kay"

@@ -32,17 +32,6 @@ The C++Now community has grown out of the Boost community and is focused on push
 
 </div>
 
-## Keynote Announcements
-
-Checkout the [announcements page](/announcements/) for our keynotes!  Our opening keynote this year will be given by [Dave Abrahams](/announcements/2022/04/Abrahams-keynote/), and we'll close out the conference with a keynote by [Sean Baxter](/announcements/2022/04/Baxter-keynote/).
-
-
-## <span style="color:red;">Travel Update</span>
-
-If you are interested in attending C++Now 2022, please read this important [Travel Update](/announcements/2022/02/Travel-Update/) on the <span style="font-weight:bold;font-style:italic;">closing of the Aspen Airport</span>.
-
-Also check out the updated [Transportation page](/location/transportation/).
-
 <div class="homeBoxes">
 {% if site.B0_show %}
     <div class="homeBoxesLeft">
@@ -134,9 +123,9 @@ Also check out the updated [Transportation page](/location/transportation/).
 {
   "@context": "https://schema.org",
   "@type": "Event",
-  "name": "C++Now 2022",
-  "startDate": "2021-05-01T16:00",
-  "endDate": "2021-05-06T16:00",
+  "name": "C++Now 2023",
+  "startDate": "2023-05-07T15:00",
+  "endDate": "2023-05-12T18:00",
   "image": [
     "http://cppnow.org/assets/img/theme/CppNowLogo.svg"
    ],

@@ -33,41 +33,20 @@
     }
 
     function dayDifference(a, b) {
-        var HOUR_INCREMENT = 12;
+        const a_time = a.getTime();
+        const b_time = b.getTime();
+        const t_diff = b_time - a_time;
+        const d_diff = Math.floor(t_diff/8.64e7);
 
-        var untilYear = b.getFullYear();
-        var untilMonth = b.getMonth();
-        var untilDate = b.getDate();
-
-        var incrementDirection = b - a;
-        incrementDirection = incrementDirection / Math.abs(incrementDirection);
-
-        var difference = 0;
-        var lastDate = a.getDate();
-
-        while (!(untilYear === a.getFullYear() && untilMonth === a.getMonth() && untilDate === a.getDate())) {
-            a.setHours(a.getHours() + (HOUR_INCREMENT * incrementDirection));
-            if (a.getDate() !== lastDate) {
-                lastDate = a.getDate();
-                difference += incrementDirection;
-            }
-        }
-
-        return difference;
+        return d_diff;
     }
 
     function setDaysRemaining(element) {
-        var currentTime = new Date();
+        var currentTime         = new Date();
+        console.log(currentTime);
         var daysDifferenceStart = dayDifference(currentTime, conferenceStartTime);
-        var daysDifferenceEnd = dayDifference(currentTime, conferenceEndTime);
+        var daysDifferenceEnd   = dayDifference(currentTime, conferenceEndTime);
         
-        var doyCurr  = daysIntoYear(currentTime);
-        var doyStart = daysIntoYear(conferenceStartDate);
-        var doyEnd   = daysIntoYear(conferenceEndTime);
-        
-        daysDifferenceStart = doyStart - doyCurr;
-        daysDifferenceEnd   = doyEnd - doyCurr;
-
         if (daysDifferenceStart > 1) {
             element.innerHTML = '<h2 class="textCenter">' + escapeForHtml(daysDifferenceStart) + ' Days Remaining</h2>';
         }
@@ -78,21 +57,21 @@
             element.innerHTML = '<h2 class="textCenter">Going on Now!</h2>';
         }
         else {
-            element.innerHTML = '<h2 class="textCenter">C++Now ' + escapeForHtml(conferenceStartTime.getFullYear()) + ' is Over!</h2>';
+            element.innerHTML = '<h2 class="textCenter">C++Now is Over!</h2>';
         }
     }
 
     var countdown = document.getElementById('countdown');
 
     var conferenceStartDate = tryParseFormattedDateString(countdown.getAttribute('data-start-date'));
-    var conferenceEndDate = tryParseFormattedDateString(countdown.getAttribute('data-end-date'));
+    var conferenceEndDate   = tryParseFormattedDateString(countdown.getAttribute('data-end-date'));
 
     if (!conferenceStartDate && !conferenceEndDate) {
         return;
     }
 
     var conferenceStartTime = new Date(conferenceStartDate);
-    var conferenceEndTime = new Date(conferenceEndDate);
+    var conferenceEndTime   = new Date(conferenceEndDate);
 
     setDaysRemaining(countdown);
     setInterval(function() {
