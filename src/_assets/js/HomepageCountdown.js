@@ -33,10 +33,10 @@
     }
 
     function dayDifference(a, b) {
-        const a_time = a.getTime();
-        const b_time = b.getTime();
-        const t_diff = b_time - a_time;
-        const d_diff = Math.floor(t_diff/8.64e7);
+        var a_time = a.getTime();
+        var b_time = b.getTime();
+        var t_diff = b_time - a_time;
+        var d_diff = Math.floor(t_diff/8.64e7);
 
         return d_diff;
     }
