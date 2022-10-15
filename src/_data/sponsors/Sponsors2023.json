@@ -1,0 +1,217 @@
+{
+    "corporate": [
+        {
+            "title": "Video Sponsors",
+            "level": "video",
+            "sponsors":
+            [
+                {
+                    "title": "JetBrains",
+                    "link": "http://www.jetbrains.com/",
+                    "image": "/assets/img/sponsors/jetbrains.png",
+                    "motto": "Because C++, smart tools for C++ by JetBrains",
+                    "blurb": "JetBrains has a passion for making developers more productive through smarter software that simplifies your challenging tasks and automates the routine. Our tools for C++ natively support old and new language standards and Boost and libc++ libraries. They work with templated code and macros, and provide smart refactorings and detailed code analysis. Select between CLion for cross-platform development, ReSharper C++ to extend your Visual Studio, or AppCode for creating iOS/OS X applications.",
+                    "until": "2023-03-31",
+                    "level": "video"
+                },
+                {
+                    "title": "sonarsource",
+                    "link": "https://www.sonarsource.com/cpp",
+                    "image": "/assets/img/sponsors/sonar-logo-horizontal-2022.png",
+                    "blurb": "Sonar’s industry-leading solution enables developers and development teams to write clean code and remediate existing code organically, so they can focus on the work they love and maximize the value they generate for businesses. Its open source and commercial solutions – SonarLint, SonarCloud, and SonarQube – support 29 programming languages. Trusted by more than 300,000 organizations globally, SonarSource is considered integral to delivering better software.",
+                    "until": "2023-03-31",
+                    "level": "video"
+                }
+            ]
+        },
+        {
+            "title": "Gold Sponsors",
+            "level": "gold",
+            "sponsors":
+            [
+                {
+                    "title": "Bloomberg",
+                    "link": "http://techatbloomberg.com/cplusplus/",
+                    "image": "/assets/img/sponsors/BBGEngineering_black.png",
+                    "blurb": "Bloomberg is building the world's most trusted information network for financial professionals. Our 6,500+ engineers are dedicated to advancing and building new systems for the Bloomberg Terminal and other products to solve complex, real-world problems. ​<br><br>
+                    
+                    C++ is one of our core programming languages. Our C++ experts build everything from low-level libraries and components to some of the most performant financial applications, analytics, and trading systems in the world. They also contribute to the C++ Standards Committee (WG21). Learn more at <a href=\"http://TechAtBloomberg.com/cplusplus\">TechAtBloomberg.com/cplusplus</a>.",
+                    "until": "2023-03-31",
+                    "level": "gold"
+                },
+                {
+                    "title": "The C++ Alliance",
+                    "link": "http://cpp.al/",
+                    "motto": "C++ Alliance: Empowering C++",
+                    "image": "/assets/img/sponsors/cpp_alliance.png",
+                    "blurb": "Welcome to C++Now 2022. Enjoy the Conference!<br><br>
+                    
+                    In addition to this conference, the C++ Alliance is proud to fund and support the world's largest and most active C++ technical discussion area. Get your free invitation to the Slack Workspace at <a href=\"http://slack.cpp.al\">http://slack.cpp.al</a> then visit us at <a href=\"https://cpplang.slack.com\">https://cpplang.slack.com</a>",
+                    "until": "2023-03-31",
+                    "level": "gold"
+                },
+                {
+                    "title": "Hudson River Trading",
+                    "link": "https://www.hudsonrivertrading.com/",
+                    "image": "/assets/img/sponsors/hrt-primary-logo-full-color-1.svg",
+                    "blurb": "At Hudson River Trading (HRT) we are mathematicians, computer scientists, statisticians, physicists, and engineers. We research and develop automated trading algorithms using advanced mathematical techniques. We have built one of the world's most sophisticated computing environments, and our researchers are at the forefront of innovation in the world of algorithmic trading.",
+                    "until": "2023-03-31",
+                    "level": "gold"
+                }
+            ]
+        },
+        {
+            "title": "Silver Sponsors",
+            "level": "silver",
+            "sponsors":
+            [
+                {
+                    "title": "Quantlab",
+                    "link": "https://www.quantlab.com/",
+                    "image": "/assets/img/sponsors/Quantlab.jpeg",
+                    "motto": "Quantlab: Where the best get better.",
+                    "blurb": "Quantlab is a quantitative trading firm where Technology and Scientific Research are central to our business and key to our success. Founded in 1998, Quantlab is a pioneer in quantitative algorithmic trading.  Behind our success is our people. We hire some of the smartest and most passionate engineers and quants in the world.<br><br>
+                    
+                    The firm is privately held with headquarters in Houston, and offices in New York, Chicago, Denver, Boston, Austin, and Singapore. We are a science lab spinning trade data in the centrifuge of math and technology to parse financial frontiers and optimize results.",
+                    "until": "2023-03-31",
+                    "level": "silver"
+                },
+                {
+                    "title": "Unified Streaming",
+                    "link": "https://www.unified-streaming.com",
+                    "image": "/assets/img/sponsors/UnifiedStreaming.jpeg",
+                    "blurb": "Unified Streaming is dedicated to helping media companies create and execute smart video streaming and monetisation opportunities. Our technology, which is in operation across the globe, allows streaming providers to engage OTT audiences using HTTP for delivery in new ways through smart and highly flexible video playlists no matter how or where they’re watching.  
+
+To realise this we use  C++ as our core technology for audio and video streaming, transcode pipelines and MPEG related specification implementation.",
+                    "motto": "Your streaming challenge… accepted",
+                    "until": "2021-12-31",
+                    "level": "silver"
+                }
+            ]
+        },
+        {
+            "title": "Bronze Sponsors",
+            "level": "bronze",
+            "sponsors":
+            [
+                {
+                    "title": "Ciere Consulting",
+                    "link": "http://ciere.com",
+                    "image": "/assets/img/sponsors/ciere.png",
+                    "blurb": "",
+                    "until": "2023-03-31",
+                    "level": "bronze"
+                },
+                {
+                    "title": "Maryland Research Institute",
+                    "link": "https://marylandresearch.org/",
+                    "image": "/assets/img/sponsors/md_research_logo.jpg",
+                    "blurb": "Maryland Research is honored to sponsor C++Now. We are dedicated to solving the most challenging problems in national security.  We leverage the power of C++ to build high-performance capabilities for our customers and are grateful to C++Now for their stewardship of the language and their contributions to  the community.",
+                    "until": "2023-03-31",
+                    "level": "bronze"
+                }
+            ]
+        }
+    ],
+    "individual": [
+        {
+            "title": "Boost Scholarship Sponsors: Gold Level",
+            "sponsors":
+            [
+                {
+                    "name": "Bob Steagall",
+                    "info": "Bob Steagall <bob@cppnow.org>",
+                    "until": "2023-03-31"
+                }
+            ]
+        },
+        {
+            "title": "Boost Scholarship Sponsors: Silver Level",
+            "sponsors":
+            [
+            ]
+        },
+        {
+            "title": "Boost Scholarship Sponsors: Bronze Level",
+            "sponsors":
+            [
+                {
+                    "name": "Shea Williams",
+                    "info": "Shea Williams <sheapwilliams@gmail.com>",
+                    "until": "2023-03-31"
+                }
+            ]
+        }
+    ],
+    "individual history": [
+        {
+            "title": "Boost Scholarship Sponsors: Gold Level",
+            "sponsors":
+            [
+                {
+                    "name": "Jeff Trull",
+                    "info": "Jeffrey Trull <jetrull@sbcglobal.net>",
+                    "shirt": "men's medium",
+                    "until": "2021-03-04"
+                },                
+                {
+                    "name": "Jon and Kathleen Kalb",
+                    "info": "Jon Kalb <jonkalb@boost.org>",
+                    "shirt": "men's large",
+                    "until": "2020-04-07"
+                },
+                {
+                    "name": "Jon Terje Kommandantvold",
+                    "info": "jonterje.kommandantvold@gmail.com",
+                    "shirt": "men's large",
+                    "until": "2022-03-06",
+                    "overage": "400"
+                },
+                {
+                    "name": "Peter Bindels",
+                    "info": "Peter Bindels <dascandy@gmail.com>",
+                    "shirt": "men's large",
+                    "until": "2020-04-07"
+                },
+                {
+                    "name": "Agustín Bergé", 
+                    "anonymous": true,
+                    "info": "Agustín Bergé <kaballo86@hotmail.com>",
+                    "shirt": "men's medium",
+                    "until": "2020-04-01"
+                },
+                {
+                    "name": "Zach Laine", 
+                    "anonymous": true,
+                    "info": "Zach Laine <whatwasthataddress@gmail.com>",
+                    "shirt": "men's extra large",
+                    "until": "2021-03-04"
+                }
+            ]
+        },
+        {
+            "title": "Boost Scholarship Sponsors: Silver Level",
+            "sponsors":
+            [
+            ]
+        },
+        {
+            "title": "Boost Scholarship Sponsors: Bronze Level",
+            "sponsors":
+            [
+                {
+                    "name": "Louis Dionne",
+                    "info": "Louis Dionne <louis.dionne92@gmail.com>",
+                    "shirt": "men's medium",
+                    "until": "2021-03-04"
+                },
+                {
+                    "name": "Peter Sommerlad",
+                    "info": "Peter Sommerlad <peter.cpp@sommerlad.ch>",
+                    "shirt": "men's large",
+                    "until": "2020-04-17"
+                }
+            ]
+        }
+    ]
+}

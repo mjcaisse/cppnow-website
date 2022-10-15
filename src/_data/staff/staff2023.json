@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Conference Chair",
+        "name": "Bob Steagall",
+        "email": "bob@cppnow.org"
+    },
+    {
+        "title": "Program Committee Chair",
+        "name": "Bob Steagall",
+        "email": "program@cppnow.org"
+    },
+    {
+        "title": "Registrar",
+        "name": "Karen Krueger",
+        "email": "registrar@cppnow.org"
+    },
+    {
+        "title": "Speaker Liaison",
+        "name": "Chris Ryan",
+        "email": "speakers@cppnow.org"
+    },
+    {
+        "title": "Student / Volunteer Chair",
+        "name": "Kevin Carpenter",
+        "email": "student-volunteers@cppnow.org"
+    },
+    {
+        "title": "Graphic Design",
+        "name": "Zoltan Juhasz"
+    },
+    {
+        "title": "Archivist",
+        "name": "Bob Steagall",
+        "email": "speaker-files@cppnow.org"
+    },
+    {
+        "title": "Promotion",
+        "name": "Jonathan Müller"
+    },
+    {
+        "title": "Speaker Feedback / Best Session Balloting",
+        "name": "Peter Bindels"
+    },
+]

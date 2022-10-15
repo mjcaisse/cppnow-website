@@ -1,0 +1,41 @@
+{
+    "chairs":
+        [
+            { "name": "Bob Steagall", "title": "Chair" },
+        ],
+    "members":
+    [
+        { "name": "Alex Olivas" },
+        { "name": "Andreas Fertig"},
+        { "name": "Arno Schoedl"},
+        { "name": "Ben Deane" },
+        { "name": "Bryce Adelsttein Lelbach"},
+        { "name": "Chandranath Bhattacharyya" },
+        { "name": "Chris Ryan" },
+        { "name": "David Sankel" },
+        { "name": "Eduardo Madrid" },
+        { "name": "Filipp Gelman"},
+        { "name": "Gábor Horváth"},
+        { "name": "Giannis Gonidelis"},
+        { "name": "Jeff Garland"},
+        { "name": "Jens Weller" },
+        { "name": "Jon Kalb", "company": "Cpp.Training"},
+        { "name": "Kris Jusiak" },
+        { "name": "Lucian Radu Teodorescu"},
+        { "name": "Matt Bentley"},
+        { "name": "Nevin Liber" },
+        { "name": "Nikunj Gupta"},
+        { "name": "Peter Sommerlad" },
+        { "name": "Richárd Szalay" },
+        { "name": "Sandor Dargo" },
+        { "name": "Steve Downey" },
+        { "name": "Sumant Tambe" },
+        { "name": "Timur Doumler" },
+        { "name": "Tobias Loew" },
+        { "name": "Tony Van Eerd", "company": "Christie Digital" },
+        { "name": "Victor Ciura" },
+        { "name": "William Hoffman" },
+        { "name": "Zhihao Yuan" },
+        { "name": "Zoltan Porkolab" },
+    ]
+}
