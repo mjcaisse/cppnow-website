@@ -21,7 +21,7 @@ section: history
 {% include programCommittee.md %}
 
 
-{% assign DATA = site.data.sponsors.Sponsors2021 %}
+{% assign DATA = site.data.sponsors.Sponsors2022 %}
 
 {% include corporateSponsorHistoryListing.md %}
 

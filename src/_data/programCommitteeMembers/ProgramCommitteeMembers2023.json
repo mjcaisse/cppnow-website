@@ -1,7 +1,7 @@
 {
     "chairs":
         [
-            { "name": "Bob Steagall", "title": "Chair" },
+            { "name": "Inbal Levi", "title": "Chair" },
         ],
     "members":
     [
@@ -9,6 +9,7 @@
         { "name": "Andreas Fertig"},
         { "name": "Arno Schoedl"},
         { "name": "Ben Deane" },
+        { "name": "Bob Steagall" },
         { "name": "Bryce Adelsttein Lelbach"},
         { "name": "Chandranath Bhattacharyya" },
         { "name": "Chris Ryan" },

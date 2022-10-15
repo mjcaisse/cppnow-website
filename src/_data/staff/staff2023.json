@@ -6,7 +6,7 @@
     },
     {
         "title": "Program Committee Chair",
-        "name": "Bob Steagall",
+        "name": "Inbal Levi",
         "email": "program@cppnow.org"
     },
     {
@@ -36,9 +36,5 @@
     {
         "title": "Promotion",
         "name": "Jonathan Müller"
-    },
-    {
-        "title": "Speaker Feedback / Best Session Balloting",
-        "name": "Peter Bindels"
     },
 ]
