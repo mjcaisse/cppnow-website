@@ -6,7 +6,8 @@
 
 {% if type.sponsors.size > 0 %}
 
-<h3>{{type.title | xml_escape}}</h3>
+<!-- <h3>{{type.title | xml_escape}}</h3> -->
+<h3 style="font-size: 30px; text-align: left; padding-top: 25px; padding-bottom: 20px" >{{type.title | xml_escape}}</h3>
 
 {% for item in type.sponsors %}
 <a href="{{item.link | uri_escape}}" class="sLink" target="_blank" rel="noopener noreferrer">

@@ -75,17 +75,6 @@
                     The firm is privately held with headquarters in Houston, and offices in New York, Chicago, Denver, Boston, Austin, and Singapore. We are a science lab spinning trade data in the centrifuge of math and technology to parse financial frontiers and optimize results.",
                     "until": "2023-03-31",
                     "level": "silver"
-                },
-                {
-                    "title": "Unified Streaming",
-                    "link": "https://www.unified-streaming.com",
-                    "image": "/assets/img/sponsors/UnifiedStreaming.jpeg",
-                    "blurb": "Unified Streaming is dedicated to helping media companies create and execute smart video streaming and monetisation opportunities. Our technology, which is in operation across the globe, allows streaming providers to engage OTT audiences using HTTP for delivery in new ways through smart and highly flexible video playlists no matter how or where they’re watching.  
-
-To realise this we use  C++ as our core technology for audio and video streaming, transcode pipelines and MPEG related specification implementation.",
-                    "motto": "Your streaming challenge… accepted",
-                    "until": "2021-12-31",
-                    "level": "silver"
                 }
             ]
         },

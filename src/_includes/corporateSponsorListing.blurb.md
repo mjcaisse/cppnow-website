@@ -1,6 +1,8 @@
 {% if DATA.corporate.size > 0 %}
 
-<!-- <h2>Corporate Sponsors</h2> -->
+<!-- 
+<h2>Corporate Sponsors</h2> 
+-->
 
 {% for type in DATA.corporate %}
 {% assign filtered_type = type | until_filter %}
