@@ -21,6 +21,7 @@ Every year we release a <a href="{{site.last_cfs}}">Call for Submissions for the
   {% when 'will' %}
 The CfS is not yet opened for C++Now {{site.current_year}}. Please visit again or keep an eye on the [announcements page](/announcements/) for updated information.
   {% when 'is' %}
+The 2023 Call for Submission is now open!
   {% when 'was' %}
 The CfS is now closed for C++Now {{site.current_year}}{% unless site.over %}, but it isn't too late to become a presenter. Please checkout [our lightning talk program](#lightning_talks){% endunless %}.
 {% endcase %}
@@ -64,7 +65,7 @@ Audiences prefer "live" online sessions and most presenters prefer these as well
 
 #### Presenter FAQs
 
-Before you submit your talk, please have a look at our [Submitter FAQ](/about/faq/#submitter-faq) and our [Speaker FAQ](/about/faq/#speaker-faq). Before you give your talk, please read our [Attendee FAQ](/about/faq/#attendee-faq){% if site.current_year_online == false %}, particularly, [the question about the CatchBox](/about/faq/#CatchBox){% endif %}.
+Before you submit your talk, please have a look at our [Submitter FAQ](/about/faq/#submitter-faq) and our [Speaker FAQ](/about/faq/#speaker-faq). Before you give your talk, please read our [Attendee FAQ](/about/faq/#attendee-faq).
 
 For more information about regular program submissions, contact the Program Committee: [program@cppnow.org](mailto:program@cppnow.org)
 
@@ -74,7 +75,7 @@ For more information about regular program submissions, contact the Program Comm
 <p class="highlight" markdown="1">Please [make your main program submission here](https://cppform.cierecloud.com/sessions/submitter/?conf=boostcon&year={{site.current_year}}).
 </p>
 -->
-<p style="text-align: center; font-size: 40px;"><a href="https://cppform.cierecloud.com/sessions/submitter/?conf=boostcon&year={{site.current_year}}">Submit Now</a></p>
+<p style="text-align: center; font-size: 40px;"><a href="https://cppform.cierecloud.com/sessions/submitter/?conf=boostcon&year={{site.current_year}}">Submit A Proposal Now</a></p>
 
 {% endif %}
 

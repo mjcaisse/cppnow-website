@@ -13,6 +13,13 @@ section: home
 
 The C++Now community has grown out of the Boost community and is focused on pushing C++ to its limits. We are helping to define what C++ will look like tomorrow, but are also curious about what we can do with C++ <i>now</i>!
 
+{% if site.submission == "is" %}
+
+## Call for Submissions
+
+The 2023 <a href="{{site.last_cfs}}">Call for Submissions</a> is now open!
+<p> </p>
+{% endif %}
 
 
 <div class="textCenter">
@@ -133,7 +140,7 @@ The C++Now community has grown out of the Boost community and is focused on push
   "offers": {
     "@type": "Offer",
     "url": "http://cppnow.org/registration/",
-    "price": "1250",
+    "price": "1500",
     "priceCurrency": "USD",
     "availability": "http://schema.org/InStock",
     "validFrom": "2022-05-01T16:00",

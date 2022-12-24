@@ -94,9 +94,9 @@ over: false
 ## Note that we "flip" the conference (set the current_year, etc,) when we make the
 ##  first post about the new conference.
 
-submission: "will"
+submission: "is"
 
-last_cfs: "/announcements/2021/12/2022-CfS/"
+last_cfs: "/announcements/2022/12/2023-CfS/"
 
 ## If we are doing lunch signups we want them in the FAQ.
 doing_lunch_signups: true
@@ -135,7 +135,7 @@ sched_com_URL: "https://cppnow.digital-medium.co.uk/2023-schedule/"
 ## sched_com_embed_URL: "https://cppnow2022.sched.org/js/embed.js"
 
 ## previous_years_schedule: "[C++Now 2021 Schedule](/history/2021/schedule/)"
-previous_years_schedule: "[C++Now 2022 Schedule](https://cppnow.digital-medium.co.uk/2023-schedule/)"
+previous_years_schedule: "[C++Now 2022 Schedule](https://cppnow.digital-medium.co.uk/2022-schedule/)"
 
 #### Promo Video
 show_promo_video: true
@@ -199,7 +199,7 @@ B3_description: "<p>We are committed to providing a safe experience for all atte
 B3_call: "Learn More"
 
 ## Box 3
-B4_show: false
+B4_show: true
 B4_title: "Be a Presenter"
 B4_link: "/presenters/"
 B4_photo: "/assets/img/home/jackie.jpg"
