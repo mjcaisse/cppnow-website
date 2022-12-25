@@ -171,51 +171,53 @@ tag_cloud_image_width: "577"
 ## Each has a title, a link location, a photo source, a photo title, a description and
 ## a call to action.
 
-# Box 0
-B0_show: false
-B0_title: "Join us"
-B0_link: "/registration/"
-B0_photo: "/assets/img/home/attendees.jpeg"
-B0_photo_title: "Attendees: Photo by Zoetica Ebb"
-B0_description: "<p>Attending C++Now and being part of the discussion on cutting edge C++ can be a life changing experience. The content presented at C++Now is unmatched at C++ events, but that isn't the best part of conference. The best part of the conference is the attendees that you'll meet and engage with for a week in the beautiful Colorado Rockies.</p>"
-B0_call: "Register Now"
+## Box 0
+B0_show: true
+B0_title: "Be a Presenter"
+B0_link: "/presenters/"
+#B0_photo: "/assets/img/home/jackie.jpg"
+#B0_photo_title: "Jackie Kay: Photo by Zoetica Ebb"
+B0_photo: "/assets/img/content/Sean.giving.keynote.jpeg"
+B0_photo_title: "Sean Parent, giving a keynote"
+B0_description: "<p>Join the discussion! Get the most out of C++Now by joining the elite group of C++ experts that have presented a lightning talk or as part of the regular program.</p>"
+B0_call: "Presenter Information"
 
 ## Box 1
 B1_show: false
-B1_title: "Hotel"
-B1_link: "/location/lodging/"
-B1_photo: "/assets/img/home/AspenMeadowsResort.jpg"
-B1_photo_title: "Aspen Meadows Resort"
-B1_description: "<p>The conference hotel is the <a href=\"https://www.aspenmeadows.com/\">Aspen Meadows Resort</a>, a 40 acre resort a short walk from the conference venue overlooking the Roaring Fork River.</p> The hotel is currently accepting online reservations."
-B1_call: "Reserve Now"
+B1_title: "Join us"
+B1_link: "/registration/"
+B1_photo: "/assets/img/home/attendees.jpeg"
+B1_photo_title: "Attendees: Photo by Zoetica Ebb"
+B1_description: "<p>Attending C++Now and being part of the discussion on cutting edge C++ can be a life changing experience. The content presented at C++Now is unmatched at C++ events, but that isn't the best part of conference. The best part of the conference is the attendees that you'll meet and engage with for a week in the beautiful Colorado Rockies.</p>"
+B1_call: "Register Now"
 
 ## Box 2
-B3_show: true
-B3_title: "COVID-19 Policy"
-B3_link: "/about/COVID-19_policy/"
-B3_photo: "/assets/img/home/COVID19.png"
-B3_photo_title: ""
-B3_description: "<p>We are committed to providing a safe experience for all attendees.</p>"
-B3_call: "Learn More"
+B2_show: false
+B2_title: "Hotel"
+B2_link: "/location/lodging/"
+B2_photo: "/assets/img/home/AspenMeadowsResort.jpg"
+B2_photo_title: "Aspen Meadows Resort"
+B2_description: "<p>The conference hotel is the <a href=\"https://www.aspenmeadows.com/\">Aspen Meadows Resort</a>, a 40 acre resort a short walk from the conference venue overlooking the Roaring Fork River.</p> The hotel is currently accepting online reservations."
+B2_call: "Reserve Now"
 
 ## Box 3
-B4_show: true
-B4_title: "Be a Presenter"
-B4_link: "/presenters/"
-B4_photo: "/assets/img/home/jackie.jpg"
-B4_photo_title: "Jackie Kay: Photo by Zoetica Ebb"
-B4_description: "<p>Join the discussion! Get the most out of C++Now by joining the elite group of C++ experts that have presented a lightning talk or as part of the regular program.</p>"
-B4_call: "Presenter Information"
-
+B3_show: true
+B3_title: "Hotel"
+B3_link: "/location/lodging/"
+B3_photo: "/assets/img/home/AspenMeadowsResort.jpg"
+B3_photo_title: "Aspen Meadows Resort"
+B3_description: "<p>The conference hotel is the <a href=\"https://www.aspenmeadows.com/\">Aspen Meadows Resort</a>, a 40 acre resort a short walk from the conference venue overlooking the Roaring Fork River.</p>"
+B3_call: "Learn More"
 
 ## Box 4
-B5_show: true
-B5_title: "Hotel"
-B5_link: "/location/lodging/"
-B5_photo: "/assets/img/home/AspenMeadowsResort.jpg"
-B5_photo_title: "Aspen Meadows Resort"
-B5_description: "<p>The conference hotel is the <a href=\"https://www.aspenmeadows.com/\">Aspen Meadows Resort</a>, a 40 acre resort a short walk from the conference venue overlooking the Roaring Fork River.</p>"
-B5_call: "Learn More"
+B4_show: true
+B4_title: "COVID-19 Policy"
+B4_link: "/about/COVID-19_policy/"
+B4_photo: "/assets/img/home/COVID19.png"
+B4_photo_title: ""
+B4_description: "<p>We are committed to providing a safe experience for all attendees.</p>"
+B4_call: "Learn More"
+
 
 ## Box 1
 #B1_show: true
