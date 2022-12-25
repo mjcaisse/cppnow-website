@@ -5,9 +5,9 @@ permalink: /about/COVID-19_policy/
 section: about
 ---
 
-## C++Now Vaccine and Mask Policy
-
 We continue to monitor mask requirements issued by the Pitkin County Health Department.  There is currently no mask mandate for events in Pikin County.  However, this could change, and if it does, we will let you know as soon as possible.
+
+### C++Now Vaccine and Mask Policy
 
 In 2023, with high vaccination rates and many events reopening, we are happy to be able to relax our COVID-19 policy as follows:
 
