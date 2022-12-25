@@ -5,24 +5,18 @@ permalink: /about/COVID-19_policy/
 section: about
 ---
 
-<hr>
+## C++Now Vaccine and Mask Policy
 
-Quick Link: [Confirm vaccination status online!](https://forms.gle/nM1kKabWg2RJULpw8)
+We continue to monitor mask requirements issued by the Pitkin County Health Department.  There is currently no mask mandate for events in Pikin County.  However, this could change, and if it does, we will let you know as soon as possible.
 
-<hr>
+In 2023, with high vaccination rates and many events reopening, we are happy to be able to relax our COVID-19 policy as follows:
 
-## C++Now Vaccine Policy
+- For unvaccinated attendees: We respectfully request that you please wear a mask at all times while attending sessions and events at C++Now.
 
-To attend C++Now 2022, attendees must be fully vaccinated for COVID-19 with any WHO-approved vaccine. Fully vaccinated means two weeks have passed since your final vaccine dose.
+- For vaccinated attendees: Wearing masks is encouraged, but not required. No proof of vaccination is needed to attend.
 
-To receive your badge, you can show an official proof-of-vaccination document online in advance using the link below, or at registration when you arrive.
+- Complimentary masks will be available on-site.
 
-Confirming online in advance of the conference saves time by streamlining the onsite registration process (and reduces the risk of showing up without your documentation). [Confirm vaccination status online](https://forms.gle/nM1kKabWg2RJULpw8).
+- For all attendees: By attending C++Now, you are confirming that you are not displaying cold or flu-like symptoms and that you have not been exposed to or tested positive for COVID-19 within the past five days. If you do not meet these requirements, do not attend the conference, and instead contact the registrar for information about registration refunds.
 
-Online confirmation requires you to upload a (potentially redacted) scan of your vaccination documentation, but after confirmation is complete, your uploaded scan is immediately deleted.
-
-Please note that international travel requirements are separate from conference entry requirements; please consult applicable government authorities for current travel requirements between your country to/from the United States.
-
-## Mask Policy
-We continue to monitor mask requirements issued by the Pitkin County Health Department.  There is currently no mask mandate for events in which 100% of participants are fully vaccinated.  However, this could change, and if it does, we will let you know as soon as possible.
-
+Note: International travel requirements are separate from conference entry requirements; please consult the applicable government authorities for current travel requirements between your country to/from the United States. Information on the rescinding for testing for entering the US can be found [here](https://travel.state.gov/content/travel/en/international-travel/before-you-go/covid-19_testing_required_US_Entry.html).
