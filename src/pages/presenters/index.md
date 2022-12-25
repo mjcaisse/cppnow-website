@@ -15,7 +15,7 @@ We have two programs of presentations at C++Now. We have a [main program](#main_
 
 <a name="main_program"></a>
 ### Main Program
-Every year we release a <a href="{{site.last_cfs}}">Call for Submissions for the <i>main program</i></a>.
+Every year we announce a <a href="{{site.last_cfs}}">Call for Submissions for the <i>main program</i></a>.
 
 {% case site.submission %}
   {% when 'will' %}
@@ -103,10 +103,10 @@ If your registration cost is waived, you will be contacted about how to register
 
 Please let people know that you are speaking! You are the attraction for this year’s conference, so let people know on [Twitter](https://twitter.com/cppnow/) (#CppNow), [Facebook](https://www.facebook.com/CppNow/), [LinkedIn](https://www.linkedin.com/groups/6593259), [Slack](https://cpplang.slack.com/messages/cppnow/), or wherever is appropriate for you.
 
-If you want to engage with other CppNow attendees, including other presenters, please join [the Slack #cppnow channel](https://cpplang.slack.com/messages/cppcon/) by first using [the auto-invite page for the CppLang workspace](https://cpplang-inviter.cppalliance.org/).
+If you want to engage with other C++Now attendees, including other presenters, please join [the Slack #cppnow channel](https://cpplang.slack.com/messages/cppcon/) by first using [the auto-invite page for the CppLang workspace](https://cpplang-inviter.cppalliance.org/).
 
 ## Connecting with other speakers
-Please join [the Slack #speakerscorner channel](https://cpplang.slack.com/messages/speakerscorner/) by first using [the auto-invite page for the CppLang workspace](https://cpplang-inviter.cppalliance.org/). This is a good way of asking questions of and getting advise from experienced presenters at C++ conferences.
+Please join [the Slack #speakerscorner channel](https://cpplang.slack.com/messages/speakerscorner/) by first using [the auto-invite page for the CppLang workspace](https://cpplang-inviter.cppalliance.org/). This is a good way of asking questions of and getting advice from experienced presenters at C++ conferences.
 
 ## Practice
 If possible, give your talk before a live technical audience. Do it at work and/or with a local user group. You’ll be surprised at what you learn about how long it takes, what you find yourself wishing you’d included, and what questions you get. Pay attention to these issues, learn from them, and incorporate them into your talk. It will improve every time you give it, try to give it as many times as you can arrange an audience.
@@ -136,21 +136,21 @@ The volunteers have been instructed to cut you off, but they really don’t want
 If you are scheduled to deliver a half session, your help is needed to make the program run smoothly.
 
 ### First Half
-If you are giving the first half session, arrive at your session extra early because not only will you need to get your AV setup and checked, the following presenter will need to be setup and checked as well. Please let the following speaker get set up and checked before you, so you’ll be setup and ready to go for your talk.
+If you are giving the first half session, please arrive at your session extra early. Not only will you need to get your AV set up and checked, the following presenter will need to be set up and checked as well. Please let the following speaker get set up and checked before you, so you’ll be both be ready to go for your talks.
 
-It is very important that you start on time, so that you be able to finish on time. Finishing on time means finishing with questions as well. You need to be off-mic and unplugged at the end of your allotted time so the following speaker will have their full time to present. If you want to offer to take more questions outside the session, please say that you’ll be available after the next speaker is finished, not during that speaker’s session.
+It is very important that you start on time, so that you'll be able to finish on time. Finishing on time means finishing with questions as well. You need to be off-mic and unplugged at the end of your allotted time so the following speaker will have their full time to present. If you want to offer to take more questions outside the session, please say that you’ll be available after the next speaker is finished, not during that speaker’s session.
 
-If you are scheduled for the first of a pair of half-session talks, you cannot go over our time. **You must stop when your time is up.** There are no exception to this, even if your sessions started late through no fault of your own.
+If you are scheduled for the first of a pair of half-session talks, you cannot go over our time. **You must stop when your time is up.** There are no exceptions to this, even if your sessions started late through no fault of your own.
 
 ### Second Half
-If you are giving the second half of two half session talks, arrive early before the session before yours starts. You need to be checked out on AV before that other speaker is setup for their talk. Since you need to allow at least ten minutes for the other speaker to be setup, you need to arrive in time so that you can be finished being setup (including necessary troubleshooting) at least an hour before your session is scheduled to begin.
+If you are giving the second half of two half session talks, arrive early before the session before yours starts. You need to be checked out on AV before that other speaker is set up for their talk. Since you need to allow at least ten minutes for the other speaker to be setup, you need to arrive in time so that you can be finished being set up (including necessary troubleshooting) at least an hour before your session is scheduled to begin.
 
 It is understandable that right before speaking you might be too nervous to sit quietly through their talk (although that might help calm your nerves). If you can’t avoid pacing, please slip out of the session, but not far away. You’ll need to be available right after the previous speaker finishes to get set up and going.
 
 ## Slides
 Better safe than sorry: Your laptop may break or go missing. Consider:
 
-* Have copy of your slides on a USB stick.
+* Have a copy of your slides on a USB stick.
 * Mail yourself a copy of the slides.
 * Put a copy on Google drive/Dropbox/iCloud.
 
@@ -158,7 +158,7 @@ Better safe than sorry: Your laptop may break or go missing. Consider:
 Please send a PDF of your presentation to the [Conference Archivist](mailto:speaker-files@cppnow.org). Please use this address for both Main Program presentations and Lightning Talk presentations. {% if site.current_year_online %}This should be done a week before you give your presentation, but you can update it at any time, even after your presentation is over.{% else %}This need not be done _before_ you give your presentation, but please have it done in time to have the slides online by the time the video recording of your presentation is uploaded (shortly after the conference).{% endif %}
 
 ## Advice from Bash Films
-Bash is company that records, edits, and uploads our videos. Here is their [advice to presenters](https://drive.google.com/file/d/0BylxYEqmZhqTV0JnS1A0WS1CUnM/view?usp=sharing).
+Bash is the company that records, edits, and uploads our videos. Here is their [advice to presenters](https://drive.google.com/file/d/0BylxYEqmZhqTV0JnS1A0WS1CUnM/view?usp=sharing).
 
 ## Advice from Scott Meyers
 Here is Scott’s take on presenting code from his 2014 keynote at Meeting C++. (Thanks Jens.)
