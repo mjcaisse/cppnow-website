@@ -13,31 +13,39 @@ section: home
 
 The C++Now community has grown out of the Boost community and is focused on pushing C++ to its limits. We are helping to define what C++ will look like tomorrow, but are also curious about what we can do with C++ <i>now</i>!
 
-{% if site.submission == "is" %}
-
-## Call for Submissions
-
-The 2023 <a href="{{site.last_cfs}}">Call for Submissions</a> is now open!
-<p> </p>
-{% endif %}
-
-
 <div class="textCenter">
     <h3>
         <span class="nowrap">{{site.current_year_start_date}}</span> - <span class="nowrap">{{site.current_year_end_date}}</span>
     </h3>
 
     <div id="countdown" data-start-date="{{site.current_year_start_date_formatted}}" data-end-date="{{site.current_year_end_date_formatted}}"></div>
-
-{% case site.registration %}
-  {% when 'will' %}
-  {% when 'is' %}
-    <a href="/registration/" class="buttonPrimaryLarge">Register Now</a>
-  {% when 'was' %}
-{% endcase %}
-
-
 </div>
+
+
+{% if site.registration == "is" %}
+<br>
+## Registration is Open
+
+<a href="/announcements/2023/01/2023-registration-is-open/">Registration for 2023 is now open!</a>
+<br>
+<br>
+<div class="textCenter">
+<a href="/announcements/2023/01/2023-registration-is-open/" class="buttonPrimaryLarge">Register Now</a>
+</div>
+<br>
+
+{% endif %}
+
+
+{% if site.submission == "is" %}
+
+## Call for Submissions
+
+The 2023 <a href="{{site.last_cfs}}">Call for Submissions</a> is now open!
+<br>
+<br>
+{% endif %}
+
 
 <div class="homeBoxes">
 {% if site.B0_show %}
