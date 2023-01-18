@@ -88,12 +88,15 @@ The hotel's online registration system is not yet set up for C++Now {{site.curre
 Although C++Now has reserved a large block of rooms at the [Aspen Meadows Resort](https://www.aspenmeadows.com/), registrations are expected to exceed capacity. Please make reservations as soon as possible to avoid the need to find other accommodations.
 
 #### Rates
-
-* **$220 per night** - One Bedroom Suite  --or--  **$202 per night** Junior Suite (single or double occupancy)
+* For Sunday May 7th - Friday May 12th, inclusive:
+  * **$222 per night** - One Bedroom Suite
+  * **$202 per night** - Junior Suite (single or double occupancy)
+* For Saturday May 6th and Saturday May 13th:
+  * **$250 per night** - For both room types (Junior Suite and One Bedroom Suite)
 
 A resort fee ($40 per night) and tax (11.3%) will be added to each night's reservation.
 
-You can use the hotel's [online registration system]({{site.online_link_for_Meadows_reservation}}) for this event, or call 1 (800) 452-4240, to book your room. Remember, registration begins Sunday afternoon, and the conference proper begins on Monday morning.
+You can use the hotel's [online registration system]({{site.online_link_for_Meadows_reservation}}) for this event, or call 1 (888) 221-4851, to book your room. Remember, registration begins Sunday afternoon, and the conference proper begins on Monday morning.
 
   {% when 'was' %}
 
@@ -111,9 +114,10 @@ You can use the hotel's [online registration system]({{site.online_link_for_Mead
 * Payment is required at the time of reservation.
 * The deposit is refundable if notice is received at least 14 days prior to arrival and a cancellation number is obtained.
 * C++Now conference rates of:
-  * $220 per day, plus $40 resort fee per day, for a One Bedroom suite.
-  * $202 per day, plus $40 resort fee per day, for a Junior Suite.
-  * These special rates are available until April 3rd, subject to room availability.  After April 3rd, the room rates will increase (although we don't yet know exactly what the rates will be at that time).
+  * $222 plus $40 resort fee per night, for a One Bedroom suite, May 7th - May 12th
+  * $202 plus $40 resort fee per night, for a Junior Suite, May 7th - May 12th
+  * $250 plus $40 resort fee per night, for either suite style, May 6th and May 13th
+  * These special rates are available until April 3rd, subject to room availability.  _After April 3rd, the room rates will increase_ (although we don't yet know exactly what the rates will be at that time).
 * Rates do not include breakfast or other meals.
 * Check-in time is 4 PM (Mountain Time) on arrival day.
 * Check-out time is 11 AM on departure day.
@@ -128,6 +132,6 @@ The [Aspen Meadows Resort](https://www.aspenmeadows.com/) may be over capacity t
 
 ### Other Questions
 
-For any other questions about the [Aspen Meadows Resort](https://www.aspenmeadows.com/), please call them toll-free at [1 (800) 452-4240](tel:1-800-452-4240) or locally at [1 (970) 925-4240](tel:1-970-925-4240).
+For any other questions about the [Aspen Meadows Resort](https://www.aspenmeadows.com/), please call them toll-free at [1 (888) 221-4851](tel:1-888-221-4851) or locally at [1 (970) 925-4240](tel:1-970-925-4240).
 
 {% endif %}
