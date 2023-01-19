@@ -21,9 +21,11 @@ The eleventh annual C++Now Conference will be held at the Aspen Center for Physi
 *Photograph by Zoetica Ebb. Used with permission.*
 
 We expect C++Now to sell out again.  Register immediately so you won't miss out!
+<br>
+<br>
 
-#### **Register now from [our registration page](/registration/)**.
-
+### **Register now from [our registration page](/registration/)**.
+<br>
 ### Lodging
 
 Please make your [lodging arrangements](/location/lodging/) as soon as possible.
@@ -36,7 +38,7 @@ Be aware that there is important [transportation information](/location/transpor
 
 ### Submitters
 
-*Note to submitters*: If you have submitted a session proposal for the 2023 conference, *do not register at this time*.  You will be contacted with registration instructions when the program decisions are sent.
+*Note to submitters*: If you have submitted a session proposal for the 2023 conference, *do not register for the conference at this time*.  You will be contacted with registration instructions when the program decisions are sent. You should, however, make your [lodging arrangements](/location/lodging/) as soon as possible.
 
 ### Sponsorships
 
