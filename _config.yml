@@ -104,7 +104,7 @@ lunch_signup_link: "https://docs.google.com/spreadsheets/d/1eS5uu-CY7FVLeUxtoAmQ
 
 ## "will", "is", "was": becomes "was" when the hotel is full or the conference is over
 hotel_registration: "is"
-online_link_for_Meadows_reservation: "https://book.passkey.com/e/50398357"
+online_link_for_Meadows_reservation: "https://book.passkey.com/e/50398357/"
 
 
 ## "will", "is", "was": becomes "was" when  the conference is over
