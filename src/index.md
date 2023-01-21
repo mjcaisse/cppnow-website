@@ -26,7 +26,7 @@ The C++Now community has grown out of the Boost community and is focused on push
 <br>
 ## Registration is Open
 
-We'll be back in full strength this year, with three full tracks of outstanding C++ sessions.  So join us in Aspen this May for the most advanced C++ conference on the planet!
+We'll be back at full strength this year, with three tracks of outstanding C++ sessions.  So join us in Aspen this May for the most advanced C++ conference on the planet!
 
 <!-- <a href="/announcements/2023/01/2023-registration-is-open/">Registration for 2023 is now open!</a> -->
 <div class="textCenter">
