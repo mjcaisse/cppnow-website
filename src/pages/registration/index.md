@@ -11,7 +11,7 @@ redirect_from:
 
 <hr>
 
-Quick Link: [Online conference registration!]({{site.krueger_reg_URL}})
+**Quick Link: [Online conference registration!]({{site.krueger_reg_URL}})**
 
 <hr>
 
@@ -39,7 +39,7 @@ Please register through <a href="{{site.krueger_reg_URL}}">the registration syst
 
 C++Now {{site.current_year}} is entirely onsite.
 
-Please register through <a href="{{site.krueger_reg_URL}}">the registration system</a>.
+Please register through **<a href="{{site.krueger_reg_URL}}">the C++Now registration system</a>**.
 
 In the event that a registered attendee is not able to attend:
 * Please contact the [C++Now Registrar](mailto:registrar@cppnow.org) as soon as possible.
