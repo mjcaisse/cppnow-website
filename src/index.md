@@ -21,6 +21,13 @@ The C++Now community has grown out of the Boost community and is focused on push
     <div id="countdown" data-start-date="{{site.current_year_start_date_formatted}}" data-end-date="{{site.current_year_end_date_formatted}}"></div>
 </div>
 
+{% if site.volunteer_applications == "is" %}
+<br>
+## Accepting Student Volunteers
+
+We're now accepting student volunteers!  For more information, and to apply, <a href="/announcements/2023/01/2023-call-for-student-volunteers/">see the announcement here</a>.
+
+{% endif %}
 
 {% if site.registration == "is" %}
 <br>

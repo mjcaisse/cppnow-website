@@ -119,11 +119,11 @@ eventbrite_reg_iframe_HTML: "<iframe src=\"https://cppnow2020.eventbrite.com/?re
 krueger_reg_URL: "https://na.eventscloud.com/726524"
 krueger_reg_iframe_HTML: "<iframe src=\"https://www.eiseverywhere.com/ereg/index.php?eventid=661200&\" width=\"100%\" height=\"2900\" frameborder=\"0\" marginwidth=\"5\" marginheight=\"5\" scrolling=\"auto\"></iframe>"
 
-volunteer_applications: "will"
+volunteer_applications: "is"
 volunteer_chair: "Kevin Carpenter"
-deadline_for_volunteers: "February 13th, 2023" # 10 weeks prior to start of conference
-notification_for_volunteers: "February 27th, 2023" # 9 weeks prior to start of conference
-volunteer_form_URL: https://docs.google.com/forms/d/e/1FAIpQLSd0_0A9GcuuIwTYVi6ij1sPQCZguL2FbHpqbux3VfFrp753PQ/viewform
+deadline_for_volunteers: "February 20th, 2023"      # 10 weeks prior to start of conference
+notification_for_volunteers: "February 27th, 2023"  # 9 weeks prior to start of conference
+volunteer_form_URL: https://docs.google.com/forms/d/e/1FAIpQLScZmiPfReh0ZqvX9ydM_-uPPvCH0nrbL-qcImcdzFGIZb9aOQ/viewform
 
 ## "will", "is", "was": becomes "was" when  the conference is over
 lightning_talk_submission: "will"
