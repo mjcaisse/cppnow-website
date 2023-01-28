@@ -39,7 +39,8 @@ You can apply and/or learn more about the program and some of the students who h
   {% when 'will' %}
 We are not yet accepting applications for C++Now {{site.current_year}} Student / Volunteers.
   {% when 'is' %}
-<p style="text-align: center; font-size: 40px;"><a href="/about/volunteer_program/apply/">Apply Now</a></p>
+<p style="text-align: center; font-size: 30px;"><a href="/about/volunteer_program/">Learn More</a></p>
+<p style="text-align: center; font-size: 30px;"><a href="/about/volunteer_program/apply/">Apply Now</a></p>
   {% when 'was' %}
 We are no longer accepting applications for C++Now {{site.current_year}} Student / Volunteers. Watch for announcements for next year's conference.
 {% endcase %}
