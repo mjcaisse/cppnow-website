@@ -14,7 +14,7 @@ We are incredibly excited to announce the eleventh year of the C++Now Student/Vo
 
 <!--break-->
 
-The Student/Volunteer program is an excellent way for students and young coders with an interest in C++ to learn about language and make lasting connections with the community.
+The Student/Volunteer program is an excellent way for students and young coders with an interest in C++ to learn about the language and make lasting connections with the community.
 
 <blockquote class="quoteBox">
     <span class="quoteBoxImage" style="background-image: url(/assets/img/volunteers/grant_mercer.jpg);"></span>
@@ -39,9 +39,15 @@ You can apply and/or learn more about the program and some of the students who h
   {% when 'will' %}
 We are not yet accepting applications for C++Now {{site.current_year}} Student / Volunteers.
   {% when 'is' %}
+
 <p style="text-align: center; font-size: 30px;"><a href="/about/volunteer_program/">Learn More</a></p>
-<p style="text-align: center; font-size: 30px;"><a href="/about/volunteer_program/apply/">Apply Now</a></p>
-  {% when 'was' %}
+
+<div class="textCenter">
+<a href="{{site.volunteer_form_URL}}" class="buttonPrimaryLarge">Apply Now!</a>
+</div>
+<br>
+
+{% when 'was' %}
 We are no longer accepting applications for C++Now {{site.current_year}} Student / Volunteers. Watch for announcements for next year's conference.
 {% endcase %}
 

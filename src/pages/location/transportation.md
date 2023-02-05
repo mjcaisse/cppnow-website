@@ -28,27 +28,27 @@ Note: C++Now {{site.current_year}} will be <span style="color: red;">entirely on
 
 [Aspen](https://en.wikipedia.org/wiki/Aspen,_Colorado) is a compact town, and the [conference venue](http://www.aspenphys.org/) and [hotel](https://www.aspenmeadows.com/) are within walking distance of downtown shops and restaurants. However, for other transportation needs, there are several options.
 
-## The Aspen Airport is Closed During C++Now 2022
+### The Aspen Airport is Closed During C++Now 2023!
 
-The Aspen/Pitkin County Airport [has announced](https://pitkincounty.com/civicalerts.aspx?AID=465) that it will be closed during the first two weeks of May, 2022, starting on May 2nd.
+The Aspen/Pitkin County Airport [has announced](https://pitkincounty.com/civicalerts.aspx?AID=524) that it will be closed from May 10th through May 24th.
 
-<span style="color:red;">You may need to make alternative transportation plans!<span>
+<span style="color:red;">**You may need to make alternative transportation plans!**<span>
 
 #### Recommended solution: The "Boost Bus"
-The airport doesn't shut down until Monday, which means that it is possible to fly into Aspen as normal. However, in order to see all available flights, it may be necessary to look for one-way, multi-city, or "hacker" fares.
 
-**The conference is arranging a bus from Aspen to the Vail and Denver airports**. The *Boost Bus* will leave Aspen at 08:00 on Saturday with a stop at the Vail/Eagle (EGE) airport and final destination at the Denver International Airport (DEN). The fare for this trip will be $75, which you can pay as part of your registration.
+The airport doesn't shut down until Wednesday, which means that it may be possible to fly into Aspen as normal.  However, in order to see all available flights, it may be necessary to look for one-way, multi-city, or "hacker" fares.
 
-The conference is providing this bus as a service to attendees, but cannot guarantee that the bus is large enough for all attendees that are not travelling by car. [Register](/registration/) as soon as possible to secure your seat on the bus.
+**The conference is arranging a bus from Aspen to the Vail and Denver airports**. The *Boost Bus* will leave Aspen at 08:00 on Saturday with a stop at the Vail/Eagle (EGE) airport and final destination at the Denver International Airport (DEN). The fare for this trip will be $100, which you can pay as part of your registration.  If you've already registered, and want to take the Boost Bus, you can contact the conference [registrar](mailto:registrar@cppnow.org) to purchase a ticket.
+
+The conference is providing this bus as a service to attendees, but cannot guarantee that the bus is large enough for all attendees that are not travelling by car. [Register](/announcements/2023/01/2023-registration-is-open/) as soon as possible to secure your seat on the bus.
 
 Our recommendation for those flying in is:
-* [Register](/registration/) as soon as possible to secure your seat on the *Boost Bus*.
+* [Register](/announcements/2023/01/2023-registration-is-open/) as soon as possible to secure your seat on the *Boost Bus*.
 * Make your [hotel](/location/lodging/) and travel arrangements as soon as possible to secure your Friday night stay and your flights into Aspen and out of either Vail/Eagle (EGE) or Denver International Airport (DEN).
 * Fly into Aspen on Saturday or Sunday as normal.
 * Plan to stay the night on Friday night.
 * Take the *Boost Bus* to Vail/Eagle (EGE) or Denver International Airport (DEN) at 08:00 Saturday.
-* Schedule an afternoon flight out of Vail/Eagle (EGE)  or a mid to late afternoon flight out of Denver International Airport (DEN).
-
+* Schedule an afternoon flight out of Vail/Eagle (EGE) or a mid to late afternoon flight out of Denver International Airport (DEN).
 
 #### Options for getting into and out of Aspen without going through ASE
 

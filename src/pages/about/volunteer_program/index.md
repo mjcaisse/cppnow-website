@@ -11,7 +11,7 @@ redirect_from:
 
 <hr>
 
-Quick Link: [Student / Volunteer Application!]({{site.volunteer_form_URL}})
+<span style="font-size:25px">Quick Link: [Student / Volunteer Application!]({{site.volunteer_form_URL}})</span>
 
 <hr>
 
@@ -28,7 +28,12 @@ Read [the Volunteer FAQ](/about/faq/#volunteer-faq).
   {% when 'will' %}
 We are not yet accepting applications for C++Now {{site.current_year}} Student / Volunteers.
   {% when 'is' %}
-<p style="text-align: center; font-size: 40px;"><a href="/about/volunteer_program/apply/">Apply Now</a></p>
+
+<div class="textCenter">
+<a href="{{site.volunteer_form_URL}}" class="buttonPrimaryLarge">Apply Now!</a>
+</div>
+<br>
+
   {% when 'was' %}
 We are no longer accepting applications for C++Now {{site.current_year}} Student / Volunteers. Watch for announcements for next year's conference.
 {% endcase %}
@@ -36,29 +41,6 @@ We are no longer accepting applications for C++Now {{site.current_year}} Student
 <a name="volunteer_stories"></a>
 ### Volunteer Stories
 
-<blockquote class="quoteBox">
-    <span class="quoteBoxImage" style="background-image: url(/assets/img/volunteers/jeanheyd_meneide.jpeg);"></span>
-    <p class="quoteBoxText">
-        Every night staying up until 12 or 1 AM in the morning talking about C++, techniques, experiences and ideas was entirely well worth it. It is rare I get to geek out in person… and I got to do a whole week of it in beautiful Aspen!
-    </p>
-    <a href="https://thephd.github.io/2018/05/15/C++Now-Trip-Report.html" class="quoteBoxRightLink">Read JeanHeyd's Story</a>
-</blockquote>
-
-<blockquote class="quoteBox">
-    <span class="quoteBoxImage" style="background-image: url(/assets/img/volunteers/anthony_calandra.jpeg);"></span>
-    <p class="quoteBoxText">
-        I went through the job interview cycle for my upcoming internship, and during the process I was asked numerous times about C++Now and my experience. An employer even emailed me mentioning how much of a differentiator it was to list on my resume!
-    </p>
-    <a href="https://www.linkedin.com/pulse/cnow-2017-what-means-student-volunteer-anthony-calandra/" class="quoteBoxRightLink">Read Anthony's Story</a>
-</blockquote>
-
-<blockquote class="quoteBox">
-    <span class="quoteBoxImage" style="background-image: url(/assets/img/volunteers/grant_mercer.jpg);"></span>
-    <p class="quoteBoxText">
-        Attending has truly been one of the most inspirational moments of my life. I had the opportunity to learn, socialize and have a great time in general. I hope to attend this conference yearly now and make a lasting impact in the computer science community.
-    </p>
-    <a href="/about/volunteer_program/grant_mercers_volunteer_story/" class="quoteBoxRightLink">Read Grant's Story</a>
-</blockquote>
 
 <blockquote class="quoteBox">
     <span class="quoteBoxImage" style="background-image: url(/assets/img/volunteers/michael_lesane.jpg);"></span>
@@ -90,6 +72,30 @@ We are no longer accepting applications for C++Now {{site.current_year}} Student
         I learned a lot about C++ that I thought I already knew, met a lot of cool and knowledgeable people, and more than anything, returned with a new confidence and appreciation for the language.
     </p>
     <a href="/about/volunteer_program/aakash_goel_volunteer_story/" class="quoteBoxRightLink">Read Aakash's Story</a>
+</blockquote>
+
+<blockquote class="quoteBox">
+    <span class="quoteBoxImage" style="background-image: url(/assets/img/volunteers/jeanheyd_meneide.jpeg);"></span>
+    <p class="quoteBoxText">
+        Every night staying up until 12 or 1 AM in the morning talking about C++, techniques, experiences and ideas was entirely well worth it. It is rare I get to geek out in person… and I got to do a whole week of it in beautiful Aspen!
+    </p>
+    <a href="https://thephd.github.io/2018/05/15/C++Now-Trip-Report.html" class="quoteBoxRightLink">Read JeanHeyd's Story</a>
+</blockquote>
+
+<blockquote class="quoteBox">
+    <span class="quoteBoxImage" style="background-image: url(/assets/img/volunteers/anthony_calandra.jpeg);"></span>
+    <p class="quoteBoxText">
+        I went through the job interview cycle for my upcoming internship, and during the process I was asked numerous times about C++Now and my experience. An employer even emailed me mentioning how much of a differentiator it was to list on my resume!
+    </p>
+    <a href="https://www.linkedin.com/pulse/cnow-2017-what-means-student-volunteer-anthony-calandra/" class="quoteBoxRightLink">Read Anthony's Story</a>
+</blockquote>
+
+<blockquote class="quoteBox">
+    <span class="quoteBoxImage" style="background-image: url(/assets/img/volunteers/grant_mercer.jpg);"></span>
+    <p class="quoteBoxText">
+        Attending has truly been one of the most inspirational moments of my life. I had the opportunity to learn, socialize and have a great time in general. I hope to attend this conference yearly now and make a lasting impact in the computer science community.
+    </p>
+    <a href="/about/volunteer_program/grant_mercers_volunteer_story/" class="quoteBoxRightLink">Read Grant's Story</a>
 </blockquote>
 
 For more information about the Student / Volunteer Program, contact {{site.volunteer_chair}}, the S/V Chair, at [student-volunteers@cppnow.org](mailto:student-volunteers@cppnow.org).

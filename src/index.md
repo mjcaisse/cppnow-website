@@ -21,8 +21,12 @@ The C++Now community has grown out of the Boost community and is focused on push
     <div id="countdown" data-start-date="{{site.current_year_start_date_formatted}}" data-end-date="{{site.current_year_end_date_formatted}}"></div>
 </div>
 
+## <span style="color:red;">Travel Update</span>
+
+If you are interested in attending C++Now 2023, please read this important [Travel Update](/announcements/2023/02/Travel-Update/) on the <span style="font-weight:bold;font-style:italic;">closing of the Aspen Airport</span>.
+
+
 {% if site.volunteer_applications == "is" %}
-<br>
 ## Accepting Student Volunteers
 
 We're now accepting student volunteers!  For more information, and to apply, <a href="/announcements/2023/01/2023-call-for-student-volunteers/">see the announcement here</a>.
@@ -30,22 +34,19 @@ We're now accepting student volunteers!  For more information, and to apply, <a 
 {% endif %}
 
 {% if site.registration == "is" %}
-<br>
 ## Registration is Open
 
-We'll be back at full strength this year, with three tracks of outstanding C++ sessions.  So join us in Aspen this May for the most advanced C++ conference on the planet!
+We'll be back at full strength this year, with three tracks of outstanding C++ sessions.  Join us in Aspen this May for the most advanced C++ conference on the planet!
 
 <!-- <a href="/announcements/2023/01/2023-registration-is-open/">Registration for 2023 is now open!</a> -->
 <div class="textCenter">
-<a href="/announcements/2023/01/2023-registration-is-open/" class="buttonPrimaryLarge">Register Now!</a>
+<a href="/announcements/2023/01/2023-registration-is-open/" class="buttonPrimaryLarge">I Want to Register!</a>
 </div>
 <br>
 
 {% endif %}
 
-
 {% if site.submission == "is" %}
-
 ## Call for Submissions
 
 The 2023 <a href="{{site.last_cfs}}">Call for Submissions</a> is now open!

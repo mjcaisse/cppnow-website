@@ -20,12 +20,29 @@ The eleventh annual C++Now Conference will be held at the Aspen Center for Physi
 <br>
 *Photograph by Zoetica Ebb. Used with permission.*
 
-We expect C++Now to sell out again.  Register immediately so you won't miss out!
+{% case site.registration %}
+  {% when 'will' %}
+Registration for C++Now {{site.current_year}} is not yet open. Please visit again or keep an eye on the [announcements page](/announcements/) for updated information.
+  {% when 'is' %}
+
 <br>
+<div class="textCenter">
+<a href="{{site.krueger_reg_URL}}" class="buttonPrimaryLarge">Register Now!</a>
+</div>
 <br>
 
-### **Register now from [our registration page](/registration/)**.
-<br>
+C++Now {{site.current_year}} is entirely onsite.  In the event that a registered attendee is not able to attend:
+* Please contact the [C++Now Registrar](mailto:registrar@cppnow.org) as soon as possible.
+* We can make an attendee substitution at any time, up to the start of the conference,
+* We can credit a registration for next year (avoiding any increase in registration rates).
+* {% if site.refunds_are_free %}For {{site.current_year}}, the organizers are waiving the refund fee. We can refund the registration entirely.{% else %}Refund requests are granted, with {{site.refund_fee}} fee deduction, until {{site.refund_deadline}}.{% endif %}
+ 
+  {% when 'was' %}
+C++Now is over for {{site.current_year}}. Please visit again or keep an eye on the [announcements page](/announcements/) information about next year.
+{% endcase %}
+
+We expect C++Now to sell out again this.  **<a href="{{site.krueger_reg_URL}}">Register now</a>** so you won't miss out!
+
 ### Lodging
 
 Please make your [lodging arrangements](/location/lodging/) as soon as possible.
@@ -42,4 +59,4 @@ Be aware that there is important [transportation information](/location/transpor
 
 ### Sponsorships
 
-Sponsorship opportunities for 2023 are available. For a copy of the conference Sponsorship Prospectus, contact [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org).
+Several sponsorship opportunities for 2023 are still available. For a copy of the conference Sponsorship Prospectus, contact [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org).

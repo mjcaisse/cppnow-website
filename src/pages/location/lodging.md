@@ -61,7 +61,7 @@ Our overflow block size will be limited, so do not delay:
 
 <hr>
 
-Quick Link: [Online hotel registration!]({{site.online_link_for_Meadows_reservation}})
+<span style="font-size:30px">Quick Link: [Online hotel registration!]({{site.online_link_for_Meadows_reservation}})</span>
 
 <hr>
 
