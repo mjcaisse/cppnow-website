@@ -38,7 +38,9 @@ The Aspen/Pitkin County Airport [has announced](https://pitkincounty.com/civical
 
 The airport doesn't shut down until Wednesday, which means that it may be possible to fly into Aspen as normal.  However, in order to see all available flights, it may be necessary to look for one-way, multi-city, or "hacker" fares.
 
-**The conference is arranging a bus from Aspen to the Vail and Denver airports**. The *Boost Bus* will leave Aspen at 08:00 on Saturday with a stop at the Vail/Eagle (EGE) airport and final destination at the Denver International Airport (DEN). The fare for this trip will be $100, which you can pay as part of your registration.  If you've already registered, and want to take the Boost Bus, you can contact the conference [registrar](mailto:registrar@cppnow.org) to purchase a ticket.
+**The conference is arranging a bus from Aspen to the Vail and Denver airports**. The *Boost Bus* will leave Aspen at 08:00 on Saturday with a stop at the Vail/Eagle (EGE) airport and final destination at the Denver International Airport (DEN). 
+
+The fare for this trip will be $100, which you will soon be able to pay as part of your registration.  If you've already registered, and want to take the Boost Bus, you can contact the conference [registrar](mailto:registrar@cppnow.org) to purchase a ticket.  
 
 The conference is providing this bus as a service to attendees, but cannot guarantee that the bus is large enough for all attendees that are not travelling by car. [Register](/announcements/2023/01/2023-registration-is-open/) as soon as possible to secure your seat on the bus.
 
