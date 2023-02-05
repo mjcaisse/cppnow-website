@@ -24,7 +24,7 @@ We've updated our [Transportation page](/location/transportation/) with informat
 
 It may be possible to schedule pre-conference flights as normal, but you will probably need to search for one-way, multi-city, or "hacker" fares, to see those flights.
 
-The conference is arranging a *Boost Bus* leaving from Aspen Saturday 2023-05-13 08:00, stopping at the Vail/Eagle (EGE) airport, with a final destination of the Denver airport (DEN). You can purchase a pass during [conference registration](/announcements/2023/01/2023-registration-is-open/).
+The conference is arranging a *Boost Bus* leaving from Aspen Saturday 2023-05-13 08:00, stopping at the Vail/Eagle (EGE) airport, with a final destination of the Denver airport (DEN). You will soon be able to purchase a pass during [conference registration](/announcements/2023/01/2023-registration-is-open/).
 
 We are asking the community to support each other with ridesharing and information about travel options.
 
