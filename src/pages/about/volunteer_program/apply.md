@@ -13,7 +13,7 @@ redirect_from:
 
 <hr>
 
-Quick Link: [Student / Volunteer Application!]({{site.volunteer_form_URL}})
+<span style="font-size:30px">Quick Link: [Student / Volunteer Application!]({{site.volunteer_form_URL}})</span>
 
 <hr>
 
