@@ -24,10 +24,12 @@ We've updated our [Transportation page](/location/transportation/) with informat
 
 It may be possible to schedule pre-conference flights as normal, but you will probably need to search for one-way, multi-city, or "hacker" fares, to see those flights.
 
-The conference is arranging a *Boost Bus* leaving from Aspen Saturday 2023-05-13 08:00, stopping at the Vail/Eagle (EGE) airport, with a final destination of the Denver airport (DEN). You will soon be able to purchase a pass during [conference registration](/announcements/2023/01/2023-registration-is-open/).
+The conference is arranging a *Boost Bus* leaving from Aspen Saturday 2023-05-13 08:00, stopping at the Vail/Eagle (EGE) airport, with a final destination of the Denver airport (DEN). You will can purchase a ticket for the Boost Buss during [conference registration](/announcements/2023/01/2023-registration-is-open/).
+
+You can <a href="https://na.eventscloud.com/738901"  target="_blank">purchase individual Boost Bus tickets here</a> if you are buying a seat for a travelling companion, have already registered prior to this travel update, or your travel plans change.
 
 We are asking the community to support each other with ridesharing and information about travel options.
 
 If you'd like to be part of this discussion and/or offer or join a rideshare, please [join the C++Now Discord](https://discord.gg/UZWwKFa6rr). We have a public #rideshare-and-travel channel as well as a #public-discussion channel.
 
-Revised 2023-02-05.
+Revised 2023-02-11.

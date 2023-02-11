@@ -40,7 +40,9 @@ The airport doesn't shut down until Wednesday, which means that it may be possib
 
 **The conference is arranging a bus from Aspen to the Vail and Denver airports**. The *Boost Bus* will leave Aspen at 08:00 on Saturday with a stop at the Vail/Eagle (EGE) airport and final destination at the Denver International Airport (DEN). 
 
-The fare for this trip will be $100, which you will soon be able to pay as part of your registration.  If you've already registered, and want to take the Boost Bus, you can contact the conference [registrar](mailto:registrar@cppnow.org) to purchase a ticket.  
+The fare for this trip will be $100, which you can purchase as part of your registration.
+
+You can <a href="https://na.eventscloud.com/738901"  target="_blank">purchase individual Boost Bus tickets here</a> if you are buying a seat for a travelling companion, have already registered prior to the travel update, or your travel plans change.
 
 The conference is providing this bus as a service to attendees, but cannot guarantee that the bus is large enough for all attendees that are not travelling by car. [Register](/announcements/2023/01/2023-registration-is-open/) as soon as possible to secure your seat on the bus.
 
