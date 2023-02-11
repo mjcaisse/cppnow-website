@@ -119,6 +119,8 @@ eventbrite_reg_iframe_HTML: "<iframe src=\"https://cppnow2020.eventbrite.com/?re
 krueger_reg_URL: "https://na.eventscloud.com/726524"
 krueger_reg_iframe_HTML: "<iframe src=\"https://www.eiseverywhere.com/ereg/index.php?eventid=661200&\" width=\"100%\" height=\"2900\" frameborder=\"0\" marginwidth=\"5\" marginheight=\"5\" scrolling=\"auto\"></iframe>"
 
+boost_bus_reg_URL: "https://na.eventscloud.com/738901"
+
 volunteer_applications: "is"
 volunteer_chair: "Kevin Carpenter"
 deadline_for_volunteers: "February 20th, 2023"      # 10 weeks prior to start of conference
