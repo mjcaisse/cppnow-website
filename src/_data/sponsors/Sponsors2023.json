@@ -1,7 +1,7 @@
 {
     "corporate": [
         {
-            "title": "Video Sponsors",
+            "title": "2022 Video Sponsors",
             "level": "video",
             "sponsors":
             [
@@ -25,7 +25,7 @@
             ]
         },
         {
-            "title": "Gold Sponsors",
+            "title": "2022 Gold Sponsors",
             "level": "gold",
             "sponsors":
             [
@@ -61,7 +61,7 @@
             ]
         },
         {
-            "title": "Silver Sponsors",
+            "title": "2022 Silver Sponsors",
             "level": "silver",
             "sponsors":
             [
@@ -79,7 +79,7 @@
             ]
         },
         {
-            "title": "Bronze Sponsors",
+            "title": "2022 Bronze Sponsors",
             "level": "bronze",
             "sponsors":
             [
@@ -104,7 +104,7 @@
     ],
     "individual": [
         {
-            "title": "Boost Scholarship Sponsors: Gold Level",
+            "title": "2022 Boost Scholarship Sponsors: Gold Level",
             "sponsors":
             [
                 {
@@ -121,7 +121,7 @@
             ]
         },
         {
-            "title": "Boost Scholarship Sponsors: Bronze Level",
+            "title": "2022 Boost Scholarship Sponsors: Bronze Level",
             "sponsors":
             [
                 {
