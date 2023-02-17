@@ -94,7 +94,7 @@ over: false
 ## Note that we "flip" the conference (set the current_year, etc,) when we make the
 ##  first post about the new conference.
 
-submission: "is"
+submission: "was"
 
 last_cfs: "/announcements/2022/12/2023-CfS/"
 
