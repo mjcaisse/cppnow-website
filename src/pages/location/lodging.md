@@ -88,10 +88,10 @@ The hotel's online registration system is not yet set up for C++Now {{site.curre
 Although C++Now has reserved a large block of rooms at the [Aspen Meadows Resort](https://www.aspenmeadows.com/), registrations are expected to exceed capacity. Please make reservations as soon as possible to avoid the need to find other accommodations.
 
 #### Rates
-* For Sunday May 7th - Friday May 12th, inclusive:
+* For Monday May 8th - Friday May 12th, inclusive:
   * **$222 per night** - One Bedroom Suite
   * **$202 per night** - Junior Suite (single or double occupancy)
-* For Saturday May 6th and Saturday May 13th:
+* For Sunday May 7th and Saturday May 13th:
   * **$250 per night** - For both room types (Junior Suite and One Bedroom Suite)
 
 A resort fee ($40 per night) and tax (11.3%) will be added to each night's reservation.
@@ -114,9 +114,9 @@ You can use the hotel's **[online registration system]({{site.online_link_for_Me
 * Payment is required at the time of reservation.
 * The deposit is refundable if notice is received at least 14 days prior to arrival and a cancellation number is obtained.
 * C++Now conference rates of:
-  * $222 plus $40 resort fee per night, for a One Bedroom suite, May 7th - May 12th
-  * $202 plus $40 resort fee per night, for a Junior Suite, May 7th - May 12th
-  * $250 plus $40 resort fee per night, for either suite style, May 6th and May 13th
+  * $222 plus $40 resort fee per night, for a One Bedroom suite, May 8th - May 12th
+  * $202 plus $40 resort fee per night, for a Junior Suite, May 8th - May 12th
+  * $250 plus $40 resort fee per night, for either suite style, May 7th and May 13th
   * These special rates are available until April 3rd, subject to room availability.  _After April 3rd, the room rates will increase_ (although we don't yet know exactly what the rates will be at that time).
 * Rates do not include breakfast or other meals.
 * Check-in time is 4 PM (Mountain Time) on arrival day.
