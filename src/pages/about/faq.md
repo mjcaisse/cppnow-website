@@ -55,21 +55,23 @@ Think back to the conferences you've been to. If your experience is like ours, t
 * Tweet (#CppNow), blog, or otherwise let everyone know you are coming.{% if site.current_year_online == false %}
 * Make your travel arrangements. Sooner is better because that is when you'll have the best selections.
 * Make your [hotel arrangements](/location/lodging/). Sooner is better because the hotel will sell out.{% endif %}
-* Join the [CppLang Team on Slack](https://cpplang.now.sh/) and then
-    * Join the [#cppnow-announcements channel](https://cpplang.slack.com/messages/cppnow-announcements) for                official conference announcements,
-    * Join the [#cppnow channel](https://cpplang.slack.com/messages/cppnow) for conference attendee chatting, and
-    * Join the [#cppnow-liaw channel](https://cpplang.slack.com/messages/cppnow-liaw) for working on Library in a Week.
+* Join the [CppNow Discord](https://discord.gg/UZWwKFa6rr) and then:
+    * Say hello in the [#new-arrivals channel](https://discord.com/channels/826762553153421323/941743102589304862),
+    * Chat with other attendees in the [#public-discussion channel](https://discord.com/channels/826762553153421323/942103868790157352), 
+    * Watch the [#public-announcements channel](https://discord.com/channels/826762553153421323/826762553441910854) for official conference announcements,
+    * Follow the [#2023-conf-questions channel](https://discord.com/channels/826762553153421323/1072490145204408320) for general conference Q&A, and
+    * Join the [#library-in-a-week channel](https://discord.com/channels/826762553153421323/1072490190607745134) for working on Library in a Week.
 {% if site.doing_lunch_signups %}* Sign up for [on-site lunches]({{site.lunch_signup_link}}).{% endif %}
 * Think about what you want to do your [Lightning Talk](/schedule/lightning.talks/) about.
 
-
+<!---
 #### Why should I use Sched.com?
 
 After you register, you'll get an invite from Sched.com. Accept this and use it to do two things.
 
 * Fill out your bio and upload a photo. The most valuable part of C++Now is the opportunity to meet the other attendees. When everyone updates their bios and uploads their photos, it makes it easier for all of us to get to know each other.
 * Fill out your personal schedule. This is not only convenient for you, it is very important for the conference. We use the personal schedule information to decide which session goes in which room.
-
+--->
 
 
 {% if site.current_year_online == false %}
@@ -95,7 +97,7 @@ Don't forget to bring your business cards and laptops. There is wifi available a
 
 Stay hydrated.
 
-Check in on the [#cppnow channel](https://cpplang.slack.com/messages/C59UQL3CL) to let other attendees know you've arrived and see what others are doing. If you've arrived early, you may have a chance to join a group going to eat or just hanging out at the Meadows.
+Check in on the [CppNow Discord #public-discussion channel](https://discord.com/channels/826762553153421323/942103868790157352) to let other attendees know you've arrived and see what others are doing. If you've arrived early, you may have a chance to join a group going to eat or just hanging out at the Meadows.
 
 
 
@@ -109,6 +111,7 @@ Tours are organized to take first-timers around the conference campus so you'll 
 
 Why does this take two hours? Because the real purpose of registration is to get acquainted or re-acquainted with other attendees. You'll be meeting old friends and friends that you don't know yet. Other attendees are the real reason to attend C++Now, so get started early. (Don't wait until registration starts to show up for registration.)
 
+<!---
 #### <a name="CatchBox"></a>What's a CatchBox and how is it used?
 <img src="/assets/img/FAQ/CatchBox.png/" alt="CatchBox"
 	title="CatchBox" width="200" style="float: left; margin: 20px 20px 20px 20px;"/>
@@ -125,7 +128,7 @@ Since a CatchBox is essentially a pillow with a microphone in it, they are safe 
 5. Don't throw next to, above, or around a laptop. This isn't the time to showcase your (undoubtedly superb) precision throwing skillz.
 6. Throw back to the speaker or a volunteer at the front when you're done speaking.
 7. When throwing to a seated attendee, always toss from in front of them. Don't throw sideways or from behind them as they may not be able to turn and catch.
-
+--->
 
 #### Where do people socialize?
 
