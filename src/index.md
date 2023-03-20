@@ -21,6 +21,13 @@ The C++Now community has grown out of the Boost community and is focused on push
     <div id="countdown" data-start-date="{{site.current_year_start_date_formatted}}" data-end-date="{{site.current_year_end_date_formatted}}"></div>
 </div>
 
+{% if site.schedule_online %}
+<br>
+## <span>[The program for C++Now {{site.current_year}} is up!](/announcements/2023/03/2023-program-announced/)</span>
+<br>
+{% else %}
+{% endif %}
+
 ## <span style="color:red;">Travel Update</span>
 
 If you are interested in attending C++Now 2023, please read this important [Travel Update](/announcements/2023/02/Travel-Update/) on the <span style="font-weight:bold;font-style:italic;">closing of the Aspen Airport</span>.
