@@ -10,7 +10,7 @@ section: schedule
 <div><a id="sched-embed" href="{{site.sched_com_URL}}">View the C++Now {{site.current_year}} schedule (large view)</a></div>
 
 <div style="width:100%; height:100%">
-    <iframe src="https://cppnow.digital-medium.co.uk/" style="width:900px; height:1200px" >
+    <iframe src="https://schedule.cppnow.org/23/" style="width:900px; height:1200px" >
     </iframe>
 </div>
 

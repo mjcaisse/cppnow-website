@@ -131,8 +131,8 @@ volunteer_form_URL: https://docs.google.com/forms/d/e/1FAIpQLScZmiPfReh0ZqvX9ydM
 lightning_talk_submission: "will"
 lightning_talk_submission_URL: "https://cppnow.ciere.io/"
 
-schedule_online: false
-sched_com_URL: "https://cppnow.digital-medium.co.uk/2023-schedule/"
+schedule_online: true
+sched_com_URL: "https://schedule.cppnow.org/23/"
 ## sched_com_URL: "https://cppnow2022.sched.org/"
 ## sched_com_embed_URL: "https://cppnow2022.sched.org/js/embed.js"
 
