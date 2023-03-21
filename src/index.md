@@ -22,9 +22,15 @@ The C++Now community has grown out of the Boost community and is focused on push
 </div>
 
 {% if site.schedule_online %}
-<br>
-## <span>[The program for C++Now {{site.current_year}} is up!](/announcements/2023/03/2023-program-announced/)</span>
-<br>
+
+## <span>Keynote Speakers!</span>
+
+Check out our exciting [{{site.current_year}} keynote speakers!](/announcements/)
+
+## <span>Program Announced!</span>
+
+The amazing [program for C++Now {{site.current_year}} is now up!](/announcements/2023/03/2023-program-announced/)
+
 {% else %}
 {% endif %}
 
