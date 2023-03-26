@@ -22,6 +22,12 @@ The C++Now community has grown out of the Boost community and is focused on push
 </div>
 
 {% if site.schedule_online %}
+{% if site.lightning_talk_submission == "is" %}
+
+## <span>Submit a Lightning Talk</span>
+
+If you're attending this year, consider [submitting a lightning talk!](/schedule/lightning.talks/)
+{% endif %}
 
 ## <span>Keynote Speakers!</span>
 
