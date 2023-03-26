@@ -128,8 +128,8 @@ notification_for_volunteers: "February 27th, 2023"  # 9 weeks prior to start of 
 volunteer_form_URL: https://docs.google.com/forms/d/e/1FAIpQLScZmiPfReh0ZqvX9ydM_-uPPvCH0nrbL-qcImcdzFGIZb9aOQ/viewform
 
 ## "will", "is", "was": becomes "was" when  the conference is over
-lightning_talk_submission: "will"
-lightning_talk_submission_URL: "https://cppnow.ciere.io/"
+lightning_talk_submission: "is"
+lightning_talk_submission_URL: "https://docs.google.com/forms/d/e/1FAIpQLSdO8tyTOz8pcCPjOsOJScI-9QzxOY2AX4iiAdyH--yA3mf_-g/viewform"
 
 schedule_online: true
 sched_com_URL: "https://schedule.cppnow.org/23/"
