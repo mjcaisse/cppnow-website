@@ -112,13 +112,13 @@ You can use the hotel's **[online registration system]({{site.online_link_for_Me
 
 * All reservations must be guaranteed with a credit card deposit.
 * Payment is required at the time of reservation.
-* The deposit is refundable if notice is received at least 14 days prior to arrival and a cancellation number is obtained.
+* Cancellations for individual reservations made prior to 15 days of arrival will be fully refundable. Cancellations made within 14 days of arrival will be non-refundable. If you have any questions about this policy, please contact the hotel directly (see the hotel contact details below).
 * C++Now conference rates of:
   * $222 plus $40 resort fee per night, for a One Bedroom suite, May 8th - May 12th
   * $202 plus $40 resort fee per night, for a Junior Suite, May 8th - May 12th
   * $250 plus $40 resort fee per night, for either suite style, May 7th and May 13th
-  * These special rates are available until April 3rd, subject to room availability.  _After April 3rd, the room rates will increase_ (although we don't yet know exactly what the rates will be at that time).
-* Rates do not include breakfast or other meals.
+  * These special rates are available until April 3rd, 5:00PM MDT, subject to room availability.  _After April 3rd, the room rates will increase_ (although we don't yet know exactly what the rates will be at that time).
+* Rates _do not_ include breakfast or other meals.
 * Check-in time is 4 PM (Mountain Time) on arrival day.
 * Check-out time is 11 AM on departure day.
 * Airport shuttle service to/from the resort is complimentary. Please notify the hotel of your arriving flight.
