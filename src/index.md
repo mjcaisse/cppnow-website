@@ -22,6 +22,11 @@ The C++Now community has grown out of the Boost community and is focused on push
 </div>
 
 {% if site.schedule_online %}
+
+## <span style="color:red;">Lodging Update</span>
+
+We've sold out of rooms at the Aspen Meadows this year, please see our [lodging page](/location/lodging/) for information regarding alternative hotels.
+
 {% if site.lightning_talk_submission == "is" %}
 
 ## <span>Submit a Lightning Talk</span>
