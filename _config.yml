@@ -103,7 +103,7 @@ doing_lunch_signups: true
 lunch_signup_link: "https://docs.google.com/spreadsheets/d/1eS5uu-CY7FVLeUxtoAmQ8A_TvFTaXYU4Q4kbEIlhS4M/edit?usp=share_link"
 
 ## "will", "is", "was": becomes "was" when the hotel is full or the conference is over
-hotel_registration: "is"
+hotel_registration: "was"
 online_link_for_Meadows_reservation: "https://book.passkey.com/e/50398357/"
 
 

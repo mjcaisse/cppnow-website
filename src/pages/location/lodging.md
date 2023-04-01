@@ -59,24 +59,13 @@ Our overflow block size will be limited, so do not delay:
 
 {% if site.hotel_registration == "is" %}
 
-<hr>
-
-<span style="font-size:30px">Quick Link: [Online hotel registration!]({{site.online_link_for_Meadows_reservation}})</span>
-
-<hr>
-
 {% endif %}
 
 ## Aspen Meadows Resort
 
-The conference hotel is the [Aspen Meadows Resort](https://www.aspenmeadows.com/). This Bauhaus-inspired resort lies on 40 acres overlooking the Roaring Fork River. Surrounded by bike paths, walking trails, and mountain views, the resort is home to the [Aspen Institute](https://www.aspeninstitute.org/), an international nonprofit organization dedicated to fostering dialogue on global concerns. Hotel amenities include a health club that offers a range of workout equipment, a half-court gym, steam rooms, and an outdoor pool and spa tub. Complimentary wireless internet access is provided throughout the resort. 
+The main conference hotel is the [Aspen Meadows Resort](https://www.aspenmeadows.com/). This Bauhaus-inspired resort lies on 40 acres overlooking the Roaring Fork River. Surrounded by bike paths, walking trails, and mountain views, the resort is home to the [Aspen Institute](https://www.aspeninstitute.org/), an international nonprofit organization dedicated to fostering dialogue on global concerns. Hotel amenities include a health club that offers a range of workout equipment, a half-court gym, steam rooms, and an outdoor pool and spa tub. Complimentary wireless internet access is provided throughout the resort. 
 
 The [Aspen Meadows Resort](https://www.aspenmeadows.com/) is approximately a block from the [Aspen Center for Physics](https://www.aspenphys.org/) and ten blocks from downtown Aspen. Many visitors find it a very pleasant walk, but the resort also runs a complimentary shuttle into town daily.
-
-
-
-### Reservations
-
 
 {% case site.hotel_registration %}
   {% when 'will' %}
@@ -84,6 +73,14 @@ The [Aspen Meadows Resort](https://www.aspenmeadows.com/) is approximately a blo
 The hotel's online registration system is not yet set up for C++Now {{site.current_year}}
 
   {% when 'is' %}
+
+<hr>
+
+<span style="font-size:30px">Quick Link: [Online hotel registration!]({{site.online_link_for_Meadows_reservation}})</span>
+
+<hr>
+
+### Reservations
 
 Although C++Now has reserved a large block of rooms at the [Aspen Meadows Resort](https://www.aspenmeadows.com/), registrations are expected to exceed capacity. Please make reservations as soon as possible to avoid the need to find other accommodations.
 
@@ -97,16 +94,6 @@ Although C++Now has reserved a large block of rooms at the [Aspen Meadows Resort
 A resort fee ($40 per night) and tax (11.3%) will be added to each night's reservation.
 
 You can use the hotel's **[online registration system]({{site.online_link_for_Meadows_reservation}})** for this event, or call 1 (888) 221-4851, to book your room. Remember, registration begins Sunday afternoon, and the conference proper begins on Monday morning.
-
-  {% when 'was' %}
-
-<!-- 
----
-<p class="highlight" markdown="1">The Aspen Meadows Resort has sold out for C++Now 2019.</p>
----
--->
-
-{% endcase %}
 
 #### Details
 
@@ -133,5 +120,40 @@ The [Aspen Meadows Resort](https://www.aspenmeadows.com/) may be over capacity t
 ### Other Questions
 
 For any other questions about the [Aspen Meadows Resort](https://www.aspenmeadows.com/), please call them toll-free at [1 (888) 221-4851](tel:1-888-221-4851) or locally at [1 (970) 925-4240](tel:1-970-925-4240).
+
+{% when 'was' %}
+
+---
+<h4 class="highlight" markdown="1">The Aspen Meadows Resort has sold out for C++Now 2023.</h4>
+---
+
+## Alternative Hotels
+
+Here are some other local hotels that appear to be more-or-less reasonably priced and reasonably close the Aspen Center for Physics:
+
+* [Inn At Aspen](https://www.innataspen.com/)
+
+* [Lift One Condominiums](https://liftone.com/)
+
+* [Limelight Hotel - Aspen](https://www.limelighthotels.com/aspen)
+
+* [St. Moritz Lodge](https://www.stmoritzlodge.com/)
+
+* [Tyrolean Lodge](https://www.tyroleanlodge.com/)
+
+* [W Aspen](https://www.marriott.com/en-us/hotels/asewh-w-aspen/overview/)
+
+A little further away in Snowmass (7 mile / 15 minute drive):
+
+* [Capitol Peak Lodge](https://snowmassmountainlodging.com/properties/capitol-peak/?utm_source=extnet&utm_medium=yext)
+
+* [Timberline Condominiums](http://www.thetimberline.com/?sa=X&ved=0CLwPEMiuA2oYChMIgKzv2KaJ_gIVAAAAAB0AAAAAEMYE)
+
+* [Villas in Snowmass](https://www.hyatt.com/en-US/hotel/colorado/villas-at-snowmass-club-a-destination-residence-snowmass/denos?src=corp_lclb_gmb_seo_denos)
+
+As of this writing (April 1, 2023), we do not have group pricing available at any of these hotels.  We'll make an announcement if we're able provide group rates with one or more of them.
+
+{% endcase %}
+
 
 {% endif %}
