@@ -127,13 +127,6 @@ For any other questions about the [Aspen Meadows Resort](https://www.aspenmeadow
 <h4 class="highlight" markdown="1">The Aspen Meadows Resort is sold out for C++Now 2023.</h4>
 ---
 
-Saturday May 6th, Sunday May 7th, and Monday May 8th in our room block are sold out!
-
-There are a very small number of rooms left in our block for Tuesday May 9th through Friday May 12th -- approximately two rooms remaining each of those days (as of April 2, 2023).
-
-All the remaining rooms at the Meadows which are not part of our block are completely sold out.
-
-
 ## Alternative Hotels
 
 Here are some other local hotels that appear to be more-or-less reasonably priced and reasonably close the Aspen Center for Physics:
@@ -158,7 +151,7 @@ A little further away in Snowmass (7 mile / 15 minute drive):
 
 * [Villas in Snowmass](https://www.hyatt.com/en-US/hotel/colorado/villas-at-snowmass-club-a-destination-residence-snowmass/denos?src=corp_lclb_gmb_seo_denos)
 
-As of this writing (April 2, 2023), we do not have group pricing available at any of these alternative hotels.  We'll make an announcement if we're able provide group rates with one or more of them.
+As of this writing (April 3, 2023), we do not have group pricing available at any of these alternative hotels.  We'll make an announcement if we're able provide group rates with one or more of them.
 
 {% endcase %}
 
