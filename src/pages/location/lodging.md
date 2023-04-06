@@ -131,7 +131,7 @@ For any other questions about the [Aspen Meadows Resort](https://www.aspenmeadow
 
 Here are some other local hotels that appear to be more-or-less reasonably priced and reasonably close the Aspen Center for Physics:
 
-* [Inn At Aspen](https://www.innataspen.com/)
+* [Inn At Aspen](https://www.innataspen.com/) is offering a 10% discount when you register [with this link](https://reservations.travelclick.com/115331?groupID=3883144)
 
 * [Lift One Condominiums](https://liftone.com/)
 
@@ -151,7 +151,7 @@ A little further away in Snowmass (7 mile / 15 minute drive):
 
 * [Villas in Snowmass](https://www.hyatt.com/en-US/hotel/colorado/villas-at-snowmass-club-a-destination-residence-snowmass/denos?src=corp_lclb_gmb_seo_denos)
 
-As of this writing (April 3, 2023), we do not have group pricing available at any of these alternative hotels.  We'll make an announcement if we're able provide group rates with one or more of them.
+As of this writing (April 5, 2023), we only have discount pricing with the Inn At Aspen.  We'll continue to make an announcements if we're able provide group rates with more of them.
 
 {% endcase %}
 
