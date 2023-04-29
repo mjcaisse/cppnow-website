@@ -1,32 +1,8 @@
 {
     "corporate": [
         {
-            "title": "2022 Video Sponsors",
+            "title": "2023 Video Sponsors",
             "level": "video",
-            "sponsors":
-            [
-                {
-                    "title": "JetBrains",
-                    "link": "http://www.jetbrains.com/",
-                    "image": "/assets/img/sponsors/jetbrains.png",
-                    "motto": "Because C++, smart tools for C++ by JetBrains",
-                    "blurb": "JetBrains has a passion for making developers more productive through smarter software that simplifies your challenging tasks and automates the routine. Our tools for C++ natively support old and new language standards and Boost and libc++ libraries. They work with templated code and macros, and provide smart refactorings and detailed code analysis. Select between CLion for cross-platform development, ReSharper C++ to extend your Visual Studio, or AppCode for creating iOS/OS X applications.",
-                    "until": "2023-04-09",
-                    "level": "video"
-                },
-                {
-                    "title": "sonarsource",
-                    "link": "https://www.sonarsource.com/cpp",
-                    "image": "/assets/img/sponsors/sonar-logo-horizontal-2022.png",
-                    "blurb": "Sonar’s industry-leading solution enables developers and development teams to write clean code and remediate existing code organically, so they can focus on the work they love and maximize the value they generate for businesses. Its open source and commercial solutions – SonarLint, SonarCloud, and SonarQube – support 29 programming languages. Trusted by more than 300,000 organizations globally, SonarSource is considered integral to delivering better software.",
-                    "until": "2023-04-09",
-                    "level": "video"
-                }
-            ]
-        },
-        {
-            "title": "2022 Gold Sponsors",
-            "level": "gold",
             "sponsors":
             [
                 {
@@ -35,36 +11,62 @@
                     "image": "/assets/img/sponsors/BBGEngineering_black.png",
                     "blurb": "Bloomberg is building the world's most trusted information network for financial professionals. Our 6,500+ engineers are dedicated to advancing and building new systems for the Bloomberg Terminal and other products to solve complex, real-world problems. ​<br><br>
                     
-                    C++ is one of our core programming languages. Our C++ experts build everything from low-level libraries and components to some of the most performant financial applications, analytics, and trading systems in the world. They also contribute to the C++ Standards Committee (WG21). Learn more at <a href=\"http://TechAtBloomberg.com/cplusplus\">TechAtBloomberg.com/cplusplus</a>.",
-                    "until": "2023-04-09",
-                    "level": "gold"
+                    C++ is one of our core programming languages. Our C++ experts build everything from low-level libraries and components to some of the most performant financial applications, analytics, and trading systems in the world. They also contribute to the C++ Standards Committee (WG21). Learn more at <a href=\"http://TechAtBloomberg.com/cplusplus\">TechAtBloomberg.com/cplusplus</a>.<br><br><br>",
+                    "until": "2024-04-01",
+                    "level": "video"
                 },
                 {
-                    "title": "The C++ Alliance",
-                    "link": "http://cpp.al/",
-                    "motto": "C++ Alliance: Empowering C++",
-                    "image": "/assets/img/sponsors/cpp_alliance.png",
-                    "blurb": "Welcome to C++Now 2022. Enjoy the Conference!<br><br>
+                    "title": "think-cell",
+                    "link": "https://www.think-cell.com/cppnow",
+                    "image": "/assets/img/sponsors/think-cell-sales-gmbh-and-co-kg-logo.png",
+                    "blurb": "think-cell is a fast-paced software company in Berlin, Germany, with a focus on developing graphics products that stand out from the crowd. More than 1,000,000 users world-wide rely on our software for their daily business as it makes creating graphical presentations so much easier, faster and more enjoyable. Among our customers are many renowned consulting companies and large international corporations. <br><br>
                     
-                    In addition to this conference, the C++ Alliance is proud to fund and support the world's largest and most active C++ technical discussion area. Get your free invitation to the Slack Workspace at <a href=\"http://slack.cpp.al\">http://slack.cpp.al</a> then visit us at <a href=\"https://cpplang.slack.com\">https://cpplang.slack.com</a>",
-                    "until": "2023-04-09",
-                    "level": "gold"
-                },
-                {
-                    "title": "Hudson River Trading",
-                    "link": "https://www.hudsonrivertrading.com/",
-                    "image": "/assets/img/sponsors/hrt-primary-logo-full-color-1.svg",
-                    "blurb": "At Hudson River Trading (HRT) we are mathematicians, computer scientists, statisticians, physicists, and engineers. We research and develop automated trading algorithms using advanced mathematical techniques. We have built one of the world's most sophisticated computing environments, and our researchers are at the forefront of innovation in the world of algorithmic trading.",
-                    "until": "2023-04-09",
-                    "level": "gold"
+                    We do not have to make compromises with regard to code quality and beauty, because think-cell is highly profitable. We are willing to go the extra mile of developing sophisticated algorithms and refining our user interface, and we are proud of our many happy customers. The fact that the company is owned and managed by seasoned computer scientists certainly contributes to a working environment that makes exceptional developers come and stay.",
+                    "until": "2023-04-01",
+                    "level": "video"
                 }
             ]
         },
         {
-            "title": "2022 Silver Sponsors",
+            "title": "2023 Gold Sponsors",
+            "level": "gold",
+            "sponsors":
+            [
+                {
+                    "title": "Citadel Securities",
+                    "link": "http://citadelsecurities.com/",
+                    "image": "/assets/img/sponsors/citadel-logo-b-2023.jpg",
+                    "blurb": "Apply your creativity. Sharpen your technical skills. Learn fast. Shape the future of a complex platform that operates at immense scale.  Our engineers work in small teams, partnering with researchers and traders to solve complex problems at scale. Our teams move quickly from idea to implementation, and the markets deliver swift feedback.<br><br>
+                    
+                    Engineers drive innovation by designing and building systems that enable us to operate at massive scale—while achieving efficiency, performance and resilience.  Our engineers build integrated systems that power trading globally, ensuring we’re always in the market. With the firm as the team’s primary customer, engineers can move faster and retain control over solutions.",
+                    "until": "2023-04-01",
+                    "level": "gold"
+                },
+            ]
+        },
+        {
+            "title": "2023 Silver Sponsors",
             "level": "silver",
             "sponsors":
             [
+                {
+                    "title": "Bloomberg",
+                    "link": "http://techatbloomberg.com/cplusplus/",
+                    "image": "/assets/img/sponsors/BBGEngineering_black.png",
+                    "blurb": "Bloomberg is building the world's most trusted information network for financial professionals. Our 6,500+ engineers are dedicated to advancing and building new systems for the Bloomberg Terminal and other products to solve complex, real-world problems. ​<br><br>
+                    
+                    C++ is one of our core programming languages. Our C++ experts build everything from low-level libraries and components to some of the most performant financial applications, analytics, and trading systems in the world. They also contribute to the C++ Standards Committee (WG21). Learn more at <a href=\"http://TechAtBloomberg.com/cplusplus\">TechAtBloomberg.com/cplusplus</a>.<br><br><br>",
+                    "until": "2024-04-01",
+                    "level": "silver"
+                },
+                {
+                    "title": "ForAllSecure",
+                    "link": "https://forallsecure.com/",
+                    "image": "/assets/img/sponsors/forallsecure-2023.png",
+                    "blurb": "ForAllSecure's mission is to automatically test the world's software for exploitable bugs. The company has been applying its patented technology from over a decade of CMU research to solving the difficult challenge of making software safer. ForAllSecure has partnered with Fortune 1000 companies in aerospace, automotive and high-tech industries, as well as the US Department of Defense to integrate Mayhem into software development cycles for continuous security. Profitable and revenue-funded, the company is scaling rapidly.<br><br><br>",
+                    "until": "2023-04-01",
+                    "level": "silver"
+                },
                 {
                     "title": "Quantlab",
                     "link": "https://www.quantlab.com/",
@@ -73,13 +75,13 @@
                     "blurb": "Quantlab is a quantitative trading firm where Technology and Scientific Research are central to our business and key to our success. Founded in 1998, Quantlab is a pioneer in quantitative algorithmic trading.  Behind our success is our people. We hire some of the smartest and most passionate engineers and quants in the world.<br><br>
                     
                     The firm is privately held with headquarters in Houston, and offices in New York, Chicago, Denver, Boston, Austin, and Singapore. We are a science lab spinning trade data in the centrifuge of math and technology to parse financial frontiers and optimize results.",
-                    "until": "2023-04-09",
+                    "until": "2024-04-01",
                     "level": "silver"
                 }
             ]
         },
         {
-            "title": "2022 Bronze Sponsors",
+            "title": "2023 Bronze Sponsors",
             "level": "bronze",
             "sponsors":
             [
@@ -88,7 +90,24 @@
                     "link": "http://ciere.com",
                     "image": "/assets/img/sponsors/ciere.png",
                     "blurb": "",
-                    "until": "2023-04-09",
+                    "until": "2024-04-01",
+                    "level": "bronze"
+                }
+            ]
+        },
+        {
+            "title": "2023 Audience Audio Sponsors",
+            "level": "bronze",
+            "sponsors":
+            [
+                {
+                    "title": "INNOPLEX",
+                    "link": "https://www.inno-plex.com/",
+                    "image": "/assets/img/sponsors/innoplex-2023.webp",
+                    "blurb": "At INNOPLEX, what you see is what you get!  We are authentic and genuine people who do our best to take care of each person that joins our family.  We have built the company and shaped our culture over the last 15 years by engaging and listening to our workforce...and implementing their suggestions! <br><br>
+                    
+                    We welcome everyone into our family regardless of gender, ethnicity, disabilities, sexual orientation, culture, and other ways that individuals identify themselves. We value diversity in our people, their opinions, and ideas because they lead to unique ways of solving problems and challenges.<br><br><br>",
+                    "until": "2023-04-01",
                     "level": "bronze"
                 },
                 {
@@ -96,7 +115,7 @@
                     "link": "https://marylandresearch.org/",
                     "image": "/assets/img/sponsors/md_research_logo.jpg",
                     "blurb": "Maryland Research is honored to sponsor C++Now. We are dedicated to solving the most challenging problems in national security.  We leverage the power of C++ to build high-performance capabilities for our customers and are grateful to C++Now for their stewardship of the language and their contributions to  the community.",
-                    "until": "2023-04-09",
+                    "until": "2024-04-01",
                     "level": "bronze"
                 }
             ]
@@ -104,30 +123,40 @@
     ],
     "individual": [
         {
-            "title": "2022 Boost Scholarship Sponsors: Gold Level",
+            "title": "2023 Boost Scholarship Sponsors: Gold Level",
             "sponsors":
             [
                 {
+                    "name": "Lisa Lippincott",
+                    "info": "",
+                    "until": "2024-04-01"
+                },
+                {
                     "name": "Bob Steagall",
-                    "info": "Bob Steagall <bob@cppnow.org>",
-                    "until": "2023-04-09"
+                    "info": "",
+                    "until": "2024-04-01"
+                },
+                {
+                    "name": "Shea Williams",
+                    "info": "",
+                    "until": "2024-04-01"
                 }
             ]
         },
         {
-            "title": "Boost Scholarship Sponsors: Silver Level",
+            "title": "2023 Boost Scholarship Sponsors: Silver Level",
             "sponsors":
             [
             ]
         },
         {
-            "title": "2022 Boost Scholarship Sponsors: Bronze Level",
+            "title": "2023 Boost Scholarship Sponsors: Bronze Level",
             "sponsors":
             [
                 {
-                    "name": "Shea Williams",
-                    "info": "Shea Williams <sheapwilliams@gmail.com>",
-                    "until": "2023-04-09"
+                    "name": "Zie Weaver",
+                    "info": "",
+                    "until": "2024-04-01"
                 }
             ]
         }
