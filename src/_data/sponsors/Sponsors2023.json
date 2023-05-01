@@ -21,7 +21,7 @@
                     "image": "/assets/img/sponsors/think-cell-sales-gmbh-and-co-kg-logo.png",
                     "blurb": "think-cell is a fast-paced software company in Berlin, Germany, with a focus on developing graphics products that stand out from the crowd. More than 1,000,000 users world-wide rely on our software for their daily business as it makes creating graphical presentations so much easier, faster and more enjoyable. Among our customers are many renowned consulting companies and large international corporations. <br><br>
                     
-                    We do not have to make compromises with regard to code quality and beauty, because think-cell is highly profitable. We are willing to go the extra mile of developing sophisticated algorithms and refining our user interface, and we are proud of our many happy customers. The fact that the company is owned and managed by seasoned computer scientists certainly contributes to a working environment that makes exceptional developers come and stay.",
+                    We do not have to make compromises with regard to code quality and beauty, because think-cell is highly profitable. We are willing to go the extra mile of developing sophisticated algorithms and refining our user interface, and we are proud of our many happy customers. The fact that the company is owned and managed by seasoned computer scientists certainly contributes to a working environment that makes exceptional developers come and stay.<br>",
                     "until": "2023-04-01",
                     "level": "video"
                 }
@@ -35,11 +35,11 @@
                 {
                     "title": "Citadel Securities",
                     "link": "http://citadelsecurities.com/",
-                    "image": "/assets/img/sponsors/citadel-logo-b-2023.jpg",
-                    "blurb": "Apply your creativity. Sharpen your technical skills. Learn fast. Shape the future of a complex platform that operates at immense scale.  Our engineers work in small teams, partnering with researchers and traders to solve complex problems at scale. Our teams move quickly from idea to implementation, and the markets deliver swift feedback.<br><br>
+                    "image": "/assets/img/sponsors/citadel-stacked-centered-transparent.png",
+                    "blurb": "Citadel Securities is the next-generation capital markets firm and a leading global market maker. We provide institutional and retail investors with the liquidity they need to trade a broad array of equity and fixed income products in any market condition. The brightest minds in finance, science and technology use powerful, advanced analytics to solve the market’s most critical challenges, turning big ideas into real-world outcomes.<br><br>
                     
-                    Engineers drive innovation by designing and building systems that enable us to operate at massive scale—while achieving efficiency, performance and resilience.  Our engineers build integrated systems that power trading globally, ensuring we’re always in the market. With the firm as the team’s primary customer, engineers can move faster and retain control over solutions.",
-                    "until": "2023-04-01",
+                    Engineering is key to our competitive advantage. It’s about much more than pursuing flawless code. Our engineers are commercial thinkers, identifying and pursuing projects with meaningful business value. Our engineers build integrated systems that power trading globally, ensuring we’re always in the market. With the firm as the team’s primary customer, engineers can move faster and retain control over solutions. Engineers drive innovation by designing and building systems that enable us to operate at massive scale—while achieving efficiency, performance and resilience. For more information, visit <a href=\"http://CitadelSecurities.com\">CitadelSecurities.com</a>.<br>",
+                    "until": "2024-04-01",
                     "level": "gold"
                 },
             ]
@@ -74,7 +74,7 @@
                     "motto": "Quantlab: Where the best get better.",
                     "blurb": "Quantlab is a quantitative trading firm where Technology and Scientific Research are central to our business and key to our success. Founded in 1998, Quantlab is a pioneer in quantitative algorithmic trading.  Behind our success is our people. We hire some of the smartest and most passionate engineers and quants in the world.<br><br>
                     
-                    The firm is privately held with headquarters in Houston, and offices in New York, Chicago, Denver, Boston, Austin, and Singapore. We are a science lab spinning trade data in the centrifuge of math and technology to parse financial frontiers and optimize results.",
+                    The firm is privately held with headquarters in Houston, and offices in New York, Chicago, Denver, Boston, Austin, and Singapore. We are a science lab spinning trade data in the centrifuge of math and technology to parse financial frontiers and optimize results.<br>",
                     "until": "2024-04-01",
                     "level": "silver"
                 }
@@ -104,10 +104,10 @@
                     "title": "INNOPLEX",
                     "link": "https://www.inno-plex.com/",
                     "image": "/assets/img/sponsors/innoplex-2023.webp",
-                    "blurb": "At INNOPLEX, what you see is what you get!  We are authentic and genuine people who do our best to take care of each person that joins our family.  We have built the company and shaped our culture over the last 15 years by engaging and listening to our workforce...and implementing their suggestions! <br><br>
+                    "blurb": "INNOPLEX, LLC is a mission-focused and family-oriented company supporting global customers in the intel and defense community. We proudly deliver innovative solutions in the areas of high-performance software engineering, digital signal processing, IT operations, cloud infrastructure, national to tactical systems engineering, and cyber and signals analysis.<br><br>
                     
-                    We welcome everyone into our family regardless of gender, ethnicity, disabilities, sexual orientation, culture, and other ways that individuals identify themselves. We value diversity in our people, their opinions, and ideas because they lead to unique ways of solving problems and challenges.<br><br><br>",
-                    "until": "2023-04-01",
+                    Established in 2005, we have over 150 employees with the majority having a rich military service history. Our headquarters are in Columbia, MD with employees delivering mission results across the nation. Begin YOUR mission with INNOPLEX at <a href=\"http://www.inno-plex.com\">www.inno-plex.com</a>.<br><br><br>",
+                    "until": "2024-04-01",
                     "level": "bronze"
                 },
                 {
