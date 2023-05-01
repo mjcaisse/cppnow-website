@@ -5,6 +5,11 @@
         "email": "bob@cppnow.org"
     },
     {
+        "title": "Safety and Inclusion Team",
+        "name": "Michael Caisse<br>Christy Carpenter<br>Kevin Carpenter<br>David Sankel<br>Kristen Shaker<br>",
+        "email": "security@cppnow.org"
+    },
+    {
         "title": "Program Committee Chair",
         "name": "Inbal Levi",
         "email": "program@cppnow.org"
