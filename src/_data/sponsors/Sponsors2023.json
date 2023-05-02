@@ -18,11 +18,22 @@
                 {
                     "title": "think-cell",
                     "link": "https://www.think-cell.com/cppnow",
-                    "image": "/assets/img/sponsors/think-cell-sales-gmbh-and-co-kg-logo.png",
-                    "blurb": "think-cell is a fast-paced software company in Berlin, Germany, with a focus on developing graphics products that stand out from the crowd. More than 1,000,000 users world-wide rely on our software for their daily business as it makes creating graphical presentations so much easier, faster and more enjoyable. Among our customers are many renowned consulting companies and large international corporations. <br><br>
+                    "image": "/assets/img/sponsors/think-cell-horizontal-2023.png",
+                    "blurb": "<a href=\"http://think-cell.com\">think-cell</a> is the leading data visualization software for business presentations. Our mission is to offer the most intuitive user interface for generating complex data-driven charts and slides, while at the same time ensuring seamless integration with Microsoft Office. We work on challenging visualization problems, reverse-engineer Microsoft’s code, and reinvent how slides are created. We do this all based on our own pioneering C++ library. think-cell is the only German company funding a C++ ISO committee delegation, so there is a good chance that components we invent will find their way into the standard.<br><br>
                     
-                    We do not have to make compromises with regard to code quality and beauty, because think-cell is highly profitable. We are willing to go the extra mile of developing sophisticated algorithms and refining our user interface, and we are proud of our many happy customers. The fact that the company is owned and managed by seasoned computer scientists certainly contributes to a working environment that makes exceptional developers come and stay.<br>",
-                    "until": "2023-04-01",
+                    Do you believe in beauty when it comes to programming? Do you have a vivid interest in elegant algorithms? Are you fluent in C++? If so, we would like to meet you. Here is what we offer in a nutshell:<br>
+                    <ul>
+                    <li>A wide array of <b>extremely challenging C++ development tasks</b></li>
+                    <li><b>An international team of brilliant minds</b></li>
+                    <li>A working environment that makes this team stay and grow</li>
+                    <li>Enough time to make sure that every detail of your solution is perfect</li>
+                    <li>A flat organization and plenty of room for your ideas</li>
+                    <li><b>No scheduled meetings</b></li>
+                    <li>Family-friendly working hours, <b>no deadlines</b>, <b>no overtime</b></li>
+                    <li><b>Support for relocation</b></li>
+                    <li>A competitive salary from the start and a raise to <b>EUR 130,000 annually</b> after only one year</li></ul>
+                    <b><a href=\"https://www.think-cell.com/cppnow\">Join us</a> as a C++ developer in Berlin or remote!</b><br>",
+                    "until": "2024-04-01",
                     "level": "video"
                 }
             ]
