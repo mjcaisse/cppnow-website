@@ -16,11 +16,12 @@ everyone is physically safe, involve law enforcement or security only at a victi
 request.
 
 **2. Inform the Safety and Inclusion team of the incident.**  Contact the 
-[Safety and Inclusion Team](https://cppnow.org/about/staff/) in person, or by 
-emailing [security@cppnow.org](mailto:security@cppnow.org), and inform them that 
-an incident has occurred.  All conference staff are familiar with the code of 
-conduct and incident reporting procedure, and can assist you in contacting these 
-individuals.
+[Safety and Inclusion Team](https://cppnow.org/about/staff/) in person, by 
+emailing [security@cppnow.org](mailto:security@cppnow.org), or by using 
+[this online form](https://docs.google.com/forms/d/e/1FAIpQLSfX0VTBYrfWJDX4xf0MYI12fBdtz59eXoGTcMuo3rBx6G9njA/viewform),
+and inform them that an incident has occurred.  All conference staff are familiar 
+with the code of conduct and incident reporting procedure, and can assist you in 
+contacting these individuals.
 
 **3. Report the details to the Safety and Inclusion team.**  Provide the Safety 
 and Inclusion Team with a report describing the incident, preferably by email.  
