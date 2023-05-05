@@ -140,7 +140,11 @@
                     "title": "ASML",
                     "link": "https://asml.com/en/",
                     "image": "/assets/img/sponsors/asml-blue-2023.png",
-                    "blurb": "",
+                    "blurb": "<b>ASML</b> is an innovation leader in the semiconductor industry. We provide chipmakers with everything they need – hardware, software, and services – to mass produce patterns on silicon through lithography.<br><br>
+                    
+                    We make lithography systems that pattern microchips with a nanometer-scale resolution. You’ll find the microchips we pattern in everything from the space station to your smart phone. Our lithography machines are a hybrid of high-tech hardware and advanced software. Our development teams work across a range of coding practices, providing innovative solutions to the intricate problems that affect the chip-making systems at the heart of the electronics industry.<br><br>
+                    
+                    Curious to learn more about what is the role of Software in our product portfolio? Read more <a href=\"https://www.asml.com/en/careers/job-categories/computer-science-jobs-software-engineering/\">here</a>.",
                     "until": "2024-04-01",
                     "level": "student"
                 }
