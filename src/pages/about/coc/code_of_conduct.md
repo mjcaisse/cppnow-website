@@ -68,8 +68,9 @@ Contact Information
 
 If you are being harassed, notice that someone else is being harassed, or have
   any other concerns, please reach to any member of the 
-  [Safety and Inclusion team](https://cppnow.org/about/staff/) or email 
-  [security@cppnow.org](mailto:security@cppnow.org).
+  [Safety and Inclusion team](https://cppnow.org/about/staff/), email 
+  [security@cppnow.org](mailto:security@cppnow.org), or use 
+  [this online form](https://docs.google.com/forms/d/e/1FAIpQLSfX0VTBYrfWJDX4xf0MYI12fBdtz59eXoGTcMuo3rBx6G9njA/viewform).
 
 All reports and concerns are kept confidential. 
  

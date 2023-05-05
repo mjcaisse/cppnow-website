@@ -24,10 +24,11 @@ victim's request.
 
 **2. Inform the Safety and Inclusion team of the incident.**  Contact the 
 [Safety and Inclusion Team](https://cppnow.org/about/staff/) by emailing 
-[security@cppnow.org](mailto:security@cppnow.org), and informing them that 
-an incident has occurred.  If the incident materially involves someone on 
-that team, instead create a new email thread with the non-materially involved 
-members for discussion.
+[security@cppnow.org](mailto:security@cppnow.org), or by using
+[this online form](https://docs.google.com/forms/d/e/1FAIpQLSfX0VTBYrfWJDX4xf0MYI12fBdtz59eXoGTcMuo3rBx6G9njA/viewform),
+and inform them that an incident has occurred.  If the incident materially 
+involves someone on that team, instead create a new email thread with the 
+non-materially involved members for discussion.
 
 **3. Record what happened.** If possible, have the individual reporting the
 incident record the details electronically or on paper. Otherwise, transcribe
