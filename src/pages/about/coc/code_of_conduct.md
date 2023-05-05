@@ -67,8 +67,9 @@ Contact Information
 -------------------
 
 If you are being harassed, notice that someone else is being harassed, or have
-  any other concerns, please contact Bob Steagall (Conference Chair) and the security 
-  team by emailing [security@cppnow.org](mailto:security@cppnow.org).
+  any other concerns, please reach to any member of the 
+  [Safety and Inclusion team](https://cppnow.org/about/staff/) or email 
+  [security@cppnow.org](mailto:security@cppnow.org).
 
 All reports and concerns are kept confidential. 
  
@@ -86,7 +87,7 @@ Procedure for Incident Handling
 License
 -------
 
-This is version 1.0 of the C++Now Code of Conduct.
+This is version 1.1 of the C++Now Code of Conduct.
 It is licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0).
 It is a derivative of the [PyCon Code of Conduct](https://github.com/python/pycon-code-of-conduct)
   and the [Geek Feminism wiki](https://geekfeminism.wikia.com/wiki/Conference_anti-harassment).
