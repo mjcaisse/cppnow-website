@@ -39,7 +39,7 @@
             ]
         },
         {
-            "title": "2023 Gold Sponsors",
+            "title": "2023 Gold Sponsor",
             "level": "gold",
             "sponsors":
             [
@@ -92,7 +92,7 @@
             ]
         },
         {
-            "title": "2023 Bronze Sponsors",
+            "title": "2023 Bronze Sponsor",
             "level": "bronze",
             "sponsors":
             [
@@ -128,6 +128,21 @@
                     "blurb": "Maryland Research is honored to sponsor C++Now. We are dedicated to solving the most challenging problems in national security.  We leverage the power of C++ to build high-performance capabilities for our customers and are grateful to C++Now for their stewardship of the language and their contributions to  the community.",
                     "until": "2024-04-01",
                     "level": "bronze"
+                }
+            ]
+        },
+        {
+            "title": "2023 Student/Volunteer Sponsor",
+            "level": "student",
+            "sponsors":
+            [
+                {
+                    "title": "ASML",
+                    "link": "https://asml.com/en/",
+                    "image": "/assets/img/sponsors/asml-blue-2023.png",
+                    "blurb": "",
+                    "until": "2024-04-01",
+                    "level": "student"
                 }
             ]
         }

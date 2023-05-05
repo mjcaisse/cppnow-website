@@ -22,10 +22,12 @@ or law enforcement. Local law enforcement can be contacted by calling 911. If
 everyone is physically safe, involve law enforcement or security only at a
 victim's request. 
 
-**2. Inform the Security Team of the incident.** Contact the Conference
-Chair (Bob Steagall), and the conference Security Team by emailing 
-[security@cppnow.org](mailto:security@cppnow.org), and inform them that an
-incident has occurred. 
+**2. Inform the Safety and Inclusion team of the incident.**  Contact the 
+[Safety and Inclusion Team](https://cppnow.org/about/staff/) by emailing 
+[security@cppnow.org](mailto:security@cppnow.org), and informing them that 
+an incident has occurred.  If the incident materially involves someone on 
+that team, instead create a new email thread with the non-materially involved 
+members for discussion.
 
 **3. Record what happened.** If possible, have the individual reporting the
 incident record the details electronically or on paper. Otherwise, transcribe
@@ -40,79 +42,76 @@ The important information that should be recorded is:
 - The approximate time and location of the incident.
 - The circumstances surrounding the incident.
 
-**4. Report the details to the Security Team.** Provide the Conference
-Chair and the conference Security Team with a report describing the incident, 
-preferably by email. All reports are confidential.
+**4. Report the details to the Safety and Inclusion team.** Provide the 
+Safety and Inclusion team with a report describing the incident, preferably 
+by email. All reports are confidential.
 
-**5. Make an initial response to the incident.** Depending on the
+**5. Make an initial response to the incident.**  Depending on the 
 severity/details of the incident, please follow these guidelines:
 
-- Move the victim(s) and the reporter(s) of the incident away from the alleged
-    harasser.
+- Move the victim(s) and the reporter(s) of the incident away from the 
+alleged harasser.
 - Offer the victim(s) a private place to sit.
-- Ask them "Is there a friend or trusted person who you would like to have with
-    you?". If so, arrange for someone to fetch this person.
-- Ask them "How can I help?".
-- Provide them with the contact information for the conference staff if they
-    need help later.
-- Ask other conference staff who are nearby to assist you if needed. 
+- Ask them “Is there a friend or trusted person who you would like to have 
+with you?”.  If so, arrange for someone to fetch this person.
+- Ask them “How can I help?”.
+- Provide them with the contact information for the conference staff if they 
+need help later.
+- Ask other conference staff who are nearby to assist you if needed.
 
 There are also some guidelines as to what not to do as an initial response:
 
-- Do not take any major actions or decide any responses that the conference
-    should make.  The Conference Chair will decide on an appropriate response.
-- Do not ask for their advice on how to deal with the complaint. This is the
-    responsibility of the Conference Chair.
+- Do not take any major actions or decide any responses that the conference 
+should make. The Safety and Inclusion team will decide on an appropriate response.
+- Do not ask for their advice on how to deal with the complaint. This is the 
+responsibility of the Safety and Inclusion team.
 - Do not offer them input into penalties. This is the responsibility of the 
-    Conference Chair.
-- Do not overtly invite them to withdraw the complaint or mention that
-    withdrawal is OK. This suggests that you want them to do so, and is
-    therefore coercive. "If you're OK with it [pursuing the complaint]"
-    suggests that you are by default pursuing it and is not coercive.
+Safety and Inclusion team  .
+- Do not overtly invite them to withdraw the complaint or mention that withdrawal 
+is OK.  This suggests that you want them to do so, and is therefore coercive. 
+“If you’re OK with it (pursuing the complaint)” suggests that you are by default 
+pursuing it and is not coercive.
 
-**6. Contact the alleged harasser(s).** A conference staff member (preferably
-the Conference Chair or a member of the conference Security Team) should 
-communicate with the alleged harasser(s). The alleged harasser(s) should 
-be informed of what has been reported about them.  Allow the alleged harasser 
-to provide their side of the story and record it as per step 3.
+**6. Contact the alleged harasser(s).** A member of the Safety and Inclusion 
+Team should communicate with the alleged harasser(s). The alleged harasser(s) 
+should be informed of what has been reported about them.  Allow the alleged 
+harasser to provide their side of the story and record it as per step 3.
 
-**7. Meet with Security Team to decide a response.** Meet with the Conference 
-Chair and the conference Security Team. The main objectives of this meeting 
-is to determine:
+**7. Meet with Safety and Inclusion team to decide a response.**  Meet with 
+the Safety and Inclusion Team. The main objectives of this meeting is to 
+determine:
 
 - What happened?
 - Are we doing anything about it?
 - Who is doing those things?
 - When are they doing them?
 
-The Conference Chair will decide how the conference responds, but all 
-conference staff who are involved should be at the meeting to ensure that 
-the Conference Chair has all the information needed.
+The Safety and Inclusion team will decide how the conference responds, but 
+all conference staff who are involved should be at the meeting to ensure 
+that the Safety and Inclusion Team has all the information needed.
 
 Actions to take when dealing with Code of Conduct offenders include:
 
-- Warning the alleged harasser(s) to cease their behavior and that any further
-    reports will result in sanctions
-- Requiring that the alleged harasser(s) avoid any interaction with, and
-    physical proximity to, their victim(s) for the remainder of the event
+- Warning the alleged harasser(s) to cease their behavior and that any 
+further reports will result in sanctions
+- Requiring that the alleged harasser(s) avoid any interaction with, and 
+physical proximity to, their victim(s) for the remainder of the event
 - Ending a talk that violates the policy early.
 - Not publishing the video or slides of a talk that violates the policy.
-- Not allowing a speaker who violated the policy to give further talks at the
-    event now or in the future.
-- Immediately ending any conference staff responsibilities and privileges the
-    alleged harasser holds.
+- Not allowing a speaker who violated the policy to give further talks at the 
+event now or in the future.
+- Immediately ending any conference staff responsibilities and privileges the 
+alleged harasser holds.
 - Requiring that the alleged harasser immediately leave the event and not return.
-- Banning the alleged harasser from future events (either indefinitely or for a
-    certain time period).
+- Banning the alleged harasser from future events (either indefinitely or for 
+a certain time period).
 
-Keep in mind that it is not a good idea to encourage an apology from the
-harasser.
+Keep in mind that it is not a good idea to encourage an apology from the harasser.
 
-**8. Inform accused individual(s) of any actions that will be taken.**  A
-conference staff member (preferably the Conference Chair or the conference 
-Security Team) should communicate with the alleged harasser(s). Let the accused 
-individual(s) know if there is a forum for them to appeal the decision, but 
-that the decision will stand in the meantime.
+**8. Inform accused individual(s) of any actions that will be taken.**  A 
+member of the Safety and Inclusion Team should communicate with the alleged 
+harasser(s). Let the accused individual(s) know if there is a forum for them 
+to appeal the decision, but that the decision will stand in the meantime.
 
 **9. Inform those aware of the initial incident that it has been handled.** 
 Make sure that everyone aware of the initial incident is also made aware that
@@ -124,8 +123,8 @@ If some attendees were angered by the incident, it is best to apologize to them
 that the incident occurred to begin with. If there are residual hard feelings,
 suggest that they write an email to [security@cppnow.org](mailto:security@cppnow.org). 
 
-**10. The Code of Conduct team will make an announcement if necessary.**
-The Conference Chair may decide to make a public announcement about the incident. 
-If an announcement is made, the privacy of individual attendees should be respected. 
-Personal information and details of the incident should not be shared unless it is 
-necessary.
+**10. The Safety and Inclusion team will make an announcement if necessary.** 
+The Safety and Inclusion team may decide to make a public announcement about 
+the incident. If an announcement is made, the privacy of individual attendees 
+should be respected. Personal information and details of the incident should 
+not be shared unless it is necessary.
