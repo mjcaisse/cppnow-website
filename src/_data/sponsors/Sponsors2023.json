@@ -73,9 +73,9 @@
                 {
                     "title": "ForAllSecure",
                     "link": "https://forallsecure.com/",
-                    "image": "/assets/img/sponsors/forallsecure-2023.png",
-                    "blurb": "ForAllSecure's mission is to automatically test the world's software for exploitable bugs. The company has been applying its patented technology from over a decade of CMU research to solving the difficult challenge of making software safer. ForAllSecure has partnered with Fortune 1000 companies in aerospace, automotive and high-tech industries, as well as the US Department of Defense to integrate Mayhem into software development cycles for continuous security. Profitable and revenue-funded, the company is scaling rapidly.<br><br><br>",
-                    "until": "2023-04-01",
+                    "image": "/assets/img/sponsors/forallsecure-red-2023.svg",
+                    "blurb": "ForAllSecure are the makers of Mayhem, a developer-first security testing solution. Built by professional hackers, it automatically generates thousands of tests to identify defects in your apps and APIs.  Self-learning algorithms continually expand test coverage, and automated triage and reproduction ensures every result is actionable — resulting in more risks identified, more defects fixed, and more secure features shipped on time.<br><br><br>",
+                    "until": "2024-04-01",
                     "level": "silver"
                 },
                 {
