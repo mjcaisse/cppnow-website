@@ -108,7 +108,7 @@ online_link_for_Meadows_reservation: "https://book.passkey.com/e/50398357/"
 
 
 ## "will", "is", "was": becomes "was" when  the conference is over
-registration: "is"
+registration: "was"
 refunds_are_free: true
 refund_fee: "$30"
 refund_deadline: "April 5th" # 30 days prior to conference start, except for 2021, due to virus
