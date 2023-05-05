@@ -38,6 +38,8 @@
         var t_diff = b_time - a_time;
         var d_diff = Math.floor(t_diff/8.64e7);
 
+        d_diff = d_diff + 1;
+
         return d_diff;
     }
 
