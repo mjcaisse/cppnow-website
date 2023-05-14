@@ -89,7 +89,7 @@ first_session_day_of_week: "Monday"
 ## For items that are only two phase, we use Boolean values (false and true)
 
 ## becomes true on the last day of the conference
-over: false
+over: true
 
 ## Note that we "flip" the conference (set the current_year, etc,) when we make the
 ##  first post about the new conference.
@@ -137,7 +137,7 @@ sched_com_URL: "https://schedule.cppnow.org/23/"
 ## sched_com_embed_URL: "https://cppnow2022.sched.org/js/embed.js"
 
 ## previous_years_schedule: "[C++Now 2021 Schedule](/history/2021/schedule/)"
-previous_years_schedule: "[C++Now 2022 Schedule](https://cppnow.digital-medium.co.uk/2022-schedule/)"
+previous_years_schedule: "[C++Now 2023 Schedule](https://schedule.cppnow.org/23/)"
 
 #### Promo Video
 show_promo_video: true

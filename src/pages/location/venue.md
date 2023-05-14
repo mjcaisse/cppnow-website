@@ -27,19 +27,14 @@ The main venue for this conference will be the [Aspen Center for Physics](https:
 Weather permitting, all breaks will be in the Stranahan Patio just south of the volleyball court. If weather does not permit, breaks will be in the Stranahan Lobby.
 
 
-
 ### WiFi
 
 The campus has wireless.
 
-**Login:** acp*<br>
-**Password:** highlands
-
-
 
 ### Restrooms
 
-There are several stalls downstairs in Paepcke Auditorium. Please use this restroom as a first choice, if possible. At the Physics Center there is one restroom in Bethe, two at the east end of Stranahan, two in Flug Forum, and two in Smart Lobby.
+There are restrooms downstairs in Paepcke Auditorium.  At the Physics Center there is one restroom in Bethe, two at the east end of Stranahan, two in Flug Forum, and two in Smart Lobby.
 
 
 
