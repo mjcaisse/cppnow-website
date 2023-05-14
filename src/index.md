@@ -21,6 +21,8 @@ The C++Now community has grown out of the Boost community and is focused on push
     <div id="countdown" data-start-date="{{site.current_year_start_date_formatted}}" data-end-date="{{site.current_year_end_date_formatted}}"></div>
 </div>
 
+{% if site.over == "false" %}
+
 {% if site.schedule_online %}
 
 ## <span style="color:red;">Lodging Update</span>
@@ -77,7 +79,6 @@ The 2023 <a href="{{site.last_cfs}}">Call for Submissions</a> is now open!
 <br>
 <br>
 {% endif %}
-
 
 <div class="homeBoxes">
 {% if site.B0_show %}
@@ -291,6 +292,9 @@ C++Now is over for {{site.current_year}}. Please visit again or keep an eye on t
 Rooms are still available at <a href="/location/lodging/" class="a">the Aspen Meadows Resort</a>.
 {% else %}
 {% endif %}
+
+{% endif %}
+
 
 ## Sponsor
 

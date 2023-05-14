@@ -7,6 +7,11 @@ section: history
 
 After each year's convention, C++Now archives the important content: session schedules, videos of talks, sponsors for the year, and attendee information.
 
+* **[C++Now 2023](/history/2023/)**
+    * Keynotes:
+        * Fill in the blank: _________ for C++ (herb Sutter)
+        * Carbon’s Successor Strategy: From C++ interop to memory safety (Chandler Carruth)
+        * Safety & Security: the future of C++ (JF Bastien)
 * **[C++Now 2022](/history/2022/)**
     * Keynotes:
         * A Future of Value Semantics and Generic Programming (Dave Abrahams)
