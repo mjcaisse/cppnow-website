@@ -67,19 +67,19 @@ gems:
   - jekyll-redirect-from
 
 # Year Data Config
-current_year: 2023
-current_dates_formated: "May 7-12, 2023"
-current_year_start_date: "May 7, 2023"
-current_year_end_date: "May 12, 2023"
-current_year_start_date_formatted: "2023-05-07"
-current_year_end_date_formatted: "2023-05-12"
+current_year: 2024
+current_dates_formated: "April 29 - May 3, 2024"
+current_year_start_date: "April 29, 2024"
+current_year_end_date: "May 3, 2024"
+current_year_start_date_formatted: "2024-04-29"
+current_year_end_date_formatted: "2024-05-03"
 
 current_year_canceled: false
 current_year_online: false
 current_location: "Aspen, Colorado"
 current_where: "in Aspen"
 
-registration_time: "15:00 on Sunday, May 7th"
+registration_time: "15:00 on Sunday, April 28th"
 registration_day_of_week: "Sunday"
 first_session_day_of_week: "Monday"
 
@@ -123,8 +123,8 @@ boost_bus_reg_URL: "https://na.eventscloud.com/738901"
 
 volunteer_applications: "was"
 volunteer_chair: "Kevin Carpenter"
-deadline_for_volunteers: "February 20th, 2023"      # 10 weeks prior to start of conference
-notification_for_volunteers: "February 27th, 2023"  # 9 weeks prior to start of conference
+deadline_for_volunteers: "February 20th, 2024"      # 10 weeks prior to start of conference
+notification_for_volunteers: "February 27th, 2024"  # 9 weeks prior to start of conference
 volunteer_form_URL: https://docs.google.com/forms/d/e/1FAIpQLScZmiPfReh0ZqvX9ydM_-uPPvCH0nrbL-qcImcdzFGIZb9aOQ/viewform
 
 ## "will", "is", "was": becomes "was" when  the conference is over
