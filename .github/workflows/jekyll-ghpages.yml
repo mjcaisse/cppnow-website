@@ -1,5 +1,4 @@
 name: GH Pages Deploy
-
 on:
   push:
     branches: main
@@ -12,9 +11,8 @@ on:
       - README.md
 
 jobs:
-  build-deploy:
+  build:
     name: Build and deploy
-
     runs-on: ubuntu-latest
 
     steps:
@@ -24,16 +22,35 @@ jobs:
       - name: Set up Ruby 💎
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3'
+          ruby-version: '2.5.1'
           bundler-cache: true
 
       - name: Build 🏗
         run: bundle exec jekyll build --trace
 
+      - name: Setup github pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifacts
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_temp/jekyll
+
+  deploy:
+    needs: [build]
+    name: Deploy Site
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+
+    steps:
       - name: Deploy to GH Pages 🚀
         if: ${{ github.event_name != 'pull_request' }}
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: _site
+        id: deployment
+        uses: actions/deploy-pages@v4
 
